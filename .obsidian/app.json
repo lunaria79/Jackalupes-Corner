@@ -10,5 +10,6 @@
   "attachmentFolderPath": "00 _resources",
   "newFileLocation": "current",
   "showLineNumber": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
