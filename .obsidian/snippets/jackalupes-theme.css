@@ -86,7 +86,7 @@ div.markdown-reading-view {
 .cm-contentContainer {
 	background-color: rgb(28, 28, 44, 1);
 	padding: 25px;
-	width: 130%;
+	width: 125%;
 	transform: translateX(-10%);
 }
 
