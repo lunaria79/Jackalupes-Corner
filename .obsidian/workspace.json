@@ -33,9 +33,11 @@
             "id": "85cc54a7263cc53a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "themes/draculabase.png"
+                "file": "themes/meow7.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/draculabase.png",
+                "file": "themes/meow7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "themes/draculabase.png",
+                "file": "themes/meow7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "themes/draculabase.png"
+                "file": "themes/meow7.md"
               }
             }
           },
@@ -191,10 +193,10 @@
   },
   "active": "85cc54a7263cc53a",
   "lastOpenFiles": [
+    "themes/draculabase.png",
     "themes/Crimson City - hereisbis twit.jpg",
     "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
-    "themes/draculabase.png",
-    "themes/meow.md",
+    "themes/meow7.md",
     "Minecraft Summon Items.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/Mary Jane.md",
