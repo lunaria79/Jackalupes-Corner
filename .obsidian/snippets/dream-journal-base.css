@@ -4,7 +4,7 @@
 
 /* ---------------------------------------- Background ---------------------------------------- */
 .dream-journal-base {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/kiki-farmhouse.jpg?token=GHSAT0AAAAAACTLK7PPDNJWH2HQQX3U2OR6ZTN3R2A") center center / cover no-repeat;
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/kiki-farmhouse.jpg?token=GHSAT0AAAAAACTLK7PPFN7VN5MDDGGVYBWMZTODLCQ") center center / cover no-repeat;
 	background-blend-mode: darken;
 	background-color: rgb(var(--primary-color), .1);
 }

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md",
                 "mode": "preview",
                 "source": true
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md"
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md"
               }
             }
           },
@@ -181,10 +182,13 @@
   },
   "active": "bcc9bd61a5131dc7",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+    "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
-    "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
-    "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Mary Jane.md",
+    "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
+    "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Stage Files/themes.md",
@@ -198,8 +202,6 @@
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "Untitled.canvas",
-    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/June/white-noise2.png",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/June/bouquet.png",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/Main Page/wreath.png",
@@ -207,7 +209,6 @@
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/Main Page/stamp.png",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/Main Page/secret garden.png",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "00 _resources/themes/kiki-farmhouse.jpg",
     "00 _resources/themes/Crimson City - hereisbis twit.jpg",
