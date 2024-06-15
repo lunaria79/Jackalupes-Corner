@@ -184,9 +184,9 @@ div.html-tab:hover {
 /* ------------------------------------------ Page Specific ------------------------------------------ */
 /* ----- Death + Desire ----- */
 .death-and-desire {
-	background: url('https://github.com/lunaria79/Jackalupes-Corner/blob/main/00%20_resources/themes/kiki-farmhouse.jpg') center center / cover no-repeat;
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg?token=GHSAT0AAAAAACTLK7PPRVJGTK5DZRW756W6ZTN3Q2Q") center center / cover no-repeat;
 	background-blend-mode: darken;
-	background-color: rgb(var(--primary-color), 1);
+	background-color: rgb(var(--primary-color), .11);
 }
 
 .death-and-desire * {
