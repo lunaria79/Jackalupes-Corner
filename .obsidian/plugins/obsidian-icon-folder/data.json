@@ -33,11 +33,7 @@
   },
   "Minecraft Summon Items.md": "FasFileCode",
   "00 _resources": "FasFolderOpen",
-  "00 _resources/themes": "FasFolderTree",
-  "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg": "FasFileImage",
   "00 _resources/Templates/Dream Journal Template.md": "FasFileCode",
-  "00 _resources/themes/draculabase.png": "FasFileImage",
-  "00 _resources/themes/kiki-farmhouse.jpg": "FasFileImage",
   "01 Dream Journal": "FasFolderOpen",
   "01 Dream Journal/Dreams": "FasFolderTree",
   "01 Dream Journal/Dream Journal Home Page.md": "FasHouse",
@@ -98,7 +94,6 @@
   "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters": "FasFolderTree",
   "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md": "FasFilePen",
   "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md": "FasFilePen",
-  "00 _resources/themes/Crimson City - hereisbis twit.jpg": "FasFileImage",
   "00 _resources/Templates": "FasFolderTree",
   "00 _resources/Images": "FasFolderTree",
   "01 Dream Journal/Dreams/04 Nothing Left to Say": {
@@ -107,7 +102,6 @@
   },
   "01 Dream Journal/Dreams/04 Nothing Left to Say/Images": "FasFolderTree",
   "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md": "FasFilePen",
-  "00 _resources/themes/sleeping-deer.jpg": "FasFileImage",
   "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/peppe notes.md": "FasNoteSticky",
   "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/00 Images/Liu Fènghuáng.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian": {
@@ -125,5 +119,11 @@
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/atlantis 3.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 1.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 2.png": "FasFileImage",
-  "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 3.png": "FasFileImage"
+  "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 3.png": "FasFileImage",
+  "themes": "FasFolderTree",
+  "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg": "FasFileImage",
+  "themes/Crimson City - hereisbis twit.jpg": "FasFileImage",
+  "themes/draculabase.png": "FasFileImage",
+  "themes/kiki-farmhouse.jpg": "FasFileImage",
+  "themes/sleeping-deer.jpg": "FasFileImage"
 }
