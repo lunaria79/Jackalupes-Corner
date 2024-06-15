@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 _resources/themes/Untitled.md",
+                "file": "00 _resources/themes/meow.md",
                 "mode": "source",
                 "source": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 _resources/themes/Untitled.md",
+                "file": "00 _resources/themes/meow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 _resources/themes/Untitled.md",
+                "file": "00 _resources/themes/meow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 _resources/themes/Untitled.md"
+                "file": "00 _resources/themes/meow.md"
               }
             }
           },
@@ -191,10 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6599ad2015552ad3",
+  "active": "85cc54a7263cc53a",
   "lastOpenFiles": [
     "Minecraft Summon Items.md",
-    "00 _resources/themes/Untitled.md",
+    "00 _resources/themes/meow.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/Mary Jane.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
