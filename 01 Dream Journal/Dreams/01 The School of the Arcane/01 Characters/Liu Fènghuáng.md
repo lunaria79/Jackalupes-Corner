@@ -84,7 +84,7 @@ Completed: false
 				</div>
 				<div class="callout-title-inner"> Description </div>
 			</div>
-			<img alt="Peppe Stare" src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\01 The School of the Arcane\01 Characters\00 Images\Liu Fènghuáng.png">
+			<img alt="Peppe Stare" src="C:\Users\regin\OneDrive\Jackalupes Corner\01 Dream Journal\Dreams\01 The School of the Arcane\01 Characters\00 Images\Liu Fènghuáng.png">
 			<h3> Pronouns </h3>
 			<p>He/Him</p>
 			<h3> Age </h3>
