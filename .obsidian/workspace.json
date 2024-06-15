@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "file": "themes/meow7.md",
                 "mode": "preview",
                 "source": true
               }
@@ -57,8 +57,12 @@
             "id": "df3e4548e60830be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -128,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md"
+              }
             }
           },
           {
@@ -198,7 +206,10 @@
   "active": "df3e4548e60830be",
   "lastOpenFiles": [
     "themes/meow7.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "themes/draculabase.png",
+    "themes/kiki-farmhouse.jpg",
     "themes/Crimson City - hereisbis twit.jpg",
     "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
     "Minecraft Summon Items.md",
@@ -208,9 +219,7 @@
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/June/bouquet.png",
     "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
-    "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/ZIALONA Home Page.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
@@ -229,7 +238,6 @@
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "Untitled.canvas",
-    "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/June/white-noise2.png",
     "meow meow mepw.md",
     "obsidian_sync",
     "github_sync",
