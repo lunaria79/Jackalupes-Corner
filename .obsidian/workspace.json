@@ -33,28 +33,14 @@
             "id": "dd0e3c53081ac7f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Minecraft Summon Items.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "00334bfbbfcd15ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meow meow mepw.md",
-                "mode": "source",
-                "source": true
+                "file": "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meow meow mepw.md",
+                "file": "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meow meow mepw.md",
+                "file": "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meow meow mepw.md"
+                "file": "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg"
               }
             }
           },
@@ -191,8 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00334bfbbfcd15ae",
+  "active": "dd0e3c53081ac7f6",
   "lastOpenFiles": [
+    "00 _resources/themes/draculabase.png",
+    "00 _resources/Images/68333e90938c5c9f10b0d1c067a9f804.jpg",
+    "00 _resources/Images/38f7f702c22bc616b549c21cd9d4090e.jpg",
     "meow meow mepw.md",
     "obsidian_sync",
     "github_sync",
@@ -223,14 +212,12 @@
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
     "00 _resources/themes/Crimson City - hereisbis twit.jpg",
-    "00 _resources/themes/draculabase.png",
     "00 _resources/themes/kiki-farmhouse.jpg",
     "00 _resources/themes/sleeping-deer.jpg",
     "Minecraft Summon Items.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Images",
     "01 Dream Journal/Dreams/04 Nothing Left to Say",
-    "00 _resources/Images/38f7f702c22bc616b549c21cd9d4090e.jpg",
     "00 _resources/Images",
     "00 _resources/Images/800319ec2aa3a52537dea48d2d874257.jpg",
     "00 _resources/Images/533416691e9cd763e340a7c682fa6668.jpg",
