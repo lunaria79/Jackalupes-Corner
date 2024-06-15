@@ -40,9 +40,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "00334bfbbfcd15ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meow meow mepw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "meow meow mepw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "meow meow mepw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Summon Items.md"
+                "file": "meow meow mepw.md"
               }
             }
           },
@@ -179,8 +191,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6599ad2015552ad3",
+  "active": "00334bfbbfcd15ae",
   "lastOpenFiles": [
+    "meow meow mepw.md",
     "obsidian_sync",
     "github_sync",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
@@ -221,12 +234,10 @@
     "00 _resources/Images",
     "00 _resources/Images/800319ec2aa3a52537dea48d2d874257.jpg",
     "00 _resources/Images/533416691e9cd763e340a7c682fa6668.jpg",
-    "Untitled.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/00 Images",
     "01 Dream Journal/Dreams/01 The School of the Arcane/03 Species",
     "01 Dream Journal/Dreams/01 The School of the Arcane/02 Locations",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/00 Images",
     "01 Dream Journal/Dreams/The Secret Garden/june.md",
     "Untitled 1.canvas"
   ]
