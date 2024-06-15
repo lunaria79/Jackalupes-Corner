@@ -131,7 +131,7 @@ Completed: false
 								</div>
 								<div class="callout-title-inner"> Species Overview: Kai Folk</div>
 							</div>
-							<img alt="Kai Folk" src="C:\Users\regin\OneDrive\Jackalupes Corner\01 Dream Journal\Dreams\01 The School of the Arcane\00 Images\Kai Folk.jpg">
+							<img alt="Kai Folk" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Kai%20Folk.jpg?token=GHSAT0AAAAAACTLK7PP77MWNNS7T46SF3BAZTN4IJQ">
 							<p>The Kai Folk are the forest creatures that are tasked with maintaining the beauty of the flora around and in [INSERT SCHOOL NAME HERE] in exchange for protection and food. In legends, it is written that their ancestors were prehistoric birds that drank from the Aether Sea.</p>
 						</div>
 					</div>
