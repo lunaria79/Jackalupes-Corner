@@ -10,13 +10,13 @@ Home:
 ---
 <div class="june-moodboard">
 	<div class="image-1"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/03%20The%20Secret%20Garden/00%20Images/June/hammock.jpg?token=GHSAT0AAAAAACTLK7POXUFWDE4RP3M3F3XUZTODIOQ"></div>  
-	<div class="image-2"><img src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\03 The Secret Garden\00 Images\June\sunflower field.jpg"></div>
+	<div class="image-2"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/03%20The%20Secret%20Garden/00%20Images/June/sunflower%20field.jpg?token=GHSAT0AAAAAACTLK7PP3DLA4L2GX52TM4U4ZTODIRQ"></div>
 	<div class="moodboard-box box-1"></div>
 	<div class="moodboard-box box-2"></div>
 	<div class="moodboard-box box-3"></div>
 	<div class="moodboard-box box-4"></div>
-	<div class="image-3"><img src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\03 The Secret Garden\00 Images\June\picnic.jpg"></div>
-	<div class="image-4"><img src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\03 The Secret Garden\00 Images\June\flower fence.jpg"></div>
+	<div class="image-3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/03%20The%20Secret%20Garden/00%20Images/June/picnic.jpg?token=GHSAT0AAAAAACTLK7PPG65DHP6NE7WE4L22ZTODIUA"></div>
+	<div class="image-4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/03%20The%20Secret%20Garden/00%20Images/June/flower%20fence.jpg?token=GHSAT0AAAAAACTLK7PORRQZI2LQ53TIAYX4ZTODJPQ"></div>
 	<div class="image-5"><img src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\03 The Secret Garden\00 Images\June\june.png"></div>
 	<div class="june-links">
 		<div class="nav-item"><a href="Dream Journal Home Page" class="internal-link" >Home</a></div>
