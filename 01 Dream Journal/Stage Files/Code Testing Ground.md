@@ -9,7 +9,7 @@ Home:
   - "[[𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛]]"
 ---
 <div class="june-moodboard">
-	<div class="image-1"><img src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\03 The Secret Garden\00 Images\June\hammock.jpg"></div>  
+	<div class="image-1"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/03%20The%20Secret%20Garden/00%20Images/June/hammock.jpg?token=GHSAT0AAAAAACTLK7POXUFWDE4RP3M3F3XUZTODIOQ"></div>  
 	<div class="image-2"><img src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\03 The Secret Garden\00 Images\June\sunflower field.jpg"></div>
 	<div class="moodboard-box box-1"></div>
 	<div class="moodboard-box box-2"></div>
