@@ -9,5 +9,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "00 _resources",
   "newFileLocation": "current",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newLinkFormat": "relative"
 }
