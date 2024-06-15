@@ -1,0 +1,13 @@
+{
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "showInlineTitle": true,
+  "rightToLeft": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "00 _resources",
+  "newFileLocation": "current",
+  "showLineNumber": true
+}

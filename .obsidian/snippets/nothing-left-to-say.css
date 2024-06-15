@@ -1,0 +1,76 @@
+.nothing-left-to-say * {
+	--background-color: 18, 14, 11;
+	--primary-color: 143 , 134, 117;
+
+	--yellow-tint: 153, 149, 107;
+	--green-tint: 81, 88, 70;
+	--blue-tint: 62, 74, 77;
+
+	--text: 199, 195, 186;
+
+	font-family: "Rokkitt", serif;
+}
+
+.nothing-left-to-say {
+	background: url("https://i.imgur.com/61RsEGr.jpeg") center center / cover no-repeat;
+	background-size: 100%;
+}
+
+.nothing-left-to-say * {
+	font-family: "Barlow", sans-serif;
+}
+
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
+.nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+	color: rgb(var(--text));
+}
+
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+	color: rgb(var(--green-tint));
+}
+
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg{
+	background-color: rgb(var(--text));
+	color: rgb(var(--green-tint));
+	font-weight: 700;
+}
+
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg  {
+	background-color: rgb(var(--green-tint));
+	color: rgb(var(--text));
+	font-weight: 700;
+}
+
+.nothing-left-to-say h4 {
+	color: rgb(var(--yellow-tint)) !important;
+}
+
+.markdown-preview-view.nothing-left-to-say div.inline-title {
+	color: rgb(var(--text)) !important;
+}
+
+.nothing-left-to-say .char-note div.callout-title {
+	color: rgb(var(--blue-tint)) !important;
+}
+
+.nothing-left-to-say .def-note div.callout-title {
+	color: rgb(var(--blue-tint)) !important;
+}
+
+.nothing-left-to-say img {
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}

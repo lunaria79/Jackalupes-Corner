@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+/* <weight>: Use a value from 400 to 0700 */
+
+/* ----------------------- Page Setup ----------------------- */
+.code {
+  font-family: "Dosis", sans-serif;
+}
+
+/* ----------------------- Background ----------------------- */
+.code {
+  background-color: transparent;
+  background-image: url('');
+  background-size: cover;
+}
+
+div.markdown-source-view.code.is-live-preview {
+  background-image: none;
+}
+
+/* div.markdown-reading-view > div.markdown-preview-view.code > div {
+    background-color: transparent;
+    backdrop-filter: blur(4px);
+    padding: 20px;
+    max-width: 65%;
+  }
+
+/* ----------------------- Properties ----------------------- */
+/* ----------------------- Headings ----------------------- */
+.code span.cm-header-1,
+.code h1 {
+  color: rgb(var(--primary-color));
+  margin-top: 5px;
+  margin-block-end: 0;
+  padding: 5px 25px !important;
+  width: fit-content;
+
+  background-color: rgb(var(--background-color));
+  border-radius: var(--small-radius);
+}
+
+.code span.cm-header-2,
+.code h2 {
+  color: rgb(var(--secondary-color));
+  margin-top: 5px;
+  margin-block-end: 0;
+  padding: 2px 25px !important;
+
+  background-color: rgb(var(--background-color));
+  border-radius: var(--medium-radius);
+}
+
+/* ----------------------- Code Blocks ----------------------- */
+.code span.cm-header-6,
+.code h6 {
+  margin-top: 5px;
+  margin-block-end: 0;
+  padding: 5px 25px !important;
+
+  font-family: "Ubuntu Sans Mono", monospace;
+  color: rgb(var(--accent-color));
+  background-color: rgb(var(--background-color));
+  border-radius: var(--medium-radius) var(--medium-radius) 0 0;
+}
+
+.markdown-rendered.code pre[class*="language-"],
+.markdown-rendered.code pre {
+  margin-top: 0;
+  margin-bottom: -5px;
+  background: rgb(var(--background-color), .9);
+  border-radius: 0 0 var(--medium-radius) var(--medium-radius);
+}
+
+div.markdown-preview-view.code > div > div > pre > code {
+  color: var(--text) !important;
+}
+
+.markdown-rendered.code div:has( > :is(p,pre,table,ul,ol)) + div > :is(h1,h2,h3,h4,h5,h6) {
+  margin-top: 15px;
+}
+
+.code .cm-line.HyperMD-codeblock {
+  color: var(--text);
+  font-family: "Ubuntu Sans Mono", monospace;
+}
+
+.code .cm-line.HyperMD-codeblock-begin {
+  border-radius: 0 var(--small-radius) 0 0 !important;
+}
+
+.code .cm-line.HyperMD-codeblock-end {
+  border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
+}

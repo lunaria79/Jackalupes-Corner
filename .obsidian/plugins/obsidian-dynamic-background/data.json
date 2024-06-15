@@ -1,0 +1,7 @@
+{
+  "dynamicEffect": 1,
+  "digitalRainBrightness": 0.7,
+  "enableDynamicEffect": true,
+  "backgroundImageFile": "00 _resources/themes/draculabase.png",
+  "blur": 2
+}

@@ -1,0 +1,17 @@
+{
+  "accentColor": "#b94ce1",
+  "cssTheme": "Royal Velvet",
+  "enabledCssSnippets": [
+    "columns",
+    "dream-journal",
+    "crt",
+    "jackalupes-theme",
+    "secret-garden",
+    "arcane-school",
+    "code",
+    "dream-journal-base",
+    "gods-and-fiends",
+    "nothing-left-to-say"
+  ],
+  "showViewHeader": true
+}

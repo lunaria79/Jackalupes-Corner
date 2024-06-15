@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* ----------------------- Background ----------------------- */
+.app-container .arcane-school * {
+	--background-color: 255, 255, 255;
+	--primary-color: 0, 0, 0;
+
+	--red-tint: 185, 51, 73;
+	--blue-tint: 96, 159, 230;
+	--purple-tint: 229, 36, 142;
+
+	--text: 0, 0, 0;
+	
+	--medium-radius: 0;
+}
+
+.arcane-school.markdown-preview-view {
+	background: rgba(255, 255, 255, 1);
+}
+
+.arcane-school * {
+	font-family: "Aleo", serif !important;
+}
+
+div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
+	backdrop-filter: blur(0px);
+	padding: 20px;
+	max-width: 75% !important;
+}
+
+/* ----------------------- Color + Font Changes Changes ----------------------- */
+.arcane-school.markdown-preview-view div.inline-title {
+	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+}
+
+.arcane-school ::selection {
+  color: rgb(var(--background-color));
+  background: rgb(var(--primary-color));
+}
+
+/* ------ Properties ----- */
+.arcane-school div.metadata-container {
+    box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+}
+
+.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill,
+.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
+	color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color));
+}
+
+.arcane-school .metadata-container svg,
+.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+.arcane-school .metadata-property-key-input {
+	color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+}
+
+.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
+    color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color)) !important;
+	border-radius: 0;
+    cursor: pointer !important;
+}
+
+.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
+	background: black !important;
+	border-radius: 0;
+	border-color: transparent;
+}
+
+.arcane-school input[type=checkbox]:checked:after {
+    -webkit-mask-image: none;
+}
+
+/* ------ Navigation Bar ----- */
+.arcane-school div.html-tabs {
+    color: rgb(var(--primary-color));
+    background-color: rgb(var(--background-color), .8);
+    box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+}
+
+.arcane-school div.html-tabs p {
+    font-weight: 700;
+}
+
+/* ------ Information Grid ----- */
+.arcane-school .box {
+    color: rgb(var(--primary-color));
+    background-color: rgb(var(--background-color), 1);
+    box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+}
+
+.arcane-school .wrapper.interview-articles {
+	grid-template-columns: 1.5fr 1fr;
+}
+
+.arcane-school .wrapper .box {
+	cursor: pointer;
+}
+
+/* ------ Article Links ----- */
+.arcane-school a.internal-link {
+	-webkit-text-fill-color: rgb(var(--primary-color)) !important;
+	text-decoration: none !important;
+}
+
+
+.arcane-school a.internal-link:hover div.callout-title-inner {
+	-webkit-text-fill-color: rgb(var(--background-color));
+	background: rgb(var(--primary-color));
+	padding: 0 5px;
+}
+
+/* ------ Description Panel ----- */
+.arcane-school .description-tile img {
+	width: 80%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.arcane-school .description-tile h3 {
+	font-weight: 700;
+	font-size: 14px !important;
+}
+
+.arcane-school .description-tile p {
+	font-weight: 400;
+	font-size: 16px !important;
+}
+
+.arcane-school .reporter {
+	margin-top: 10px !important;
+	margin-bottom: 0px;
+	font-weight: 600;
+}
+
+.arcane-school .reporter::before {
+	content: 'Reporter: ';
+	font-weight: 800;
+}
+
+.arcane-school p {
+	margin-top: 5px !important;
+	text-align: justify;
+}
+
+.arcane-school i {
+	font-weight: 550 !important;
+	color: rgb(var(--primary-color)) !important;
+}
+
+/* ------ Author's Note ----- */
+.arcane-school .author-note.box {
+	color: rgb(var(--background-color)) !important;
+	background: rgb(var(--primary-color)) !important;
+}
+
+.arcane-school .author-note.box p {
+	color: rgb(var(--background-color)) !important;
+	margin-bottom: 10px !important;
+}

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "1e09433d1440e749",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c65590522731e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e58ca9bb48beca4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "bcc9bd61a5131dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dd0e3c53081ac7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Summon Items.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57bfeccade7376bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e7f3fa6c269701f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6599ad2015552ad3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1edfd64454eb4b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e003f7c50fb8c67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.00418853759766
+  },
+  "right": {
+    "id": "8050956e70062b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a0621a57d3792f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da93aa5d8eb58094",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Minecraft Summon Items.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42153e96edecf9c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Minecraft Summon Items.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5fff391f615b0b76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e1da1d653496d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Minecraft Summon Items.md"
+              }
+            }
+          },
+          {
+            "id": "da5fd03390f3dfdc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6599ad2015552ad3",
+  "lastOpenFiles": [
+    "obsidian_sync",
+    "github_sync",
+    "01 Dream Journal/Stage Files/Code Testing Ground.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/June.mdp",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/June/hammock.jpg",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/05 Fantasy Steampunk/Undersea Gallery.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/00 Images/Liu Fènghuáng.png",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/peppe notes.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "Untitled.canvas",
+    "01 Dream Journal/Stage Files/themes.md",
+    "00 _resources/Templates/Dream Journal Template.md",
+    "01 Dream Journal/Stage Files/icons.md",
+    "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
+    "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
+    "01 Dream Journal/Dreams/Mary Jane.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "01 Dream Journal/Dreams/Gaia's Wrath.md",
+    "01 Dream Journal/Dreams/Atomize.md",
+    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+    "01 Dream Journal/Dreams/05 Fantasy Steampunk/Milo and Caspian.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "00 _resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
+    "00 _resources/themes/Crimson City - hereisbis twit.jpg",
+    "00 _resources/themes/draculabase.png",
+    "00 _resources/themes/kiki-farmhouse.jpg",
+    "00 _resources/themes/sleeping-deer.jpg",
+    "Minecraft Summon Items.md",
+    "01 Dream Journal/ZIALONA Home Page.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Images",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say",
+    "00 _resources/Images/38f7f702c22bc616b549c21cd9d4090e.jpg",
+    "00 _resources/Images",
+    "00 _resources/Images/800319ec2aa3a52537dea48d2d874257.jpg",
+    "00 _resources/Images/533416691e9cd763e340a7c682fa6668.jpg",
+    "Untitled.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/00 Images",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/03 Species",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/02 Locations",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/00 Images",
+    "01 Dream Journal/Dreams/The Secret Garden/june.md",
+    "Untitled 1.canvas"
+  ]
+}

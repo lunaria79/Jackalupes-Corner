@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ere": "datetime",
+    "Completed": "checkbox",
+    "updated_at": "text",
+    "Home": "multitext",
+    "Rating": "multitext",
+    "Relationships": "multitext",
+    "cssproperties": "multitext"
+  }
+}
