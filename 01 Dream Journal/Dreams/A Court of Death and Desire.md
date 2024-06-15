@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dream-journal-base
+  - death-and-desire
 tags:
   - dream
 Completed: false

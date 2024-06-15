@@ -4,9 +4,9 @@
 
 /* ---------------------------------------- Background ---------------------------------------- */
 .dream-journal-base {
-	background-color: transparent;
-	background-image: url('') / contain no-repeat;
-	background-size: cover;
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/kiki-farmhouse.jpg?token=GHSAT0AAAAAACTLK7PPDNJWH2HQQX3U2OR6ZTN3R2A") center center / cover no-repeat;
+	background-blend-mode: darken;
+	background-color: rgb(var(--primary-color), .1);
 }
 
 .dream-journal-base * {
@@ -184,9 +184,9 @@ div.html-tab:hover {
 /* ------------------------------------------ Page Specific ------------------------------------------ */
 /* ----- Death + Desire ----- */
 .death-and-desire {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg?token=GHSAT0AAAAAACTLK7PPRVJGTK5DZRW756W6ZTN3Q2Q") center center / cover no-repeat;
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/kiki-farmhouse.jpg?token=GHSAT0AAAAAACTLK7PPDNJWH2HQQX3U2OR6ZTN3R2A") center center / cover no-repeat;
 	background-blend-mode: darken;
-	background-color: rgb(var(--primary-color), .11);
+	background-color: rgb(var(--primary-color), .1);
 }
 
 .death-and-desire * {
