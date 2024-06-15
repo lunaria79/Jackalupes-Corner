@@ -35,7 +35,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg"
+                "file": "themes/draculabase.png"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
+                "file": "themes/draculabase.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
+                "file": "themes/draculabase.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg"
+                "file": "themes/draculabase.png"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "85cc54a7263cc53a",
   "lastOpenFiles": [
-    "themes/draculabase.png",
     "themes/Crimson City - hereisbis twit.jpg",
+    "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
+    "themes/draculabase.png",
     "themes/meow.md",
     "Minecraft Summon Items.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
@@ -224,7 +225,6 @@
     "Untitled.canvas",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/June/white-noise2.png",
     "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/Main Page/stamp.png",
-    "themes/kiki-farmhouse.jpg",
     "meow meow mepw.md",
     "obsidian_sync",
     "github_sync",
