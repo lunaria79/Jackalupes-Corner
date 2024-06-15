@@ -182,17 +182,6 @@ div.html-tab:hover {
 }
 
 /* ------------------------------------------ Page Specific ------------------------------------------ */
-/* ----- Death + Desire ----- */
-.death-and-desire {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/00%20_resources/themes/kiki-farmhouse.jpg?token=GHSAT0AAAAAACTLK7PPDNJWH2HQQX3U2OR6ZTN3R2A") center center / cover no-repeat;
-	background-blend-mode: darken;
-	background-color: rgb(var(--primary-color), .1);
-}
-
-.death-and-desire * {
-	font-family: "Dosis", sans-serif;
-}
-
 /* ----- Steampunk Mermaids ----- */
 .steampunk-mermaids * {
 	--background-color: 51, 41, 27;
