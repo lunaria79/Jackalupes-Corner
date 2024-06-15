@@ -42,7 +42,7 @@ Completed: false
 								</div>
 								<div class="callout-title-inner"> story arc </div>
 							</div>
-							<img alt="reality.png" src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\01 The School of the Arcane\00 Images\Reality.png">
+							<img alt="reality.png" src="C:\Users\regin\OneDrive\Jackalupes Corner\01 Dream Journal\Dreams\01 The School of the Arcane\00 Images\Reality.png">
 							<p> ... </p>
 						</div>
 					</div>
