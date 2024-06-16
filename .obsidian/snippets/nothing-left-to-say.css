@@ -16,6 +16,29 @@
 	background-size: 100%;
 }
 
+/* ---------------------------------------- Font Changes ---------------------------------------- */
+.nothing-left-to-say h4 {
+	color: rgb(var(--yellow-tint)) !important;
+}
+
+.markdown-preview-view.nothing-left-to-say div.inline-title {
+	color: rgb(var(--text)) !important;
+}
+
+.nothing-left-to-say .char-note div.callout-title {
+	color: rgb(var(--blue-tint)) !important;
+}
+
+.nothing-left-to-say .def-note div.callout-title {
+	color: rgb(var(--blue-tint)) !important;
+}
+
+.nothing-left-to-say img {
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
 /* ------------------------------------------- Properties ------------------------------------------- */
 .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
@@ -51,38 +74,16 @@
 }
 
 /* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager)  input[type=checkbox]:not(:checked) {
+.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:not(:checked) {
     color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
 }
 
-.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
+.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked {
 	background: rgb(var(--text)) !important;
 }
 
-.dream-journal-base input[type=checkbox]:checked:after {
+.nothing-left-to-say input[type=checkbox]:checked:after {
 	background: rgb(var(--text)) !important;
-}
-
-.nothing-left-to-say h4 {
-	color: rgb(var(--yellow-tint)) !important;
-}
-
-.markdown-preview-view.nothing-left-to-say div.inline-title {
-	color: rgb(var(--text)) !important;
-}
-
-.nothing-left-to-say .char-note div.callout-title {
-	color: rgb(var(--blue-tint)) !important;
-}
-
-.nothing-left-to-say .def-note div.callout-title {
-	color: rgb(var(--blue-tint)) !important;
-}
-
-.nothing-left-to-say img {
-	width: 200px;
-	float: left;
-	margin-right: 10px;
 }

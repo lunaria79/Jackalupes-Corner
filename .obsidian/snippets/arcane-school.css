@@ -61,6 +61,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	background-color: transparent !important;
 }
 
+/* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
     color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
@@ -77,6 +78,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 
 .arcane-school input[type=checkbox]:checked:after {
     -webkit-mask-image: none;
+	background: black !important;
 }
 
 /* -------------------------------------- Navigation Bar------------------------------------------ */
