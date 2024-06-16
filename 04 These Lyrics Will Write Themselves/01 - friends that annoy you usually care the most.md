@@ -11,8 +11,11 @@ Relationships:
   - Min Yoongi/Park Jimin
   - Kim Namjoon/Kim Seokjin
   - Jeon Jungkook/Kim Taehyung
-tags: 
-Next Chapter: "[[02 - what's the point if you aren't healthy]]"
+tags:
+  - Heavy-Themes
+  - Idol-AU
+Next Chapter:
+  - "[[02 - what's the point if you aren't healthy]]"
 ---
 <p class="title" id="toc_1"><a id="p2"></a>friends that annoy you usually care the most</p>
   <p class="text" id="top">Yoongi didn't even flinch as the door to his private studio slammed open. Most of the time, people would be startled if a door slammed shut, but seeing as how he'd been working in close contact with Namjoon for the past few years, he'd gotten used to hearing the sound both ways. Without turning to even look at his best friend, Yoongi continued observing the pink thread of Ki-ha's voice on the monitor, frowning as it spiked too high above that of his other member's threads. What was it about the maknae's tendency to cover his hyung's accompaniment towards the end of every song?</p>

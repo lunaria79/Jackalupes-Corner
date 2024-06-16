@@ -23,7 +23,7 @@
 	--lupapink: #b06d90;
 
 	--sex: #b8357b;
-	--file-line-width: 50%;	
+	--file-line-width: 60%;	
 }
 
 /* ------------------------------------------- Page Setup ------------------------------------------- */
@@ -97,7 +97,7 @@
       overflow-wrap: break-word;    
   }
 
-/* ----- Tags ---- */
+/* ----- Information ---- */
 .fanfiction .multi-select-pill {
 	text-decoration: none;
 }
@@ -128,7 +128,18 @@
   background-color: var(--lupapink) !important;
 }
 
-/* ----- Fanfic ----- */
+/* ----- Tags ---- */
+.fanfiction .metadata-property:not([data-property-key="tags"]) .multi-select-pill {
+  color: var(--lupawhite);
+  background: #454545b8 !important;
+  font-weight: 500;
+  padding: 5px;
+  margin: 5px 3px;
+  border-radius: 0 5px 5px;
+  display: inline-block;
+}
+
+/* --------------------------------------------- Fanfic --------------------------------------------- */
 .fanfiction .title {
 	color: var(--lupapurple);
 	font-family: "Open Sans", sans-serif;  
@@ -162,8 +173,7 @@
 	color: var(--lupapurple);
 }
 
-
-/* ----- Text Messages ----- */
+/* --------------- Text Messages --------------- */
 /* QuickReset */ * {margin: 0; box-sizing: border-box;}
 .fanfiction .chat {
   --rad: 10px;
@@ -250,7 +260,6 @@
   /* Show only for first message in group */
   display: block;
 }
-
 
 /*
 .fanfiction .press {
