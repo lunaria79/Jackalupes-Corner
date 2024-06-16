@@ -42,7 +42,7 @@ Completed: false
 								</div>
 								<div class="callout-title-inner"> story arc </div>
 							</div>
-							<img alt="reality.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Reality.png?token=GHSAT0AAAAAACTLK7PORC2PZV5EBNS5RYAYZTN4JDA">
+							<img alt="reality.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Reality.png">
 							<p> ... </p>
 						</div>
 					</div>
@@ -131,7 +131,7 @@ Completed: false
 								</div>
 								<div class="callout-title-inner"> Species Overview: Kai Folk</div>
 							</div>
-							<img alt="Kai Folk" src="https://github.com/lunaria79/Jackalupes-Corner/blob/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Kai%20Folk.jpg?raw=true">
+							<img alt="Kai Folk" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Kai%20Folk.jpg">
 							<p>The Kai Folk are the forest creatures that are tasked with maintaining the beauty of the flora around and in [INSERT SCHOOL NAME HERE] in exchange for protection and food. In legends, it is written that their ancestors were prehistoric birds that drank from the Aether Sea.</p>
 						</div>
 					</div>
