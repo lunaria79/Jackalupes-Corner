@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2526e3e7ee8a6cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md"
               }
             }
           },
@@ -192,13 +204,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4196d1b06ea09985",
+  "active": "b40cc181f5809f71",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "Minecraft Summon Items.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
+    "Minecraft Summon Items.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Atomize.md",
@@ -218,10 +233,7 @@
     "03 Onymoji/Shikigami/Ubume.md",
     "03 Onymoji/Shikigami/Shuten Doji.md",
     "03 Onymoji/Shikigami/Miakashi.md",
-    "03 Onymoji/Shikigami/Jorogumo.md",
-    "03 Onymoji/Shikigami/Bake-kujira.md",
     "03 Onymoji/Shikigami",
-    "03 Onymoji/Onymoji Home.md",
     "03 Onymoji",
     "02 Stardew Valley/Images/Pasted image 20240606141841.png",
     "02 Stardew Valley/Images/Pasted image 20240606141829.png",

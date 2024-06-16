@@ -13,28 +13,28 @@
 .gods-and-fiends {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
 	background-blend-mode: soft-light;
-	background-color: rgb(var(--background-color), .15);
+	background-color: rgb(var(--background-color), .15) !important;
 }
 
 .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 .gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
 .gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
 .gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-	color: rgb(var(--text));
+	color: rgb(var(--text)) !important;
 }
 
 .gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
 .gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
 .gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
 .gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
-	color: rgb(var(--red-tint));
+	color: rgb(var(--red-tint)) !important;
 }
 
 .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
 .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
 .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg{
-	background-color: rgb(var(--text));
-	color: rgb(var(--red-tint));
+	background-color: rgb(var(--text)) !important;
+	color: rgb(var(--red-tint)) !important;
 	font-weight: 700;
 }
 
@@ -44,8 +44,8 @@
 .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
 .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
 .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg  {
-	background-color: rgb(var(--red-tint));
-	color: rgb(var(--text));
+	background-color: rgb(var(--red-tint)) !important;
+	color: rgb(var(--text)) !important;
 	font-weight: 700;
 }
 

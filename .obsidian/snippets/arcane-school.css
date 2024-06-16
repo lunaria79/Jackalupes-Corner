@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* ----------------------- Background ----------------------- */
+/* ---------------------------------------- Background ---------------------------------------- */
 .app-container .arcane-school * {
 	--background-color: 255, 255, 255;
 	--primary-color: 0, 0, 0;
@@ -28,7 +28,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	max-width: 75% !important;
 }
 
-/* ----------------------- Color + Font Changes Changes ----------------------- */
+/* ------------------------------------- Color + Font Changes ------------------------------------- */
 .arcane-school.markdown-preview-view div.inline-title {
 	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
@@ -38,7 +38,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
   background: rgb(var(--primary-color));
 }
 
-/* ------ Properties ----- */
+/* ---------------------------------------- Properties ---------------------------------------- */
 .arcane-school div.metadata-container {
     box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
@@ -61,7 +61,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	background-color: transparent !important;
 }
 
-.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
+.theme-dark:not(.css-settings-manager)  input[type=checkbox]:not(:checked) {
     color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
@@ -69,17 +69,17 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
     cursor: pointer !important;
 }
 
-.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
+.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
 	background: black !important;
 	border-radius: 0;
 	border-color: transparent;
 }
 
-.arcane-school input[type=checkbox]:checked:after {
+.dream-journal-base input[type=checkbox]:checked:after {
     -webkit-mask-image: none;
 }
 
-/* ------ Navigation Bar ----- */
+/* -------------------------------------- Navigation Bar------------------------------------------ */
 .arcane-school div.html-tabs {
     color: rgb(var(--primary-color));
     background-color: rgb(var(--background-color), .8);
@@ -90,7 +90,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
     font-weight: 700;
 }
 
-/* ------ Information Grid ----- */
+/* ---------------------------------------- Information Grid ---------------------------------------- */
 .arcane-school .box {
     color: rgb(var(--primary-color));
     background-color: rgb(var(--background-color), 1);
@@ -110,7 +110,6 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	-webkit-text-fill-color: rgb(var(--primary-color)) !important;
 	text-decoration: none !important;
 }
-
 
 .arcane-school a.internal-link:hover div.callout-title-inner {
 	-webkit-text-fill-color: rgb(var(--background-color));

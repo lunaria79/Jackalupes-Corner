@@ -81,6 +81,135 @@ div.html-tab-content {
 	background-image: none !important;
 }
 
+/* ------------------------------------------- Properties ------------------------------------------- */
+.dream-journal-base .mod-header {
+	margin-bottom: 0;
+}
+
+.dream-journal-base div.metadata-container {
+	margin: 0;
+	padding: 10px 25px;
+	width: 100%;
+	transform: None;
+
+	font-family: "Ubuntu Sans Mono", monospace;
+	color: rgb(var(--purple-tint));
+	background-color: rgb(var(--background-color), .8);
+
+	border: 2px solid rgb(var(--primary-color));
+	border-radius: var(--medium-radius);
+	box-shadow: none;
+}
+
+.dream-journal-base div.metadata-properties-heading.is-collapsed {
+	padding: 0;
+}
+
+.dream-journal-base div.metadata-container.is-collapsed {
+	height: 45px;
+}
+
+.dream-journal-base .metadata-properties-title {
+    color: rgb(var(--primary-color));
+    font-weight: 800;
+  }
+  
+.dream-journal-base .metadata-add-button.text-icon-button {
+    display: none;
+}
+
+/* ---------- Classes ---------- */
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
+	color: rgb(var(--blue-tint));
+}
+
+.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+	color: rgb(var(--orange-tint));
+}
+
+.dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+	color: rgb(var(--green-tint));
+}
+
+.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+	color: rgb(var(--yellow-tint));
+}
+
+.dream-journal-base .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property {
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.dream-journal-base .metadata-add-button.text-icon-button{
+	color: rgb(var(--text));
+}
+
+/* ---------- Tags ---------- */
+.dream-journal-base .multi-select-pill-content,
+.dream-journal-base .multi-select-pill svg.svg-icon {
+	color: black;
+	font-weight: 700;
+}
+
+.dream-journal-base div.multi-select-pill-content span {
+	margin-top: 2px !important;
+}
+
+.dream-journal-base .metadata-property .multi-select-pill {
+	background-color: rgb(var(--purple-tint));
+	border-radius: 2px;
+	padding: 3px 5px;
+	cursor: pointer;
+}
+
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+	background-color: rgb(var(--blue-tint));
+	color: rgb(var(--background-color));
+	font-weight: 700;
+}
+
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
+	background-color: rgb(var(--orange-tint));
+	color: rgb(var(--background-color));
+	font-weight: 700;
+}
+
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+	  background-color: transparent;
+	  color: rgb(var(--yellow-tint));
+	  font-weight: 700;
+	  text-decoration: none;
+    }
+
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager)  input[type=checkbox]:not(:checked) {
+    color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color)) !important;
+	border-radius: 0;
+    cursor: pointer !important;
+}
+
+.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
+	background: black !important;
+	border-radius: 0;
+	border-color: transparent;
+}
+
+.dream-journal-base input[type=checkbox]:checked:after {
+    -webkit-mask-image: none;
+}
 
 /* ---------------------------------------- Tabs ---------------------------------------- */
 div.html-tabs {
