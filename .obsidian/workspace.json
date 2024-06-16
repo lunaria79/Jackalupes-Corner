@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "dd0e3c53081ac7f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png"
+              }
+            }
+          },
+          {
             "id": "85cc54a7263cc53a",
             "type": "leaf",
             "state": {
@@ -38,16 +48,6 @@
                 "file": "themes/meow7.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "dd0e3c53081ac7f6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png",
+                "file": "themes/meow7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png",
+                "file": "themes/meow7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png"
+                "file": "themes/meow7.md"
               }
             }
           },
@@ -199,12 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd0e3c53081ac7f6",
+  "active": "85cc54a7263cc53a",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png",
+    "themes/kiki-farmhouse.jpg",
     "Minecraft Summon Items.md",
     "themes/sleeping-deer.jpg",
     "themes/meow7.md",
-    "themes/kiki-farmhouse.jpg",
     "themes/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dream Journal Home Page.md",
