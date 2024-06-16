@@ -34,13 +34,6 @@
   background-size: cover;
 }
 
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-    max-width: var(--file-line-width);
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
 /* ----------------------- Properties ----------------------- */
 /* ----------------------- Headings ----------------------- */
 .code span.cm-header-1,

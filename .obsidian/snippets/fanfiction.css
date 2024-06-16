@@ -21,9 +21,13 @@
   --sex: #b8357b;
 }
 
+.fanfiction * {
+ --file-line-width: 50%;	
+}
+
 /* ----------------------- Page Setup ----------------------- */
   /* All Pages */
-  .markdown-preview-view {
+  .markdown-preview-view.fanfiction {
     padding: 10px;
     background: var(--bggray);
   }
@@ -32,7 +36,7 @@
 	min-width: 50%;
 }
 	
-.markdown-preview-sizer.markdown-preview-section {
+.markdown-preview-sizer.markdown-preview-section.fanfiction {
 	padding-bottom: 10px !important;
 }
 
@@ -41,7 +45,7 @@
 }
 
 /* ----------------------- Title + Metadata ----------------------- */
-div.inline-title {
+.fanfiction div.inline-title {
   color: var(--lupawhite);
   text-align: center;
   font-weight: 700;
@@ -50,7 +54,7 @@ div.inline-title {
 }
 
 /* ---------- Metadata Container ---------- */
-  div.metadata-container {
+  .fanfiction div.metadata-container {
     padding: 15px;
     
 
@@ -61,39 +65,39 @@ div.inline-title {
     box-shadow: 2px 2px 1px var(--bxshdw) !important;
   }
 
-  .metadata-properties-heading .collapse-indicator {
+  .fanfiction .metadata-properties-heading .collapse-indicator {
       position: absolute;
       left: -16px;
       padding: 0 6px;
   }
 
-  div.metadata-container.is-collapsed {
+  .fanfiction div.metadata-container.is-collapsed {
     padding-bottom: 5px;
   }
   
 /* ---------- Metadata Categories ---------- */
-  .metadata-property-key {
+  .fanfiction .metadata-property-key {
 	  width: 165px;
   }
 
-  .metadata-property-icon, 
-  .metadata-property-key-input {
+  .fanfiction .metadata-property-icon, 
+  .fanfiction .metadata-property-key-input {
     color: var(--lupawhite) !important;
     font-weight: 600 !important;
   }
 
-  input.metadata-property-key-input {
+ .fanfiction  input.metadata-property-key-input {
     width: 130px;
     overflow: visible;
   }
 
-  .metadata-property .multi-select-container {
+ .fanfiction  .metadata-property .multi-select-container {
       padding: var(--size-4-1) var(--size-4-2);
       overflow-wrap: break-word;    
   }
 
 /* ----- Tags ---- */
-.metadata-property:not([data-property-key="tags"]) .multi-select-pill {
+.fanfiction .metadata-property:not([data-property-key="tags"]) .multi-select-pill {
   color: var(--lupawhite);
   background: #454545b8 !important;
   font-weight: 500;
@@ -103,24 +107,24 @@ div.inline-title {
   display: inline-block;
 }
 
-.metadata-property:not([data-property-key="tags"]) .multi-select-pill:hover {
+.fanfiction .metadata-property:not([data-property-key="tags"]) .multi-select-pill:hover {
   cursor: pointer;
 }
 
-svg.svg-icon[class="svg-icon lucide-x"] {
+.fanfiction svg.svg-icon[class="svg-icon lucide-x"] {
   display: none;
 }
 
-.metadata-property[data-property-key="Rating"] .metadata-property-value .multi-select-container .multi-select-pill {
+.fanfiction .metadata-property[data-property-key="Rating"] .metadata-property-value .multi-select-container .multi-select-pill {
   background-color: var(--lupared) !important;
 }
 
-.metadata-property[data-property-key="Relationships"] .metadata-property-value .multi-select-container .multi-select-pill {
+.fanfiction .metadata-property[data-property-key="Relationships"] .metadata-property-value .multi-select-container .multi-select-pill {
   background-color: var(--lupapink) !important;
 }
 
 /* ----- Fanfic ----- */
-.title {
+.fanfiction .title {
 	color: var(--lupapurple);
 	font-family: "Open Sans", sans-serif;  
 	font-size: 1.5em;
@@ -129,34 +133,34 @@ svg.svg-icon[class="svg-icon lucide-x"] {
 	text-align: center;
 }
 
-.text {
+.fanfiction .text {
 	color: var(--lupawhite);
 	margin-top: 5px;
 	text-align: justify;
 }
 
-.divide {
+.fanfiction .divide {
 	text-align: center;
 	font-weight: bold;
 	color: var(--lupawhite);
 	font-family: "Nunito Sans", sans-serif;
 }
 
-.msg-box {
+.fanfiction .msg-box {
 	border: 1px var(--lupawhite) solid;
 	padding: 15px;
 	width: 50%;
 	margin: auto;
 }
 
-.msg-box b {
+.fanfiction .msg-box b {
 	color: var(--lupapurple);
 }
 
 
 /* ----- Text Messages ----- */
 /* QuickReset */ * {margin: 0; box-sizing: border-box;}
-.chat {
+.fanfiction .chat {
   --rad: 10px;
   --rad-sm: 3px;
   
@@ -167,7 +171,7 @@ svg.svg-icon[class="svg-icon lucide-x"] {
   margin: auto;
 }
 
-.msg {
+.fanfiction .msg {
 	position: relative;
 	max-width: 75%;
 	padding: 7px 15px;
@@ -178,7 +182,7 @@ svg.svg-icon[class="svg-icon lucide-x"] {
 	box-shadow: 2px 2px 2px #0000003d;
 }
 
-.msg.sent {
+.fanfiction .msg.sent {
   border-radius: var(--rad) var(--rad-sm) var(--rad-sm) var(--rad);
   background: #6d6d6d30;
   
@@ -186,7 +190,7 @@ svg.svg-icon[class="svg-icon lucide-x"] {
   margin-left: auto;
 }
 
-.msg.rcvd {
+.fanfiction .msg.rcvd {
   border-radius: var(--rad-sm) var(--rad) var(--rad) var(--rad-sm);
   background: #00000030;
     
@@ -194,17 +198,17 @@ svg.svg-icon[class="svg-icon lucide-x"] {
   margin-right: auto;
 }
 
-.msg.sent:first-child,
-.msg.rcvd+.msg.sent {
+.fanfiction .msg.sent:first-child,
+.fanfiction .msg.rcvd+.msg.sent {
   margin-top: 20px;
 }
 
-.msg.rcvd:first-child,
-.msg.sent+.msg.rcvd {
+.fanfiction .msg.rcvd:first-child,
+.fanfiction .msg.sent+.msg.rcvd {
   margin-top: 20px;
 }
 
-.msg-notice {
+.fanfiction .msg-notice {
 	font-weight: 800;
 	font-size: .75rem;
 	font-style: italic;
@@ -213,7 +217,7 @@ svg.svg-icon[class="svg-icon lucide-x"] {
 }
 
 /* Name */
-.msg::before {
+.fanfiction .msg::before {
   content: attr(data-time);
   font-size: 0.8rem;
   font-weight: 600;
@@ -226,40 +230,25 @@ svg.svg-icon[class="svg-icon lucide-x"] {
   display: none;
 }
 
-.msg.sent::before {
+.fanfiction .msg.sent::before {
   right: 5px;
 }
 
-.msg.rcvd::before {
+.fanfiction .msg.rcvd::before {
   left: 5px;
 }
 
 /* Show time only for first message in group */
-.msg:first-child::before,
-.msg.sent+.msg.rcvd::before,
-.msg.rcvd+.msg.sent::before {
+.fanfiction .msg:first-child::before,
+.fanfiction .msg.sent+.msg.rcvd::before,
+.fanfiction .msg.rcvd+.msg.sent::before {
   /* Show only for first message in group */
   display: block;
 }
 
 
 /*
-.press {
-  font-family: "Titillium Web";
-  display: block;
-  font-size: 0.85em;
-  line-height: 1.5;
-  text-align: justify;
-  margin: 0.83em 0;
-  width: 85%;
-  margin: auto;
-}
-.pressbox {
- border: 1px solid;
- padding-top: 15px;
- padding-bottom: 15px;
-}
-.tweet {
+.fanfiction .press {
   font-family: "Titillium Web";
   display: block;
   font-size: 0.85em;
@@ -270,7 +259,24 @@ svg.svg-icon[class="svg-icon lucide-x"] {
   margin: auto;
 }
 
-.twtdivide {
+.fanfiction .pressbox {
+ border: 1px solid;
+ padding-top: 15px;
+ padding-bottom: 15px;
+}
+
+.fanfiction .tweet {
+  font-family: "Titillium Web";
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}
+
+.fanfiction .twtdivide {
   display: block;
   text-align: center;
   font-family: "NunitoSans";

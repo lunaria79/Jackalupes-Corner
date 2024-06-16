@@ -49,6 +49,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color));
+	border-radius: 0;
 }
 
 .arcane-school .metadata-container svg,
