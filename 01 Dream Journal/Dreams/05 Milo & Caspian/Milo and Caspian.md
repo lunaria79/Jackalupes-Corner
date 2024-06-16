@@ -1,11 +1,11 @@
 ---
 cssclasses:
   - dream-journal-base
-  - steampunk-mermaids
+  - milo-caspian
 tags:
   - dream
   - in-progress
-Completed: true
+Completed: false
 Home:
   - "[[Dream Journal Home Page]]"
   - "[[Undersea Gallery]]"

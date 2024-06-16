@@ -1,0 +1,42 @@
+.milo-caspian * {
+	--background-color: 51, 41, 27;
+	--primary-color: 226, 183, 113;
+	--text: 248, 244, 215;
+
+	--red-tint: 189, 101, 53;
+	--orange-tint: 203, 155, 79;
+	--yellow-tint: 235, 238, 136;
+	--green-tint: 161, 182, 94;
+	--blue-tint: 179, 246, 229;
+	--purple-tint: 220, 156, 172;
+
+	font-family: "Rokkitt", serif;
+}
+
+.milo-caspian {
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg") center center / cover no-repeat;
+	background-blend-mode: soft-light;
+	background-color: rgb(var(--background-color), .5);
+}
+
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:not(:checked) {
+    color: rgb(var(--red-tint)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--red-tint)) !important;
+	border-radius: 0;
+    cursor: pointer !important;
+}
+
+.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:checked {
+	background: rgb(var(--green-tint)) !important;
+	border-radius: 0;
+	border-color: transparent;
+	cursor: pointer !important;
+}
+
+.milo-caspian input[type=checkbox]:checked:after {
+	background: rgb(var(--green-tint)) !important;
+    -webkit-mask-image: none;
+	cursor: pointer !important;
+}

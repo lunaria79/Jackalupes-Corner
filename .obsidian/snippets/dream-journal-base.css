@@ -194,7 +194,7 @@ div.html-tab-content {
 
 .dream-journal-base .metadata-property .multi-select-pill {
 	background-color: rgb(var(--purple-tint));
-	border-radius: 2px;
+	border-radius: var(--small-radius);
 	padding: 3px 5px;
 	cursor: pointer;
 }
@@ -228,20 +228,21 @@ div.html-tab-content {
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
     color: rgb(var(--red-tint));
 	background-color: transparent !important;
-	border: 2px solid rgb(var(--red-color));
-	border-radius: 0;
+	border: 2px solid rgb(var(--red-tint));
+	border-radius: var(--small-radius);
     cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
 	background: rgb(var(--green-tint));
-	border-radius: 0;
-	border-color: transparent;
+	border-radius: var(--small-radius);
+	border-color: rgb(var(--green-tint));
 	cursor: pointer !important;
 }
 
 .dream-journal-base input[type=checkbox]:checked:after {
 	background: rgb(var(--green-tint));
+	border-radius: var(--small-radius);
     -webkit-mask-image: none;
 	cursor: pointer !important;
 }

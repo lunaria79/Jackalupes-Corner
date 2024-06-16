@@ -9,7 +9,7 @@ tags:
   - home
   - in-progress
   - dream
-Completed: true
+Completed: false
 ---
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">

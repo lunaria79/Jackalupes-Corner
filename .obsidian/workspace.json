@@ -54,18 +54,6 @@
             }
           },
           {
-            "id": "4621f4f98773ada8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "923a3f1a3be014ca",
             "type": "leaf",
             "state": {
@@ -78,19 +66,18 @@
             }
           },
           {
-            "id": "5e14fcee4a23e4b5",
+            "id": "4621f4f98773ada8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,20 +211,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4621f4f98773ada8",
+  "active": "1e58ca9bb48beca4",
   "lastOpenFiles": [
-    "01 Dream Journal/Stage Files/themes/themes.md",
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Stage Files/themes/meow7.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",

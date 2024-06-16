@@ -66,19 +66,20 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
     color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
-	border-radius: 0;
+	border-radius: 0 !important;
     cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
 	background: black !important;
-	border-radius: 0;
+	border-radius: 0 !important;
 	border-color: transparent;
 }
 
 .arcane-school input[type=checkbox]:checked:after {
     -webkit-mask-image: none;
 	background: black !important;
+	border-radius: 0 !important;
 }
 
 /* -------------------------------------- Navigation Bar------------------------------------------ */
