@@ -134,7 +134,7 @@
 
 .fanfiction .metadata-property:is([data-property-key="tags"]) .multi-select-pill {
 	color: var(--bggray);
-	background-color: var(--lupagreen) !important;
+	background: linear-gradient(90deg, rgb(89 198 161) 0%, rgb(104 211 104 / 71%) 100%) !important;
 }
 
 /* --------------------------------------------- Fanfic --------------------------------------------- */
@@ -145,6 +145,12 @@
 	font-weight: bold;
 	line-height: 1.2;
 	text-align: center;
+	
+	-webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-image: linear-gradient( var(--gradientDegree), var(--pink) 0, var(--purple) 100% );
+}
 }
 
 .fanfiction .text {

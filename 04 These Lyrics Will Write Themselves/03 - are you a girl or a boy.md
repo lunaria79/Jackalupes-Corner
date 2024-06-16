@@ -1,21 +1,26 @@
 ---
 cssclasses:
-- fanfiction
+  - fanfiction
 Rating:
-- Mature
+  - Mature
+  - ★★★★★
 Author:
-- PrettyBoyKiller
+  - PrettyBoyKiller
 Fandom:
-- 방탄소년단 | Bangtan Boys | BTS
+  - 방탄소년단 | Bangtan Boys | BTS
 Relationships:
-- Min Yoongi/Park Jimin
-- Kim Namjoon/Kim Seokjin
-- Jeon Jungkook/Kim Taehyung
+  - Min Yoongi/Park Jimin
+  - Kim Namjoon/Kim Seokjin
+  - Jeon Jungkook/Kim Taehyung
 tags:
   - Heavy-Themes
   - Idol-AU
-Previous Chapter: "[[02 - what's the point if you aren't healthy]]"
-Next Chapter: 
+  - Strangers-to-Lovers
+  - Sugar-Baby-AU
+  - Incomplete
+Previous Chapter:
+  - "[[02 - what's the point if you aren't healthy]]"
+Next Chapter:
 ---
 <p class="title" id="toc_1"> are you a girl or a boy? </p> 
 
