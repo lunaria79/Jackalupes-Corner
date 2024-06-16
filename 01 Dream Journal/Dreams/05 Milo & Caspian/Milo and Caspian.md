@@ -5,7 +5,7 @@ cssclasses:
 tags:
   - dream
   - in-progress
-Completed: false
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
   - "[[Undersea Gallery]]"

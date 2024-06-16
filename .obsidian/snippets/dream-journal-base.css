@@ -193,7 +193,7 @@ div.html-tab-content {
     }
 
 /* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager)  input[type=checkbox]:not(:checked) {
+.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
     color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
@@ -202,13 +202,16 @@ div.html-tab-content {
 }
 
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
-	background: black !important;
+	background: rgb(var(--text)) !important;
 	border-radius: 0;
 	border-color: transparent;
+	cursor: pointer !important;
 }
 
 .dream-journal-base input[type=checkbox]:checked:after {
+	background: rgb(var(--text)) !important;
     -webkit-mask-image: none;
+	cursor: pointer !important;
 }
 
 /* ---------------------------------------- Tabs ---------------------------------------- */
@@ -331,4 +334,26 @@ div.html-tab:hover {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg") center center / cover no-repeat;
 	background-blend-mode: soft-light;
 	background-color: rgb(var(--background-color), .5);
+}
+
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager) .steampunk-mermaids input[type=checkbox]:not(:checked) {
+    color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color)) !important;
+	border-radius: 0;
+    cursor: pointer !important;
+}
+
+.theme-dark:not(.css-settings-manager) .steampunk-mermaids input[type=checkbox]:checked {
+	background: rgb(var(--text)) !important;
+	border-radius: 0;
+	border-color: transparent;
+	cursor: pointer !important;
+}
+
+.steampunk-mermaids input[type=checkbox]:checked:after {
+	background: rgb(var(--text)) !important;
+    -webkit-mask-image: none;
+	cursor: pointer !important;
 }

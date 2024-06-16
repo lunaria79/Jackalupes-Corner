@@ -61,7 +61,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	background-color: transparent !important;
 }
 
-.theme-dark:not(.css-settings-manager)  input[type=checkbox]:not(:checked) {
+.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
     color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
@@ -69,13 +69,13 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
     cursor: pointer !important;
 }
 
-.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
+.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
 	background: black !important;
 	border-radius: 0;
 	border-color: transparent;
 }
 
-.dream-journal-base input[type=checkbox]:checked:after {
+.arcane-school input[type=checkbox]:checked:after {
     -webkit-mask-image: none;
 }
 

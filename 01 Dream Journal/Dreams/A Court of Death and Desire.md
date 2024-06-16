@@ -4,7 +4,7 @@ cssclasses:
   - death-and-desire
 tags:
   - dream
-Completed: false
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
 ---

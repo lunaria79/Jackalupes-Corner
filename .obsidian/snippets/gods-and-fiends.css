@@ -10,6 +10,7 @@
 	font-family: "Barlow", sans-serif;
 }
 
+/* ------------------------------------------- Properties ------------------------------------------- */
 .gods-and-fiends {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
 	background-blend-mode: soft-light;
@@ -71,7 +72,23 @@
 	margin-right: 10px;
 }
 
-/* ----------------------- CRT ------------------------- */
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
+    color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color)) !important;
+}
+
+.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked {
+	background: rgb(var(--text)) !important;
+}
+
+.gods-and-fiends input[type=checkbox]:checked:after {
+	background: rgb(var(--text)) !important;
+}
+
+
+/* ---------------------------------------------- CRT ------------------------------------------------ */
 /*https://aleclownes.com/2017/02/01/crt-display.html*/
 
 .markdown-reading-view div.crt div.markdown-preview-sizer::before {

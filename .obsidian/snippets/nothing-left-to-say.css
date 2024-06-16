@@ -8,7 +8,7 @@
 
 	--text: 199, 195, 186;
 
-	font-family: "Rokkitt", serif;
+	font-family: "Barlow", sans-serif;
 }
 
 .nothing-left-to-say {
@@ -16,10 +16,7 @@
 	background-size: 100%;
 }
 
-.nothing-left-to-say * {
-	font-family: "Barlow", sans-serif;
-}
-
+/* ------------------------------------------- Properties ------------------------------------------- */
 .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
 .nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
@@ -51,6 +48,21 @@
 	background-color: rgb(var(--green-tint));
 	color: rgb(var(--text));
 	font-weight: 700;
+}
+
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager)  input[type=checkbox]:not(:checked) {
+    color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color)) !important;
+}
+
+.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
+	background: rgb(var(--text)) !important;
+}
+
+.dream-journal-base input[type=checkbox]:checked:after {
+	background: rgb(var(--text)) !important;
 }
 
 .nothing-left-to-say h4 {

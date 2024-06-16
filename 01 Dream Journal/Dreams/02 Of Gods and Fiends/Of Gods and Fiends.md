@@ -8,7 +8,7 @@ cssclasses:
 tags:
   - dream
   - in-progress
-Completed: false
+Completed: true
 ---
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">
