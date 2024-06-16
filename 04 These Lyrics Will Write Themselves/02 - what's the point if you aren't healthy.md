@@ -11,6 +11,9 @@ Relationships:
   - Min Yoongi/Park Jimin
   - Kim Namjoon/Kim Seokjin
   - Jeon Jungkook/Kim Taehyung
+Tags:
+  - Heavy-Themes
+  - Idol-AU
 Previous Chapter:
   - "[[01 - friends that annoy you usually care the most]]"
 Next Chapter: "[[03 - are you a girl or a boy]]"

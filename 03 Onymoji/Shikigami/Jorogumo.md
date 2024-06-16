@@ -1,5 +1,8 @@
 ---
-cssclasses: []
+cssclasses:
+  - onymoji
+Home:
+  - "[[Onymoji Home]]"
 ---
 ![[jorogumo.png|500]]
 ![[Pasted image 20240510003116.png|500]]

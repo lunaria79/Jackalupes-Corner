@@ -11,6 +11,9 @@ Relationships:
 - Min Yoongi/Park Jimin
 - Kim Namjoon/Kim Seokjin
 - Jeon Jungkook/Kim Taehyung
+tags:
+  - Heavy-Themes
+  - Idol-AU
 Previous Chapter: "[[02 - what's the point if you aren't healthy]]"
 Next Chapter: 
 ---

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarAddressCard",
       "FasCode",
       "FasFileLines",
       "FasFolderOpen",
-      "FarFolderOpen",
-      "FasNoteSticky"
+      "FarFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,7 +38,7 @@
   "01 Dream Journal/Dreams": "FasFolderTree",
   "01 Dream Journal/Dream Journal Home Page.md": "FasHouse",
   "01 Dream Journal/ZIALONA Home Page.md": "FasHouse",
-  "01 Dream Journal/Dreams/A Court of Death and Desire.md": "FasFilePen",
+  "01 Dream Journal/Dreams/A Court of Death and Desire.md": "FasFileLines",
   "01 Dream Journal/Dreams/Atomize.md": "FasFilePen",
   "01 Dream Journal/Dreams/Trauma Central (Not Official).md": "FasFilePen",
   "01 Dream Journal/Stage Files/Code Testing Ground.md": "FasFileCode",
@@ -134,5 +134,8 @@
   "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
   "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md": "FasFileLines",
   "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
-  "04 These Lyrics Will Write Themselves/text message staging.md": "FasCode"
+  "04 These Lyrics Will Write Themselves/text message staging.md": "FasCode",
+  "03 Onymoji/Shikigami/Shuten Doji.md": "FarAddressCard",
+  "03 Onymoji/Shikigami/Ubume.md": "FarAddressCard",
+  "03 Onymoji/Shikigami/Jorogumo.md": "FarAddressCard"
 }

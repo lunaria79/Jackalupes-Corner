@@ -52,7 +52,7 @@ Home:
 	</div>
 </div>
 
-![[800319ec2aa3a52537dea48d2d874257.jpg]]
-![[68333e90938c5c9f10b0d1c067a9f804.jpg]]
-![[38f7f702c22bc616b549c21cd9d4090e.jpg]]
-![[533416691e9cd763e340a7c682fa6668.jpg]]
+![[../../00 _resources/Images/mary-jane-3.jpg]]
+![[../../00 _resources/Images/mary-jane-2.jpg]]
+![[../../00 _resources/Images/mary-jane-1.jpg]]
+![[../../00 _resources/Images/mary-jane-4.jpg]]

@@ -105,7 +105,7 @@
 .fanfiction .metadata-property .multi-select-pill {
   color: var(--lupawhite);
   background: #454545b8 !important;
-  font-weight: 500;
+  font-weight: 600;
   padding: 5px;
   margin: 5px 3px;
   border-radius: 0 5px 5px;
@@ -133,8 +133,8 @@
 }
 
 .fanfiction .metadata-property:is([data-property-key="tags"]) .multi-select-pill {
-	margin-left: 0;
-	background-color: var(--lupayellow) !important;
+	color: var(--bggray);
+	background-color: var(--lupagreen) !important;
 }
 
 /* --------------------------------------------- Fanfic --------------------------------------------- */
