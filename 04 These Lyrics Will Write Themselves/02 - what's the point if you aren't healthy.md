@@ -13,8 +13,7 @@ Relationships:
   - Jeon Jungkook/Kim Taehyung
 Previous Chapter:
   - "[[01 - friends that annoy you usually care the most]]"
-Next Chapter:
-  - "[[03 - are you a girl or a boy]]"
+Next Chapter: "[[03 - are you a girl or a boy]]"
 ---
 <p class="title" id="toc_1">what's the point if you aren't healthy?</p>
 

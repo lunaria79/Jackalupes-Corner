@@ -5,35 +5,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-  --bggray: #2e2e2e;
-  --hlgray: #333;
-  --bxshdw: #26262663;
-
-  --lupawhite: #f7eefd;
-  --lupared: #b35454;
-  --lupaorange: #cb9767;
-  --lupayellow: #c6c083;
-  --lupagreen: #80b377;
-  --lupablue: #47516c;
-  --lupapurple: #9d6fbd;
-  --lupapink: #b06d90;
-
-  --sex: #b8357b;
-}
+	--bggray: #2e2e2e;
+	}
 
 .fanfiction * {
- --file-line-width: 50%;	
+	--bggray: #2e2e2e;
+	--hlgray: #333;
+	--bxshdw: #26262663;
+
+	--lupawhite: #f7eefd;
+	--lupared: #b35454;
+	--lupaorange: #cb9767;
+	--lupayellow: #c6c083;
+	--lupagreen: #80b377;
+	--lupablue: #47516c;
+	--lupapurple: #9d6fbd;
+	--lupapink: #b06d90;
+
+	--sex: #b8357b;
+	--file-line-width: 50%;	
 }
 
-/* ----------------------- Page Setup ----------------------- */
+/* ------------------------------------------- Page Setup ------------------------------------------- */
   /* All Pages */
   .markdown-preview-view.fanfiction {
     padding: 10px;
     background: var(--bggray);
   }
 
-:is(.markdown-preview-view,.markdown-rendered).is-readable-line-width:not(.matrix) .markdown-preview-sizer {
+:is(.markdown-preview-view.fanfiction,.markdown-rendered).is-readable-line-width:not(.matrix) .markdown-preview-sizer {
 	min-width: 50%;
+	padding-bottom: 25px !important;
 }
 	
 .markdown-preview-sizer.markdown-preview-section.fanfiction {
@@ -44,7 +46,7 @@
 	font-family: ;	
 }
 
-/* ----------------------- Title + Metadata ----------------------- */
+/* ---------------------------------------- Title + Metadata ---------------------------------------- */
 .fanfiction div.inline-title {
   color: var(--lupawhite);
   text-align: center;
@@ -57,7 +59,6 @@
   .fanfiction div.metadata-container {
     padding: 15px;
     
-
     border: none !important;
     border-radius: 3px;
 
@@ -97,6 +98,10 @@
   }
 
 /* ----- Tags ---- */
+.fanfiction .multi-select-pill {
+	text-decoration: none;
+}
+
 .fanfiction .metadata-property:not([data-property-key="tags"]) .multi-select-pill {
   color: var(--lupawhite);
   background: #454545b8 !important;

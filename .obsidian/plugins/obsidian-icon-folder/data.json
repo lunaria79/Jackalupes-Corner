@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasNoteSticky",
-      "FasFolderTree",
-      "FasFileImage",
-      "FasUser",
-      "FasFileLines"
+      "FasCode",
+      "FasFileLines",
+      "FasFolderOpen",
+      "FarFolderOpen",
+      "FasNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -125,5 +125,14 @@
   "01 Dream Journal/Stage Files/themes/draculabase.png": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/kiki-farmhouse.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller"
+  "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller",
+  "00 _resources/Onymoji": "FasFolderTree",
+  "02 Stardew Valley": "FasFolderOpen",
+  "03 Onymoji": "FasFolderOpen",
+  "04 These Lyrics Will Write Themselves": "FasFolderOpen",
+  "04 These Lyrics Will Write Themselves/00 - Table of Contents.md": "FasFileLines",
+  "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
+  "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md": "FasFileLines",
+  "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
+  "04 These Lyrics Will Write Themselves/text message staging.md": "FasCode"
 }

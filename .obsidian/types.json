@@ -9,6 +9,7 @@
     "Home": "multitext",
     "Rating": "multitext",
     "Relationships": "multitext",
-    "cssproperties": "multitext"
+    "cssproperties": "multitext",
+    "Next Chapter": "multitext"
   }
 }
