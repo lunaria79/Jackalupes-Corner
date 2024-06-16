@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Minecraft Summon Items.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ad36223a35b141d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 Dream Journal/Stage Files/themes/themes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,13 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcc9bd61a5131dc7",
+  "active": "ad36223a35b141d8",
   "lastOpenFiles": [
+    "Minecraft Summon Items.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-    "Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Stage Files/themes/meow7.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
@@ -210,7 +223,6 @@
     "02 Stardew Valley/Barista (Cold).md",
     "02 Stardew Valley",
     "00 _resources/Onymoji",
-    "01 Dream Journal/Dreams/Mary Jane.md",
     "Untitled.canvas",
     "obsidian_sync",
     "github_sync",

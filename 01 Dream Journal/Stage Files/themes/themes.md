@@ -3,24 +3,31 @@ tags:
   - Stage
 Home:
   - "[[Dream Journal Home Page]]"
+cssclasses:
+  - code
 ---
 > [!infobox ]+   Court of Death and Desire
 > ![[kiki-farmhouse.jpg]]
->[](themes/kiki-farmhouse.jpg), #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
->[](themes/kiki-farmhouse.jpg)8, 44;
---primary-color: 243, 172, 208;
+> ```palette
+> #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
+> ```
 >
+```css
+--primary-color: 243, 172, 208;
+--primary-color: 243, 172, 208;
+
 --red-tint: 247, 151, 130;
 --orange-tint: 247, 202, 130;
 --yellow-tint: 222, 233, 165;
 --green-tint: 165, 233, 176;
 --blue-tint: 165, 214, 230;
 --purple-tint: 213, 168, 233;
->
+
 --text: 255, 255, 255;
->
 --heading-font: Dosis;
 --codeblock-font: Ubuntu Sans Mono;
+```
+
 
 > [!infobox ]+  Fantasy Steampunk Mermaids
 ![[Best-Steampunk-Wallpapers-Download-Pictures.jpg]]
