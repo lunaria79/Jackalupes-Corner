@@ -47,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -192,11 +192,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b40cc181f5809f71",
+  "active": "4196d1b06ea09985",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "Minecraft Summon Items.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Atomize.md",
@@ -221,8 +223,6 @@
     "03 Onymoji/Shikigami",
     "03 Onymoji/Onymoji Home.md",
     "03 Onymoji",
-    "02 Stardew Valley/Strawberries.md",
-    "02 Stardew Valley/Stardew Valley Recipes.md",
     "02 Stardew Valley/Images/Pasted image 20240606141841.png",
     "02 Stardew Valley/Images/Pasted image 20240606141829.png",
     "02 Stardew Valley/Images/Pasted image 20240606141804.png",

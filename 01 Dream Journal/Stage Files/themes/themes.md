@@ -22,6 +22,8 @@ cssclasses:
 --green-tint: 165, 233, 176;
 --blue-tint: 165, 214, 230;
 --purple-tint: 213, 168, 233;
+>
+font-family: "Dosis", sans-serif;
 >```
 
 
@@ -41,19 +43,38 @@ cssclasses:
 --green-tint: 161, 182, 94;
 --blue-tint: 179, 246, 229;
 --purple-tint: 220, 156, 172;
+>
+font-family: "Rokkitt", serif;
 >```
 
 
 >[!infobox]+ Of Gods and Fiends
 >![[Crimson City - hereisbis twit.jpg]]
->[](themes/Crimson%20City%20-%20hereisbis%20twit.jpg)ereisbis%20twit.jpg), #E5248E,  #ffe6d7
->[](themes/Crimson%20City%20-%20hereisbis%20twit.jpg)85, 51, 73;
+> ```palette
+> #15071D, #FFE6D7, #B93349, #609FE6, #E5248E
+> ```
+>```css
+--background-color: 21, 7, 29;
+--primary-color: 185, 51, 73;
+--text: 255, 230, 215;
 >
 --red-tint: 185, 51, 73;
 --blue-tint: 96, 159, 230;
 --purple-tint: 229, 36, 142;
-  >
---text: 255,230,215;
+>
+font-family: "Barlow", sans-serif;
+>```
+
+
+
+
+
+
+
+
+
+
+
 
 >[!infobox]+ Nothing Left to Say
 >![[sleeping-deer.jpg]]

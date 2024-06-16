@@ -8,6 +8,7 @@
 * {
 	--background-color: 28, 28, 44;
 	--primary-color: 243, 172, 208;
+	--text: 255, 255, 255;
 
 	--red-tint: 247, 151, 130;
 	--orange-tint: 247, 202, 130;
@@ -15,8 +16,6 @@
 	--green-tint: 165, 233, 176;
 	--blue-tint: 165, 214, 230;
 	--purple-tint: 213, 168, 233;
-
-	--text: 255, 255, 255;
 
 	--medium-radius: 8px;
 	--small-radius: 4px;
@@ -83,7 +82,7 @@ div.markdown-reading-view {
 	
 }
 
-* ---------- Source Mode ---------- */
+/* ---------- Source Mode ---------- */
 .cm-contentContainer {
 	background-color: rgb(28, 28, 44, 1);
 	padding: 25px;
