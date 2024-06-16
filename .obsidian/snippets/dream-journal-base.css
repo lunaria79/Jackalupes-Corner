@@ -4,7 +4,7 @@
 
 /* ---------------------------------------- Background ---------------------------------------- */
 .dream-journal-base {
-	background: url("C://Users\regin\OneDrive\Jackalupes Corner\themes\kiki-farmhouse.jpg") center center / cover no-repeat;
+	background: url("C://Users/regin/OneDrive/Jackalupes Corner/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
 	background-blend-mode: darken;
 	background-color: rgb(var(--primary-color), .1);
 }
