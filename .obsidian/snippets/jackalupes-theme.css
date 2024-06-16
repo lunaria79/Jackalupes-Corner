@@ -27,6 +27,12 @@ body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
 
 * {
 	--purple-tint: 213, 168, 233;
+	--medium-radius: 6px;
+	--small-radius: 4px;
+	
+	--file-line-width: 80%;
+
+	font-family: "Dosis", sans-serif;
 }
 
 /* ------------------------------------------- Page Setup ------------------------------------------- */
@@ -52,10 +58,12 @@ div.markdown-reading-view {
 	height: 100%;
 }
 
-.markdown-preview-section {
-	padding-bottom: 20px !important;
-	max-width: 80% !important;
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+    max-width: var(--file-line-width);
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 /* ---------- Source Mode ---------- */
 .cm-contentContainer {
