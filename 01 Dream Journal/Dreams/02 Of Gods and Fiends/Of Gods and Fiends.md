@@ -81,7 +81,7 @@ Completed: false
 								</div>
 								<div class="callout-title-inner">  Toshi  </div>
 							</div>
-							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg?token=GHSAT0AAAAAACTLK7POJPRTPAMZJHA42OYCZTN4LJA">
+							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
 							<h3>Prologue</h3>
 							<p>There is an air of mystery surronding <b>Toshi's</b> birth. <i>(because i the creator don't know teehee.)</i> He was not born, but found. His purpose unkown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
 							<h3> Main Story </h3>
