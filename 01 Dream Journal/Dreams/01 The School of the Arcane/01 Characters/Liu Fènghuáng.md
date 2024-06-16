@@ -84,7 +84,7 @@ Completed: false
 				</div>
 				<div class="callout-title-inner"> Description </div>
 			</div>
-			<img alt="Peppe Stare" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/01%20Characters/00%20Images/Liu%20F%C3%A8nghu%C3%A1ng.png?token=GHSAT0AAAAAACTLK7POXFWYDHFUKRRQC4WGZTN4HZQ">
+			<img alt="Peppe Stare" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/01%20Characters/00%20Images/Liu%20F%C3%A8nghu%C3%A1ng.png">
 			<h3> Pronouns </h3>
 			<p>He/Him</p>
 			<h3> Age </h3>
