@@ -24,7 +24,7 @@ tags:
 [[ZIALONA Home Page]]
 
 #### Themes
-[[themes]]
+[[Stage Files/themes/themes]]
 
 #### To Write
 

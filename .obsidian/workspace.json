@@ -4,80 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5208cbb0842e8dff",
-        "type": "split",
+        "id": "90c65590522731e9",
+        "type": "tabs",
         "children": [
           {
-            "id": "355f79737eb21030",
-            "type": "tabs",
-            "dimension": 29.82625482625483,
-            "children": [
-              {
-                "id": "85cc54a7263cc53a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "themes/meow7.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
+            "id": "1e58ca9bb48beca4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           },
           {
-            "id": "90c65590522731e9",
-            "type": "tabs",
-            "dimension": 70.17374517374517,
-            "children": [
-              {
-                "id": "1e58ca9bb48beca4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "bcc9bd61a5131dc7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Minecraft Summon Items.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "dd0e3c53081ac7f6",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png"
-                  }
-                }
-              },
-              {
-                "id": "df3e4548e60830be",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "themes/kiki-farmhouse.jpg"
-                  }
-                }
+            "id": "bcc9bd61a5131dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Summon Items.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "currentTab": 3
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/kiki-farmhouse.jpg",
+                "file": "Minecraft Summon Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "themes/kiki-farmhouse.jpg",
+                "file": "Minecraft Summon Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "themes/kiki-farmhouse.jpg"
+                "file": "Minecraft Summon Items.md"
               }
             }
           },
@@ -214,18 +167,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df3e4548e60830be",
+  "active": "bcc9bd61a5131dc7",
   "lastOpenFiles": [
-    "themes/meow7.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/SSS Stargazer.png",
-    "themes/kiki-farmhouse.jpg",
+    "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Stage Files/themes/kiki-farmhouse.jpg",
+    "01 Dream Journal/Stage Files/themes/meow7.md",
     "Minecraft Summon Items.md",
-    "themes/sleeping-deer.jpg",
-    "themes/Crimson City - hereisbis twit.jpg",
+    "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg",
+    "01 Dream Journal/Stage Files/themes/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "themes/draculabase.png",
-    "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
+    "01 Dream Journal/Stage Files/themes/draculabase.png",
+    "01 Dream Journal/Stage Files/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/Mary Jane.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
@@ -244,7 +198,6 @@
     "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Stage Files/icons.md",
-    "01 Dream Journal/Stage Files/themes.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",

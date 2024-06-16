@@ -42,7 +42,6 @@
   "01 Dream Journal/Dreams/Atomize.md": "FasFilePen",
   "01 Dream Journal/Dreams/Trauma Central (Not Official).md": "FasFilePen",
   "01 Dream Journal/Stage Files/Code Testing Ground.md": "FasFileCode",
-  "01 Dream Journal/Stage Files/themes.md": "FasPaintRoller",
   "01 Dream Journal/Stage Files": "FasFolderTree",
   "01 Dream Journal/Dreams/Gaia's Wrath.md": "FasFilePen",
   "01 Dream Journal/Stage Files/icons.md": "FasFileLines",
@@ -120,10 +119,11 @@
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 1.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 2.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 3.png": "FasFileImage",
-  "themes": "FasFolderTree",
-  "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg": "FasFileImage",
-  "themes/Crimson City - hereisbis twit.jpg": "FasFileImage",
-  "themes/draculabase.png": "FasFileImage",
-  "themes/kiki-farmhouse.jpg": "FasFileImage",
-  "themes/sleeping-deer.jpg": "FasFileImage"
+  "01 Dream Journal/Stage Files/themes": "FasFolderTree",
+  "01 Dream Journal/Stage Files/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/themes/Crimson City - hereisbis twit.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/themes/draculabase.png": "FasFileImage",
+  "01 Dream Journal/Stage Files/themes/kiki-farmhouse.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller"
 }

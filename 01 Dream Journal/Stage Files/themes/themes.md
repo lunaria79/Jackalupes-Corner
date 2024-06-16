@@ -6,10 +6,8 @@ Home:
 ---
 > [!infobox ]+   Court of Death and Desire
 > ![[kiki-farmhouse.jpg]]
->[](../../themes/kiki-farmhouse.jpg)c, #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
->```
->~~~ 
---background-color: 28, 28, 44;
+>[](themes/kiki-farmhouse.jpg)rmhouse.jpg)c, #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
+>[](themes/kiki-farmhouse.jpg)8, 44;
 --primary-color: 243, 172, 208;
 >
 --red-tint: 247, 151, 130;
@@ -26,11 +24,8 @@ Home:
 
 > [!infobox ]+  Fantasy Steampunk Mermaids
 ![[Best-Steampunk-Wallpapers-Download-Pictures.jpg]]
->[](../../themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg)ee88, #a1b65e, #b3f6e5, #dc9cac, #f8f4d7
->```
->~~~ 
---background-color: 51, 41, 27;
---primary-color: 226, 183, 113;
+>[](themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg)ictures.jpg)ee88, #a1b65e, #b3f6e5, #dc9cac, #f8f4d7
+>[](themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg)183, 113;
 >
 --red-tint: 189, 101, 53;
 --orange-tint: 203, 155, 79;
@@ -43,11 +38,8 @@ Home:
 
 >[!infobox]+ Of Gods and Fiends
 >![[Crimson City - hereisbis twit.jpg]]
->[](../../themes/Crimson%20City%20-%20hereisbis%20twit.jpg), #E5248E,  #ffe6d7
->```
->~~~
---background-color: 21, 7, 29;
---primary-color: 185, 51, 73;
+>[](themes/Crimson%20City%20-%20hereisbis%20twit.jpg)ereisbis%20twit.jpg), #E5248E,  #ffe6d7
+>[](themes/Crimson%20City%20-%20hereisbis%20twit.jpg)85, 51, 73;
 >
 --red-tint: 185, 51, 73;
 --blue-tint: 96, 159, 230;
@@ -57,10 +49,8 @@ Home:
 
 >[!infobox]+ Nothing Left to Say
 >![[sleeping-deer.jpg]]
->[](../../themes/sleeping-deer.jpg)#8f8675, #c7c3ba,  #515846  , #3e4a4d, #68664d
->```
->~~~
---background-color: 18, 14, 11;
+>[](themes/sleeping-deer.jpg)ng-deer.jpg)#8f8675, #c7c3ba,  #515846  , #3e4a4d, #68664d
+>[](themes/sleeping-deer.jpg)4, 11;
 --primary-color: 143 , 134, 117;
 >
 --yellow-tint: 153, 149, 107;
