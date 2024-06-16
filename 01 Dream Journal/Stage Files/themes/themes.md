@@ -9,11 +9,12 @@ cssclasses:
 > [!infobox ]+   Court of Death and Desire
 > ![[kiki-farmhouse.jpg]]
 > ```palette
-> #1C1C2C, #F3ACD0, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9, #FFF
+> #1C1C2C, #F3ACD0, #FFF, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9
 > ```
 > ```css
 --background-color: 28, 28, 44;
 --primary-color: 243, 172, 208;
+--text: 255, 255, 255;
 >
 --red-tint: 247, 151, 130;
 --orange-tint: 247, 202, 130;
@@ -21,17 +22,18 @@ cssclasses:
 --green-tint: 165, 233, 176;
 --blue-tint: 165, 214, 230;
 --purple-tint: 213, 168, 233;
->
---text: 255, 255, 255;
---heading-font: Dosis;
---codeblock-font: Ubuntu Sans Mono;
 >```
 
 
 > [!infobox ]+  Fantasy Steampunk Mermaids
 ![[Best-Steampunk-Wallpapers-Download-Pictures.jpg]]
->[](themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg)ictures.jpg)ee88, #a1b65e, #b3f6e5, #dc9cac, #f8f4d7
->[](themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg)183, 113;
+> ```palette
+> #29291B, #E2B771, #F8F4D7, #BD6535, #CB9B4F, #EBEE88, #A1B65E, #B3F6E5, #DC9CAC
+> ```
+>```css
+--background-color: 51, 41, 27;
+--primary-color: 226, 183, 113;
+--text: 248, 244, 215;
 >
 --red-tint: 189, 101, 53;
 --orange-tint: 203, 155, 79;
@@ -39,8 +41,8 @@ cssclasses:
 --green-tint: 161, 182, 94;
 --blue-tint: 179, 246, 229;
 --purple-tint: 220, 156, 172;
->
---text: 248, 244, 215;
+>```
+
 
 >[!infobox]+ Of Gods and Fiends
 >![[Crimson City - hereisbis twit.jpg]]

@@ -186,6 +186,7 @@ div.html-tab:hover {
 .steampunk-mermaids * {
 	--background-color: 51, 41, 27;
 	--primary-color: 226, 183, 113;
+	--text: 248, 244, 215;
 
 	--red-tint: 189, 101, 53;
 	--orange-tint: 203, 155, 79;
@@ -193,8 +194,6 @@ div.html-tab:hover {
 	--green-tint: 161, 182, 94;
 	--blue-tint: 179, 246, 229;
 	--purple-tint: 220, 156, 172;
-
-	--text: 248, 244, 215;
 
 	font-family: "Rokkitt", serif;
 }

@@ -18,13 +18,6 @@ div.markdown-source-view.code.is-live-preview {
   background-image: none;
 }
 
-/* div.markdown-reading-view > div.markdown-preview-view.code > div {
-    background-color: transparent;
-    backdrop-filter: blur(4px);
-    padding: 20px;
-    max-width: 65%;
-  }
-
 /* ----------------------- Properties ----------------------- */
 /* ----------------------- Headings ----------------------- */
 .code span.cm-header-1,
@@ -107,5 +100,5 @@ div.markdown-preview-view.code > div > div > pre > code {
 
 .code .palette {
 	height: 60px;
-	border-radius: 2px;
+	border-radius: 8px 8px 0 0;
 }
