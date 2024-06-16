@@ -70,6 +70,7 @@ div.markdown-reading-view {
 
 .markdown-preview-section {
 	padding-bottom: 20px !important;
+	max-width: 80% !important;
 }
 
 .markdown-preview-view div.inline-title {
@@ -82,7 +83,7 @@ div.markdown-reading-view {
 	
 }
 
-/* ---------- Source Mode ---------- */
+* ---------- Source Mode ---------- */
 .cm-contentContainer {
 	background-color: rgb(28, 28, 44, 1);
 	padding: 25px;

@@ -43,7 +43,7 @@ doesn't actually realize that she is a nanobot legion until she gets her brains 
 they live on a spaceship, just the two of them. How she winds up there is a huge accident, and freedom fighter almost kills her thinking she was sent to kill *him*.  
 Enemies (not really) to lovers.
 
-###### vil snakes give the best dick
+##### vil snakes give the best dick
 main character is a trans peacock fae, who to save the heroes shes traveling with, decides to stay behind in a high level boss dungeon so they can escape. Upon meeting the dungeon boss, she immediately pivots to wanting to bounce on that d.  
 
 snake fae warlord is very confused why there's a peacock fae following him around everywhere making goo goo eyes at him, but since the opportunity has presented itself might as well fuck once and OH NO WE'VE CAUGHT FEELINGS OH SHIT OH FUCK ON NO  
@@ -54,3 +54,6 @@ instead of having two dicks, it kinda like, telescopes. and then instead of fuck
 he's good at eating pussy so that makes up for it. forked tongue and all.  
 at some point, her old party shows up to rescue her, and she's like "guys i do *not* need to be rescued we're all good"  
 at the beginning, they got used to fucking in the living room cause no one else was there, so when the cat fae arrived they quickly had to remember that "oh shit there's another person here and he's a voyeur". snake fae used this as an excuse to finally allow her in to his room.
+
+##### dicothomy
+office siren x office himbo x office ice prince x office bimbo except they were roommates

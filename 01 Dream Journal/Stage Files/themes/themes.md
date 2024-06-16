@@ -6,7 +6,7 @@ Home:
 ---
 > [!infobox ]+   Court of Death and Desire
 > ![[kiki-farmhouse.jpg]]
->[](themes/kiki-farmhouse.jpg)rmhouse.jpg)c, #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
+>[](themes/kiki-farmhouse.jpg), #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
 >[](themes/kiki-farmhouse.jpg)8, 44;
 --primary-color: 243, 172, 208;
 >
