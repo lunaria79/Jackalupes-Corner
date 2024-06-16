@@ -93,7 +93,7 @@ Home:
 								</div>
 								<div class="callout-title-inner"> SSS Stargazer</div>
 							</div>
-							<img alt="SSS Stargazer.png" src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\05 Milo & Caspian\00 Images\SSS Stargazer.png">
+							<img alt="SSS Stargazer.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Milo%20%26%20Caspian/00%20Images/SSS%20Stargazer.png">
 							<p>The <i>Star Gazer</i>  was an aircraft of legends. The voyager was commanded by the legendary <b>Captain Nyarai Laforeze </b>and her trusty first mate, <b>Cadenza Milore</b>. The ship was massive, nearing 1000 ft long. And the size of the crew was nothing to sneeze at. Hundreds of crew members were on that ship, but to the general public, only about 20 were named. The <i>Star Gazer</i> braved many a storm, monsters, and foes alike. But, nothing could ever destroy her. The stories of her adventures reached every corner of the globe. However, one day, <i>The Star Gazer</i> mysteriously went down over the <b>Sea of Monsters</b>, and vanished from the known world. No wreckage or survivors were reportedly ever found.</p>
 						</div>
 					</div>
@@ -106,7 +106,7 @@ Home:
 								</div>
 								<div class="callout-title-inner"> Moodboard + Gallery </div>
 							</div>
-							<img alt="steampunk moodboard.png" src="C:\Users\regin\OneDrive\Dream Journal\01 Dream Journal\Dreams\05 Milo & Caspian\00 Images\steampunk moodboard.png" referrerpolicy="no-referrer">
+							<img alt="steampunk moodboard.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Milo%20%26%20Caspian/00%20Images/steampunk%20moodboard.png" referrerpolicy="no-referrer">
 							<br><a data-href="Undersea Gallery" href="Undersea Gallery" class="internal-link" target="_blank" rel="noopener"><span class="iconize-icon-in-link" title="FasImages" aria-label="FasImages" data-icon="FasImages" aria-hidden="true"></span>Undersea Gallery</a>
 						</div>
 					</div>

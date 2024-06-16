@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+:root {
+  --bggray: #2e2e2e;
+  --hlgray: #333;
+  --bxshdw: #26262663;
+
+  --lupawhite: #f7eefd;
+  --lupared: #b35454;
+  --lupaorange: #cb9767;
+  --lupayellow: #c6c083;
+  --lupagreen: #80b377;
+  --lupablue: #47516c;
+  --lupapurple: #9d6fbd;
+  --lupapink: #b06d90;
+
+  --sex: #b8357b;
+}
+
+/* ----------------------- Page Setup ----------------------- */
+  /* All Pages */
+  .markdown-preview-view {
+    padding: 10px;
+    background: var(--bggray);
+  }
+
+:is(.markdown-preview-view,.markdown-rendered).is-readable-line-width:not(.matrix) .markdown-preview-sizer {
+	min-width: 50%;
+}
+	
+.markdown-preview-sizer.markdown-preview-section {
+	padding-bottom: 10px !important;
+}
+
+* {
+	font-family: ;	
+}
+
+/* ----------------------- Title + Metadata ----------------------- */
+div.inline-title {
+  color: var(--lupawhite);
+  text-align: center;
+  font-weight: 700;
+
+  margin-top: 10px;
+}
+
+/* ---------- Metadata Container ---------- */
+  div.metadata-container {
+    padding: 15px;
+    
+
+    border: none !important;
+    border-radius: 3px;
+
+    background-color: var(--hlgray) !important;
+    box-shadow: 2px 2px 1px var(--bxshdw) !important;
+  }
+
+  .metadata-properties-heading .collapse-indicator {
+      position: absolute;
+      left: -16px;
+      padding: 0 6px;
+  }
+
+  div.metadata-container.is-collapsed {
+    padding-bottom: 5px;
+  }
+  
+/* ---------- Metadata Categories ---------- */
+  .metadata-property-key {
+	  width: 165px;
+  }
+
+  .metadata-property-icon, 
+  .metadata-property-key-input {
+    color: var(--lupawhite) !important;
+    font-weight: 600 !important;
+  }
+
+  input.metadata-property-key-input {
+    width: 130px;
+    overflow: visible;
+  }
+
+  .metadata-property .multi-select-container {
+      padding: var(--size-4-1) var(--size-4-2);
+      overflow-wrap: break-word;    
+  }
+
+/* ----- Tags ---- */
+.metadata-property:not([data-property-key="tags"]) .multi-select-pill {
+  color: var(--lupawhite);
+  background: #454545b8 !important;
+  font-weight: 500;
+  padding: 5px;
+  margin: 5px 3px;
+  border-radius: 0 5px 5px;
+  display: inline-block;
+}
+
+.metadata-property:not([data-property-key="tags"]) .multi-select-pill:hover {
+  cursor: pointer;
+}
+
+svg.svg-icon[class="svg-icon lucide-x"] {
+  display: none;
+}
+
+.metadata-property[data-property-key="Rating"] .metadata-property-value .multi-select-container .multi-select-pill {
+  background-color: var(--lupared) !important;
+}
+
+.metadata-property[data-property-key="Relationships"] .metadata-property-value .multi-select-container .multi-select-pill {
+  background-color: var(--lupapink) !important;
+}
+
+/* ----- Fanfic ----- */
+.title {
+	color: var(--lupapurple);
+	font-family: "Open Sans", sans-serif;  
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 1.2;
+	text-align: center;
+}
+
+.text {
+	color: var(--lupawhite);
+	margin-top: 5px;
+	text-align: justify;
+}
+
+.divide {
+	text-align: center;
+	font-weight: bold;
+	color: var(--lupawhite);
+	font-family: "Nunito Sans", sans-serif;
+}
+
+.msg-box {
+	border: 1px var(--lupawhite) solid;
+	padding: 15px;
+	width: 50%;
+	margin: auto;
+}
+
+.msg-box b {
+	color: var(--lupapurple);
+}
+
+
+/* ----- Text Messages ----- */
+/* QuickReset */ * {margin: 0; box-sizing: border-box;}
+.chat {
+  --rad: 10px;
+  --rad-sm: 3px;
+  
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  max-width: 500px;
+  margin: auto;
+}
+
+.msg {
+	position: relative;
+	max-width: 75%;
+	padding: 7px 15px;
+	margin-top: 3px;
+	margin-bottom: 2px !important;
+
+	color: var(--lupawhite);
+	box-shadow: 2px 2px 2px #0000003d;
+}
+
+.msg.sent {
+  border-radius: var(--rad) var(--rad-sm) var(--rad-sm) var(--rad);
+  background: #6d6d6d30;
+  
+  /* moves it to the right */
+  margin-left: auto;
+}
+
+.msg.rcvd {
+  border-radius: var(--rad-sm) var(--rad) var(--rad) var(--rad-sm);
+  background: #00000030;
+    
+  /* moves it to the left */
+  margin-right: auto;
+}
+
+.msg.sent:first-child,
+.msg.rcvd+.msg.sent {
+  margin-top: 20px;
+}
+
+.msg.rcvd:first-child,
+.msg.sent+.msg.rcvd {
+  margin-top: 20px;
+}
+
+.msg-notice {
+	font-weight: 800;
+	font-size: .75rem;
+	font-style: italic;
+	text-align: center;
+	margin: 10px 0;
+}
+
+/* Name */
+.msg::before {
+  content: attr(data-time);
+  font-size: 0.8rem;
+  font-weight: 600;
+  position: absolute;
+  bottom: 100%;
+  color: #fff;
+  white-space: nowrap;
+  
+  /* Hidden by default */
+  display: none;
+}
+
+.msg.sent::before {
+  right: 5px;
+}
+
+.msg.rcvd::before {
+  left: 5px;
+}
+
+/* Show time only for first message in group */
+.msg:first-child::before,
+.msg.sent+.msg.rcvd::before,
+.msg.rcvd+.msg.sent::before {
+  /* Show only for first message in group */
+  display: block;
+}
+
+
+/*
+.press {
+  font-family: "Titillium Web";
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}
+.pressbox {
+ border: 1px solid;
+ padding-top: 15px;
+ padding-bottom: 15px;
+}
+.tweet {
+  font-family: "Titillium Web";
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}
+
+.twtdivide {
+  display: block;
+  text-align: center;
+  font-family: "NunitoSans";
+  margin: -10px;
+}

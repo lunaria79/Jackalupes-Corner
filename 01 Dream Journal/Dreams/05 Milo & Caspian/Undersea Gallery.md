@@ -10,7 +10,7 @@ tags:
 ---
  # The Coral Reefs and Atlantis
  ```img-gallery
-path: 01 Dream Journal/Dreams/05 Fantasy Steampunk/00 Images/Coral Reef
+path: 01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef
 type: horizontal
 radius: 5
 column: 2
