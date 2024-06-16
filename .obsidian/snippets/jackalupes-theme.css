@@ -5,26 +5,6 @@
 	display: none !important;
 }
 
-* {
-	--background-color: 28, 28, 44;
-	--primary-color: 243, 172, 208;
-	--text: 255, 255, 255;
-
-	--red-tint: 247, 151, 130;
-	--orange-tint: 247, 202, 130;
-	--yellow-tint: 222, 233, 165;
-	--green-tint: 165, 233, 176;
-	--blue-tint: 165, 214, 230;
-	--purple-tint: 213, 168, 233;
-
-	--medium-radius: 8px;
-	--small-radius: 4px;
-	
-	--file-line-width: 80%;
-	
-	font-family: "Dosis", sans-serif;
-}
-
 .nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before,
 .nav-folder .nav-folder-title .nav-folder-title-content::before {
 	display: none;
@@ -45,6 +25,10 @@ body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
 	display: none;
 }
 
+* {
+	--purple-tint: 213, 168, 233;
+}
+
 /* ------------------------------------------- Page Setup ------------------------------------------- */
 /* All Pages */
 .markdown-preview-view {
@@ -63,7 +47,6 @@ body {
   --ctp-surface2: 88, 91, 112;
 }
 
-
 /* ---------- Reading Mode ---------- */
 div.markdown-reading-view {
 	height: 100%;
@@ -72,16 +55,6 @@ div.markdown-reading-view {
 .markdown-preview-section {
 	padding-bottom: 20px !important;
 	max-width: 80% !important;
-}
-
-.markdown-preview-view div.inline-title {
-	color: rgb(var(--primary-color));
-	border: 2px solid rgb(var(--primary-color));
-	border-radius: var(--medium-radius);
-	padding: 3px 15px;
-	font-family: "Rokkitt", serif;
-	background-color: rgb(var(--background-color), .8);
-	
 }
 
 /* ---------- Source Mode ---------- */
@@ -94,12 +67,5 @@ div.markdown-reading-view {
 
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line, .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
 	max-width: none;
-}
-
-.markdown-source-view div.inline-title {
-	font-family: "Rokkitt", serif;
-	color: rgb(var(--text-normal));
-	background-color: rgb(28, 28, 44, 1);
-	padding: 0 10px;
 }
 

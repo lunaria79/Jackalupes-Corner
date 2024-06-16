@@ -10,6 +10,22 @@
 }
 
 .dream-journal-base * {
+	--background-color: 28, 28, 44;
+	--primary-color: 243, 172, 208;
+	--text: 255, 255, 255;
+
+	--red-tint: 247, 151, 130;
+	--orange-tint: 247, 202, 130;
+	--yellow-tint: 222, 233, 165;
+	--green-tint: 165, 233, 176;
+	--blue-tint: 165, 214, 230;
+	--purple-tint: 213, 168, 233;
+
+	--medium-radius: 6px;
+	--small-radius: 4px;
+	
+	--file-line-width: 80%;
+
 	font-family: "Dosis", sans-serif;
 }
 
@@ -33,6 +49,35 @@ div.html-tab-content {
 }
 
 /* ---------------------------------------- Font Changes ---------------------------------------- */
+.dream-journal-base .inline-title, 
+.dream-journal-base h1, 
+.dream-journal-base h2, 
+.dream-journal-base h3, 
+.dream-journal-base h4, 
+.dream-journal-base h5, 
+.dream-journal-base h6 {
+	-webkit-text-fill-color: currentColor !important;
+	-webkit-background-clip: unset !important;
+	background-clip: unset !important;
+	background-image: none !important;
+}
+
+.markdown-preview-view.dream-journal-base div.inline-title {
+	color: rgb(var(--primary-color));
+	border: 2px solid rgb(var(--primary-color));
+	border-radius: var(--medium-radius);
+	padding: 3px 15px;
+	font-family: "Rokkitt", serif;
+	background-color: rgb(var(--background-color), .8);
+}
+
+.markdown-source-view.dream-journal-base div.inline-title {
+	font-family: "Rokkitt", serif;
+	color: rgb(var(--text));
+	background-color: rgb(28, 28, 44, 1);
+	padding: 0 10px;
+}
+
 .dream-journal-base img {
 	border-radius: var(--medium-radius);
 	border: 2px solid rgb(var(--primary-color));
@@ -66,19 +111,6 @@ div.html-tab-content {
 
 .dream-journal-base .collapse-indicator svg {
 	color: rgb(var(--text)) !important;
-}
-
-.dream-journal-base .inline-title, 
-.dream-journal-base h1, 
-.dream-journal-base h2, 
-.dream-journal-base h3, 
-.dream-journal-base h4, 
-.dream-journal-base h5, 
-.dream-journal-base h6 {
-	-webkit-text-fill-color: currentColor !important;
-	-webkit-background-clip: unset !important;
-	background-clip: unset !important;
-	background-image: none !important;
 }
 
 /* ------------------------------------------- Properties ------------------------------------------- */
@@ -216,7 +248,7 @@ div.html-tab-content {
 
 /* ---------------------------------------- Tabs ---------------------------------------- */
 div.html-tabs {
-	padding: 5px 20px;
+	padding: 5px 0 8px 20px;
 	margin: 0 10px;
 
 	color: rgb(var(--primary-color));
