@@ -1,0 +1,4 @@
+---
+cssclasses:
+  - dream-journal-base
+---

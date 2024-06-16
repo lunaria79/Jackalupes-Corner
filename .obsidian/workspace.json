@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "themes/kiki-farmhouse.jpg",
+                "file": "themes/meow7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "themes/kiki-farmhouse.jpg",
+                "file": "themes/meow7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "themes/kiki-farmhouse.jpg"
+                "file": "themes/meow7.md"
               }
             }
           },
@@ -201,13 +201,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df3e4548e60830be",
+  "active": "dd0e3c53081ac7f6",
   "lastOpenFiles": [
+    "themes/kiki-farmhouse.jpg",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "themes/meow7.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "themes/draculabase.png",
-    "themes/kiki-farmhouse.jpg",
     "themes/Crimson City - hereisbis twit.jpg",
     "themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg",
     "Minecraft Summon Items.md",
