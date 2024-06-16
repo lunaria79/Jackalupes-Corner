@@ -239,12 +239,11 @@ input[type=checkbox]:not(:checked) {
 
 /* ------------------------------------------- Callout ------------------------------------------- */
 .callout {
-	background-color: rgb(12 13 16 / .2);
+	background-color: rgb(var(--background-color), .75);
 	padding: 25px 45px;
 	border-radius: var(--medium-radius);
 }
 
-.markdown-rendered pre,
-.palette {
+.markdown-rendered pre {
 	border-radius: var(--medium-radius);
 }

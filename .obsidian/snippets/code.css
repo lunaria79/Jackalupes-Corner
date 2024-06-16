@@ -91,3 +91,21 @@ div.markdown-preview-view.code > div > div > pre > code {
 .code .cm-line.HyperMD-codeblock-end {
   border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
 }
+
+/* ------------------------------------------- Callout ------------------------------------------- */
+.callout {
+	background-color: rgb(var(--background-color), .75);
+	padding: 25px 45px;
+	border-radius: var(--medium-radius);
+}
+
+
+
+.code .image-embed img {
+	max-height: 350px;
+	border-radius: 0px;
+}
+
+.palette {
+	height: 60px;
+}

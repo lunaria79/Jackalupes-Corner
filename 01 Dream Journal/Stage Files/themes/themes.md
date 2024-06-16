@@ -9,11 +9,11 @@ cssclasses:
 > [!infobox ]+   Court of Death and Desire
 > ![[kiki-farmhouse.jpg]]
 > ```palette
-> #EDABD0, #A4D7E5, #D2A5E9, #a5e9b0, #DEE9A5, #F7CA82, #F79782
+> #1C1C2C, #F3ACD0, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9, #FFF
 > ```
 >
 ```css
---primary-color: 243, 172, 208;
+--background-color: 28, 28, 44;
 --primary-color: 243, 172, 208;
 
 --red-tint: 247, 151, 130;
@@ -56,12 +56,17 @@ cssclasses:
 
 >[!infobox]+ Nothing Left to Say
 >![[sleeping-deer.jpg]]
->[](themes/sleeping-deer.jpg)ng-deer.jpg)#8f8675, #c7c3ba,  #515846  , #3e4a4d, #68664d
->[](themes/sleeping-deer.jpg)4, 11;
+>```palette
+> #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
+> ```
+```
+--background-color: 18, 14, 11;
 --primary-color: 143 , 134, 117;
->
+
 --yellow-tint: 153, 149, 107;
 --green-tint: 81, 88, 70;
 --blue-tint: 62, 74, 77;
->
+
 --text: 199, 195, 186;
+
+font-family: "Rokkitt", serif;
