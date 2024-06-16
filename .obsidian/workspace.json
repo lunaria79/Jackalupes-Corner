@@ -57,11 +57,9 @@
             "id": "df3e4548e60830be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
-                "mode": "preview",
-                "source": true
+                "file": "themes/kiki-farmhouse.jpg"
               }
             }
           }
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "themes/kiki-farmhouse.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "themes/kiki-farmhouse.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md"
+                "file": "themes/kiki-farmhouse.jpg"
               }
             }
           },
@@ -205,9 +203,9 @@
   },
   "active": "df3e4548e60830be",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "themes/meow7.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "themes/draculabase.png",
     "themes/kiki-farmhouse.jpg",
     "themes/Crimson City - hereisbis twit.jpg",
