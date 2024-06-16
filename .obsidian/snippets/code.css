@@ -93,19 +93,19 @@ div.markdown-preview-view.code > div > div > pre > code {
 }
 
 /* ------------------------------------------- Callout ------------------------------------------- */
-.callout {
+.code .callout {
 	background-color: rgb(var(--background-color), .75);
-	padding: 25px 45px;
-	border-radius: var(--medium-radius);
+	padding: 10px 25px 25px 25px;
+	p
+	border-radius: 2px,;
 }
-
-
 
 .code .image-embed img {
 	max-height: 350px;
-	border-radius: 0px;
+	border-radius: 2px;
 }
 
-.palette {
+.code .palette {
 	height: 60px;
+	border-radius: 2px;
 }

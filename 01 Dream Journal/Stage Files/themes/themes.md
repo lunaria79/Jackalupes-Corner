@@ -11,22 +11,21 @@ cssclasses:
 > ```palette
 > #1C1C2C, #F3ACD0, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9, #FFF
 > ```
->
-```css
+> ```css
 --background-color: 28, 28, 44;
 --primary-color: 243, 172, 208;
-
+>
 --red-tint: 247, 151, 130;
 --orange-tint: 247, 202, 130;
 --yellow-tint: 222, 233, 165;
 --green-tint: 165, 233, 176;
 --blue-tint: 165, 214, 230;
 --purple-tint: 213, 168, 233;
-
+>
 --text: 255, 255, 255;
 --heading-font: Dosis;
 --codeblock-font: Ubuntu Sans Mono;
-```
+>```
 
 
 > [!infobox ]+  Fantasy Steampunk Mermaids
@@ -57,16 +56,17 @@ cssclasses:
 >[!infobox]+ Nothing Left to Say
 >![[sleeping-deer.jpg]]
 >```palette
-> #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
+> #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
 > ```
-```
+>```css
 --background-color: 18, 14, 11;
 --primary-color: 143 , 134, 117;
-
+>
 --yellow-tint: 153, 149, 107;
 --green-tint: 81, 88, 70;
 --blue-tint: 62, 74, 77;
-
+>
 --text: 199, 195, 186;
-
+>
 font-family: "Rokkitt", serif;
+>```

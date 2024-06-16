@@ -237,13 +237,3 @@ input[type=checkbox]:not(:checked) {
 	cursor: pointer !important;
 }
 
-/* ------------------------------------------- Callout ------------------------------------------- */
-.callout {
-	background-color: rgb(var(--background-color), .75);
-	padding: 25px 45px;
-	border-radius: var(--medium-radius);
-}
-
-.markdown-rendered pre {
-	border-radius: var(--medium-radius);
-}
