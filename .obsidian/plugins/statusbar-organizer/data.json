@@ -1,29 +1,67 @@
 {
-  "status": {
-    "plugin-backlink;1": {
-      "position": 0,
-      "visible": false,
-      "exists": true
+  "activePreset": "Default",
+  "presets": {
+    "Default": {
+      "plugin-obsidian-grandfather;1": {
+        "position": 1,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-obsidian-git-obsidian-git-statusbar-failed-init-obsidian-git-statusbar-idle-obsidian-git-statusbar-pull-obsidian-git-statusbar-message;1": {
+        "position": 2,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-obsidian-git;1": {
+        "position": 3,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-backlink;1": {
+        "position": 4,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-editor-status;1": {
+        "position": 5,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-word-count;1": {
+        "position": 6,
+        "visible": true,
+        "exists": true
+      }
     },
-    "plugin-editor-status;1": {
-      "position": 4,
-      "visible": true,
-      "exists": true
-    },
-    "plugin-word-count;1": {
-      "position": 2,
-      "visible": true,
-      "exists": true
-    },
-    "plugin-obsidian-discordrpc;1": {
-      "position": 1,
-      "visible": false,
-      "exists": true
-    },
-    "plugin-obsidian-grandfather;1": {
-      "position": 3,
-      "visible": true,
-      "exists": true
+    "default": {
+      "plugin-backlink;1": {
+        "position": 0,
+        "visible": false,
+        "exists": true
+      },
+      "plugin-editor-status;1": {
+        "position": 4,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-word-count;1": {
+        "position": 2,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-obsidian-discordrpc;1": {
+        "position": 1,
+        "visible": false,
+        "exists": true
+      },
+      "plugin-obsidian-grandfather;1": {
+        "position": 3,
+        "visible": true,
+        "exists": true
+      }
     }
-  }
+  },
+  "presetsOrder": [
+    "Default"
+  ]
 }
