@@ -1,19 +1,10 @@
 {
   "accentColor": "#b94ce1",
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "columns",
     "dream-journal",
-    "crt",
-    "jackalupes-theme",
-    "secret-garden",
-    "arcane-school",
-    "code",
-    "dream-journal-base",
-    "gods-and-fiends",
-    "nothing-left-to-say",
-    "milo-caspian",
-    "fanfiction"
+    "crt"
   ],
   "showViewHeader": true
 }
