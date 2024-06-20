@@ -37,7 +37,7 @@ Now, as your looking down upon the tea gathering in the gardens from the tower. 
 > 1. Vindictive that you were right all along.
 > 2. Panicking. Cause where the fuck is your partner.
 > 3. Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
->==4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.==
+> ==4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.==
 
 #### The Letter
 > Hello everyone, you might have noticed that I'm not in the castle. Today, as I'm sure you've heard from REDACTED that we've both received the prophecy of the destruction of the kingdom. But more importantly, I guess I should explain how I got down here. I woke up with the most devastating headache I've ever had. Now that I think about it, it was probably a migraine. I digress. All I knew was that I had to get down to the docks. Now I might have scared some of our citizens with the sluggish way I was walking. But it's a bit too late now. We have more pressing matters at hand. Which I'll get to in a minute.
@@ -47,3 +47,15 @@ This may come as a surprise to you, but I've decided to stay. My mind is clearin
 **REDACTED**: My beloved baby sister. I'm sorry for all of the pain I have caused you over the years. Physically and mentally. It seems to the very end I was unable to cure you of that damn curse. And for that, I will apologize for the rest of eternity. I know that I haven't said it enough growing up but I love you. Since the death of our parents, it's been you and me against the world, and I wouldn't have it any other way. Please forget anything mean I said during puberty, I didn't mean any of it. I was lashing out at the wrong person. It's something I'll never forgive myself for. As you continue on to be the last oracle living, I hope the rest of your prophecies be merry.
 **REDACTED**: Hey love. I know you're probably mad at me. And you should be. Making this decision without your input. But I feel like it was important to do. I'm sorry that our last few conversations have been arguments due to my own pig headed behavior.  I'm sorry that I'm throwing a massive wrench in our plans for the future. You didn't ask for such an idiot of a boyfriend did you. I love you too the moons and back, and then some. May I forever last in your memory, as I speak your name as my final breath.
 _ _ _ _
+
+## Gaia's Wrath
+### The Story
+> Two girls are suddenly captured by a portal, and are transported to a tropical island full of strange Pokémon. As they walk through the forest, unafraid, many Pokémon approached them in curiosity. Eventually, a Pokémon that look similar to a bear cub stained yellow, approached them with a gleam of higher intelligence in his eye. It leads them to a group of 5 Guys, who in turn lead them to the scientist that is the defacto leader of the island. The scientist, being there the longest (since the 1600s), has gone crazy, but is loving it. Spends most of her days talking to her plants and doing experiments. However, Gaia doesn't see her fit to be a leader, and tries to take charge. Janet stands awkwardly behind everyone.
+> While **Gaia** and **the scientist** were talking, **Sun** lead **Janet** to a crystal hatch that had mysteriously opened. Upon leading her to **Moon**, the two cubs initiated a soul contract with **Janet**, and they were so cute she had to accept. After the contract is finished, she exits the hatch and immediately runs in to **the scientist**. **The scientist** explains how never could figure out how to open the hatch, and gave up trying when starting to focus on survival. When arriving back at **the scientists** home, Gaia is consumed by jealousy, as she had been wanting to keep **Sun** as a pet. She was trying to convince one of the **Five Guys** to give her one of their few pokéballs. As **Gaia** watches the three interact, she grows angrier and angrier, and plants start to grow out of her body, beautiful and deadly.
+> Fed up with her attitude, **Janet** rightfully points out **Gaia's** selfishness, which causes the young women to detonate. How dare **Janet** speak to her in that way? As she erupts in anger, **Gaia** attacks **Janet**, trying to steal her bears.
+
+### Characters
+#### Gaia
+> **Gaia** is quite a popular girl, whose used to getting her way. Her and **Janet** were good friends, however, having known each other since the cradle days. When the island starts affecting their minds, she becomes consumed by her anger at not being the special one for once.
+
+Janet is significantly less popular than **Gaia**, and kept to her self. She loves **Gaia**, but entering school has seriously changed her from the kind and loving child she once knew. The island didn't affect her mind like **Gaia** and **the scientist**, as it had chosen her as it's **deity [subject to change]** .
