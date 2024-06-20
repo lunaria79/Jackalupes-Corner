@@ -32,12 +32,23 @@ OK - (Oracle Knight) We never really saw ourselves, up to whatever you want.
 OS - (Oracle Saint) Zelda but with longer blonde hair and slightly softer features (we don't have to be identical, but we are twins)
 
 #### RM Thoughts
->Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.
-
+> Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.
 Now, as your looking down upon the tea gathering in the gardens from the tower. You see the SCP come hastily in, with a grim look on his face, and making a beeline for the OS. And they have quick conversation, and they both start heading towards your tower. So you check comms, and see the "HOLY FUCK SHIT EVERYTHING'S GOING WRONG" message. As well as the "connection lost" message. How would that make you feel?
-
-1. Vindictive that you were right all along.
-2. Panicking. Cause where the fuck is your partner.
+> 1. Vindictive that you were right all along.
+ 2. Panicking. Cause where the fuck is your partner.
 3. Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
 4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
+
+#### The Letter
+> Hello everyone, you might have noticed that I'm not in the castle. Today, as I'm sure you've heard from REDACTED that we've both received the prophecy of the destruction of the kingdom. But more importantly, I guess I should explain how I got down here. I woke up with the most devastating headache I've ever had. Now that I think about it, it was probably a migraine. I digress. All I knew was that I had to get down to the docks. Now I might have scared some of our citizens with the sluggish way I was walking. But it's a bit too late now. We have more pressing matters at hand. Which I'll get to in a minute.
+
+When I arrived at the docks, as soon as I set foot on wood planks it's made of, my mind was flung forward. And an influx of information greeted my third eye. The demons are just across the horizon. And their army has grown. Those killed by them are taking up as thralls. There are more hellhounds than ever before. This is not a battle that can be won. I strongly recommend we evacuate everyone, citizens and soldiers alike.
+
+This may come as a surprise to you, but I've decided to stay. My mind is clearing as these two excellent young fellows are writing. And it's my duty to protect this kingdom to my dying breath. Ergo, I'm staying and you can't convince me otherwise. So I am to write down my last words to you.
+
+**REDACTED**: You have been one of my closest friends since childhood. And since then, I knew that you would make a much better king than that bitch of a brother. Growing up alongside of you was one of the happiest experiences in my life. From beating you in horse races, to beating to you in hunting competitions to beating you in finding love first, I have loved one upping you in every aspect in life. I jest. You're the closest thing to an older brother I have ever had. And for that I love and adore you. Please do not miss me when I'm gone. I'm going to haunt your ass, so we can continue pilfering the kitchens for the rest of our lives.
+
+**REDACTED**: My beloved baby sister. I'm sorry for all of the pain I have caused you over the years. Physically and mentally. It seems to the very end I was unable to cure you of that damn curse. And for that, I will apologize for the rest of eternity. I know that I haven't said it enough growing up but I love you. Since the death of our parents, it's been you and me against the world, and I wouldn't have it any other way. Please forget anything mean I said during puberty, I didn't mean any of it. I was lashing out at the wrong person. It's something I'll never forgive myself for. As you continue on to be the last oracle living, I hope the rest of your prophecies be merry.
+
+**REDACTED**: Hey love. I know you're probably mad at me. And you should be. Making this decision without your input. But I feel like it was important to do. I'm sorry that our last few conversations have been arguments due to my own pig headed behavior.  I'm sorry that I'm throwing a massive wrench in our plans for the future. You didn't ask for such an idiot of a boyfriend did you. I love you too the moons and back, and then some. May I forever last in your memory, as I speak your name as my final breath.
 _ _ _ _
