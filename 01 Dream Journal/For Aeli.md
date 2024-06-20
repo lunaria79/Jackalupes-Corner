@@ -83,3 +83,18 @@ _ _ _ _
 <br>they both think that being married and maybe unhappy about it later was better than dead and/or tortured for a millennia.
 <br>and then i woke up will plan more
 _ _ _ _
+
+## Mary Jane
+### Story
+> Three kids end up running into the woods to avoid the police, and fall in love while doing so. They are wanted for reasons I dont remember. And they're thriving in the woods. Though they all follow a certain "archetype", they are all incredibly intelligent. The nerd is just more so. Turns out, this dream was me reading a biography, and they stayed together for the rest of their lives.
+<br> While the nerd is sleeping somewhat soundly, the jock decides that it's time to confess to the theater kid. While talking quietly, as not to wake up the nerd, the two talk about how they all met and ended up running away together. The jock reveals that earlier in the night, he head confessed his feelings to the nerd, finally picking up on the hints that she had been dropping. And he says to the theater kid that he knows that there's tension between the three of them, and that he wanted confess to the theater kid as well. He doesn't even get to continue, as the theater kid tackles him to the ground with a hug. The nerd, who was half awake most of the time, crawls over and gives them both kisses on the head. No more words are spoken that night.
+<br> When the kids finally come back home, the three have to stay with the jocks very conservative family. So the throuple has to pretend to be just friends, and it's super awkward though they kind of like the secrecy of it all.
+### Characters
+> The tall tall theater kid looked like Zac Oyama, the short studious girl looked like the girl from JWRI Superhero campaign but as a redhead (Name Mary Jane), and the slightly less tall jock had black hair and pale skin.
+_ _ _ _
+
+## NANOBEAM
+> Romance between a human ex-space pirate turned galactic freedom fighter and a woman who turns out to be hundreds of millions of nanobots built by an evil alien civilization hellbent on taking over the galaxy. However there was an accident in the past that had her wind up on earth and raised by loving parents and peers and learned how to be human.
+<br>doesn't actually realize that she is a nanobot legion until she gets her brains blown out in a hostage situation, and plays dead in order to rescue her husband.
+<br>they live on a spaceship, just the two of them. How she winds up there is a huge accident, and freedom fighter almost kills her thinking she was sent to kill _him_.
+Enemies (not really) to lovers.
