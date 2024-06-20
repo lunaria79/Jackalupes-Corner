@@ -15,6 +15,6 @@ Ok so this one is unedited. It's straight brain to paper after a dream, so the w
 > We arrive back in the capital, through not exactly legal means. Concerned about the headless nature of our new dog, we craft him a head, and with a little magic and a blue handkerchief, we have a totally completely normal Pyrenees dog.
 > On the way back up to the castle through the catacombs, we are stopped by the CP's men. Who attempt to arrest us under the pretense of us being the cause of the destruction of the village. And also tried to take our dog. Which is honestly bullshit and everyone there knew it. Lucky for us, we were then teleported into the RM's chamber, where the aforementioned mage, the TWO CP's and our sister were waiting.
 
-### 
+### Castle Arc
 
 _ _ _ _
