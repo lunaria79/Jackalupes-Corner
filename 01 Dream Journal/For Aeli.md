@@ -108,8 +108,12 @@ _ _ _ _
 
 ### Random Scene
 > **Love Interest:** (half jokingly) Did you get lost and the hotel manager touch you?  
-**Main Character:** (half paying attention) Not this time.  
-**Love Interest:** (extremely seriously) What do you mean this time?  
-**Main Character:** Oh look I think our limo is here.  
-**Love Interest:** Wait--  
-(AS A WAY TO DEAL WITH HER TRUAMA, SHE LIKES TO JOKE ABOUT IT WITH HER SISTER AND BANDMATES. SHE IS FINE WITH THE JOKE, AND IF SHE WAS PAYING ATTENTION SHE PROBABLY WOULDVE LAUGHED)
+<br> **Main Character:** (half paying attention) Not this time.  
+<br> **Love Interest:** (extremely seriously) What do you mean this time?  
+<br> **Main Character:** Oh look I think our limo is here.  
+<br> **Love Interest:** Wait--  
+<br> (AS A WAY TO DEAL WITH HER TRUAMA, SHE LIKES TO JOKE ABOUT IT WITH HER SISTER AND BANDMATES. SHE IS FINE WITH THE JOKE, AND IF SHE WAS PAYING ATTENTION SHE PROBABLY WOULDVE LAUGHED)
+
+### Random Scene
+> As they arrive at the red carpet and step out, MC feels like her stomach is collapsing in on herself. On a regular day, she would've paid them no mind, but the camera flashes flings her mind back to her past. She feels like she's going to barf. Instinctively, she curls into the LI's side, and his arm raps around her protectively. He leans down and whispers in her ear, asking if she needs to leave. Her back straightens, her mind clears, and she assures him that she can handle this. It's only a matter of time until she crumbles again.
+_ _ _ _
