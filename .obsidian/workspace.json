@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
                 "mode": "preview",
                 "source": true
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md"
+                "file": "01 Dream Journal/For Aeli.md"
               }
             }
           },
@@ -191,10 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf331f393a849f7a",
+  "active": "0234e92ab8dc845a",
   "lastOpenFiles": [
-    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
+    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
@@ -204,7 +205,6 @@
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Mary Jane.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Untitled.md",
     "02 Stardew Valley/Stardew Valley Recipes.md",
     "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",

@@ -29,10 +29,10 @@ Ok so this one is unedited. It's straight brain to paper after a dream, so the w
 #### RM Thoughts
 > Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.
 <br>Now, as your looking down upon the tea gathering in the gardens from the tower. You see the SCP come hastily in, with a grim look on his face, and making a beeline for the OS. And they have quick conversation, and they both start heading towards your tower. So you check comms, and see the "HOLY FUCK SHIT EVERYTHING'S GOING WRONG" message. As well as the "connection lost" message. How would that make you feel?
-<br> 1. Vindictive that you were right all along.
-<br> 2. Panicking. Cause where the fuck is your partner.
-<br> 3. Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
-<br> 4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
+>> 1. Vindictive that you were right all along.
+>>  <br>2. Panicking. Cause where the fuck is your partner.
+>>   <br>3. Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
+>>  <br>4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
 #### The Letter
 > Hello everyone, you might have noticed that I'm not in the castle. Today, as I'm sure you've heard from REDACTED that we've both received the prophecy of the destruction of the kingdom. But more importantly, I guess I should explain how I got down here. I woke up with the most devastating headache I've ever had. Now that I think about it, it was probably a migraine. I digress. All I knew was that I had to get down to the docks. Now I might have scared some of our citizens with the sluggish way I was walking. But it's a bit too late now. We have more pressing matters at hand. Which I'll get to in a minute.
 <br>When I arrived at the docks, as soon as I set foot on wood planks it's made of, my mind was flung forward. And an influx of information greeted my third eye. The demons are just across the horizon. And their army has grown. Those killed by them are taking up as thralls. There are more hellhounds than ever before. This is not a battle that can be won. I strongly recommend we evacuate everyone, citizens and soldiers alike.
@@ -56,9 +56,13 @@ _ _ _ _
 > Janet is significantly less popular than **Gaia**, and kept to her self. She loves **Gaia**, but entering school has seriously changed her from the kind and loving child she once knew. The island didn't affect her mind like **Gaia** and **the scientist**, as it had chosen her as it's **deity [subject to change]** .
 
 #### Sun & Moon
-**Sun** and **Moon** are the twin familiars that are chosen for Janet. **Sun** is a very excitable and demanding cub, always wanting to be held. **Moon** spends most of her days sleeping, but when more awake is very sweet and cuddly.
+> **Sun** and **Moon** are the twin familiars that are chosen for Janet. **Sun** is a very excitable and demanding cub, always wanting to be held. **Moon** spends most of her days sleeping, but when more awake is very sweet and cuddly.
 
 #### The Scientist
-All that is known about **The Scientist** is that she was transported to the island during a car crash after she and her team broke their team lead out of jail. She does not know what happened to the others.
+> All that is known about **The Scientist** is that she was transported to the island during a car crash after she and her team broke their team lead out of jail. She does not know what happened to the others.
 
 #### 5 Guys
+> Straight up, there are five guys just randomly here. They seemed nice, and were very kind.
+_ _ _ _
+
+## Isle
