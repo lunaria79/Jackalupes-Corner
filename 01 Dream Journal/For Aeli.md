@@ -30,9 +30,9 @@ Ok so this one is unedited. It's straight brain to paper after a dream, so the w
 > Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.
 <br>Now, as your looking down upon the tea gathering in the gardens from the tower. You see the SCP come hastily in, with a grim look on his face, and making a beeline for the OS. And they have quick conversation, and they both start heading towards your tower. So you check comms, and see the "HOLY FUCK SHIT EVERYTHING'S GOING WRONG" message. As well as the "connection lost" message. How would that make you feel?
 >> 1. Vindictive that you were right all along.
->>  <br>2. Panicking. Cause where the fuck is your partner.
->>   <br>3. Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
->>  <br>4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
+>>  2. Panicking. Cause where the fuck is your partner.
+>>  3. Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
+>>  4. Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
 #### The Letter
 > Hello everyone, you might have noticed that I'm not in the castle. Today, as I'm sure you've heard from REDACTED that we've both received the prophecy of the destruction of the kingdom. But more importantly, I guess I should explain how I got down here. I woke up with the most devastating headache I've ever had. Now that I think about it, it was probably a migraine. I digress. All I knew was that I had to get down to the docks. Now I might have scared some of our citizens with the sluggish way I was walking. But it's a bit too late now. We have more pressing matters at hand. Which I'll get to in a minute.
 <br>When I arrived at the docks, as soon as I set foot on wood planks it's made of, my mind was flung forward. And an influx of information greeted my third eye. The demons are just across the horizon. And their army has grown. Those killed by them are taking up as thralls. There are more hellhounds than ever before. This is not a battle that can be won. I strongly recommend we evacuate everyone, citizens and soldiers alike.
@@ -65,4 +65,21 @@ _ _ _ _
 > Straight up, there are five guys just randomly here. They seemed nice, and were very kind.
 _ _ _ _
 
-## Isle
+## Isle of the Gods
+> What was supposed to be an easy dungeon exploration leaves a adventure part marooned on a deserted island. A mysterious force is mysteriously picking of members on by one until there are only five left.
+<br> two party members start off on the wrong foot and get on each others nerves. surprise surprise in the end they are married.
+<br> there's a slightly pompous older guy that's in charge of the expedition.
+<br> turns out he's an elder god that has deluded himself into believing our main girl is his wife and property.
+<br> and the whole island adventure was a big ruse, and he was sacrificing the party members in order to turn her into a minor god to marry.
+<br>after "killing" the guy she actually had become good friends with and trauma bonded with, with an ancient elevator (dreams are wack yall, he was crushed to death because he pushed us out of it cause he
+<br>saw it was a trap. it was in excruciating detail. i love my dreams)
+<br>he then kidnaps her and takes her to the realm of the gods where he forces her into marrying him by
+<br>threatening her life. parades her around like a doll before the ceremony.
+<br>the only person kinda on her side is a minor god dress seamstress that vows to take as long on the dress as possible, so she can either plan her escape and have a moment to herself before her inevitable
+<br>captivity. she eventually gets drugged however, and the ceremony continues
+<br>during the wedding ceremony, THE DEAD GUY SHOWS UP. turns out he's the douche gods younger brother, who was cast out of the realm for "reasons". and enacts a duel with the son of a bitch.
+<br>gods have weird rules, so once a female god is married, she is off the market and no other gods can touch her, like at all physically. in her drugged stupor, she recognizes that her friend wont win the fight, and carefully carries on the ceremony to the point that to finish it they just have to drink from some chalice together
+<br>and because they had been adventuring together for so long, the guy picks up on the plan. orchestrates a move where's blown backwards up the steps, abandons his weapon and drinks from the chalice with her.
+<br>they both think that being married and maybe unhappy about it later was better than dead and/or tortured for a millennia.
+<br>and then i woke up will plan more
+_ _ _ _
