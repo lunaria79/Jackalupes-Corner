@@ -36,7 +36,19 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/For Aeli.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2099d4f3ac14866a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -183,6 +195,8 @@
   "lastOpenFiles": [
     "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Stage Files/Code Testing Ground.md",
+    "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
@@ -209,8 +223,6 @@
     "03 Onymoji/Shikigami/Jorogumo.md",
     "03 Onymoji/Shikigami/Ubume.md",
     "03 Onymoji/Shikigami/Shuten Doji.md",
-    "03 Onymoji/Shikigami/Bake-kujira.md",
-    "03 Onymoji/Shikigami/Miakashi.md",
     "04 These Lyrics Will Write Themselves",
     "03 Onymoji/Shikigami",
     "03 Onymoji",

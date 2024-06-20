@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFileCode",
       "FarAddressCard",
       "FasCode",
       "FasFileLines",
-      "FasFolderOpen",
-      "FarFolderOpen"
+      "FasFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -139,5 +139,6 @@
   "03 Onymoji/Shikigami/Shuten Doji.md": "FarAddressCard",
   "03 Onymoji/Shikigami/Ubume.md": "FarAddressCard",
   "03 Onymoji/Shikigami/Jorogumo.md": "FarAddressCard",
-  "01 Dream Journal/For Aeli.md": "FasFileLines"
+  "01 Dream Journal/For Aeli.md": "FasFileLines",
+  "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md": "FasFileCode"
 }
