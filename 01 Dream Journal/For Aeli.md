@@ -93,8 +93,23 @@ _ _ _ _
 > The tall tall theater kid looked like Zac Oyama, the short studious girl looked like the girl from JWRI Superhero campaign but as a redhead (Name Mary Jane), and the slightly less tall jock had black hair and pale skin.
 _ _ _ _
 
-## NANOBEAM
+## NANOBEAM (Shit Name I Know)
 > Romance between a human ex-space pirate turned galactic freedom fighter and a woman who turns out to be hundreds of millions of nanobots built by an evil alien civilization hellbent on taking over the galaxy. However there was an accident in the past that had her wind up on earth and raised by loving parents and peers and learned how to be human.
 <br>doesn't actually realize that she is a nanobot legion until she gets her brains blown out in a hostage situation, and plays dead in order to rescue her husband.
 <br>they live on a spaceship, just the two of them. How she winds up there is a huge accident, and freedom fighter almost kills her thinking she was sent to kill _him_.
-Enemies (not really) to lovers.
+<br>Enemies (not really) to lovers.
+
+## Trauma Central (Not Official)
+### Story
+> The group is getting ready to go to a fancy dinner and an interview with a huge asshole interviewer. The two sisters are working through their anxiety about it, and the men, while also anxious, are pretending everything is fine and rough housing. The manager has had the MC and the LI in a fake PR relationship, which at this point has every member going, "yeah... PR relationship....". It's not official yet or anything lmao.
+<br> While waiting for the limo, the MC starts to get flashbacks, but wants to continue because she doesn't want to let the group down. (They would not have given a single shit, go take a sick day love we support you) So of course, she doesn't tell anyone, but both the LI and OS notice something is off. They both try to cheer her up by horsing around a little (Love Interest) and discussing the flora in the area (Older Sister). It works, and she returns to the present. For now.
+<br> In the limo, the interviewer starts asking her probing rude questions about her past, causing her to start having more flashbacks. The rest of the group intervenes, and the interviewer is kicked out at a stop light.
+<br> During the dinner, the MC spends most of it crying and having flashbacks in the private bathroom. Poor MC.
+
+### Random Scene
+> **Love Interest:** (half jokingly) Did you get lost and the hotel manager touch you?  
+**Main Character:** (half paying attention) Not this time.  
+**Love Interest:** (extremely seriously) What do you mean this time?  
+**Main Character:** Oh look I think our limo is here.  
+**Love Interest:** Wait--  
+(AS A WAY TO DEAL WITH HER TRUAMA, SHE LIKES TO JOKE ABOUT IT WITH HER SISTER AND BANDMATES. SHE IS FINE WITH THE JOKE, AND IF SHE WAS PAYING ATTENTION SHE PROBABLY WOULDVE LAUGHED)
