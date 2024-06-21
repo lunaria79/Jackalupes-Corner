@@ -49,7 +49,7 @@ ___
 ## Images
 <!--Images-->
 
-![Hollow Knight](hollo.jpg)
+![mary-jane-1](../../00%20_resources/Images/mary-jane-1.jpg)
 
 
 <!-- github md -->

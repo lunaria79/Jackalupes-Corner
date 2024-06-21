@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
-                "mode": "source",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md"
+                "file": "01 Dream Journal/Dream Journal Home Page.md"
               }
             }
           },
@@ -169,11 +169,11 @@
   },
   "active": "0234e92ab8dc845a",
   "lastOpenFiles": [
+    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
-    "01 Dream Journal/For Aeli.md",
-    "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Mary Jane.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
