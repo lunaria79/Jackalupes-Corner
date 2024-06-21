@@ -46,24 +46,13 @@ tags:
 >Translation
 > ```css
 > The Wind of the Flowering Willows
-> "ti amerò sempre"
+> "when you lay me down you'll only bury bones"
 >```
 
 
 
 # Weapons
 
-
-## Bow
-###### Code
-```css
-/give @p minecraft:bow{display:{Name:"\"ℸ ̣ ⍑ᒷ ∴╎リ↸ 𝙹⎓ ℸ ̣ ⍑ᒷ ⎓ꖎ𝙹∴ᒷ∷╎リ⊣ ∴╎ꖎꖎ𝙹∴ᓭ\"",Lore:['{"text":"ℸ ̣ ╎ ᔑᒲᒷ∷ò ᓭᒷᒲ!¡∷ᒷ","color":"#D932FF"}','{"text":"A good friend of mine, Jackalupe, has ascended to the ancients with the rest of her clan, and along with a bunch of other stuff she left me her prized bow.","color":"white"}']},Enchantments:[{id:unbreaking,lvl:3},{id:power,lvl:5},{id:punch,lvl:2},{id:flame,lvl:1},{id:infinity,lvl:1},{id:mending,lvl:1}]} 1
-```
-###### Translation
-~~~
-The Wind of the Flowering Willows
-"when you lay me down you'll only bury bones"
-~~~
 
 ## Arrow
 ###### Code
