@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "56221420f212aaea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/For Aeli.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "27ceb796a2dda42a",
             "type": "leaf",
             "state": {
@@ -54,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Summon Items.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -191,10 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d669bfc9a117300f",
+  "active": "27ceb796a2dda42a",
   "lastOpenFiles": [
-    "01 Dream Journal/For Aeli.md",
     "Minecraft Summon Items.md",
+    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
