@@ -40,8 +40,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ae32247a48d426aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Dream Journal/Dream Journal Home Page.md"
+              }
             }
           },
           {
@@ -174,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e58ca9bb48beca4",
+  "active": "ae32247a48d426aa",
   "lastOpenFiles": [
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/For Aeli.md",
