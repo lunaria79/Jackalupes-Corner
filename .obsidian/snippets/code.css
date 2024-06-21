@@ -110,8 +110,10 @@ div.markdown-preview-view.code > div > div > pre > code {
 }
 
 .code .image-embed img {
-	max-height: 350px;
 	border-radius: 2px;
+    width: 100%;
+    height: 125px;
+    object-fit: cover;
 }
 
 .code .palette {
