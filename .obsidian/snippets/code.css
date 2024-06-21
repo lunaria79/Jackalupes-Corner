@@ -27,12 +27,6 @@
 	font-family: "Dosis", sans-serif;
 }
 
-/* ----------------------- Background ----------------------- */
-.code {
-  background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
-	background-color: rgb(var(--primary-color), .1);
-}
-
 /* ----------------------- Properties ----------------------- */
 /* ----------------------- Headings ----------------------- */
 .code span.cm-header-1,

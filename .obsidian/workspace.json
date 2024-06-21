@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -181,12 +181,12 @@
   },
   "active": "27ceb796a2dda42a",
   "lastOpenFiles": [
+    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "Minecraft Summon Items.md",
     "00 _resources/Images/draculabase.png",
     "01 Dream Journal/Stage Files/themes/themes.md",
-    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
-    "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/ZIALONA Home Page.md",
