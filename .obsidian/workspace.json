@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "mode": "preview",
                 "source": true
               }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md"
+                "file": "01 Dream Journal/Dream Journal Home Page.md"
               }
             }
           },
@@ -181,9 +182,10 @@
   },
   "active": "0234e92ab8dc845a",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/For Aeli.md",
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
@@ -210,7 +212,6 @@
     "00 _resources/Images/mary-jane-3.jpg",
     "00 _resources/Images/mary-jane-2.jpg",
     "03 Onymoji/Shikigami/Jorogumo.md",
-    "03 Onymoji/Shikigami/Ubume.md",
     "04 These Lyrics Will Write Themselves",
     "03 Onymoji/Shikigami",
     "03 Onymoji",
