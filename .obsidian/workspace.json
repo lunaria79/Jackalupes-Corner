@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/ZIALONA Home Page.md",
-                "mode": "preview",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/ZIALONA Home Page.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/ZIALONA Home Page.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/ZIALONA Home Page.md"
+                "file": "01 Dream Journal/Dream Journal Home Page.md"
               }
             }
           },
