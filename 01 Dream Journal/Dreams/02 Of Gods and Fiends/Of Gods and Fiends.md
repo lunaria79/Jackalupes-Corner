@@ -83,11 +83,12 @@ Completed: false
 							</div>
 							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
 							<h3>Prologue</h3>
-							<p>There is an air of mystery surronding <b>Toshi's</b> birth. <i>(because i the creator don't know teehee.)</i> He was not born, but found. His purpose unkown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
+							<p>There is an air of mystery surrounding <b>Toshi's</b> birth. He was not born, but found. His purpose unknown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
 							<h3> Main Story </h3>
-							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby.</p>
+							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby. His main purpose is a reaper. He's been working very hard to suppress the political groups that want another war. </p>
 							<h3>Fun Facts</h3>
 							<p><b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection.</p>
+							<p>The reason <b>Toshi</b> started reaping was because he felt to guilty enjoying his wealth while others were using theirs to hurt others.</p>
 						</div>
 					</div>
 				</div>
