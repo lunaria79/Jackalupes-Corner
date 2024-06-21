@@ -1,3 +1,10 @@
+---
+cssclasses: 
+tags:
+  - Stage
+Home:
+  - "[[Dream Journal Home Page]]"
+---
 # Dream Journal
 ## Atomize
 Ok so this one is unedited. It's straight brain to paper after a dream, so the writing will get better.
