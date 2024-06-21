@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Summon Items.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -180,8 +180,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d669bfc9a117300f",
+  "active": "0234e92ab8dc845a",
   "lastOpenFiles": [
+    "Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "01 Dream Journal/Stage Files/icons.md",
@@ -207,7 +208,6 @@
     "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "Excel 2024-06-16 20.35.21.sheet.md",
-    "Minecraft Summon Items.md",
     "00 _resources/Images/mary-jane-1.jpg",
     "00 _resources/Images/mary-jane-4.jpg",
     "00 _resources/Images/mary-jane-3.jpg",
