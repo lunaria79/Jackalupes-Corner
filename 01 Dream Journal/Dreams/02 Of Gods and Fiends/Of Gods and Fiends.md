@@ -69,7 +69,7 @@ Completed: false
 							<h3> Main Story </h3>
 							<p>The coven has broken <b>Amaia's</b> spirit again, and had bits of her memory removed. She struggles to remember the faces of her original parents and <b>Toshi</b>. Deep down though, she still has a rebellious streak. And all the coven can do is give her orders when she's away in the big city. She is now mentally in her late twenties, and is about to start her path into politics. She is no longer burned by the sun, due to her bodies age. Real blood no longer sustains her, so she has been surviving off of substitutes and fruits.</p>
 							<h3> Fun Facts </h3>
-							<p><b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with ichor, they've permanently turned golden.</p>
+							<p><b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with <i>ichor</i>, they've permanently turned golden.</p>
 						</div>
 					</div>
 					
@@ -85,7 +85,7 @@ Completed: false
 							<h3>Prologue</h3>
 							<p>There is an air of mystery surronding <b>Toshi's</b> birth. <i>(because i the creator don't know teehee.)</i> He was not born, but found. His purpose unkown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
 							<h3> Main Story </h3>
-							<p> <i>(To be written.)</i> Has amassed a huge following amongst both the elite and the general populace. Most assume he's a simple food god, but that's really just a side hobby.</p>
+							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef Most assume he's a simple food god, but that's really just a side hobby.</p>
 							<h3>Fun Facts</h3>
 							<p><b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection.</p>
 						</div>
