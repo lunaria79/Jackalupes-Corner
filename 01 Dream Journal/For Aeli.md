@@ -143,4 +143,4 @@ _ _ _ _
 > > In my professional author opinion. Lord Ass wanted to leave Lady Lovely behind with Lord Sexc, whose a "famous womanizer" so that people could start rumors and ruin her reputation. But that also doesnt make sense with his later actions? Maybe Lord Ass is just dumb.
 > 
 Maid Snake was also left behind to keep an eye on here. Lady Lovely decided to take this time to figure out what exactly is here deal. Maid Snake is easy to win over with fancy sweets and kind words. Hard to be a Snake when you're an Empath. Maid Snake tells Lady Lovely all about the Asses plans to steal her estate away from her. Which is something Lady Lovely had considered, but hoped wasnt true.
-<br> Turns out, Lord Sexc had stayed home as well. And Lady Lovely and Lord Sexc start talking. The connect on an
+<br> Turns out, Lord Sexc had stayed home as well. And Lady Lovely and Lord Sexc start talking. The connect on an intellectual level, and fast become friends.
