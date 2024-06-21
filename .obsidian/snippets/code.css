@@ -55,7 +55,7 @@
 	padding: 5px 25px !important;
 
 	font-family: "Ubuntu Sans Mono", monospace;
-	-webkit-text-fill-color: currentColor;
+	-webkit-text-fill-color: rgb(var(--text));
 	background-clip: unset; 
 	-webkit-background-clip: unset;
 	border-radius: var(--medium-radius) var(--medium-radius) 0 0;
