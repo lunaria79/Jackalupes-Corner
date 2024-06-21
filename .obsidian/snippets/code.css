@@ -48,6 +48,10 @@
   border-radius: var(--medium-radius);
 }
 
+.code h6 > div {
+	background: red;
+}
+
 /* ----------------------- Code Blocks ----------------------- */
 .code span.cm-header-6,
 .code h6 {
