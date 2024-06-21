@@ -12,8 +12,7 @@ Relationships:
   - Kim Namjoon/Kim Seokjin
   - Jeon Jungkook/Kim Taehyung
 tags:
-  - Heavy-Themes
-  - Idol-AU
+  - Stage
 ---
 <div class="chat">
 <div data-time="MYG" class="msg rcvd"> I'm done with the transfer. MY PA, Jungkook, will pick you up within the hour. </div>
@@ -34,3 +33,5 @@ tags:
 <div data-time="MYG" class="msg rcvd">  </div>
 <div data-time="MINIMIN" class="msg sent">  </div>
 </div>
+
+[00 - Table of Contents](00%20-%20Table%20of%20Contents.md)
