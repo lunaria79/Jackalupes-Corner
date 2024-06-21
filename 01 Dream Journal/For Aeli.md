@@ -119,10 +119,12 @@ _ _ _ _
 _ _ _ _
 ## Bridgerton Wishes
 ### Characters
-Lady US
+Lady Lovely
 Lord Ass
 Lord Sexc
 Lady Unimpressed
 Maid Snake
+a gaggle of other people
 
-So, 
+### Story
+So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation,"
