@@ -16,10 +16,10 @@ tags:
 > "sewn from death, to death unsewn"
 >```
 
-> [!infobox ]+   Sword
+> [!infobox ]+   Axe
 > Code
 > ```css
->/give @p netherite_sword{display:{Name:"\"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ\"",Lore:['{"text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ","color":"#D932FF"}','{"text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore.","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+>/give @p netherite_axe{display:{Name:"\"ꖎ||ᓵ𝙹∷╎ᓭ\"",Lore:['{"text":"ᓭ⍑ᒷ↸ リ𝙹 ℸ ̣ ᒷᔑ∷ᓭ ⎓𝙹∷ ℸ ̣ ⍑ᒷ ∴╎ᓵꖌᒷ↸","color":"#D932FF"}','{"text":"The famous mercernary Eden put their axe up for auction, and of course I had to grab it for myself!","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
 >```
 >Translation
 > ```css
