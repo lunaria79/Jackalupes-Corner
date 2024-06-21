@@ -49,6 +49,17 @@ tags:
 > "when you lay me down you'll only bury bones"
 >```
 
+> [!infobox ]+   Arrow
+> Code
+> ```css
+>/give @p spectral_arrow{display:{Name:"\"ᔑᓭ ℸ ̣ ⍑ᒷ ∴╎ꖎꖎ𝙹∴ᓭ ∴⍑╎ᓭ!¡ᒷ∷\"",Lore:['{"text":"ᒲ|| ⍑ᒷᔑ∷ℸ ̣  ᔑリ↸ ᓭ𝙹⚍ꖎ ╎ᓭ ⊣𝙹╎リ⊣ ⍑𝙹ᒲᒷ","color":"#D932FF"}','{"text":"A matching set with ℸ ̣ ⍑ᒷ ∴╎リ↸ 𝙹⎓ ℸ ̣ ⍑ᒷ ⎓ꖎ𝙹∴ᒷ∷╎リ⊣ ∴╎ꖎꖎ𝙹∴ᓭ","color":"white"}']}} 1
+>```
+>Translation
+> ```css
+> The Wind of the Flowering Willows
+> "when you lay me down you'll only bury bones"
+>```
+
 
 
 # Weapons
