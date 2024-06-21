@@ -4,15 +4,11 @@ tags:
   - Stage
 ---
 #### Current Pages
-[[The School of the Arcane]]
-[[Of Gods and Fiends]]
-[[𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛]]
-[[Nothing Left to Say]]
-[[Milo and Caspian]]
-
 [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
 [Of Gods and Fiends](Dreams/02%20Of%20Gods%20and%20Fiends/Of%20Gods%20and%20Fiends.md)
-[[]]
+[𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛](Dreams/03%20The%20Secret%20Garden/𝚝𝚑𝚎%20𝚜𝚎𝚌𝚛𝚎𝚝%20𝚐𝚊𝚛𝚍𝚎𝚗%20𝚋𝚞𝚝%20𝚋𝚢%20𝚓𝚊𝚗𝚎%20𝚊𝚞𝚜𝚝𝚎𝚗%20𝚋𝚞𝚝%20𝚋𝚕𝚊𝚌𝚔%20𝚊𝚗𝚍%20𝚚𝚞𝚎𝚎𝚛.md)
+[Nothing Left to Say](Dreams/04%20Nothing%20Left%20to%20Say/Nothing%20Left%20to%20Say.md)
+[Milo and Caspian](Dreams/05%20Milo%20&%20Caspian/Milo%20and%20Caspian.md)
 
 #### In Progress
 [A Court of Death and Desire](Dreams/A%20Court%20of%20Death%20and%20Desire.md)
@@ -31,7 +27,6 @@ tags:
 [[Stage Files/themes/themes]]
 
 #### To Write
-
 ##### Madness
 The one I'm contemplating discontinuing
 
