@@ -36,12 +36,6 @@ The A/B/O Prison one
 
 ##### Nothing Left To Say
 **Aspen** the Wolf God and the Deer Gods **Celosia** and **Allamanda** life stories
- 
-##### INTERGLACTIC ROBOT ROMANCE: WORMWOOD WISHES (NANOBEAM)
-Romance between a human ex-space pirate turned galactic freedom fighter and a woman who turns out to be hundreds of millions of nanobots built by an evil alien civilization hellbent on taking over the galaxy. However there was an accident in the past that had her wind up on earth and raised by loving parents and peers and learned how to be human.  
-doesn't actually realize that she is a nanobot legion until she gets her brains blown out in a hostage situation, and plays dead in order to rescue her husband.  
-they live on a spaceship, just the two of them. How she winds up there is a huge accident, and freedom fighter almost kills her thinking she was sent to kill *him*.  
-Enemies (not really) to lovers.
 
 ##### vil snakes give the best dick
 main character is a trans peacock fae, who to save the heroes shes traveling with, decides to stay behind in a high level boss dungeon so they can escape. Upon meeting the dungeon boss, she immediately pivots to wanting to bounce on that d.  
