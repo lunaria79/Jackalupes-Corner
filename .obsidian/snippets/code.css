@@ -68,7 +68,7 @@
 	border-radius: 2px,;
 }
 
-.code .callout-title, .callout-icon {
+.code .callout-title, .callout-icon svg {
 	-webkit-text-fill-color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
