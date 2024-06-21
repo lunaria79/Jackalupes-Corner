@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Onymoji/Shikigami/Jorogumo.md",
+                "file": "03 Onymoji/Shikigami/Bake-kujira.md",
                 "mode": "preview",
                 "source": true
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "03 Onymoji/Information/bake-kujira-information.png"
+                "file": "03 Onymoji/Information/Pasted image 20240510004618.png"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Onymoji/Information/bake-kujira-information.png",
+                "file": "03 Onymoji/Information/Pasted image 20240510004618.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Onymoji/Information/bake-kujira-information.png",
+                "file": "03 Onymoji/Information/Pasted image 20240510004618.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Onymoji/Information/bake-kujira-information.png"
+                "file": "03 Onymoji/Information/Pasted image 20240510004618.png"
               }
             }
           },
@@ -179,10 +179,15 @@
   },
   "active": "a3ba228441f6c6aa",
   "lastOpenFiles": [
-    "03 Onymoji/Information/jorogumo-info.png",
-    "03 Onymoji/Shikigami/Jorogumo.md",
     "03 Onymoji/Shikigami/Bake-kujira.md",
-    "03 Onymoji/Information/bake-kujira-information.png",
+    "03 Onymoji/Shikigami/Miakashi.md",
+    "03 Onymoji/Shikigami/Ubume.md",
+    "03 Onymoji/Shikigami/Shuten Doji.md",
+    "03 Onymoji/Shikigami/Jorogumo.md",
+    "03 Onymoji/Information/Pasted image 20240510004618.png",
+    "03 Onymoji/Information/jorogumo-current.png",
+    "03 Onymoji/Information/bake-kujira-info.png",
+    "03 Onymoji/Information/jorogumo-info.png",
     "02 Stardew Valley/Strawberries.md",
     "02 Stardew Valley/Barista (Cold).md",
     "Minecraft Summon Items.md",
@@ -206,8 +211,6 @@
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
-    "01 Dream Journal/Dreams/Mary Jane.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "00 _resources/Images/mary-jane-1.jpg",
     "00 _resources/Images/mary-jane-4.jpg",
     "00 _resources/Images/mary-jane-3.jpg",
@@ -215,8 +218,6 @@
     "04 These Lyrics Will Write Themselves",
     "03 Onymoji/Shikigami",
     "03 Onymoji",
-    "02 Stardew Valley/Images/Pasted image 20240606141841.png",
-    "02 Stardew Valley/Images/Pasted image 20240606141829.png",
     "02 Stardew Valley/Images",
     "02 Stardew Valley",
     "03 Onymoji/Information",
