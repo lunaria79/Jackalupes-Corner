@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Onymoji/Shikigami/Shuten Doji.md",
-                "mode": "source",
+                "file": "03 Onymoji/Shikigami/Ubume.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Onymoji/Shikigami/Shuten Doji.md",
+                "file": "03 Onymoji/Shikigami/Ubume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Onymoji/Shikigami/Shuten Doji.md",
+                "file": "03 Onymoji/Shikigami/Ubume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Onymoji/Shikigami/Shuten Doji.md"
+                "file": "03 Onymoji/Shikigami/Ubume.md"
               }
             }
           },
@@ -169,13 +169,13 @@
   },
   "active": "d669bfc9a117300f",
   "lastOpenFiles": [
+    "03 Onymoji/Shikigami/Shuten Doji.md",
     "03 Onymoji/Shikigami/Miakashi.md",
     "03 Onymoji/Shikigami/Jorogumo.md",
     "03 Onymoji/Shikigami/Bake-kujira.md",
     "03 Onymoji/Information/miakashi-info.png",
     "03 Onymoji/Information/bake-kujira-current.png",
     "03 Onymoji/Shikigami/Ubume.md",
-    "03 Onymoji/Shikigami/Shuten Doji.md",
     "03 Onymoji/Information/jorogumo-current.png",
     "03 Onymoji/Information/bake-kujira-info.png",
     "03 Onymoji/Information/jorogumo-info.png",
