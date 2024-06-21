@@ -25,12 +25,12 @@ tags:
 # Themes
 1. [themes](Stage%20Files/themes/themes.md)
 
-#### To Write
-##### Madness
+# To Write
+## Madness
 The one I'm contemplating discontinuing
 
-##### Prison for the Rich and Famous
+## Prison for the Rich and Famous
 The A/B/O Prison one
 
-##### dicothomy
+## dicothomy
 office siren x office himbo x office ice prince x office bimbo except they were roommates
