@@ -48,7 +48,6 @@
 	border-radius: var(--medium-radius);
 }
 
-/* ----------------------- Code Blocks ----------------------- */
 .code span.cm-header-6,
 .code h6 {
 	margin-top: 5px;
@@ -56,12 +55,13 @@
 	padding: 5px 25px !important;
 
 	font-family: "Ubuntu Sans Mono", monospace;
-	-webkit-text-fill-color: transparent;
-	background-clip: text; 
-	-webkit-background-clip: text;
+	-webkit-text-fill-color: currentColor;
+	background-clip: unset; 
+	-webkit-background-clip: unset;
 	border-radius: var(--medium-radius) var(--medium-radius) 0 0;
 }
 
+/* ----------------------- Code Blocks ----------------------- */
 .markdown-rendered.code pre[class*="language-"],
 .markdown-rendered.code pre {
 	margin-top: 0;
@@ -71,41 +71,41 @@
 }
 
 div.markdown-preview-view.code > div > div > pre > code {
-color: var(--text) !important;
+	color: var(--text) !important;
 }
 
 .markdown-rendered.code div:has( > :is(p,pre,table,ul,ol)) + div > :is(h1,h2,h3,h4,h5,h6) {
-margin-top: 15px;
+	margin-top: 15px;
 }
 
 .code .cm-line.HyperMD-codeblock {
-color: var(--text);
-font-family: "Ubuntu Sans Mono", monospace;
+	color: var(--text);
+	font-family: "Ubuntu Sans Mono", monospace;
 }
 
 .code .cm-line.HyperMD-codeblock-begin {
-border-radius: 0 var(--small-radius) 0 0 !important;
+	border-radius: 0 var(--small-radius) 0 0 !important;
 }
 
 .code .cm-line.HyperMD-codeblock-end {
-border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
+	border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
 }
 
 /* ------------------------------------------- Callout ------------------------------------------- */
 .code .callout {
-background-color: rgb(var(--background-color), .75);
-padding: 10px 25px 25px 25px;
-border-radius: 2px,;
+	background-color: rgb(var(--background-color), .75);
+	padding: 10px 25px 25px 25px;
+	border-radius: 2px,;
 }
 
 .code .image-embed img {
-border-radius: 2px;
-width: 100%;
-height: 125px;
-object-fit: cover;
+	border-radius: 2px;
+	width: 100%;
+	height: 125px;
+	object-fit: cover;
 }
 
 .code .palette {
-height: 60px;
-border-radius: 8px 8px 0 0;
+	height: 60px;
+	border-radius: 8px 8px 0 0;
 }

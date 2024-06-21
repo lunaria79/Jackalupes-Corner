@@ -28,9 +28,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "52f84274554b1782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Summon Items.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -167,8 +179,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6599ad2015552ad3",
+  "active": "52f84274554b1782",
   "lastOpenFiles": [
+    "Minecraft Summon Items.md",
     "03 Onymoji/Onymoji Home.md",
     "03 Onymoji/Information/dfsdfsdf.png",
     "03 Onymoji/Shikigami/Ubume.md",
@@ -183,7 +196,6 @@
     "03 Onymoji/Information/jorogumo-info.png",
     "02 Stardew Valley/Strawberries.md",
     "02 Stardew Valley/Barista (Cold).md",
-    "Minecraft Summon Items.md",
     "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "04 These Lyrics Will Write Themselves/text message staging.md",
     "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
