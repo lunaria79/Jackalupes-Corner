@@ -66,7 +66,7 @@ tags:
 > ```css
 >/give @p netherite_pickaxe{display:{Name:"\"Silky\""},Enchantments:[{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
 >```
->Translation
+>Fortune
 > ```
 > As the Willow Whispers
 > "my heart and soul are going home"
