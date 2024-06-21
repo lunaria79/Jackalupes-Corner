@@ -56,8 +56,8 @@ tags:
 >```
 >Translation
 > ```css
-> The Wind of the Flowering Willows
-> "when you lay me down you'll only bury bones"
+> As the Willow Whispers
+> "my heart and soul are going home"
 >```
 
 
@@ -75,6 +75,7 @@ tags:
 As the Willow Whispers
 "my heart and soul are going home"
 ~~~
+
 # Tools
 ## Silk Touch Pickaxe
 ###### Code
