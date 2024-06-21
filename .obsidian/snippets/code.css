@@ -36,7 +36,7 @@
 .code .metadata-container {
 	background-color: rgb(var(--background-color), .75);
 	padding: 10px 25px 25px 25px;
-	border-radius: 2px,;	
+	border-radius: 2px;	
 }
 
 
@@ -77,7 +77,7 @@
 .code .callout {
 	background-color: rgb(var(--background-color), .75);
 	padding: 10px 25px 25px 25px;
-	border-radius: 2px,;
+	border-radius: 2px;
 }
 
 .code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
