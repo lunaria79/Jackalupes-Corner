@@ -4,20 +4,10 @@ cssclasses:
 tags:
   - minecraft
 ---
-> [!infobox ]+   Sword
+> [!infobox ]+   Weapon
+> Sword
 > ```css
-> --background-color: 28, 28, 44;
-> --primary-color: 243, 172, 208;
-> --text: 255, 255, 255;
->
-> --red-tint: 247, 151, 130;
-> --orange-tint: 247, 202, 130;
-> --yellow-tint: 222, 233, 165;
-> --green-tint: 165, 233, 176;
-> --blue-tint: 165, 214, 230;
-> --purple-tint: 213, 168, 233;
->
-> font-family: "Dosis", sans-serif;
+/give @p netherite_sword{display:{Name:"\"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ\"",Lore:['{"text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ","color":"#D932FF"}','{"text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore.","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
 >```
 
 # Weapons
