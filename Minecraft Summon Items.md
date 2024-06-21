@@ -4,6 +4,8 @@ cssclasses:
 tags:
   - minecraft
 ---
+
+
 # Weapons
 ## Sword
 ###### Code
