@@ -76,7 +76,7 @@
 .markdown-rendered.code pre {
   margin-top: 0;
   margin-bottom: -5px;
-  background: rgb(var(--background-color), .9);
+  background: #494956;
   border-radius: 0 0 var(--medium-radius) var(--medium-radius);
 }
 
