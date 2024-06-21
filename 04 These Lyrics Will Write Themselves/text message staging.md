@@ -1,16 +1,6 @@
 ---
 cssclasses:
   - fanfiction
-Rating:
-  - Mature
-Author:
-  - PrettyBoyKiller
-Fandom:
-  - 방탄소년단 | Bangtan Boys | BTS
-Relationships:
-  - Min Yoongi/Park Jimin
-  - Kim Namjoon/Kim Seokjin
-  - Jeon Jungkook/Kim Taehyung
 tags:
   - Stage
 ---
