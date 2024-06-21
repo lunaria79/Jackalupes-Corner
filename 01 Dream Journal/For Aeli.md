@@ -137,7 +137,7 @@ _ _ _ _
 4. a gaggle of other people
 
 ### Story
-> Lady Lovely and Lord Se
+> Lady Lovely and Lord Ass are courting, as arranged by Baron Ass. Baron and Baroness Lovely have recently died, and did not leave behind a son as a heir. Lady Lovely 
 <br> So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ." And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. 
 > > In my professional author opinion. Lord Ass wanted to leave Lady Lovely behind with Lord Sexc, whose a "famous womanizer" so that people could start rumours and ruin her reputation. But that also doesnt make sense with his later actions? Maybe Lord Ass is just dumb.
 > 
