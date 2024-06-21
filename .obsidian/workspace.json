@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "Minecraft Summon Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "Minecraft Summon Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "Minecraft Summon Items.md"
               }
             }
           },
@@ -191,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27ceb796a2dda42a",
+  "active": "d669bfc9a117300f",
   "lastOpenFiles": [
     "01 Dream Journal/For Aeli.md",
     "Minecraft Summon Items.md",
