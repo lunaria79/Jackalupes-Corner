@@ -10,17 +10,18 @@ tags:
 [[Nothing Left to Say]]
 [[Milo and Caspian]]
 
+[The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
+[Of Gods and Fiends](Dreams/02%20Of%20Gods%20and%20Fiends/Of%20Gods%20and%20Fiends.md)
+[[the secre]]
 
 #### In Progress
-[[A Court of Death and Desire]]
-[[Atomize]]
-[[Gaia's Wrath]]
-[[Isle of the Gods]]
-[[Mary Jane]]
-[[NANOBEAM (I Know it's a Shit Name)]]
-[[Trauma Central (Not Official)]]
-
 [A Court of Death and Desire](Dreams/A%20Court%20of%20Death%20and%20Desire.md)
+[Atomize](Dreams/Atomize.md)
+[Gaia's Wrath](Dreams/Gaia's%20Wrath.md)
+[Isle of the Gods](Dreams/Isle%20of%20the%20Gods.md)
+[Mary Jane](Dreams/Mary%20Jane.md)
+[NANOBEAM (I Know it's a Shit Name)](Dreams/NANOBEAM%20(I%20Know%20it's%20a%20Shit%20Name).md)
+[Trauma Central (Not Official)](Dreams/Trauma%20Central%20(Not%20Official).md)
 
 #### Others
 [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
