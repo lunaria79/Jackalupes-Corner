@@ -19,7 +19,7 @@ tags:
 > [!infobox ]+   Sword
 > Code
 > ```css
-> /give @p netherite_sword{display:{Name:"\"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ\"",Lore:['{"text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ","color":"#D932FF"}','{"text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore.","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+>/give @p netherite_sword{display:{Name:"\"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ\"",Lore:['{"text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ","color":"#D932FF"}','{"text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore.","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
 >```
 >Translation
 > ```css
@@ -28,17 +28,6 @@ tags:
 >```
 
 # Weapons
-## Sword
-###### Code
-```css
-/give @p netherite_sword{display:{Name:"\"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ\"",Lore:['{"text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ","color":"#D932FF"}','{"text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore.","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
-```
-###### Translation
-```
-The Needle
-"sewn from death, to die unsewn"
-```
-
 ## Axe
 ###### Code
 ```css
