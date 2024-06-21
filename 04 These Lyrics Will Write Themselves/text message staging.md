@@ -1,3 +1,20 @@
+---
+cssclasses:
+  - fanfiction
+Rating:
+  - Mature
+Author:
+  - PrettyBoyKiller
+Fandom:
+  - 방탄소년단 | Bangtan Boys | BTS
+Relationships:
+  - Min Yoongi/Park Jimin
+  - Kim Namjoon/Kim Seokjin
+  - Jeon Jungkook/Kim Taehyung
+tags:
+  - Heavy-Themes
+  - Idol-AU
+---
 <div class="chat">
 <div data-time="MYG" class="msg rcvd"> I'm done with the transfer. MY PA, Jungkook, will pick you up within the hour. </div>
 <div data-time="MYG" class="msg rcvd"> He'll settle your rent too, so don't worry about anything. </div>
