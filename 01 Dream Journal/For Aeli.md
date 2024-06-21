@@ -120,22 +120,22 @@ _ _ _ _
 ## Bridgerton Wishes
 ### Characters
 #### Characters We Like
-Lady Lovely
-Lord Sexc
-Lady Uninterested
-Maid Snake (shes complicated)
+1. Lady Lovely
+2. Lord Sexc
+3. Lady Uninterested
+4. Maid Snake (shes complicated)
 #### Characters we hate
-Lord Ass
-Baroness Ass
-Baron Ass
-Maid Snake
+1. Lord Ass
+2. Baroness Ass
+3. Baron Ass
+4. Maid Snake
 
 #### Others
-Baron and Baroness Sexc
-Cousin Sexc
-Uncle Sexc
-a gaggle of other people
+1. Baron and Baroness Sexc
+2. Cousin Sexc
+3. Uncle Sexc
+4. a gaggle of other people
 
 ### Story
-So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ."
-And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. Maid Snake was also left behin
+So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ." And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. 
+<br> Maid Snake was also left behind to keep an eye on here.
