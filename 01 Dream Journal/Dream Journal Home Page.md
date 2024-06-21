@@ -19,8 +19,8 @@ tags:
 7. [Trauma Central (Not Official)](Dreams/Trauma%20Central%20(Not%20Official).md)
 
 #### Others
-[ZIALONA Home Page](ZIALONA%20Home%20Page.md)
-[For Aeli](For%20Aeli.md)
+1. [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
+2. [For Aeli](For%20Aeli.md)
 
 #### Themes
 [[Stage Files/themes/themes]]
