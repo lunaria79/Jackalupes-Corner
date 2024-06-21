@@ -71,14 +71,14 @@ cssclasses:
 > #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
 > ```
 >```css
---background-color: 18, 14, 11;
---primary-color: 143 , 134, 117;
+> --background-color: 18, 14, 11;
+> --primary-color: 143 , 134, 117;
 >
---yellow-tint: 153, 149, 107;
---green-tint: 81, 88, 70;
---blue-tint: 62, 74, 77;
+> --yellow-tint: 153, 149, 107;
+> --green-tint: 81, 88, 70;
+> --blue-tint: 62, 74, 77;
 >
---text: 199, 195, 186;
+> --text: 199, 195, 186;
 >
-font-family: "Rokkitt", serif;
+> font-family: "Rokkitt", serif;
 >```

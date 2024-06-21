@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Stage Files/themes/themes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
