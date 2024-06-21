@@ -137,8 +137,9 @@ _ _ _ _
 4. a gaggle of other people
 
 ### Story
-> Baron and Baroness Lovely have recently died, and did not leave behind a son as a heir. Lady Lovely inherited the estate, and many are trying to figure it out how to take it from here. Lady Lovely and Lord Ass are courting, as arranged by Baron Ass.  They were childhood friends and grew up together, so this suprised no one. However, Lord Ass has grown into, well, quite the asshole.
+> Baron and Baroness Lovely have recently died, and did not leave behind a son as a heir. Lady Lovely inherited the estate, and many are trying to figure it out how to take it from here. Lady Lovely and Lord Ass are courting, as arranged by Baron Ass.  They were childhood friends and grew up together, so this surprised no one. However, Lord Ass has grown into, well, quite the asshole.
+> Lord Ass shows up one day at Lady Lovely's estate, saying to "quick. pack your bags we're heading for Angola." The Asses had planned a summer stay at 
 <br> So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ." And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. 
-> > In my professional author opinion. Lord Ass wanted to leave Lady Lovely behind with Lord Sexc, whose a "famous womanizer" so that people could start rumours and ruin her reputation. But that also doesnt make sense with his later actions? Maybe Lord Ass is just dumb.
+> > In my professional author opinion. Lord Ass wanted to leave Lady Lovely behind with Lord Sexc, whose a "famous womanizer" so that people could start rumors and ruin her reputation. But that also doesnt make sense with his later actions? Maybe Lord Ass is just dumb.
 > 
 Maid Snake was also left behind to keep an eye on here. Lady Lovely decided to take this time to figure out what exactly is here deal.
