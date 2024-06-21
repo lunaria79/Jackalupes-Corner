@@ -128,10 +128,14 @@ Maid Snake (shes complicated)
 Lord Ass
 Baroness Ass
 Baron Ass
-
-
 Maid Snake
+
+#### Others
+Baron and Baroness Sexc
+Cousin Sexc
+Uncle Sexc
 a gaggle of other people
 
 ### Story
 So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ."
+And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. Maid Snake was also left behin
