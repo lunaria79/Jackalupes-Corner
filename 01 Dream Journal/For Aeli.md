@@ -119,12 +119,19 @@ _ _ _ _
 _ _ _ _
 ## Bridgerton Wishes
 ### Characters
+#### Characters We Like
 Lady Lovely
-Lord Ass
 Lord Sexc
-Lady Unimpressed
+Lady Uninterested
+Maid Snake (shes complicated)
+#### Characters we hate
+Lord Ass
+Baroness Ass
+Baron Ass
+
+
 Maid Snake
 a gaggle of other people
 
 ### Story
-So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation,"
+So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ."
