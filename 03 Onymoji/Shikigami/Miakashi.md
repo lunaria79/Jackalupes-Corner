@@ -2,4 +2,6 @@
 ![[../Information/miakashi-info.png|500]]
 ![[../Information/soul edge.png|250]]![[../Information/holy flame.png|250]]
 
-!![[mik]]
+!![miakashi](../Information/miakashi.png)
+![miakashi-info](../Information/miakashi-info.png)
+![[]]
