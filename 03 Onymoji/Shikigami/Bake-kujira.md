@@ -1,7 +1,4 @@
-![bake-kujira](../../00%20_resources/Onymoji/bake-kujira.png)
-!
-
-![[bake-kujira.png|500]]
-![[Pasted image 20240510004234.png|500]]
-![[fortune cat.png|240]]![[tree nymph.png|240]]![[sea sprite.png|240]]
-![[Pasted image 20240510004618.png]]
+![bake-kujira](../Onymoji/bake-kujira.png)
+![Pasted image 20240510004234](../Onymoji/Pasted%20image%2020240510004234.png)
+![fortune cat](../Onymoji/fortune%20cat.png)
+![Pasted image 20240510004618](../Onymoji/Pasted%20image%2020240510004618.png)

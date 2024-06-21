@@ -1,3 +1,3 @@
-![[miakashi.png|500]]
-![[Pasted image 20240510005752.png|500]]
-![[soul edge.png|250]]![[holy flame.png|250]]
+![[../Onymoji/miakashi.png|500]]
+![[../Onymoji/Pasted image 20240510005752.png|500]]
+![[../Onymoji/soul edge.png|250]]![[../Onymoji/holy flame.png|250]]

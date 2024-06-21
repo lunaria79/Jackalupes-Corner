@@ -125,7 +125,6 @@
   "01 Dream Journal/Stage Files/themes/kiki-farmhouse.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller",
-  "00 _resources/Onymoji": "FasFolderTree",
   "02 Stardew Valley": "FasFolderOpen",
   "03 Onymoji": "FasFolderOpen",
   "04 These Lyrics Will Write Themselves": "FasFolderOpen",
@@ -140,5 +139,6 @@
   "01 Dream Journal/For Aeli.md": "FasFileLines",
   "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md": "FasFileCode",
   "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg": "FasFileImage",
-  "00 _resources/Images/draculabase.png": "FasFileImage"
+  "00 _resources/Images/draculabase.png": "FasFileImage",
+  "03 Onymoji/Onymoji": "FasFolderTree"
 }

@@ -4,7 +4,7 @@ cssclasses:
 Home:
   - "[[Onymoji Home]]"
 ---
-![[ubume.png]]
-![[ubume goal.png]]
-![[seductress.png]]
-![[ubume current.png]]
+![[../Onymoji/ubume.png]]
+![[../Onymoji/ubume goal.png]]
+![[../Onymoji/seductress.png]]
+![[../Onymoji/ubume current.png]]
