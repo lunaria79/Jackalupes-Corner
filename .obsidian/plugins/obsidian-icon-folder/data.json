@@ -121,7 +121,6 @@
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 2.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 3.png": "FasFileImage",
   "01 Dream Journal/Stage Files/themes": "FasFolderTree",
-  "01 Dream Journal/Stage Files/themes/Best-Steampunk-Wallpapers-Download-Pictures.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/Crimson City - hereisbis twit.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/draculabase.png": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/kiki-farmhouse.jpg": "FasFileImage",
@@ -140,5 +139,6 @@
   "03 Onymoji/Shikigami/Ubume.md": "FarAddressCard",
   "03 Onymoji/Shikigami/Jorogumo.md": "FarAddressCard",
   "01 Dream Journal/For Aeli.md": "FasFileLines",
-  "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md": "FasFileCode"
+  "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md": "FasFileCode",
+  "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg": "FasFileImage"
 }

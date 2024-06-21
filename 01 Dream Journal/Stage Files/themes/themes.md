@@ -7,7 +7,7 @@ cssclasses:
   - code
 ---
 > [!infobox ]+   Court of Death and Desire
-> ![[kiki-farmhouse.jpg]]
+> ![kiki-farmhouse](kiki-farmhouse.jpg)
 > ```palette
 > #1C1C2C, #F3ACD0, #FFF, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9
 > ```
@@ -28,10 +28,7 @@ cssclasses:
 
 
 > [!infobox ]+  Fantasy Steampunk Mermaids
-![[Best-Steampunk-Wallpapers-Download-Pictures.jpg]]
-> ```palette
-> #29291B, #E2B771, #F8F4D7, #BD6535, #CB9B4F, #EBEE88, #A1B65E, #B3F6E5, #DC9CAC
-> ```
+![Milo & Caspian](Milo%20&%20Caspian.jpg)
 >```css
 > --background-color: 51, 41, 27;
 > --primary-color: 226, 183, 113;
@@ -49,7 +46,7 @@ cssclasses:
 
 
 >[!infobox]+ Of Gods and Fiends
->![[Crimson City - hereisbis twit.jpg]]
+>![Crimson City - hereisbis twit](Crimson%20City%20-%20hereisbis%20twit.jpg)
 > ```palette
 > #15071D, #FFE6D7, #B93349, #609FE6, #E5248E
 > ```
@@ -66,7 +63,7 @@ cssclasses:
 >```
 
 >[!infobox]+ Nothing Left to Say
->![[]]
+>![sleeping-deer](sleeping-deer.jpg)
 >```palette
 > #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
 > ```
