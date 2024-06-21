@@ -33,9 +33,6 @@ The one I'm contemplating discontinuing
 ##### Prison for the Rich and Famous
 The A/B/O Prison one
 
-##### Nothing Left To Say
-**Aspen** the Wolf God and the Deer Gods **Celosia** and **Allamanda** life stories
-
 ##### vil snakes give the best dick
 main character is a trans peacock fae, who to save the heroes shes traveling with, decides to stay behind in a high level boss dungeon so they can escape. Upon meeting the dungeon boss, she immediately pivots to wanting to bounce on that d.  
 
