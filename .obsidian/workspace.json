@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "Minecraft Summon Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "Minecraft Summon Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "Minecraft Summon Items.md"
               }
             }
           },
@@ -179,8 +179,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52f84274554b1782",
+  "active": "d669bfc9a117300f",
   "lastOpenFiles": [
+    "01 Dream Journal/Stage Files/themes/themes.md",
     "Minecraft Summon Items.md",
     "03 Onymoji/Onymoji Home.md",
     "03 Onymoji/Information/dfsdfsdf.png",
@@ -201,7 +202,6 @@
     "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "00 _resources/Images/draculabase.png",
