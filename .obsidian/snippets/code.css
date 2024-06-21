@@ -30,7 +30,6 @@
 /* ----------------------- Background ----------------------- */
 .code {
   background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
-	
 	background-color: rgb(var(--primary-color), .1);
 }
 
@@ -105,7 +104,6 @@ div.markdown-preview-view.code > div > div > pre > code {
 .code .callout {
 	background-color: rgb(var(--background-color), .75);
 	padding: 10px 25px 25px 25px;
-	p
 	border-radius: 2px,;
 }
 
