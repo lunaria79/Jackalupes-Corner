@@ -137,5 +137,6 @@ _ _ _ _
 4. a gaggle of other people
 
 ### Story
-So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ." And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. 
-<br> Maid Snake was also left behind to keep an eye on here.
+> So, Lady Lovely and Lord Ass get into a huge fight, were Lord Ass accuses her of purposely trying to sabotage him. And she's mad because, "you fucker, you randomly forced me on a vacation in a country i dont know the language off with people I don't know. If anyone here is trying to pull shit its *you* ." And then the next day, she finds that the Asses all went on a two week boating trip with the Sexy, and left her here behind. 
+> > In my professional author opinion. Lord Ass wanted to leave Lady Lovely behind with Lord Sexc, whose a "famous womanizer" so that people could start rumours and ruin her reputation. But that also doesnt make sense with his 
+>  Maid Snake was also left behind to keep an eye on here.
