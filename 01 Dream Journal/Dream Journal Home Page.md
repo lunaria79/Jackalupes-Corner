@@ -12,7 +12,7 @@ tags:
 
 [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
 [Of Gods and Fiends](Dreams/02%20Of%20Gods%20and%20Fiends/Of%20Gods%20and%20Fiends.md)
-[[the secre]]
+[[]]
 
 #### In Progress
 [A Court of Death and Desire](Dreams/A%20Court%20of%20Death%20and%20Desire.md)
