@@ -66,7 +66,7 @@ cssclasses:
 >```
 
 >[!infobox]+ Nothing Left to Say
->![[sleeping-deer.jpg]]
+>![[]]
 >```palette
 > #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
 > ```
