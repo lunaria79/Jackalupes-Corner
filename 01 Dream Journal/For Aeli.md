@@ -117,6 +117,15 @@ _ _ _ _
 ### Random Scene
 > As they arrive at the red carpet and step out, MC feels like her stomach is collapsing in on herself. On a regular day, she would've paid them no mind, but the camera flashes flings her mind back to her past. She feels like she's going to barf. Instinctively, she curls into the LI's side, and his arm raps around her protectively. He leans down and whispers in her ear, asking if she needs to leave. Her back straightens, her mind clears, and she assures him that she can handle this. It's only a matter of time until she crumbles again.
 _ _ _ _
+## vil snakes give the best dick
+> main character is a trans peacock fae, who to save the heroes shes traveling with, decides to stay behind in a high level boss dungeon so they can escape. Upon meeting the dungeon boss, she immediately pivots to wanting to bounce on that d.  
+<br> snake fae warlord is very confused why there's a peacock fae following him around everywhere making goo goo eyes at him, but since the opportunity has presented itself might as well fuck once and OH NO WE'VE CAUGHT FEELINGS OH SHIT OH FUCK ON NO
+<br> at some point a cat fae and a crystal fae show up and wont leave him alone either and they all become friends. some more willing then others.  
+<br> instead of having two dicks, it kinda like, telescopes. and then instead of fucking regularly he wiggles like a snake. weirdo  
+<br> he's good at eating pussy so that makes up for it. forked tongue and all.  
+<br> at some point, her old party shows up to rescue her, and she's like "guys i do *not* need to be rescued we're all good"  
+<br> at the beginning, they got used to fucking in the living room cause no one else was there, so when the cat fae arrived they quickly had to remember that "oh shit there's another person here and he's a voyeur". snake fae used this as an excuse to finally allow her in to his room.
+_ _ _ _
 ## Bridgerton Wishes
 ### Characters
 #### Characters We Like
@@ -150,3 +159,4 @@ _ _ _ _
 <br> Lord Sexc is minding his own business playing soccer with the boys™ when Maid Snake comes running up to him in hysterics. Only hearing the first half of her exclamation, Lord Sexc takes off towards the gardens, finding Lady Lovely almost passed out, and launches himself at Lord Sexc. In the commotion, Lady Lovely manages to gather up Lady Lovely and take her away to the hidden cottage near the lake. Together, the wait there until Lord Sexc bursts in with a doctor.
 
 AND THEN I WOKE UP CAUSE MY BRAIN REFUSES TO FINISH A STORY
+_ _ _ _
