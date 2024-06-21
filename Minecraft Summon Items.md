@@ -23,21 +23,26 @@ tags:
 >```
 >Translation
 > ```css
-> The Needle
-> "sewn from death, to death unsewn"
+> Lycoris
+> "shed no tears for the wicked"
 >```
 
+> [!infobox ]+   Axe
+> Code
+> ```css
+>/give @p minecraft:trident{display:{Name:"\"ᓵᔑᓭ!¡╎ᔑリᓭ ⊣ᔑ╎ᒷℸ ̣ ||\"",Lore:['{"text":"ℸ ̣ ╎ ᔑᒲᒷ∷ò ᓭᒷᒲ!¡∷ᒷ","color":"#D932FF"}','{"text":"This trident washed up on the shores of the tiny island I was visiting in the Sea of Monsters. After taking it home and cleaning it, I was surprised to find two kind fish trapped within it, whom I quickly released into the Aether where they belong.","color":"white"}']},Enchantments:[{id:unbreaking,lvl:3},{id:loyalty,lvl:3},{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1}]} 1
+>```
+>Translation
+> ```css
+> Lycoris
+> "shed no tears for the wicked"
+>```
+
+
+
+
+
 # Weapons
-## Axe
-###### Code
-```css
-/give @p netherite_axe{display:{Name:"\"ꖎ||ᓵ𝙹∷╎ᓭ\"",Lore:['{"text":"ᓭ⍑ᒷ↸ リ𝙹 ℸ ̣ ᒷᔑ∷ᓭ ⎓𝙹∷ ℸ ̣ ⍑ᒷ ∴╎ᓵꖌᒷ↸","color":"#D932FF"}','{"text":"The famous mercernary Eden put their axe up for auction, and of course I had to grab it for myself!","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
-```
-###### Translation
-```
-Lycoris
-"shed no tears for the wicked"
-```
 
 ## Trident
 ###### Code
