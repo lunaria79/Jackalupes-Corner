@@ -4,7 +4,25 @@ cssclasses:
 tags:
   - minecraft
 ---
-
+> [!infobox ]+   Court of Death and Desire
+> ![kiki-farmhouse](kiki-farmhouse.jpg)
+> ```palette
+> #1C1C2C, #F3ACD0, #FFF, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9
+> ```
+> ```css
+> --background-color: 28, 28, 44;
+> --primary-color: 243, 172, 208;
+> --text: 255, 255, 255;
+>
+> --red-tint: 247, 151, 130;
+> --orange-tint: 247, 202, 130;
+> --yellow-tint: 222, 233, 165;
+> --green-tint: 165, 233, 176;
+> --blue-tint: 165, 214, 230;
+> --purple-tint: 213, 168, 233;
+>
+> font-family: "Dosis", sans-serif;
+>```
 
 # Weapons
 ## Sword
