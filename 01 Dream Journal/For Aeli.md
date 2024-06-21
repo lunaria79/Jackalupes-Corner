@@ -117,5 +117,12 @@ _ _ _ _
 ### Random Scene
 > As they arrive at the red carpet and step out, MC feels like her stomach is collapsing in on herself. On a regular day, she would've paid them no mind, but the camera flashes flings her mind back to her past. She feels like she's going to barf. Instinctively, she curls into the LI's side, and his arm raps around her protectively. He leans down and whispers in her ear, asking if she needs to leave. Her back straightens, her mind clears, and she assures him that she can handle this. It's only a matter of time until she crumbles again.
 _ _ _ _
+## Bridgerton Wishes
+### Characters
+Lady US
+Lord Ass
+Lord Sexc
+Lady Unimpressed
+Maid Snake
 
 So, 
