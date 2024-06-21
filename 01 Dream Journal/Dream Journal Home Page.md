@@ -1,5 +1,6 @@
 ---
-cssclasses: []
+cssclasses:
+  - dream-journal-base
 tags:
   - Stage
 ---
