@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "01 Dream Journal/For Aeli.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   "active": "27ceb796a2dda42a",
   "lastOpenFiles": [
     "Minecraft Summon Items.md",
-    "01 Dream Journal/For Aeli.md",
+    "00 _resources/Images/draculabase.png",
     "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "01 Dream Journal/Stage Files/icons.md",
@@ -218,7 +219,6 @@
     "02 Stardew Valley/Images/Pasted image 20240606141829.png",
     "02 Stardew Valley/Images/Pasted image 20240606141804.png",
     "02 Stardew Valley/Images/Pasted image 20240606141011.png",
-    "02 Stardew Valley/Images/Pasted image 20240606140959.png",
     "02 Stardew Valley/Images",
     "02 Stardew Valley",
     "00 _resources/Onymoji",
