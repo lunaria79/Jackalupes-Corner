@@ -3,7 +3,6 @@ cssclasses:
   - code
 tags:
   - minecraft
-Completed: true
 ---
 # Weapons
 ## Sword

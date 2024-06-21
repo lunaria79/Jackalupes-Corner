@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Summon Items.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Summon Items.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d669bfc9a117300f",
+  "active": "52f84274554b1782",
   "lastOpenFiles": [
-    "01 Dream Journal/Stage Files/themes/themes.md",
     "Minecraft Summon Items.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
     "03 Onymoji/Onymoji Home.md",
     "03 Onymoji/Information/dfsdfsdf.png",
     "03 Onymoji/Shikigami/Ubume.md",
