@@ -4,11 +4,7 @@ cssclasses:
 tags:
   - minecraft
 ---
-> [!infobox ]+   Court of Death and Desire
-> ![kiki-farmhouse](kiki-farmhouse.jpg)
-> ```palette
-> #1C1C2C, #F3ACD0, #FFF, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9
-> ```
+> [!infobox ]+   Sword
 > ```css
 > --background-color: 28, 28, 44;
 > --primary-color: 243, 172, 208;
