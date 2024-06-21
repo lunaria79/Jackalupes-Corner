@@ -23,24 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Onymoji/Shikigami/Bake-kujira.md",
+                "file": "03 Onymoji/Shikigami/Jorogumo.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "a3ba228441f6c6aa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "03 Onymoji/Information/Pasted image 20240510005752.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Onymoji/Information/Pasted image 20240510005752.png",
+                "file": "03 Onymoji/Shikigami/Jorogumo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Onymoji/Information/Pasted image 20240510005752.png",
+                "file": "03 Onymoji/Shikigami/Jorogumo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Onymoji/Information/Pasted image 20240510005752.png"
+                "file": "03 Onymoji/Shikigami/Jorogumo.md"
               }
             }
           },
@@ -177,14 +167,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3ba228441f6c6aa",
+  "active": "d669bfc9a117300f",
   "lastOpenFiles": [
-    "03 Onymoji/Information/bake-kujira-current.png",
     "03 Onymoji/Shikigami/Bake-kujira.md",
     "03 Onymoji/Shikigami/Miakashi.md",
+    "03 Onymoji/Information/miakashi-info.png",
+    "03 Onymoji/Shikigami/Jorogumo.md",
+    "03 Onymoji/Information/bake-kujira-current.png",
     "03 Onymoji/Shikigami/Ubume.md",
     "03 Onymoji/Shikigami/Shuten Doji.md",
-    "03 Onymoji/Shikigami/Jorogumo.md",
     "03 Onymoji/Information/jorogumo-current.png",
     "03 Onymoji/Information/bake-kujira-info.png",
     "03 Onymoji/Information/jorogumo-info.png",
@@ -213,7 +204,6 @@
     "00 _resources/Images/mary-jane-1.jpg",
     "00 _resources/Images/mary-jane-4.jpg",
     "00 _resources/Images/mary-jane-3.jpg",
-    "00 _resources/Images/mary-jane-2.jpg",
     "04 These Lyrics Will Write Themselves",
     "03 Onymoji/Shikigami",
     "03 Onymoji",

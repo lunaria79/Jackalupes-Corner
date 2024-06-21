@@ -4,7 +4,7 @@ cssclasses:
 Home:
   - "[[Onymoji Home]]"
 ---
-![[../Information/jorogumo.png|500]]
-![[../Information/jorogumo-info.png|500]]
-![[../Information/watcher.png|250]]![[../Information/house imp.png|250]]![[../Information/hyosube.png|250]]
-![[../Information/jorogumo-current.png]]
+![jorogumo](../Information/jorogumo.png)
+![jorogumo-info](../Information/jorogumo-info.png)
+![watcher](../Information/watcher.png)
+![jorogumo-current](../Information/jorogumo-current.png)
