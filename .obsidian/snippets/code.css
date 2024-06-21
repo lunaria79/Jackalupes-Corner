@@ -69,6 +69,7 @@
 }
 
 .code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
+	color: var(--pink);
 	-webkit-text-fill-color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
