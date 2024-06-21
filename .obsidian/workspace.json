@@ -35,13 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
-                "mode": "preview",
+                "file": "04 These Lyrics Will Write Themselves/text message staging.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 These Lyrics Will Write Themselves/text message staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 These Lyrics Will Write Themselves/text message staging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 These Lyrics Will Write Themselves/text message staging.md"
+              }
             }
           },
           {
@@ -174,13 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e58ca9bb48beca4",
+  "active": "27ceb796a2dda42a",
   "lastOpenFiles": [
+    "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
+    "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "04 These Lyrics Will Write Themselves/text message staging.md",
-    "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
-    "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
