@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
-                "mode": "preview",
+                "file": "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "04 These Lyrics Will Write Themselves/00 - Table of Contents.md"
               }
             }
           },
@@ -181,11 +181,11 @@
   },
   "active": "27ceb796a2dda42a",
   "lastOpenFiles": [
+    "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "Minecraft Summon Items.md",
     "00 _resources/Images/draculabase.png",
-    "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
