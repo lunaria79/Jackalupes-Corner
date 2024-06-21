@@ -65,17 +65,6 @@ font-family: "Rokkitt", serif;
 font-family: "Barlow", sans-serif;
 >```
 
-
-
-
-
-
-
-
-
-
-
-
 >[!infobox]+ Nothing Left to Say
 >![[sleeping-deer.jpg]]
 >```palette
