@@ -33,18 +33,18 @@ cssclasses:
 > #29291B, #E2B771, #F8F4D7, #BD6535, #CB9B4F, #EBEE88, #A1B65E, #B3F6E5, #DC9CAC
 > ```
 >```css
---background-color: 51, 41, 27;
---primary-color: 226, 183, 113;
---text: 248, 244, 215;
+> --background-color: 51, 41, 27;
+> --primary-color: 226, 183, 113;
+> --text: 248, 244, 215;
 >
---red-tint: 189, 101, 53;
---orange-tint: 203, 155, 79;
---yellow-tint: 235, 238, 136;
---green-tint: 161, 182, 94;
---blue-tint: 179, 246, 229;
---purple-tint: 220, 156, 172;
+> --red-tint: 189, 101, 53;
+> --orange-tint: 203, 155, 79;
+> --yellow-tint: 235, 238, 136;
+> --green-tint: 161, 182, 94;
+> --blue-tint: 179, 246, 229;
+> --purple-tint: 220, 156, 172;
 >
-font-family: "Rokkitt", serif;
+> font-family: "Rokkitt", serif;
 >```
 
 
@@ -54,15 +54,15 @@ font-family: "Rokkitt", serif;
 > #15071D, #FFE6D7, #B93349, #609FE6, #E5248E
 > ```
 >```css
---background-color: 21, 7, 29;
---primary-color: 185, 51, 73;
---text: 255, 230, 215;
+> --background-color: 21, 7, 29;
+> --primary-color: 185, 51, 73;
+> --text: 255, 230, 215;
 >
---red-tint: 185, 51, 73;
---blue-tint: 96, 159, 230;
---purple-tint: 229, 36, 142;
+> --red-tint: 185, 51, 73;
+> --blue-tint: 96, 159, 230;
+> --purple-tint: 229, 36, 142;
 >
-font-family: "Barlow", sans-serif;
+> font-family: "Barlow", sans-serif;
 >```
 
 >[!infobox]+ Nothing Left to Say
