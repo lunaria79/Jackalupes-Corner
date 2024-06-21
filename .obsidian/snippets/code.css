@@ -31,6 +31,9 @@
 .code .mod-header {
 	padding: 0;
 	padding-top: 10px;
+	
+	position: relative;
+	left: 2px;
 }
 
 .code .metadata-container {
