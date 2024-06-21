@@ -109,3 +109,7 @@ div.markdown-preview-view.code > div > div > pre > code {
 	height: 60px;
 	border-radius: 8px 8px 0 0;
 }
+
+.markdown-rendered.code p {
+	margin-top: var(--p-spacing) !important;
+}
