@@ -4,4 +4,4 @@
 
 !![miakashi](../Information/miakashi.png)
 ![miakashi-info](../Information/miakashi-info.png)
-![[]]
+![[miakasi]]
