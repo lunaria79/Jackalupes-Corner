@@ -17,7 +17,7 @@ tags:
 >```
 
 > [!infobox ]+   Axe
-> Code
+<br> Code
 > ```css
 >/give @p netherite_axe{display:{Name:"\"ꖎ||ᓵ𝙹∷╎ᓭ\"",Lore:['{"text":"ᓭ⍑ᒷ↸ リ𝙹 ℸ ̣ ᒷᔑ∷ᓭ ⎓𝙹∷ ℸ ̣ ⍑ᒷ ∴╎ᓵꖌᒷ↸","color":"#D932FF"}','{"text":"The famous mercernary Eden put their axe up for auction, and of course I had to grab it for myself!","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
 >```
@@ -28,7 +28,7 @@ tags:
 >```
 
 > [!infobox ]+   Trident
-> Code
+<br> Code
 > ```css
 >/give @p minecraft:trident{display:{Name:"\"ᓵᔑᓭ!¡╎ᔑリᓭ ⊣ᔑ╎ᒷℸ ̣ ||\"",Lore:['{"text":"ℸ ̣ ╎ ᔑᒲᒷ∷ò ᓭᒷᒲ!¡∷ᒷ","color":"#D932FF"}','{"text":"This trident washed up on the shores of the tiny island I was visiting in the Sea of Monsters. After taking it home and cleaning it, I was surprised to find two kind fish trapped within it, whom I quickly released into the Aether where they belong.","color":"white"}']},Enchantments:[{id:unbreaking,lvl:3},{id:loyalty,lvl:3},{id:impaling,lvl:5},{id:riptide,lvl:3},{id:mending,lvl:1}]} 1
 >```
@@ -39,7 +39,7 @@ tags:
 >```
 
 > [!infobox ]+   Bow
-> Code
+<br> Code
 > ```css
 >/give @p minecraft:bow{display:{Name:"\"ℸ ̣ ⍑ᒷ ∴╎リ↸ 𝙹⎓ ℸ ̣ ⍑ᒷ ⎓ꖎ𝙹∴ᒷ∷╎リ⊣ ∴╎ꖎꖎ𝙹∴ᓭ\"",Lore:['{"text":"ℸ ̣ ╎ ᔑᒲᒷ∷ò ᓭᒷᒲ!¡∷ᒷ","color":"#D932FF"}','{"text":"A good friend of mine, Jackalupe, has ascended to the ancients with the rest of her clan, and along with a bunch of other stuff she left me her prized bow.","color":"white"}']},Enchantments:[{id:unbreaking,lvl:3},{id:power,lvl:5},{id:punch,lvl:2},{id:flame,lvl:1},{id:infinity,lvl:1},{id:mending,lvl:1}]} 1
 >```
@@ -50,7 +50,7 @@ tags:
 >```
 
 > [!infobox ]+   Arrow
-> Code
+<br> Code
 > ```css
 >/give @p spectral_arrow{display:{Name:"\"ᔑᓭ ℸ ̣ ⍑ᒷ ∴╎ꖎꖎ𝙹∴ᓭ ∴⍑╎ᓭ!¡ᒷ∷\"",Lore:['{"text":"ᒲ|| ⍑ᒷᔑ∷ℸ ̣  ᔑリ↸ ᓭ𝙹⚍ꖎ ╎ᓭ ⊣𝙹╎リ⊣ ⍑𝙹ᒲᒷ","color":"#D932FF"}','{"text":"A matching set with ℸ ̣ ⍑ᒷ ∴╎リ↸ 𝙹⎓ ℸ ̣ ⍑ᒷ ⎓ꖎ𝙹∴ᒷ∷╎リ⊣ ∴╎ꖎꖎ𝙹∴ᓭ","color":"white"}']}} 1
 >```
