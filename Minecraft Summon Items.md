@@ -67,9 +67,8 @@ tags:
 >/give @p netherite_pickaxe{display:{Name:"\"Silky\""},Enchantments:[{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
 >```
 >Fortune
-> ```
-> As the Willow Whispers
-> "my heart and soul are going home"
+> ```css
+> /give @p netherite_pickaxe{display:{Name:"\"Fortuna\""},Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
 >```
 
 # Tools
