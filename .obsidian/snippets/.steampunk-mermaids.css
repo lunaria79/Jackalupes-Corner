@@ -21,11 +21,11 @@
 
 /* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .steampunk-mermaids input[type=checkbox]:not(:checked) {
-    color: rgb(var(--primary-color)) !important;
+	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
 	border-radius: 0;
-    cursor: pointer !important;
+	cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .steampunk-mermaids input[type=checkbox]:checked {
@@ -37,6 +37,6 @@
 
 .steampunk-mermaids input[type=checkbox]:checked:after {
 	background: rgb(var(--text)) !important;
-    -webkit-mask-image: none;
+	-webkit-mask-image: none;
 	cursor: pointer !important;
 }
