@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - dream-journal-base
+cssclasses: []
 tags:
   - Stage
 ---
@@ -22,7 +21,7 @@ tags:
 [[Trauma Central (Not Official)]]
 
 #### Others
-[[ZIALONA Home Page]]
+[ZIALONA Home Page](ZIALONA%20Home%20Page.md)
 [For Aeli](For%20Aeli.md)
 
 #### Themes
