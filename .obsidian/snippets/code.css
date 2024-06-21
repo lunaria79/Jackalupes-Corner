@@ -27,8 +27,20 @@
 	font-family: "Dosis", sans-serif;
 }
 
-/* ----------------------- Properties ----------------------- */
-/* ----------------------- Headings ----------------------- */
+/* --------------------------------------- Properties --------------------------------------- */
+.code .mod-header {
+	padding: 0;
+	padding-top: 10px;
+}
+
+.code .metadata-container {
+	background-color: rgb(var(--background-color), .75);
+	padding: 10px 25px 25px 25px;
+	border-radius: 2px,;	
+}
+
+
+/* ---------------------------------------- Headings ---------------------------------------- */
 .code span.cm-header-1,
 .code h1 {
 	margin-top: 5px;
