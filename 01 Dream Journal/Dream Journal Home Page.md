@@ -23,7 +23,7 @@ tags:
 2. [For Aeli](For%20Aeli.md)
 
 #### Themes
-[[]]
+[[the]]
 [[Stage Files/themes/themes]]
 
 #### To Write
