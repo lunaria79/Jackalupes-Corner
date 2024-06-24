@@ -43,7 +43,6 @@
     margin-right: auto;
 }
 
-
 .markdown-preview-sizer.markdown-preview-section.fanfiction {
 	padding-bottom: 10px !important;
 }
@@ -53,8 +52,13 @@
 }
 
 /* ------------------------------------------ Editing Mode ------------------------------------------ */
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+.fanfiction.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+	/* https://www.10bestdesign.com/dirtymarkup/ */
 	padding-bottom: 25px;
+}
+
+.fanfiction.markdown-source-view .cm-line > .cm-fold-indicator {
+	background-color: red;
 }
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */

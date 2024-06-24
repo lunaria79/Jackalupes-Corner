@@ -18,11 +18,11 @@ Previous Chapter:
   - "[[01 - friends that annoy you usually care the most]]"
 Next Chapter: "[[03 - are you a girl or a boy]]"
 ---
-<p class="title" id="toc_1">what's the point if you aren't healthy?</p>
+<p class="title">what's the point if you aren't healthy?</p>
 <div class="chat">
-<div data-time="MYG" class="msg rcvd">8,000,000 won a month is a lot of money; are you sure you're worth the cashout?</div>
+	<div class="msg rcvd" data-time="MYG">8,000,000 won a month is a lot of money; are you sure you're worth the cashout?</div>
 </div>
-<p class="divide"> •·······•·······•·······•·······• </p>
+<p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">Jimin woke Taehyung by throwing his phone at his stomach. "KIM TAEHYUNG!" He screamed, horrified even as he was half asleep. "What the hell did you do last night?!"</p>
 <p class="text">"Oh my goood," Taehyung groaned and crumpled in on himself, snagging Jimin's blanket and wrapping himself in the protective shroud. "You have to be more specific," he whined, voice muffled as he almost rolled off the bed. His hair was sticking out, messy and unkempt. "I do bad, bad things when I'm drunk. I think I'm still drunk..."</p>
 <p class="text">"You made a profile for me on Seeking Arrangement!" Jimin screamed, wanting to throw his best friend out of the window. "I have over 300 messages! It's driving me nuts!" He'd woken up to a barrage of chat invites, each opening text more scandalous than the last. Some had images attached, and Jimin was not fond enough of men that he wouldn't mind having 50 pictures of dicks sitting comfortably in his phone. "Some of them are from senior citizens; what the hell did you write on my profile?"</p>
@@ -50,12 +50,11 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">Jimin tugged on Taehyung's ear, dragging him till they were at the door. He flung it open, shoving his best friend outside, and seething as he narrowed his eyes. "Best friendship suspended!" He huffed, not really meaning it but very much wanting to seem like he did, so that Taehyung could fucking REFLECT and realize there were goddamn consequences for the weird shit he did while he was drunk, god damn it. "Best friendship currently under review, please wait 10 working days for a court approval for renewed contract!"</p>
 <p class="text">Taehyung gasped, mock affronted as Jimin shut the door in his face.</p>
 <p class="text">He waited till the whining outside had stopped and Taehyung was gone before he slumped back against his door. Jimin frowned at the message Tae had mentioned--- The one about the guy who might, possibly, have erectile dysfunction. His anger clouded his mind and it made him punch in a response vindictively.</p>
-
 <div class="chat">
-	<div  data-time="MINIMIN" class="msg sent"> I'm worth every jeon and more</div>
+	<div class="msg sent" data-time="MINIMIN">I'm worth every jeon and more</div>
 	<div class="msg sent">you can go fuck yourself, MYG.</div>
 </div>
-<p class="divide"> •·······•·······•·······•·······• </p>
+<p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">Yoongi had installed the Seeking Arrangement app the previous night, creating a profile as he'd soaked in his tub after a long day of work. Being on a sugar baby and daddy app was a strange experience; the platform allowed for a ton of trolls, and most of the people Yoongi had glimpsed on the thing from Seoul were either way too old, or way too young. Some of them were still high schoolers, for god's sake, and he'd wondered if they were intending to do this long term. He hoped not, for the sake of young future lawyers and doctors everywhere.</p>
 <p class="text">A little more research on the term had proved it to be controversial career of sorts; being a sugar baby obviously had some pretty negative connotations in society. Though Yoongi personally saw no real problem with it if the relationship was safe and consensual, it was also clear that there were no rules or governing force in place to ensure this was the case. He supposed it would be easy for young men and women to be swindled into some sort of arrangement and forced into doing things they wouldn't want, and the thought both worried and repulsed him.</p>
 <p class="text">Now that he was on the app too, would he be viewed in the same light?</p>
@@ -64,139 +63,113 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">He'd answered a few of the more harmless compatibility questions--- Mostly the ones about music.</p>
 <p class="text">Some people had started conversations with him, but he hadn't replied out of disinterest. Without a profile picture, he'd gotten very limited responses, and he was fine with that. Yoongi had only messaged one person himself, after all; an overly attractive man with a badly worded profile, filled with spelling errors and a slew of ᄏᄏᄏ's. Sure, MINIMIN was attractive and he had a serious penchant where sticking his tongue out of his mouth was concerned, but who the hell was worth 8 million won a month? Yoongi could afford that, sure, but then again Yoongi could afford a lot of things. He just didn't spend his money frivolously on things that weren't up to standard.</p>
 <p class="text">Apparently, MINIMIN thought he was up to standard.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> No need to curse, it was just a question. </div>
-<div data-time="MYG" class="msg rcvd"> You seriously think you'd be worth 8,000,000 won? </div>
+	<div class="msg rcvd" data-time="MYG">No need to curse, it was just a question.</div>
+	<div class="msg rcvd" data-time="MYG">You seriously think you'd be worth 8,000,000 won?</div>
 </div>
-
 <p class="text">Yoongi set his phone aside, returning to his packing before Jungkook came to fetch him for his 11 o'clock. He had an interview with Grazia, and then he had a production meeting with Joon once he returned. Following that, they had to visit PAROXCISM in the studios to check out how their routine was coming along for their title track. ILGI would be arriving back in Seoul tomorrow, and Yoongi had some urgent re-recordings to make for one of their tracks. It didn't seem like they'd have the time to review and produce Jungkook's cover today. Yoongi felt bad, but they'd really have to pencil it in at a later date.</p>
 <p class="text">The reply didn't take long to come; Yoongi lifted an eyebrow as his phone buzzed shortly after he'd sent a reply.</p>
-
 <div class="chat">
-<div data-time="MINIMIN" class="msg sent"> that's what I said. And this was a stupid prank anyway; my friend set me up </div>
-<div data-time="MINIMIN" class="msg sent"> We were just having drinks, and he made me an account while I wasn't looking </div>
+	<div class="msg sent" data-time="MINIMIN">that's what I said. And this was a stupid prank anyway; my friend set me up</div>
+	<div class="msg sent" data-time="MINIMIN">We were just having drinks, and he made me an account while I wasn't looking</div>
 </div>
-
 <p class="text">Snorting, Yoongi quickly tapped out a response, spinning in his chair. Maybe this guy was sharing his pain; they shouldn't get on each other's bad side.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> My friends bugged me to check out some dating apps, but I didn't want to.  </div>
-<div data-time="MYG" class="msg rcvd"> This one got me curious though, so I downloaded it and made an account. </div>
-<div data-time="MINIMIN" class ="msg sent">MINIMIN is typing.... </div>
-<div data-time="MINIMIN" class="msg sent"> for real? but all your questions are filled out </div>
-<div data-time="MYG" class="msg rcvd"> Just the ones about music. </div>
-<div data-time="MYG" class="msg rcvd"> I like music a lot. </div>
-<div data-time="MYG" class="msg rcvd"> Anyway, so are yours. Your friend got you there? </div>
-<div data-time="MINIMIN" class="msg sent"> I can't believe he managed all this shit while he was wasted but yeah </div>
-<div data-time="MINIMIN" class="msg sent"> he answered everything </div>
-<div data-time="MINIMIN" class="msg sent"> correctly too, which is insane </div>
+	<div class="msg rcvd" data-time="MYG">My friends bugged me to check out some dating apps, but I didn't want to.</div>
+	<div class="msg rcvd" data-time="MYG">This one got me curious though, so I downloaded it and made an account.</div>
+	<div class="msg sent" data-time="MINIMIN">MINIMIN is typing....</div>
+	<div class="msg sent" data-time="MINIMIN">for real? but all your questions are filled out</div>
+	<div class="msg rcvd" data-time="MYG">Just the ones about music.</div>
+	<div class="msg rcvd" data-time="MYG">I like music a lot.</div>
+	<div class="msg rcvd" data-time="MYG">Anyway, so are yours. Your friend got you there?</div>
+	<div class="msg sent" data-time="MINIMIN">I can't believe he managed all this shit while he was wasted but yeah</div>
+	<div class="msg sent" data-time="MINIMIN">he answered everything</div>
+<div class="msg sent" data-time="MINIMIN">correctly too, which is insane</div>
 </div>
-
 <p class="text">Yoongi leaned back in his seat and cocked his head at his phone.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> If it's any consolation, he doesn't seem to know how to spell all that well. </div>
-<div data-time="MYG" class="msg rcvd"> But I get you. It sucks, your friends trying to set you up and stuff. </div>
-<div data-time="MINIMIN" class="msg sent"> well thats not exactly what happened but </div>
-<div data-time="MINIMIN" class="msg sent"> awwwwww no your friends are worried </div>
-<div data-time="MINIMIN" class="msg sent"> that's really cute </div>
-<div data-time="MYG" class="msg rcvd"> It's annoying as hell. </div>
-<div data-time="MINIMIN" class="msg sent"> they want you to be happy! </div>
-<div data-time="MINIMIN" class="msg sent"> But why a sugar daddy website tho... </div>
+	<div class="msg rcvd" data-time="MYG">If it's any consolation, he doesn't seem to know how to spell all that well.</div>
+	<div class="msg rcvd" data-time="MYG">But I get you. It sucks, your friends trying to set you up and stuff.</div>
+	<div class="msg sent" data-time="MINIMIN">well thats not exactly what happened but</div>
+	<div class="msg sent" data-time="MINIMIN">awwwwww no your friends are worried</div>
+	<div class="msg sent" data-time="MINIMIN">that's really cute</div>
+	<div class="msg rcvd" data-time="MYG">It's annoying as hell.</div>
+	<div class="msg sent" data-time="MINIMIN">they want you to be happy!</div>
+	<div class="msg sent" data-time="MINIMIN">But why a sugar daddy website tho...</div>
 </div>
-
 <p class="text">Neither Namjoon nor Seokjin actually knew that Yoongi had downloaded the app, and he wasn't intending to tell them. It was surprisingly turning out to be a pretty decent conversation starter, so Yoongi figured there was nothing wrong with seeing where this went. It helped that MINIMIN seemed like a nice guy now that they'd gotten past their brusque greetings; Yoongi was also slightly relieved that there didn't seem to be any pressure on him to negotiate some kind of contract to be this guy's... Daddy, or whatever. The idea was still a little foreign to him, and it hadn't quite sunk in yet.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> I was just curious. </div>
-<div data-time="MINIMIN" class="msg sent"> So you're not looking for a sugar baby? </div>
+	<div class="msg rcvd" data-time="MYG">I was just curious.</div>
+	<div class="msg sent" data-time="MINIMIN">So you're not looking for a sugar baby?</div>
 </div>
-
 <p class="text">Feeling mischievous, Yoongi grinned.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> Are you offering? </div>
-<div data-time="MINIMIN" class="msg sent"> MINIMIN is typing... </div>
-<div data-time="MINIMIN" class="msg sent"> apparently I am, for 8,000,000 won a month </div>
-<div data-time="MINIMIN" class="msg sent"> you buying? </div>
+	<div class="msg rcvd" data-time="MYG">Are you offering?</div>
+	<div class="msg sent" data-time="MINIMIN">MINIMIN is typing...</div>
+	<div class="msg sent" data-time="MINIMIN">apparently I am, for 8,000,000 won a month</div>
+	<div class="msg sent" data-time="MINIMIN">you buying?</div>
 </div>
-
 <p class="text">Yoongi laughed, trading messages and leaving his things unpacked. The next hour flew by in a flash as they talked about shallow, superficial things; about some of the answers on their profile and their interests. It had been a long time since Yoongi had talked so freely with someone; he was always busy, and Namjoon and Jin were right in saying that he hadn't met up with anyone in a long time.</p>
 <p class="text">After a few years in the entertainment industry, relationships tended to take on an ugly tint of business, and that made maintaining them tedious. Forging relationships with people outside of work was hard, and Yoongi supposed it figured that the only person he'd felt comfortable talking to in ages was a stranger.</p>
 <p class="text">Eventually though, the inevitable question popped up.</p>
-
 <div class="chat">
-<div data-time="MINIMIN" class="msg sent"> why dont you have a profile picture? </div>
+<div class="msg sent" data-time="MINIMIN">why dont you have a profile picture?</div>
 </div>
-
 <p class="text">The producer thought about this for a long time.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> Confidentiality is important for my job. </div>
-<div data-time="MYG" class="msg rcvd"> I have a lot to lose, and not just for myself. </div>
-<div data-time="MYG" class="msg sent"> Maybe I'm overthinking a lot of things, but I need to protect the interests of those around me. </div>
-<div data-time="MINIMIN" class="msg sent"> Ahhh okay </div>
-<div data-time="MYG" class="msg rcvd"> My bad. </div>
-<div data-time="MINIMIN" class="msg sent"> that's fine! It's good actually, that you care so much </div>
-<div data-time="MINIMIN" class="msg sent"> I just thought it was a little odd for someone not to have a picture on an app like this, I guess </div>
-<div data-time="MINIMIN" class="msg sent"> I'm sorry if it was a little invasive </div>
+	<div class="msg rcvd" data-time="MYG">Confidentiality is important for my job.</div>
+	<div class="msg rcvd" data-time="MYG">I have a lot to lose, and not just for myself.</div>
+	<div class="msg sent" data-time="MYG">Maybe I'm overthinking a lot of things, but I need to protect the interests of those around me.</div>
+	<div class="msg sent" data-time="MINIMIN">Ahhh okay</div>
+	<div class="msg rcvd" data-time="MYG">My bad.</div>
+	<div class="msg sent" data-time="MINIMIN">that's fine! It's good actually, that you care so much</div>
+	<div class="msg sent" data-time="MINIMIN">I just thought it was a little odd for someone not to have a picture on an app like this, I guess</div>
+	<div class="msg sent" data-time="MINIMIN">I'm sorry if it was a little invasive</div>
 </div>
-
-
 <p class="text">This guy wasn't a sugar baby, and Yoongi wasn't looking for one per se, but maybe they could become friends. They'd never meet, probably - Yoongi wouldn't want to put B:ENT in jeopardy like that, or risk the reputation of his artists - but he was steadily warming up to MINIMIN. Maybe they could trade numbers in a couple of weeks, if they were still talking then. It'd definitely be weird for someone to look over his shoulder and see him talking to a guy on a dating app, after all.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> I'm a little paranoid but since I'm only talking to you, I guess it's fine. </div>
-<div data-time="MINIMIN" class="msg sent"> ?? You're only talking to me? </div>
-<div data-time="MYG" class="msg rcvd"> You were the only one that interested me. </div>
-<div data-time="MINIMIN" class="msg sent"> MINIMIN is typing... </div>
-<div data-time="MINIMIN" class="msg sent"> wow </div>
-<div data-time="MINIMIN" class="msg sent"> okay </div>
+	<div class="msg rcvd" data-time="MYG">I'm a little paranoid but since I'm only talking to you, I guess it's fine.</div>
+	<div class="msg sent" data-time="MINIMIN">?? You're only talking to me?</div>
+	<div class="msg rcvd" data-time="MYG">You were the only one that interested me.</div>
+	<div class="msg sent" data-time="MINIMIN">MINIMIN is typing...</div>
+	<div class="msg sent" data-time="MINIMIN">wow</div>
+	<div class="msg sent" data-time="MINIMIN">okay</div>
 </div>
-
 <p class="text">Jungkook knocked on his door, slowly opening it and stepping in. "MIN PD-nim," he greeted, polite and formal as long as they were at the office. The guy took his job pretty seriously, even though it had initially been nothing more than a cover up for his career as a shadow artist under the label. "I've come to get you for your 11 o'clock." He frowned as he noted the spread of Yoongi's things across his table, still messy and unkempt. "You haven't decided what to bring for the meeting?"</p>
 <p class="text">"Hmm? No," Yoongi locked his phone; he'd pick up the conversation with MINIMIN later on in the car. "I was just a bit distracted. Also, it's not a meeting--- Just an interview." Quickly, he shoved his midi, a notebook and a pen into his satchel before he stood up, shouldering it and huffing. "No problem; let's go now so we won't be late."</p>
 <p class="text">"Cue cards?" Jungkook reminded helpfully, but Yoongi shook his head.</p>
 <p class="text">"None this time; I didn't make them, so I'll have to do without." Yoongi remembered some of the questions Grazia had sent over ahead of time, but he hadn't completely memorized what he wanted to say later. He hoped he wouldn't leave anything out.</p>
 <p class="text">Jungkook glanced at his boss as he stepped past him out into the hallway. Yoongi hadn't been unprepared for anything in a long time; whether it was a meeting, or an interview or a shoot.</p>
 <p class="text">Cocking his head inquisitively, Jungkook refrained from comment and simply nodded instead, following after the co-director once he'd made sure the door to the studio was locked. "Yes, Min PD-nim."</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> Out of my appointment but I'm already on my way to another one. </div>
-<div data-time="MYG" class="msg rcvd"> God I'd give anything for a nap. </div>
-<div data-time="MINIMIN" class="msg sent"> You've worked hard~~~ </div>
-<div data-time="MINIMIN" class="msg sent"> that sucks though </div>
-<div data-time="MINIMIN" class="msg sent"> you cant catch a break? </div>
-<div data-time="MYG" class="msg rcvd"> No way. </div>
-<div data-time="MYG" class="msg rcvd"> In my industry, I could have a mitt the size of fucking Africa and never catch a break. </div>
+	<div class="msg rcvd" data-time="MYG">Out of my appointment but I'm already on my way to another one.</div>
+	<div class="msg rcvd" data-time="MYG">God I'd give anything for a nap.</div>
+	<div class="msg sent" data-time="MINIMIN">You've worked hard~~~</div>
+	<div class="msg sent" data-time="MINIMIN">that sucks though</div>
+	<div class="msg sent" data-time="MINIMIN">you cant catch a break?</div>
+	<div class="msg rcvd" data-time="MYG">No way.</div>
+	<div class="msg rcvd" data-time="MYG">In my industry, I could have a mitt the size of fucking Africa and never catch a break.</div>
 </div>
-
-<p class="divide"> •·······•·······•·······•·······• </p>
-
+<p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">Jimin smiled at his phone. This exchange he was having with MYG was turning out to be surprisingly fun; the guy was also turning out to be the most decent person he'd met on the app so far. No dick pics, no demands, nothing; he hadn't even been hit on inappropriately once. They'd traded a few comments about this whole sugar baby and daddy thing, but nothing serious. MYG had mentioned not having any kind of prejudice against a relationship like that, and Jimin had responded in the same way. Technically, he figured being a sugar baby was sort of like a full-time, 24/7 job---</p>
 <p class="text">Except your career would literally revolve around keeping someone happy.</p>
 <p class="text">It didn't seem to take a lot to make MYG happy though; he'd been ecstatic just hearing they listened to several of the same bands--- Especially ILGI and PAROXCISM. He came off as a stoic guy, but seemed fairly gentlemanly once he'd opened up a little. They'd only been chatting for a bit, but Jimin felt like they had rapport. Absently, he wondered if it was because they'd met in such an odd way...</p>
 <p class="text">More than anything, it was probably sort of like having a guy come up to you in a bar and striking up a conversation.</p>
 <p class="text">Still. They'd learned a little bit about each other and everything, but Jimin wasn't about to jump the gun here. 'He could still be a complete jerk,' he reminded himself frantically even as he giggled over a lame pun. 'Who knows? He could be a serial killer or something.'</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> What're you up to? </div>
-<div data-time="MINIMIN" class="msg sent"> well, this sugar baby just lost his job, so he's about to beg off an extension with his landlord </div>
-<div data-time="MINIMIN" class="msg sent"> rent problems </div>
-<div data-time="MYG" class="msg rcvd"> Oh fuck. </div>
-<div data-time="MYG" class="msg rcvd"> Min, I'm so sorry to hear that. </div>
+	<div class="msg rcvd" data-time="MYG">What're you up to?</div>
+	<div class="msg sent" data-time="MINIMIN">well, this sugar baby just lost his job, so he's about to beg off an extension with his landlord</div>
+	<div class="msg sent" data-time="MINIMIN">rent problems</div>
+	<div class="msg rcvd" data-time="MYG">Oh fuck.</div>
+	<div class="msg rcvd" data-time="MYG">Min, I'm so sorry to hear that.</div>
 </div>
-
 <p class="text">Jimin flushed a little at the affectionate sounding nickname. He wondered if Taehyung had created that handle for him on purpose. Either way, he'd already gotten over the pity party along with the morning's hangover; it was nice that MYG seemed genuinely concerned though. Maybe he'd need some of that support to go through with his request to his landlord.</p>
-
 <div class="chat">
-<div data-time="MINIMIN" class="msg sent"> that's okay, it wasn't your fault or anything </div>
-<div data-time="MINIMIN" class="msg sent"> I'll talk to you later, okay? </div>
-<div data-time="MYG" class="msg rcvd"> Sure. Good luck. </div>
-<div data-time="MINIMIN" class="msg sent"> you too, for your meeting! </div>
+	<div class="msg sent" data-time="MINIMIN">that's okay, it wasn't your fault or anything</div>
+	<div class="msg sent" data-time="MINIMIN">I'll talk to you later, okay?</div>
+	<div class="msg rcvd" data-time="MYG">Sure. Good luck.</div>
+	<div class="msg sent" data-time="MINIMIN">you too, for your meeting!</div>
 </div>
-
 <p class="text">He was halfway through the evening before he even got a chance to talk to his landlord, who was a grumpy shut-in. The guy was in his mid-thirties, and the only time he ever really ventured out of his house was when he needed to collect rent. Rarely, he would be seen going out to retrieve his mail from the box downstairs--- Jimin supposed this was one of those times.</p>
 <p class="text">Quickly darting towards the stairwell so that he didn't miss his opportunity, Jimin tightened his grip on the trash bag in his hand, trying to pull his most winning expression--- He was about to ask for an extension, after all. "Ju-in-nim!" He greeted, waving.</p>
 <p class="text">The man turned on his heel and glanced at Jimin, grunting. He waited as Jimin crossed the corridor, coming to stand in front of him. "Park Jimin-ssi," he said quietly. "How can I help you?"</p>
@@ -212,9 +185,7 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">For a long time, Jimin stayed still, frozen with disbelief.</p>
 <p class="text">"But the 1st is only 2 days from now," he eventually whispered to the empty stairwell, his trash bag splitting right at that moment and emptying itself all over his foot.</p>
 <p class="text">He'd stayed here at this very same apartment for so many years, but it only took less than 10 minutes for him to get kicked out. The reality of that made his eyes well up with frustrated, miserable tears, and he was devastated at the thought of leaving Seoul behind. Inconsolable, Jimin had to bend down and collect his trash, crying and dotting the floor with dark, wet spots.</p>
-
-<p class="divide"> •·······•·······•·······•·······• </p>
-
+<p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">Yoongi scrutinized Sung-ho's movements on the floor, frowning. "Your eldest is still looking a little unsteady," he commented, turning to Namjoon with crossed arms. They were both monitoring PAROXCISM in the studio from the other side of a one-way mirror, because they'd learnt a long time ago that everything Yoongi did seemed to keep Namjoon's kids on their figurative toes. "Is he putting in the extra hours?"</p>
 <p class="text">"He and Taemin work the most on dancing during their free time," Namjoon replied, his eyes glued firmly on his group as they tore through a powerful series of movements, their arms just shy of being fluid enough. "Hoseok's been working Ki-moon to the bone, but I'm pretty sure he's been staying behind to help his hyungs practice after hours. I'm not too worried about Daesung or Daehyun, but Sung-ho's dancing just isn't on par..." Sighing, he glanced at Yoongi. "You know, it gets a lot of negative attention online; the comments on their YouTube videos are pretty rough." Namjoon chewed on the nail of his thumb, frowning. "I'm worried about him."</p>
 <p class="text">"Sung-ho's a strong guy; he's not as insecure as he used to be pre-debut," Yoongi hummed, considering how much PAROXCISM had grown since their starting days. "It's been a while now; they've all kind of gotten past the negative press, for the most part." His eyes narrowed at Daesung.</p>
@@ -277,12 +248,10 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">"You better not go home and continue working," Namjoon added wryly. "Not after we just scolded the hell out of my kids."</p>
 <p class="text">"Good night," Seokjin smiled serenely, pressing his lips to his fingertips in preparation for one of his signature hand kisses. He thrust a hand out towards Yoongi, beaming. "Sweet dreams~"</p>
 <p class="text">Grimacing, Yoongi ducked out of the way to dodge the 'kiss,' snickering at the insulted gasp from Seokjin before the doors closed. Letting out a loud sigh, he checked that no one was around before he lifted his phone again, rereading their last few messages on the app. While he hoped that MINIMIN had gotten the extension he wanted, it was highly unlikely; people in Seoul were pretty strict on timely payment of rent, and he was a little worried at the radio silence since the guy had promised to text him after he spoke to his landlord. Refreshing his inbox as he continued towards his private studio, he was disappointed by the official lack of response from MINIMIN.</p>
-
 <div class="chat">
-<div data-time="MYG" class="msg rcvd"> hey </div>
-<div data-time="MYG" class="msg rcvd"> is everything okay? </div>
+	<div class="msg rcvd" data-time="MYG">hey</div>
+	<div class="msg rcvd" data-time="MYG">is everything okay?</div>
 </div>
-
 <p class="text">He wanted to add more, but decided it would be invasive for him to probe too much about the matter. Letting out a deep breath, he shoved his phone into his pocket and firmly put the matter out of his mind; MINIMIN would reply if or when he wanted to. Yoongi pressed his thumb to the fingerprint scanner, entering his studio with a strong step once he'd been granted access.</p>
 <p class="text">Jungkook had his earbuds in, presumably listening to a recording of his own cover to check for areas where he needed to improve. He only noticed Yoongi was in the room when he was tapped on the shoulder, and he sprung to his feet with wide eyes. "Min PD-nim," he greeted, belatedly realizing how late it was as his eyes drifted to the clock hanging over the door. Even so, it was pretty endearing that he still referred to Yoongi formally, since they were still in the company building. "I'm sorry, I got carried away. Did you stay back because I was using the studio---"</p>
 <p class="text">It actually made Yoongi proud, knowing how hardworking all of his artists were. "No," he reassured, shaking his head. "But you should be careful not to overdo it, even if I'm caught up elsewhere." Leaning past Jungkook, he collected a folder and his wallet, shoving it all into a black tote bag he had hanging on the hook. "We're all done for the day; I mentioned setting some time aside for a review for your cover to the others as well." Glancing at Jungkook, he smiled. "It'll be tough, but I'm pretty sure we can have it up by next week, so let's get some rest tonight and continue doing our best tomorrow."</p>
