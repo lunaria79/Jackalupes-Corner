@@ -2,7 +2,7 @@
 cssclasses:
   - onymoji
 Home:
-  - "[[Onymoji Home]]"
+  - "[[../Onymoji Home]]"
 ---
 ![ubume](../Information/ubume.png)
 ![ubume goal](../Information/ubume%20goal.png)

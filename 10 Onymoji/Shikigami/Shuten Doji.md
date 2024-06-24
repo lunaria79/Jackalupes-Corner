@@ -2,7 +2,7 @@
 cssclasses:
   - onymoji
 Home:
-  - "[[Onymoji Home]]"
+  - "[[../Onymoji Home]]"
 ---
 ![shuten doji](../Information/shuten%20doji.png)
 ![shuten doji goal](../Information/shuten%20doji%20goal.png)

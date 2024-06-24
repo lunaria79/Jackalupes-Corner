@@ -53,7 +53,8 @@
 /* ------------------------------------------ Editing Mode ------------------------------------------ */
 .fanfiction.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
 	/* https://www.10bestdesign.com/dirtymarkup/ */
-	
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 .fanfiction.markdown-source-view .cm-line:has(div),

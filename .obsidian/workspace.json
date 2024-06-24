@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+                "file": "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c7aceb90ec84741d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/For Aeli.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md"
+                "file": "01 Dream Journal/For Aeli.md"
               }
             }
           },
@@ -168,50 +179,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b90824b64a53b226",
+  "active": "c7aceb90ec84741d",
   "lastOpenFiles": [
-    "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
-    "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
-    "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
-    "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
-    "Minecraft Summon Items.md",
-    "03 Onymoji/Onymoji Home.md",
-    "03 Onymoji/Information/dfsdfsdf.png",
-    "03 Onymoji/Shikigami/Ubume.md",
-    "03 Onymoji/Shikigami/Shuten Doji.md",
-    "03 Onymoji/Shikigami/Miakashi.md",
-    "03 Onymoji/Shikigami/Jorogumo.md",
-    "03 Onymoji/Shikigami/Bake-kujira.md",
-    "03 Onymoji/Information/miakashi-info.png",
-    "03 Onymoji/Information/bake-kujira-current.png",
-    "03 Onymoji/Information/jorogumo-current.png",
-    "03 Onymoji/Information/bake-kujira-info.png",
-    "03 Onymoji/Information/jorogumo-info.png",
-    "02 Stardew Valley/Strawberries.md",
-    "02 Stardew Valley/Barista (Cold).md",
-    "04 These Lyrics Will Write Themselves/text message staging.md",
-    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
+    "01 Dream Journal/For Aeli.md",
+    "Minecraft Summon Items.md",
+    "01 Dream Journal/ZIALONA Home Page.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "10 Onymoji/Shikigami/Ubume.md",
+    "10 Onymoji/Shikigami/Shuten Doji.md",
+    "10 Onymoji/Shikigami/Jorogumo.md",
+    "10 Onymoji/Shikigami/Bake-kujira.md",
+    "10 Onymoji/Shikigami/Miakashi.md",
+    "02 These Lyrics Will Write Themselves/text message staging.md",
+    "02 Stardew Valley/Strawberries.md",
+    "02 Stardew Valley/Stardew Valley Recipes.md",
+    "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+    "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
+    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+    "02 These Lyrics Will Write Themselves/00 - Table of Contents.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
+    "10 Onymoji/Onymoji Home.md",
+    "10 Onymoji/Information/dfsdfsdf.png",
+    "10 Onymoji/Information/miakashi-info.png",
+    "10 Onymoji/Information/bake-kujira-current.png",
+    "10 Onymoji/Information/jorogumo-current.png",
+    "10 Onymoji/Information/bake-kujira-info.png",
+    "10 Onymoji/Information/jorogumo-info.png",
+    "02 Stardew Valley/Barista (Cold).md",
     "00 _resources/Images/draculabase.png",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
-    "01 Dream Journal/ZIALONA Home Page.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "00 _resources/Images/mary-jane-1.jpg",
     "00 _resources/Images/mary-jane-4.jpg",
-    "04 These Lyrics Will Write Themselves",
-    "03 Onymoji/Shikigami",
-    "03 Onymoji",
+    "02 These Lyrics Will Write Themselves",
+    "10 Onymoji/Shikigami",
+    "10 Onymoji",
     "02 Stardew Valley/Images",
     "02 Stardew Valley",
-    "03 Onymoji/Information",
+    "10 Onymoji/Information",
     "Untitled.canvas",
     "obsidian_sync",
     "github_sync",

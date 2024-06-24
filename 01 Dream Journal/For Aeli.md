@@ -4,6 +4,12 @@ tags:
 Home:
   - "[[Dream Journal Home Page]]"
 ---
+# Updates
+```diff
+- This line is removed.
++ This line is added.
+```
+
 # Dream Journal
 ## Atomize
 Ok so this one is unedited. It's straight brain to paper after a dream, so the writing will get better.

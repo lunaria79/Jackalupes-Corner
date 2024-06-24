@@ -2,7 +2,7 @@
 cssclasses:
   - onymoji
 Home:
-  - "[[Onymoji Home]]"
+  - "[[../Onymoji Home]]"
 ---
 ![jorogumo](../Information/jorogumo.png)
 ![jorogumo-info](../Information/jorogumo-info.png)
