@@ -7,7 +7,15 @@ Home:
 # Updates
 ```diff
 - This line is removed.
-+ This line is added.
+- 
+2024-06-19
++  Atomize
++ Gaia's Wrath
++ Isle of the Gods
++ Mary Jane
++ NANOBEAM
++ Truama Central
+
 ```
 
 # Dream Journal
