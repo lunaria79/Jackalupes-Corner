@@ -18,7 +18,6 @@ Previous Chapter:
   - "[[01 - friends that annoy you usually care the most]]"
 Next Chapter: "[[03 - are you a girl or a boy]]"
 ---
-
 <p class="title" id="toc_1">what's the point if you aren't healthy?</p>
 <div class="chat">
 <div data-time="MYG" class="msg rcvd">8,000,000 won a month is a lot of money; are you sure you're worth the cashout?</div>
