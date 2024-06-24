@@ -62,6 +62,10 @@ div[style="text-indent: -35px; padding-inline-start: 35px;"] {
 	background-color: #202335;
 }
 
+div.cm-line + div.cm-line {background-color: #202335;} {
+	background-color: #202335;
+}
+
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */
 .fanfiction div.inline-title {
 	color: var(--lupawhite);
