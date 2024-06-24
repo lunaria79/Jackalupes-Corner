@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderTree",
       "FasFileCode",
       "FarAddressCard",
       "FasCode",
-      "FasFileLines",
-      "FasFolderOpen"
+      "FasFileLines"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,15 +52,9 @@
     "iconColor": "#ac49da"
   },
   "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md": "FasFileLines",
-  "01 Dream Journal/Dreams/03 The Secret Garden": {
-    "iconName": "FasFolderTree",
-    "iconColor": "#e0ea53"
-  },
+  "01 Dream Journal/Dreams/03 The Secret Garden": "FasFolderTree",
   "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md": "FasHouse",
-  "01 Dream Journal/Dreams/01 The School of the Arcane": {
-    "iconName": "FasFolderTree",
-    "iconColor": "#58d949"
-  },
+  "01 Dream Journal/Dreams/01 The School of the Arcane": "FasFolderTree",
   "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md": "FasHouse",
   "01 Dream Journal/Dreams/Mary Jane.md": "FasFilePen",
   "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters": "FasFolderTree",
@@ -96,18 +90,12 @@
   "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md": "FasFilePen",
   "00 _resources/Templates": "FasFolderTree",
   "00 _resources/Images": "FasFolderTree",
-  "01 Dream Journal/Dreams/04 Nothing Left to Say": {
-    "iconName": "FasFolderTree",
-    "iconColor": "#53da49"
-  },
+  "01 Dream Journal/Dreams/04 Nothing Left to Say": "FasFolderTree",
   "01 Dream Journal/Dreams/04 Nothing Left to Say/Images": "FasFolderTree",
   "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md": "FasFilePen",
   "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/peppe notes.md": "FasNoteSticky",
   "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/00 Images/Liu Fènghuáng.png": "FasFileImage",
-  "01 Dream Journal/Dreams/05 Milo & Caspian": {
-    "iconName": "FasFolderTree",
-    "iconColor": "#e0ea53"
-  },
+  "01 Dream Journal/Dreams/05 Milo & Caspian": "FasFolderTree",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images": "FasFolderTree",
   "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md": "FasFileLines",
   "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md": "FasImages",
@@ -139,5 +127,8 @@
   "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
   "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md": "FasFileLines",
   "02 These Lyrics Will Write Themselves/text message staging.md": "FasCode",
-  "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines"
+  "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
+  "01 Dream Journal/Dreams/Mary Jane": "FasFolderTree",
+  "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md": "FasFileLines",
+  "01 Dream Journal/Dreams/Mary Jane/Images": "FasFolderTree"
 }

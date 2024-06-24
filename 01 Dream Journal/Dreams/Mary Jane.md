@@ -71,7 +71,7 @@ Home:
 			</div>
 		</div>
 
-![[../../00 _resources/Images/mary-jane-3.jpg]]
-![[../../00 _resources/Images/mary-jane-2.jpg]]
-![[../../00 _resources/Images/mary-jane-1.jpg]]
-![[../../00 _resources/Images/mary-jane-4.jpg]]
+![[Mary Jane/Images/mary-jane-3.jpg]]
+![[Mary Jane/Images/mary-jane-2.jpg]]
+![[Mary Jane/Images/mary-jane-1.jpg]]
+![[Mary Jane/Images/mary-jane-4.jpg]]
