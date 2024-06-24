@@ -187,10 +187,12 @@ div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-li
 	color: var(--lupawhite);
 	margin-top: 5px;
 	text-align: justify;
+	font-size: 18px;
 }
 
 .fanfiction.markdown-rendered p {
 	text-align: justify;
+	font-size: 18px;
 }
 
 .fanfiction .divide {
