@@ -57,8 +57,9 @@
 	padding-bottom: 25px;
 }
 
-.fanfiction.markdown-source-view .cm-line > .cm-fold-indicator {
-	background-color: red;
+.fanfiction.markdown-source-view .cm-line:has(div),
+div[style="text-indent: -35px; padding-inline-start: 35px;"] {
+	background-color: #202335;
 }
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */
