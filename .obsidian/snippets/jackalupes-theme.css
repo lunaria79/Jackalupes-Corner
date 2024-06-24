@@ -15,8 +15,7 @@ font-family: "Englebert", cursive;
 	display: none !important;
 }
 
-.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before,
-.nav-folder .nav-folder-title .nav-folder-title-content::before {
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before, .nav-folder .nav-folder-title .nav-folder-title-content::before {
 	display: none;
 }
 
@@ -24,11 +23,10 @@ font-family: "Englebert", cursive;
 	color: whitesmoke;
 }
 
-.nav-file-title.is-active,
-body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
-    color: rgb(var(--purple-tint)) !important;
-	background-color: rgba(var(--purple-tint), .1) !important;	
-    font-weight: 700;
+.nav-file-title.is-active, body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
+	color: rgb(var(--purple-tint)) !important;
+	background-color: rgba(var(--purple-tint), .1) !important;
+	font-weight: 700;
 }
 
 ::-webkit-scrollbar {
@@ -39,9 +37,7 @@ body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
 	--purple-tint: 213, 168, 233;
 	--medium-radius: 6px;
 	--small-radius: 4px;
-	
 	--file-line-width: 80%;
-
 	font-family: "Dosis", sans-serif;
 }
 
@@ -52,15 +48,14 @@ body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
 }
 
 body {
-  /* Indentation */
-  --indentation-guide-color: rgba(var(--purple-tint), .75);
-  --indentation-guide-color-active: rgb(var(--ctp-accent), 70%);
-  --indentation-guide-width: 2px;
-  
+	/* Indentation */
+	--indentation-guide-color: rgba(var(--purple-tint), .75);
+	--indentation-guide-color-active: rgb(var(--ctp-accent), 70%);
+	--indentation-guide-width: 2px;
 }
 
 .theme-dark {
-  --ctp-surface2: 88, 91, 112;
+	--ctp-surface2: 88, 91, 112;
 }
 
 /* ---------- Reading Mode ---------- */
@@ -69,28 +64,15 @@ div.markdown-reading-view {
 }
 
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-    max-width: var(--file-line-width);
-    margin-left: auto;
-    margin-right: auto;
+	max-width: var(--file-line-width);
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
 	/* https://www.10bestdesign.com/dirtymarkup/ */
-	padding-bottom: 10px;
-	padding-top: 10px;
-}
-
-.markdown-source-view .cm-line:has(div),
-.markdown-source-view div[style="text-indent: -35px; padding-inline-start: 35px;"] {
-	background-color: #202335;
-}
-
-.markdown-source-view.mod-cm6 .cm-indent:nth-child(6n + 1):before {
-	display: none;	
-}
-
-.markdown-source-view div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end){background-color: #202335;} {
-	background-color: #202335;
+	padding-bottom: 15px;
+	padding-top: 15px;
 }
 
 /* ---------- Source Mode ---------- */
@@ -104,4 +86,3 @@ div.markdown-reading-view {
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line, .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
 	max-width: none;
 }
-
