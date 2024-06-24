@@ -62,8 +62,10 @@ div[style="text-indent: -35px; padding-inline-start: 35px;"] {
 	background-color: #202335;
 }
 
-div.cm-line + div.cm-line {background-color: #202335;} {
+div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end){background-color: #202335;} {
 	background-color: #202335;
+	padding-bottom: 15px !important;
+	margin-bottom: 10px !important;
 }
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */
