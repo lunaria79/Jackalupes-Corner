@@ -53,28 +53,22 @@
 /* ------------------------------------------ Editing Mode ------------------------------------------ */
 .fanfiction.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
 	/* https://www.10bestdesign.com/dirtymarkup/ */
-	padding-bottom: 25px;
+	
 }
 
 .fanfiction.markdown-source-view .cm-line:has(div),
-div[style="text-indent: -35px; padding-inline-start: 35px;"] {
-	background-color: #202335;
-	padding: 5px;
-}
-
-div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end){background-color: #202335;} {
+.fanfiction.markdown-source-view div[style="text-indent: -35px; padding-inline-start: 35px;"] {
 	background-color: #202335;
 }
 
-.fanfiction.markdown-source-view .cm-line:has(div) {
-	padding-top: 15px;
-	margin-top: -10px !important;
+.markdown-source-view.mod-cm6 .cm-indent:nth-child(6n + 1):before {
+	display: none;	
 }
 
-div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end) {
-	padding-bottom: 5px !important;
-	margin-bottom: 20px !important;
+.fanfiction.markdown-source-view div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end){background-color: #202335;} {
+	background-color: #202335;
 }
+
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */
 .fanfiction div.inline-title {
@@ -245,8 +239,6 @@ div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-li
 	font-family: "DM Mono", monospace;
 	font-size: 14px;
 	box-shadow: 2px 2px 2px #0000003d;
-	
-	
 }
 
 .fanfiction .msg.sent {
