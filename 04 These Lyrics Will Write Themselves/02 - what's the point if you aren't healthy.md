@@ -113,7 +113,7 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">After a few years in the entertainment industry, relationships tended to take on an ugly tint of business, and that made maintaining them tedious. Forging relationships with people outside of work was hard, and Yoongi supposed it figured that the only person he'd felt comfortable talking to in ages was a stranger.</p>
 <p class="text">Eventually though, the inevitable question popped up.</p>
 <div class="chat">
-<div class="msg sent" data-time="MINIMIN">why dont you have a profile picture?</div>
+	<div class="msg sent" data-time="MINIMIN">why dont you have a profile picture?</div>
 </div>
 <p class="text">The producer thought about this for a long time.</p>
 <div class="chat">
