@@ -18,25 +18,13 @@
             }
           },
           {
-            "id": "b90824b64a53b226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minecraft Summon Items.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "ce905cc8aed416c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dreams/Mary Jane.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md"
+                "file": "01 Dream Journal/Dream Journal Home Page.md"
               }
             }
           },
@@ -204,14 +191,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3e0120e69c6a643",
+  "active": "c7aceb90ec84741d",
   "lastOpenFiles": [
-    "Minecraft Summon Items.md",
     "01 Dream Journal/Dreams/Mary Jane.md",
     "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/For Aeli.md",
+    "Minecraft Summon Items.md",
+    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
-    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "10 Onymoji/Shikigami/Ubume.md",
@@ -224,7 +212,6 @@
     "02 Stardew Valley/Stardew Valley Recipes.md",
     "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
-    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "02 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "10 Onymoji/Onymoji Home.md",
