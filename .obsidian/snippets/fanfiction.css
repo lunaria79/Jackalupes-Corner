@@ -60,12 +60,21 @@
 .fanfiction.markdown-source-view .cm-line:has(div),
 div[style="text-indent: -35px; padding-inline-start: 35px;"] {
 	background-color: #202335;
+	padding: 5px;
 }
 
 div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end){background-color: #202335;} {
 	background-color: #202335;
-	padding-bottom: 15px !important;
-	margin-bottom: 10px !important;
+}
+
+.fanfiction.markdown-source-view .cm-line:has(div) {
+	padding-top: 15px;
+	margin-top: -10px !important;
+}
+
+div.cm-line[style="text-indent: -35px; padding-inline-start: 35px;"] + div.cm-line:has(span.cm-hmd-html-end) {
+	padding-bottom: 5px !important;
+	margin-bottom: 20px !important;
 }
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */
