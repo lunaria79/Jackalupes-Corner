@@ -59,15 +59,9 @@ Home:
 									<div class="callout-icon">
 										<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path> </svg>
 									</div>
-									<div class="callout-title-inner"> Anaia </div>
+									<div class="callout-title-inner"> Mary Jane </div>
 								</div>
-								<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/anaiaref.jpg">
-								<h3>Prologue</h3>
-								<p><b>Anaia</b> was the most successful of all of the parasite experiments. She struggles with PTSD, anxiety and selective mutism, choosing to speak directly to other's minds. She is significantly more powerful than the other members of her coven, but any disobedience has long since been beaten out of her. Due to how vampires age, she is mentally around 16, although her body is many centuries old. When she enters school, she's incredibly awkward and shy, and doesn't know how to interact with others well. Her classmates avoid her due to her coven, so she spends most of her days alone. After becoming friends with <b>Toshi</b>, she slowly grows out of her shell and gains confidence. The coven finds her much harder to control when they capture her again.</p>
-								<h3>Main Story</h3>
-								<p>The coven has broken <b>Amaia's</b> spirit again, and had bits of her memory removed. She struggles to remember the faces of her original parents and <b>Toshi</b>. Deep down though, she still has a rebellious streak. And all the coven can do is give her orders when she's away in the big city. She is now mentally in her late twenties, and is about to start her path into politics. She is no longer burned by the sun, due to her bodies age. Real blood no longer sustains her, so she has been surviving off of substitutes and fruits.</p>
-								<h3>Fun Facts</h3>
-								<p><b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with <i>ichor</i>, they've permanently turned golden.</p>
+								<img alt="Mary Jane.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/Mary%20Jane/Images/mary-jane-3.jpg">
 							</div>
 						</div>
 						<div class="grid right">
@@ -76,16 +70,9 @@ Home:
 									<div class="callout-icon">
 										<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path> </svg>
 									</div>
-									<div class="callout-title-inner"> Toshi </div>
+									<div class="callout-title-inner"> boys: to be made </div>
 								</div>
-								<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
-								<h3>Prologue</h3>
-								<p>There is an air of mystery surrounding <b>Toshi's</b> birth. He was not born, but found. His purpose unknown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
-								<h3>Main Story</h3>
-								<p>In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby. His main purpose is a reaper. He's been working very hard to suppress the political groups that want another war.</p>
-								<h3>Fun Facts</h3>
-								<p><b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection.</p>
-								<p>The reason <b>Toshi</b> started reaping was because he felt to guilty enjoying his wealth while others were using theirs to hurt others.</p>
+								<img alt="placeholder.png" src="">
 							</div>
 						</div>
 					</div>
