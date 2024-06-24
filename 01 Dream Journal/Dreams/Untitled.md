@@ -12,8 +12,7 @@ Home:
 			<div class="html-tabs">
 				<div class="html-tab html-tab-active" data-x-bind:class="{ 'html-tab-active': tab == 0 }" data-x-on:click="tab = 0"> <p>Plots</p> </div>
 				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1"> <p>Characters</p> </div>
-				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"> <p>Notes</p>
-				</div>
+				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"> <p>Notes</p> </div>
 			</div>
 			<div class="html-tab-content">
 				<div data-x-show="tab == 0" style="">
@@ -22,8 +21,7 @@ Home:
 							<div class="box">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="currentColor" width="16px" height="16px"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
 									</div>
 									<div class="callout-title-inner"> premise </div>
 								</div>
@@ -34,8 +32,7 @@ Home:
 							<div class="box">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="currentColor" width="16px" height="16px"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
 									</div>
 									<div class="callout-title-inner"> aftermath </div>
 								</div>
@@ -50,13 +47,11 @@ Home:
 							<div class="box char-note">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
+										<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path> </svg>
 									</div>
-									<div class="callout-title-inner">
-										Anaia
-									</div>
-								</div><img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/anaiaref.jpg">
+									<div class="callout-title-inner"> Anaia </div>
+								</div>
+								<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/anaiaref.jpg">
 								<h3>Prologue</h3>
 								<p><b>Anaia</b> was the most successful of all of the parasite experiments. She struggles with PTSD, anxiety and selective mutism, choosing to speak directly to other's minds. She is significantly more powerful than the other members of her coven, but any disobedience has long since been beaten out of her. Due to how vampires age, she is mentally around 16, although her body is many centuries old. When she enters school, she's incredibly awkward and shy, and doesn't know how to interact with others well. Her classmates avoid her due to her coven, so she spends most of her days alone. After becoming friends with <b>Toshi</b>, she slowly grows out of her shell and gains confidence. The coven finds her much harder to control when they capture her again.</p>
 								<h3>Main Story</h3>
@@ -69,13 +64,11 @@ Home:
 							<div class="box char-note">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
+										<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path> </svg>
 									</div>
-									<div class="callout-title-inner">
-										Toshi
-									</div>
-								</div><img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
+									<div class="callout-title-inner"> Toshi </div>
+								</div>
+								<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
 								<h3>Prologue</h3>
 								<p>There is an air of mystery surrounding <b>Toshi's</b> birth. He was not born, but found. His purpose unknown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
 								<h3>Main Story</h3>
@@ -93,13 +86,13 @@ Home:
 							<div class="box def-note">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-									</div>
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
+								</div>
 									<div class="callout-title-inner">
 										image + note
 									</div>
-								</div><img alt="SSS Stargazer.png" src="C:/Users/regin/OneDrive/Dream%20Journal/02%20Dream%20Journal/Dreams/Fantasy%20Steampunk/Images/SSS%20Stargazer.png">
+								</div
+								><img alt="placeholder.png" src="">
 								<p>...</p>
 							</div>
 						</div>
@@ -107,9 +100,8 @@ Home:
 							<div class="box def-note">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-									</div>
+									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
+								</div>
 									<div class="callout-title-inner">
 										note
 									</div>
