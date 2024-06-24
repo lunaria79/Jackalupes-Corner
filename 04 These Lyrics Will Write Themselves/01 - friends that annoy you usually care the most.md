@@ -134,7 +134,7 @@ Next Chapter:
 
   <p class="text">Yoongi glanced over at Jin's phone, interest piqued. "Hmm," he said thoughtfully.</p>
 
-  <p class="divide">•·······•·······•</p>
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
   <p class="text">"I have the shittiest life right now," Jimin bemoaned, his arm thrown over his eyes. The bartender eyed him sceptically, but slid a new pint into his waiting hand without comment. To be fair, he'd been here for hours; since 2 in the afternoon. It was nearing 9 and Jimin was buzzed off his ass, but he deserved it. He'd probably fight the bartender if he was cut off; he absolutely needed to get wasted tonight, or he was going to lose his mind.</p>
 

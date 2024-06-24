@@ -25,7 +25,7 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 </div>
 
 
-<p class="divide">•·······•·······•</p>
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <p class="text">Jimin woke Taehyung by throwing his phone at his stomach. "KIM TAEHYUNG!" He screamed, horrified even as he was half asleep. "What the hell did you do last night?!"</p>
 <p class="text">"Oh my goood," Taehyung groaned and crumpled in on himself, snagging Jimin's blanket and wrapping himself in the protective shroud. "You have to be more specific," he whined, voice muffled as he almost rolled off the bed. His hair was sticking out, messy and unkempt. "I do bad, bad things when I'm drunk. I think I'm still drunk..."</p>
@@ -60,7 +60,7 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <div class="msg sent">you can go fuck yourself, MYG.</div>
 </div>
 
-<p class="divide">•·······•·······•</p>
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <p class="text">Yoongi had installed the Seeking Arrangement app the previous night, creating a profile as he'd soaked in his tub after a long day of work. Being on a sugar baby and daddy app was a strange experience; the platform allowed for a ton of trolls, and most of the people Yoongi had glimpsed on the thing from Seoul were either way too old, or way too young. Some of them were still high schoolers, for god's sake, and he'd wondered if they were intending to do this long term. He hoped not, for the sake of young future lawyers and doctors everywhere.</p>
 <p class="text">A little more research on the term had proved it to be controversial career of sorts; being a sugar baby obviously had some pretty negative connotations in society. Though Yoongi personally saw no real problem with it if the relationship was safe and consensual, it was also clear that there were no rules or governing force in place to ensure this was the case. He supposed it would be easy for young men and women to be swindled into some sort of arrangement and forced into doing things they wouldn't want, and the thought both worried and repulsed him.</p>
@@ -178,7 +178,7 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <div data-time="MYG" class="msg rcvd"> In my industry, I could have a mitt the size of fucking Africa and never catch a break. </div>
 </div>
 
-<p class="divide">•·······•·······•</p>
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <p class="text">Jimin smiled at his phone. This exchange he was having with MYG was turning out to be surprisingly fun; the guy was also turning out to be the most decent person he'd met on the app so far. No dick pics, no demands, nothing; he hadn't even been hit on inappropriately once. They'd traded a few comments about this whole sugar baby and daddy thing, but nothing serious. MYG had mentioned not having any kind of prejudice against a relationship like that, and Jimin had responded in the same way. Technically, he figured being a sugar baby was sort of like a full-time, 24/7 job---</p>
 <p class="text">Except your career would literally revolve around keeping someone happy.</p>
@@ -219,7 +219,7 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">"But the 1st is only 2 days from now," he eventually whispered to the empty stairwell, his trash bag splitting right at that moment and emptying itself all over his foot.</p>
 <p class="text">He'd stayed here at this very same apartment for so many years, but it only took less than 10 minutes for him to get kicked out. The reality of that made his eyes well up with frustrated, miserable tears, and he was devastated at the thought of leaving Seoul behind. Inconsolable, Jimin had to bend down and collect his trash, crying and dotting the floor with dark, wet spots.</p>
 
-<p class="divide">•·······•·······•</p>
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <p class="text">Yoongi scrutinized Sung-ho's movements on the floor, frowning. "Your eldest is still looking a little unsteady," he commented, turning to Namjoon with crossed arms. They were both monitoring PAROXCISM in the studio from the other side of a one-way mirror, because they'd learnt a long time ago that everything Yoongi did seemed to keep Namjoon's kids on their figurative toes. "Is he putting in the extra hours?"</p>
 <p class="text">"He and Taemin work the most on dancing during their free time," Namjoon replied, his eyes glued firmly on his group as they tore through a powerful series of movements, their arms just shy of being fluid enough. "Hoseok's been working Ki-moon to the bone, but I'm pretty sure he's been staying behind to help his hyungs practice after hours. I'm not too worried about Daesung or Daehyun, but Sung-ho's dancing just isn't on par..." Sighing, he glanced at Yoongi. "You know, it gets a lot of negative attention online; the comments on their YouTube videos are pretty rough." Namjoon chewed on the nail of his thumb, frowning. "I'm worried about him."</p>

@@ -29,7 +29,7 @@ Next Chapter:
 <div data-time="MINIMIN" class="msg sent">  I don't think I can stay in Seoul anymore..  </div> 
 </div> 
 
-<p class="divide"> •·······•·······• </p> 
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <p class="text"> "I'm sick of all this modeling bullshit." </p> 
 <p class="text"> Yoongi palmed his face tiredly, looking at Joon-ki. It was still early in the morning, but the ILGI members had returned from their PUMA shoot in Ilsan and were just now entering the office for a casual debriefing. They'd come directly to the office, so Yoongi was intending to send them back to the dorms after the meeting, just to shower and rest for a couple of hours before calling them back in again. "Before I address... This," he said, gesturing vaguely in Joon-ki's direction before he regarded the other members with interest, "how did the shoot go?" </p> 
@@ -81,7 +81,7 @@ Next Chapter:
 <p class="text"> Cheolmin shouldered his tote bag with a hum. "Can we have pizza?" He suggested as gently as possible. "The artisan one from the restaurant two streets away?" </p> 
 <p class="text">"Don't push it, pretty boy," Yoongi snorted, waving them off towards the door dismissively. He lifted an eyebrow at a notification from MINIMIN on Seeking Arrangement, and he waited for the members to leave so he could read the new message. "I knew you didn't care that much about your skin." </p> 
 
-<p class="divide"> •·······•·······• </p> 
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <div class="chat"> 
 <div data-time="MYG" class="msg rcvd">  That bad?  </div> 
@@ -264,7 +264,7 @@ Next Chapter:
 <p class="text"> And Jimin waited, but there didn't seem to be any response coming after a while. Letting out a sigh, he balked at the time and realized he'd been lazing around for over 30 minutes already. "Shit," he hissed, jumping off the bed and locking his phone. He had too much to do to sit around negotiating pipe dreams with MYG, whoever he was. </p> 
 <p class="text"> Running out to the kitchen, he pulled open a drawer to get a pair of scissors and a new roll of tape, determined to get back to work without distractions. </p> 
 
-<p class="divide"> •·······•·······• </p> 
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
 
 <p class="text"> Yoongi knew that Jungkook was a great PA, which was why he could trust him with this. "I need you to pick up someone for me," he said casually as they entered the lift. They were on the way to Yoongi's 5 o'clock; he'd managed to wrap up the rerecording with ILGI without too many issues. </p> 
 <p class="text"> "Take him to my apartment, along with his things... Can you settle it? I'll take a cab back from 10Asia." Hopefully MINIMIN didn't have too many things; Yoongi would hate to trouble Jungkook too much. Multiple trips would be a pain. </p> 
@@ -297,7 +297,9 @@ Next Chapter:
 <p class="text"> Wearily, the PA let out a long sigh. "I just hope you know what you're doing, hyung." Jungkook glanced over at his boss. "Even setting aside the fact that he could turn out to be a complete jerk, there's still the matter of confidentiality. If this gets out into the news..." He worried his lip as he changed lanes, carefully signalling the cars behind them. "... I don't want things to get nasty for you, so please be more careful with what you do." </p> 
 <p class="text">Yoongi could tell Jungkook was genuinely concerned for him, but MINIMIN wasn't going to be a problem. The arrangement probably wasn't even going to last very long; the guy was likely already finding a job. Though he'd gone to all this trouble, Yoongi was just curious about why having a sugar baby was such a bad thing. More than anything, he was just in it for the experience--- This way he could simulate a relationship without the actual commitment of having to be in one. Namjoon had also mentioned that people sought out others on Seeking Arrangement purely for the company, so it wasn't like he had any bad intentions; he just hoped MINIMIN felt the same way. </p> 
 <p class="text"> "Yeah. I'll be careful." </p> 
-<p class="divide"> •·······•·······• </p> 
+
+<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
+
 <p class="text"> Jimin was going to miss his bus if he didn't manage to tie the fucking knot on his sheets. Biting viciously into his lower lip, he narrowed his eyes at the bulk of his bedspreads, rolled up into a big bundle. He hadn't figured out how he was going to actually take this on the bus, but he'd think about that later. "Come on," he murmured, yanking the raffia string tightly to try and compress the sizeable bulk, wishing he'd thought to pick up some vacuum-seal bags. "Come on..." </p> 
 <p class="text"> The doorbell rang, jarring him into letting go. His blankets and bed covers unfurled, and he let out a frustrated groan. </p> 
 <p class="text"> The only person he could think of that would bother him at this time was his landlord or Taehyung, but Tae had just been freshly commissioned; it probably wasn't him. Crossing his apartment, he ran a hand through his hair and scowled, throwing the door open. "Ju-in-ssi, I'm in the middle of packing---" </p> 

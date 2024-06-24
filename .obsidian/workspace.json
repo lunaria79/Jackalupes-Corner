@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
                 "mode": "preview",
                 "source": true
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md"
               }
             }
           },
@@ -169,8 +170,12 @@
   },
   "active": "52f84274554b1782",
   "lastOpenFiles": [
-    "Minecraft Summon Items.md",
+    "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+    "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
+    "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+    "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
+    "Minecraft Summon Items.md",
     "03 Onymoji/Onymoji Home.md",
     "03 Onymoji/Information/dfsdfsdf.png",
     "03 Onymoji/Shikigami/Ubume.md",
@@ -185,11 +190,7 @@
     "03 Onymoji/Information/jorogumo-info.png",
     "02 Stardew Valley/Strawberries.md",
     "02 Stardew Valley/Barista (Cold).md",
-    "04 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "04 These Lyrics Will Write Themselves/text message staging.md",
-    "04 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
-    "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
-    "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "00 _resources/Images/draculabase.png",
