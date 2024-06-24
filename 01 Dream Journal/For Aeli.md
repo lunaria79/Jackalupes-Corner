@@ -6,8 +6,6 @@ Home:
 ---
 # Updates
 ```diff
-- This line is removed.
-- 
 2024-06-19
 +  Atomize
 + Gaia's Wrath
@@ -15,7 +13,13 @@ Home:
 + Mary Jane
 + NANOBEAM
 + Truama Central
+  
+2024-06-21
++ Villanous Snakes Give the Best Dick
++ Bridgerton Wishes
 
+2024-06-24
+- Maddness
 ```
 
 # Dream Journal

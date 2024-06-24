@@ -26,6 +26,22 @@ tags:
 1. [themes](Stage%20Files/themes/themes.md)
 
 # To Write
+~~~diff
+2024-06-19
++  Atomize
++ Gaia's Wrath
++ Isle of the Gods
++ Mary Jane
++ NANOBEAM
++ Truama Central
+  
+2024-06-21
++ Villanous Snakes Give the Best Dick
++ Bridgerton Wishes
+
+2024-06-24
+- Maddness
+~~~
 ## Madness
 The one I'm contemplating discontinuing
 
