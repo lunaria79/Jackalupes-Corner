@@ -19,21 +19,13 @@ Next Chapter:
 ---
 <p class="title" id="toc_1"><a id="p2"></a>friends that annoy you usually care the most</p>
   <p class="text" id="top">Yoongi didn't even flinch as the door to his private studio slammed open. Most of the time, people would be startled if a door slammed shut, but seeing as how he'd been working in close contact with Namjoon for the past few years, he'd gotten used to hearing the sound both ways. Without turning to even look at his best friend, Yoongi continued observing the pink thread of Ki-ha's voice on the monitor, frowning as it spiked too high above that of his other member's threads. What was it about the maknae's tendency to cover his hyung's accompaniment towards the end of every song?</p>
-
   <p class="text">Namjoon pointedly cleared his throat.</p>
-
   <p class="text">"What do you want now?" Yoongi asked absently, highlighting the affected segment and replaying it again.</p>
-
   <p class="text">His best friend slammed a bag of chicken on the table. Yoongi was impressed that it hadn't erupted and sprayed sauce everywhere like it had the last time. "Eat. And don't blame me; those are Jin's orders," Namjoon huffed, crossing his arms. "When was the last time you actually digested something?"</p>
-
   <p class="text">"When I was hungry," Yoongi hummed, jacking up the volume and scratching his head. Something didn't sound right. "Give the food to Hoseok; he's in studio 4 with your kids." Namjoon was in charge of the idol group signed to their company, PAROXCISM, and Yoongi was in charge of their predominantly hip-hop group, ILGI. Hoseok choreographed most of the routines for the artists signed to their label, and he was heavily involved in the shaping of their stage presence.</p>
-
   <p class="text">As co-directors of Bulletproof ENT, both Yoongi and Namjoon played key roles in promoting, raising and managing their respective groups. Both of them had learnt that it required far more mettle to do their jobs than initially expected. More than a strictly business relationship, it was hard to keep a distance; to avoid being personally invested in the well-being and mental fortitude of these boys.</p>
-
   <p class="text">They'd tried and they'd failed; now they were all but resigned to having essentially adopted these artists as their overgrown kids, even though they were young and relatively close in age. Jin had often joked that this was probably the closest thing to fatherhood any of them would ever experience without being fathers.</p>
-
   <p class="text">Whenever he heard that, it always reminded Yoongi that they were a small company, but they were a family. He'd been so young when they'd retired to start B:ENT; only 24, Namjoon and Hoseok had been even younger. It was only through connections and their past contacts that they were able to scrape together investors and sponsors - they'd even received a generous amount of help from both their former boss and manager, Bang Shi Hyuk PD-nim and Sejin-hyung - but everything had still been so tough. He'd never realized just how terrified he would be, risking everything he had, every last cent and every last second of his youth, on a venture so profoundly meaningful to him.</p>
-
   <p class="text">Yoongi had spent the first few years of his time at B:ENT fighting himself and his own insecurities, all the while trying to train these kids only a few years younger than himself. He, Namjoon, Hoseok and their artists had been through wars untold to the fans, to the public. They'd been looked down upon, told they were never going to make it and that the company would collapse in a couple of years. Every day had been a struggle from the minute they woke up to the minute they closed their eyes to sleep, if they even managed to catch any time to rest.</p>
 
   <p class="text">But they were lucky with their auditions. Watching ILGI and PAROXCISM succeed the way they had validated everything; all their hard work and effort had paid off in the best way. Yoongi got addicted to that feeling--- Seeing his kids up on stage and Namjoon's group on TV, watching their artists beat out competition from companies twice their size and four times their age. It had been so, so worth it.</p>
@@ -134,7 +126,7 @@ Next Chapter:
 
   <p class="text">Yoongi glanced over at Jin's phone, interest piqued. "Hmm," he said thoughtfully.</p>
 
-<p class="divide"> •·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······•·······• </p>
+<p class="divide"> •·······•·······•·······•·······• </p>
 
   <p class="text">"I have the shittiest life right now," Jimin bemoaned, his arm thrown over his eyes. The bartender eyed him sceptically, but slid a new pint into his waiting hand without comment. To be fair, he'd been here for hours; since 2 in the afternoon. It was nearing 9 and Jimin was buzzed off his ass, but he deserved it. He'd probably fight the bartender if he was cut off; he absolutely needed to get wasted tonight, or he was going to lose his mind.</p>
 

@@ -23,11 +23,10 @@
 	--lupapink: #b06d90;
 
 	--sex: #b8357b;
-	--file-line-width: 60%;	
+	--file-line-width: 50%;	
 }
 
-/* ------------------------------------------- Page Setup ------------------------------------------- */
-  /* All Pages */
+/* ------------------------------------------ Reading Mode ------------------------------------------ */
   .markdown-preview-view.fanfiction {
     padding: 10px;
     background: var(--bggray);
@@ -38,12 +37,24 @@
 	padding-bottom: 25px !important;
 }
 	
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+    max-width: var(--file-line-width);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .markdown-preview-sizer.markdown-preview-section.fanfiction {
 	padding-bottom: 10px !important;
 }
 
 * {
 	font-family: ;	
+}
+
+/* ------------------------------------------ Editing Mode ------------------------------------------ */
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
+	padding-bottom: 25px;
 }
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */

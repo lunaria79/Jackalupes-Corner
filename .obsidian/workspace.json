@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
-                "mode": "preview",
+                "file": "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
+                "file": "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
+                "file": "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md"
+                "file": "04 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md"
               }
             }
           },
