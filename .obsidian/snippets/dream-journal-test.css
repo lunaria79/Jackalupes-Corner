@@ -115,7 +115,7 @@ div.html-tab-content {
 	padding: 10px 25px;
 	width: 100%;
 	/* Colors */
-	color: rgb(var(--purple-tint));
+	
 	background-color: var(--tile-background);
 	/* Border */
 	border-left: var(--tile-border);
@@ -144,7 +144,7 @@ div.html-tab-content {
 	scroll-behavior: smooth;	
 }
 
-/* --------------------------------------------- Title ---------------------------------------------- */
+/* -------------------------------------------- Headings -------------------------------------------- */
 .dream-journal-test .inline-title,
 .dream-journal-test h1,
 .dream-journal-test h2,
@@ -152,6 +152,7 @@ div.html-tab-content {
 .dream-journal-test h4,
 .dream-journal-test h5,
 .dream-journal-test h6 {
+	/* Removes Heading Gradient */
 	-webkit-text-fill-color: currentColor !important;
 	-webkit-background-clip: unset !important;
 	background-clip: unset !important;
@@ -159,31 +160,32 @@ div.html-tab-content {
 }
 
 /* ------------------------------------------- Properties ------------------------------------------- */
-.dream-journal-test .mod-header {
-	margin-bottom: 0;
-}
-
-
-.metadata-property .multi-select-container:focus,
-.metadata-property .multi-select-container:focus-within {
-	background-color: #202335;
-}
-
-.dream-journal-test div.metadata-properties-heading.is-collapsed {
-	padding: 0;
-}
-
-.dream-journal-test div.metadata-container.is-collapsed {
-	height: 45px;
-}
-
 .dream-journal-test .metadata-properties-title {
+	/* Title Apperance */
 	color: rgb(var(--primary-color));
 	font-weight: 800;
 }
 
+.metadata-property .multi-select-container:focus,
+.metadata-property .multi-select-container:focus-within {
+	/* Focus Highlight */
+	background-color: #202335;
+}	
+
+
 .dream-journal-test .metadata-add-button.text-icon-button {
+	/* Hides Add Property */
 	display: none;
+}
+
+.dream-journal-test div.metadata-properties-heading.is-collapsed {
+	/* Properties Collapsed Behavior */
+	padding: 0;
+}
+
+.dream-journal-test div.metadata-container.is-collapsed {
+	/* Properties Collapsed Behavior */
+	height: 45px;
 }
 
 /* ---------- Classes ---------- */

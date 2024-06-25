@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - dream-journal-test
-  - gods-and-fiends
 tags:
   - in-progress
   - Stage
