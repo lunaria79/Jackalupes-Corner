@@ -1,9 +1,9 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -50,7 +50,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0.2,
   "nodeSizeMultiplier": 1.22370913752582,

@@ -8,49 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e58ca9bb48beca4",
+            "id": "ce905cc8aed416c4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "ce905cc8aed416c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 _resources/Templates/Dream Journal Template.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "64031d8d3dde733b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "51d53a5a5d8c952d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-                "mode": "preview",
-                "source": true
-              }
             }
           },
           {
@@ -64,9 +28,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "64031d8d3dde733b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89330ad624c225e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 _resources/Templates/Dream Journal Template.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
+                "file": "00 _resources/Templates/Dream Journal Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
+                "file": "00 _resources/Templates/Dream Journal Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md"
+                "file": "00 _resources/Templates/Dream Journal Template.md"
               }
             }
           },
@@ -204,12 +191,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64031d8d3dde733b",
+  "active": "89330ad624c225e9",
   "lastOpenFiles": [
-    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
+    "Dreams/Mary Jane.md",
+    "Dreams",
+    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/Mary Jane.md",
     "01 Dream Journal/Dreams/Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/Mary Jane/Images",
@@ -233,8 +222,6 @@
     "02 Stardew Valley/Stardew Valley Recipes.md",
     "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
-    "02 These Lyrics Will Write Themselves/00 - Table of Contents.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
     "10 Onymoji/Information/dfsdfsdf.png",
     "10 Onymoji/Information/miakashi-info.png",
     "10 Onymoji/Information/bake-kujira-current.png",
@@ -252,7 +239,6 @@
     "10 Onymoji/Information",
     "Untitled.canvas",
     "obsidian_sync",
-    "github_sync",
     "Untitled 1.canvas"
   ]
 }

@@ -13,7 +13,7 @@ tags:
 2. [Atomize](Dreams/Atomize.md)
 3. [Gaia's Wrath](Dreams/Gaia's%20Wrath.md)
 4. [Isle of the Gods](Dreams/Isle%20of%20the%20Gods.md)
-5. [Mary Jane](Dreams/Mary%20Jane.md)
+5. [Mary Jane](Dreams/Mary%20Jane/Mary%20Jane.md)
 6. [NANOBEAM (I Know it's a Shit Name)](Dreams/NANOBEAM%20(I%20Know%20it's%20a%20Shit%20Name).md)
 7. [Trauma Central (Not Official)](Dreams/Trauma%20Central%20(Not%20Official).md)
 # Others
