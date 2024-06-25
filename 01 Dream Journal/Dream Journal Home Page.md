@@ -17,6 +17,7 @@ tags:
 
 2024-06-25
 + Atomize Reformatted
+! Reformat Gaia's Wrath
 !  Possibly Redesign Dream Jounal to be more Modern
 ~~~
 # Current Pages
