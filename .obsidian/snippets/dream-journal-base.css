@@ -13,19 +13,15 @@
 	--background-color: 28, 28, 44;
 	--primary-color: 243, 172, 208;
 	--text: 255, 255, 255;
-
 	--red-tint: 247, 151, 130;
 	--orange-tint: 247, 202, 130;
 	--yellow-tint: 222, 233, 165;
 	--green-tint: 165, 233, 176;
 	--blue-tint: 165, 214, 230;
 	--purple-tint: 213, 168, 233;
-
 	--medium-radius: 6px;
 	--small-radius: 4px;
-	
 	--file-line-width: 60%;
-
 	font-family: "Dosis", sans-serif;
 }
 
@@ -34,7 +30,7 @@ div.markdown-source-view.dream-journal-base.is-live-preview, .markdown-source-vi
 	background-color: transparent;
 }
 
-div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
+div.markdown-reading-view>div.markdown-preview-view.dream-journal-base>div {
 	backdrop-filter: blur(0px);
 	padding: 20px;
 	max-width: 85%;
@@ -49,13 +45,7 @@ div.html-tab-content {
 }
 
 /* ---------------------------------------- Font Changes ---------------------------------------- */
-.dream-journal-base .inline-title, 
-.dream-journal-base h1, 
-.dream-journal-base h2, 
-.dream-journal-base h3, 
-.dream-journal-base h4, 
-.dream-journal-base h5, 
-.dream-journal-base h6 {
+.dream-journal-base .inline-title, .dream-journal-base h1, .dream-journal-base h2, .dream-journal-base h3, .dream-journal-base h4, .dream-journal-base h5, .dream-journal-base h6 {
 	-webkit-text-fill-color: currentColor !important;
 	-webkit-background-clip: unset !important;
 	background-clip: unset !important;
@@ -123,11 +113,9 @@ div.html-tab-content {
 	padding: 10px 25px;
 	width: 100%;
 	transform: None;
-
 	font-family: "Ubuntu Sans Mono", monospace;
 	color: rgb(var(--purple-tint));
 	background-color: rgb(var(--background-color), .8);
-
 	border: 2px solid rgb(var(--primary-color));
 	border-radius: var(--medium-radius);
 	box-shadow: none;
@@ -142,48 +130,42 @@ div.html-tab-content {
 }
 
 .dream-journal-base .metadata-properties-title {
-    color: rgb(var(--primary-color));
-    font-weight: 800;
-  }
-  
+	color: rgb(var(--primary-color));
+	font-weight: 800;
+}
+
 .dream-journal-base .metadata-add-button.text-icon-button {
-    display: none;
+	display: none;
 }
 
 /* ---------- Classes ---------- */
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
 	color: rgb(var(--blue-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
 	color: rgb(var(--orange-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon, .dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--green-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon, .dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
 	color: rgb(var(--yellow-tint));
 }
 
-.dream-journal-base .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property {
+.dream-journal-base .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property {
 	font-weight: 700;
 	cursor: pointer;
 }
 
-.dream-journal-base .metadata-add-button.text-icon-button{
+.dream-journal-base .metadata-add-button.text-icon-button {
 	color: rgb(var(--text));
 }
 
 /* ---------- Tags ---------- */
-.dream-journal-base .multi-select-pill-content,
-.dream-journal-base .multi-select-pill svg.svg-icon {
+.dream-journal-base .multi-select-pill-content, .dream-journal-base .multi-select-pill svg.svg-icon {
 	color: black;
 	font-weight: 700;
 }
@@ -199,38 +181,32 @@ div.html-tab-content {
 	cursor: pointer;
 }
 
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--blue-tint));
 	color: rgb(var(--background-color));
 	font-weight: 700;
 }
 
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--orange-tint));
 	color: rgb(var(--background-color));
 	font-weight: 700;
 }
 
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	  background-color: transparent;
-	  color: rgb(var(--yellow-tint));
-	  font-weight: 700;
-	  text-decoration: none;
-    }
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+	background-color: transparent;
+	color: rgb(var(--yellow-tint));
+	font-weight: 700;
+	text-decoration: none;
+}
 
 /* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
-    color: rgb(var(--red-tint));
+	color: rgb(var(--red-tint));
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--red-tint));
 	border-radius: var(--small-radius);
-    cursor: pointer !important;
+	cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
@@ -243,7 +219,7 @@ div.html-tab-content {
 .dream-journal-base input[type=checkbox]:checked:after {
 	background: rgb(var(--green-tint));
 	border-radius: var(--small-radius);
-    -webkit-mask-image: none;
+	-webkit-mask-image: none;
 	cursor: pointer !important;
 }
 
@@ -251,7 +227,6 @@ div.html-tab-content {
 div.html-tabs {
 	padding: 5px 0 8px 20px;
 	margin: 0 10px;
-
 	color: rgb(var(--primary-color));
 	background-color: rgb(var(--background-color), .8);
 	border: 2px solid rgb(var(--primary-color));
@@ -278,7 +253,7 @@ div.html-tab:hover {
 /* ---------------------------------------- Information Grid ---------------------------------------- */
 /* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
 .wrapper {
-	grid-template-columns: 1fr 1fr ;
+	grid-template-columns: 1fr 1fr;
 	background-color: transparent;
 	padding: 10px;
 	width: 100%;
@@ -306,7 +281,6 @@ div.html-tab:hover {
 	max-height: 750px;
 	overflow: scroll;
 	scroll-behavior: smooth;
-
 	color: rgb(var(--primary-color));
 	background-color: rgb(var(--background-color), .8);
 	border: 2px solid rgb(var(--primary-color));
@@ -341,12 +315,10 @@ div.html-tab:hover {
 	background-color: rgb(var(--background-color), .5);
 }
 
-
 .char-note img {
 	width: 200px;
 	height: 200px;
 	object-fit: cover;
-	
 	float: left;
 	margin-right: 10px;
 }
