@@ -8,6 +8,7 @@
 }
 
 .code * {
+	/* Colors */
 	--background-color: 28, 28, 44;
 	--primary-color: 243, 172, 208;
 	--text: 255, 255, 255;
@@ -17,9 +18,11 @@
 	--green-tint: 165, 233, 176;
 	--blue-tint: 165, 214, 230;
 	--purple-tint: 213, 168, 233;
+	/* Sizes */ 
 	--medium-radius: 6px;
 	--small-radius: 4px;
 	--file-line-width: 60%;
+	/* Font */
 	font-family: "Dosis", sans-serif;
 }
 
