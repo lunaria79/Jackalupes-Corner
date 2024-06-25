@@ -1,11 +1,12 @@
 .nothing-left-to-say * {
+	/* Colors */
 	--background-color: 18, 14, 11;
 	--primary-color: 143, 134, 117;
 	--yellow-tint: 153, 149, 107;
 	--green-tint: 81, 88, 70;
 	--blue-tint: 62, 74, 77;
 	--text: 199, 195, 186;
-	
+	/* Fonts */
 	font-family: "Barlow", sans-serif;
 }
 

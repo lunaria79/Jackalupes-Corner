@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "64031d8d3dde733b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "89330ad624c225e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a59ce74fd4e6b976",
             "type": "leaf",
             "state": {
@@ -54,21 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "278b5481b1db53ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md"
+                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md"
               }
             }
           },
@@ -205,26 +169,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "278b5481b1db53ba",
+  "active": "a59ce74fd4e6b976",
   "lastOpenFiles": [
-    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
-    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
+    "01 Dream Journal/Stage Files/Code Testing Ground.md",
+    "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
-    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
-    "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-    "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "Dreams/Mary Jane.md",
     "Dreams",
     "01 Dream Journal/Dreams/Mary Jane.md",
@@ -236,7 +201,6 @@
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
-    "10 Onymoji/Shikigami/Ubume.md",
     "10 Onymoji/Information/dfsdfsdf.png",
     "10 Onymoji/Information/miakashi-info.png",
     "10 Onymoji/Information/bake-kujira-current.png",

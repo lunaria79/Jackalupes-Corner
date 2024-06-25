@@ -2,14 +2,16 @@
 
 /* ---------------------------------------- Background ---------------------------------------- */
 .app-container .arcane-school * {
+	/* Colors */
 	--background-color: 255, 255, 255;
 	--primary-color: 0, 0, 0;
 	--red-tint: 185, 51, 73;
 	--blue-tint: 96, 159, 230;
 	--purple-tint: 229, 36, 142;
 	--text: 0, 0, 0;
+	/* Sizes */
 	--medium-radius: 0;
-	
+	/* Font */
 	font-family: "Aleo", serif !important;
 }
 

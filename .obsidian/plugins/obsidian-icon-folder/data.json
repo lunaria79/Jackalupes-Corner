@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFilePen",
       "FasFolderTree",
       "FasFileCode",
       "FarAddressCard",
-      "FasCode",
-      "FasFileLines"
+      "FasCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -129,5 +129,5 @@
   "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
   "01 Dream Journal/Dreams/06 Mary Jane": "FasFolderTree",
   "01 Dream Journal/Dreams/06 Mary Jane/Images": "FasFolderTree",
-  "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md": "FasFileLines"
+  "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md": "FasFilePen"
 }

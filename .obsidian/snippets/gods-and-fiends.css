@@ -1,11 +1,12 @@
 .gods-and-fiends * {
+	/* Colors */
 	--background-color: 21, 7, 29;
 	--primary-color: 185, 51, 73;
 	--text: 255, 230, 215;
 	--red-tint: 185, 51, 73;
 	--blue-tint: 96, 159, 230;
 	--purple-tint: 229, 36, 142;
-	
+	/* Fonts */
 	font-family: "Barlow", sans-serif;
 }
 
