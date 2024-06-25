@@ -111,7 +111,6 @@
   "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller",
   "01 Dream Journal/For Aeli.md": "FasFileLines",
-  "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md": "FasFileCode",
   "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg": "FasFileImage",
   "00 _resources/Images/draculabase.png": "FasFileImage",
   "02 These Lyrics Will Write Themselves": "FasFolderOpen",
@@ -138,5 +137,6 @@
   "README.md": "FasClipboardList",
   "Updates Prior.md": "FasClipboardCheck",
   "03 Others/Minecraft Summon Items.md": "FasFileCode",
-  "03 Others": "FasFolderOpen"
+  "03 Others": "FasFolderOpen",
+  "03 Others/Markdown Cheat Sheet.md": "FasFileCode"
 }

@@ -94,3 +94,9 @@ div.markdown-reading-view {
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg, .cm-s-obsidian div.HyperMD-codeblock-bg, .cm-s-obsidian div.HyperMD-codeblock-end-bg, .markdown-preview-view pre, .cm-s-obsidian .HyperMD-codeblock {
 	background: #202335;
 }
+
+/* ------------------------------------------- Text Setup ------------------------------------------- */
+.token.bold {
+	color: #ce7d44;
+	font-weight: normal;
+}

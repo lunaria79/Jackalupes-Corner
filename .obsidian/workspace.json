@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates Prior.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Updates Prior.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Updates Prior.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Updates Prior.md"
+                "file": "README.md"
               }
             }
           },
@@ -207,9 +207,9 @@
   },
   "active": "66cb97299f8847c5",
   "lastOpenFiles": [
-    "03 Others",
-    "README.md",
     "Updates Prior.md",
+    "README.md",
+    "03 Others",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
@@ -252,7 +252,6 @@
     "10 Onymoji/Shikigami",
     "10 Onymoji",
     "02 Stardew Valley/Images",
-    "02 Stardew Valley",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
