@@ -86,3 +86,7 @@ div.markdown-reading-view {
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line, .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
 	max-width: none;
 }
+
+.cm-content.cm-lineWrapping {
+	padding-bottom: 15px !important;
+}
