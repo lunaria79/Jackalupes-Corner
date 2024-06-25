@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dream Journal Home Page.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -195,10 +196,11 @@
   },
   "active": "73235c1db5663c52",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "Minecraft Summon Items.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/ZIALONA Home Page.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",
