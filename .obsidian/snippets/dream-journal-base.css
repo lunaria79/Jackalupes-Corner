@@ -9,6 +9,7 @@
 }
 
 .dream-journal-base * {
+	/* Colors */
 	--background-color: 28, 28, 44;
 	--primary-color: 243, 172, 208;
 	--text: 255, 255, 255;
@@ -18,9 +19,11 @@
 	--green-tint: 165, 233, 176;
 	--blue-tint: 165, 214, 230;
 	--purple-tint: 213, 168, 233;
+	/* Sizes */
 	--medium-radius: 6px;
 	--small-radius: 4px;
 	--file-line-width: 60%;
+	/* Fonts */
 	font-family: "Dosis", sans-serif;
 }
 
@@ -52,10 +55,9 @@ div.html-tab-content {
 }
 
 .markdown-source-view.dream-journal-base div.inline-title {
-	font-family: "Rokkitt", serif;
 	color: rgb(var(--text));
 	background-color: rgb(28, 28, 44, 1);
-	padding: 0 10px;
+	padding: 0 25px;
 }
 
 .dream-journal-base img {

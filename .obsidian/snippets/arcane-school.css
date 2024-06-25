@@ -15,9 +15,7 @@
 	font-family: "Aleo", serif !important;
 }
 
-.arcane-school.markdown-preview-view {
-	background: rgba(255, 255, 255, 1);
-}
+.arcane-school.markdown-preview-view { background: rgba(255, 255, 255, 1); }
 
 div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	backdrop-filter: blur(0px);
@@ -26,9 +24,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 }
 
 /* -------------------- Color + Font Changes -------------------- */
-.arcane-school.markdown-preview-view div.inline-title {
-	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
-}
+.arcane-school.markdown-preview-view div.inline-title { box-shadow: 2px 2px 2px rgb(var(--primary-color), .35); }
 
 .arcane-school ::selection {
 	color: rgb(var(--background-color));
@@ -36,9 +32,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 }
 
 /* -------------------- Properties -------------------- */
-.arcane-school div.metadata-container {
-	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
-}
+.arcane-school div.metadata-container { box-shadow: 2px 2px 2px rgb(var(--primary-color), .35); }
 
 .arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill, .arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
 	color: rgb(var(--primary-color)) !important;
@@ -80,9 +74,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
 
-.arcane-school div.html-tabs p {
-	font-weight: 700;
-}
+.arcane-school div.html-tabs p { font-weight: 700; }
 
 /* -------------------- Information Grid -------------------- */
 .arcane-school .box {
@@ -91,13 +83,9 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
 
-.arcane-school .wrapper.interview-articles {
-	grid-template-columns: 1.5fr 1fr;
-}
+.arcane-school .wrapper.interview-articles { grid-template-columns: 1.5fr 1fr; }
 
-.arcane-school .wrapper .box {
-	cursor: pointer;
-}
+.arcane-school .wrapper .box { cursor: pointer; }
 
 /* ----- Article Links ----- */
 .arcane-school a.internal-link {
