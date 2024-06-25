@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderOpen",
+      "FasClipboardCheck",
+      "FasClipboardList",
       "FasFileImage",
-      "FasFileLines",
-      "FasFilePen",
-      "FasFolderTree",
-      "FasFileCode"
+      "FasFileLines"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
     "debugMode": false,
     "iconInTitlePosition": "above"
   },
-  "Minecraft Summon Items.md": "FasFileCode",
   "00 _resources": "FasFolderOpen",
   "00 _resources/Templates/Dream Journal Template.md": "FasFileCode",
   "01 Dream Journal": "FasFolderOpen",
@@ -135,5 +134,9 @@
   "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-4.jpg": "FasFileImage",
   "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-5.png": "FasFileImage",
   "01 Dream Journal/Dreams/01 The School of the Arcane/00 Images/Kai Folk.jpg": "FasFileImage",
-  "01 Dream Journal/Dreams/01 The School of the Arcane/00 Images/Reality.png": "FasFileImage"
+  "01 Dream Journal/Dreams/01 The School of the Arcane/00 Images/Reality.png": "FasFileImage",
+  "README.md": "FasClipboardList",
+  "Updates Prior.md": "FasClipboardCheck",
+  "03 Others/Minecraft Summon Items.md": "FasFileCode",
+  "03 Others": "FasFolderOpen"
 }
