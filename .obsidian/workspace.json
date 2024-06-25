@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "73235c1db5663c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "mode": "preview",
                 "source": true
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73235c1db5663c52",
+  "active": "5d65aa8af573d532",
   "lastOpenFiles": [
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dream Journal Home Page.md",
