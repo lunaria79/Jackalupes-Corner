@@ -341,10 +341,6 @@ div.html-tab:hover {
 	background-color: rgb(var(--background-color), .5);
 }
 
-.markdown-rendered p {
-	margin-top: 0;
-	margin-bottom: 12px;
-}
 
 .char-note img {
 	width: 200px;
@@ -353,4 +349,9 @@ div.html-tab:hover {
 	
 	float: left;
 	margin-right: 10px;
+}
+
+.markdown-rendered p {
+	margin-top: 0;
+	margin-bottom: 12px;
 }
