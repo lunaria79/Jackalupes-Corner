@@ -4,13 +4,10 @@
 .app-container .arcane-school * {
 	--background-color: 255, 255, 255;
 	--primary-color: 0, 0, 0;
-
 	--red-tint: 185, 51, 73;
 	--blue-tint: 96, 159, 230;
 	--purple-tint: 229, 36, 142;
-
 	--text: 0, 0, 0;
-	
 	--medium-radius: 0;
 }
 
@@ -22,7 +19,7 @@
 	font-family: "Aleo", serif !important;
 }
 
-div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
+div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	backdrop-filter: blur(0px);
 	padding: 20px;
 	max-width: 75% !important;
@@ -34,41 +31,34 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 }
 
 .arcane-school ::selection {
-  color: rgb(var(--background-color));
-  background: rgb(var(--primary-color));
+	color: rgb(var(--background-color));
+	background: rgb(var(--primary-color));
 }
 
 /* ---------------------------------------- Properties ---------------------------------------- */
 .arcane-school div.metadata-container {
-    box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
 
-.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill,
-.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
+.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill, .arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
 	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color));
 	border-radius: 0;
 }
 
-.arcane-school .metadata-container svg,
-.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.arcane-school .metadata-property-key-input {
+.arcane-school .metadata-container svg, .arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content, .arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg, .arcane-school .metadata-property-key-input {
 	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 }
 
 /* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
-    color: rgb(var(--primary-color)) !important;
+	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
 	border-radius: 0 !important;
-    cursor: pointer !important;
+	cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
@@ -78,27 +68,27 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 }
 
 .arcane-school input[type=checkbox]:checked:after {
-    -webkit-mask-image: none;
+	-webkit-mask-image: none;
 	background: black !important;
 	border-radius: 0 !important;
 }
 
 /* -------------------------------------- Navigation Bar------------------------------------------ */
 .arcane-school div.html-tabs {
-    color: rgb(var(--primary-color));
-    background-color: rgb(var(--background-color), .8);
-    box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+	color: rgb(var(--primary-color));
+	background-color: rgb(var(--background-color), .8);
+	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
 
 .arcane-school div.html-tabs p {
-    font-weight: 700;
+	font-weight: 700;
 }
 
 /* ---------------------------------------- Information Grid ---------------------------------------- */
 .arcane-school .box {
-    color: rgb(var(--primary-color));
-    background-color: rgb(var(--background-color), 1);
-    box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
+	color: rgb(var(--primary-color));
+	background-color: rgb(var(--background-color), 1);
+	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
 
 .arcane-school .wrapper.interview-articles {
@@ -123,14 +113,12 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 
 /* ------ Description Panel ----- */
 .arcane-school .description-tile img {
-	
-	max-height: 300px;
+	width: 80%;
+	height: unset;
+	float: unset;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	
-	width: unset;
-	height: unset;
-	float: center;
+	margin-right: auto;
 }
 
 .arcane-school .description-tile h3 {

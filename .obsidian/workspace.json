@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
                 "mode": "preview",
                 "source": true
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md"
+                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md"
               }
             }
           },
@@ -194,8 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64031d8d3dde733b",
+  "active": "a59ce74fd4e6b976",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
@@ -224,8 +225,6 @@
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "10 Onymoji/Shikigami/Ubume.md",
-    "10 Onymoji/Shikigami/Shuten Doji.md",
-    "10 Onymoji/Shikigami/Jorogumo.md",
     "10 Onymoji/Information/dfsdfsdf.png",
     "10 Onymoji/Information/miakashi-info.png",
     "10 Onymoji/Information/bake-kujira-current.png",
