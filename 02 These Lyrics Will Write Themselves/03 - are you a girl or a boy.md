@@ -1,26 +1,10 @@
 ---
 cssclasses:
   - fanfiction
-Rating:
-  - Mature
-  - ★★★★★
-Author:
-  - PrettyBoyKiller
-Fandom:
-  - 방탄소년단 | Bangtan Boys | BTS
-Relationships:
-  - Min Yoongi/Park Jimin
-  - Kim Namjoon/Kim Seokjin
-  - Jeon Jungkook/Kim Taehyung
-tags:
-  - Heavy-Themes
-  - Idol-AU
-  - Strangers-to-Lovers
-  - Sugar-Baby-AU
-  - Incomplete
 Previous Chapter:
   - "[[02 - what's the point if you aren't healthy]]"
 Next Chapter:
+  - "[[04 - what is your wish for 2017]]"
 ---
 <p class="title">are you a girl or a boy?</p>
 <div class="chat">

@@ -119,6 +119,7 @@
 	color: var(--lupawhite);
 	background: #454545b8 !important;
 	font-weight: 600;
+	text-decoration: none;
 	padding: 5px;
 	margin: 5px 3px;
 	border-radius: 0 5px 5px;
