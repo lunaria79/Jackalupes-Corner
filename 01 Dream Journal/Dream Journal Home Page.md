@@ -2,6 +2,18 @@
 tags:
   - Stage
 ---
+# Updates
+~~~diff
+2024-06-21
++ Villanous Snakes Give the Best Dick
++ Bridgerton Wishes
+
+2024-06-24
+- Maddness
++ Mary Jane
++ Reformated All Dream Page CSS
++ Updated Template CSS
+~~~
 # Current Pages
 1. [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
 2. [Of Gods and Fiends](Dreams/02%20Of%20Gods%20and%20Fiends/Of%20Gods%20and%20Fiends.md)
@@ -22,16 +34,6 @@ tags:
 2. [For Aeli](For%20Aeli.md)
 # Themes
 1. [themes](Stage%20Files/themes/themes.md)
-# Updates
-~~~diff
-2024-06-21
-+ Villanous Snakes Give the Best Dick
-+ Bridgerton Wishes
-
-2024-06-24
-- Maddness
-+ Mary Jane
-~~~
 # To Write
 ## Prison for the Rich and Famous
 The A/B/O Prison one
