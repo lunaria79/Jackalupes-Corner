@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+                "file": "01 Dream Journal/Dreams/Atomize.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5d65aa8af573d532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/For Aeli.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md"
+                "file": "01 Dream Journal/For Aeli.md"
               }
             }
           },
@@ -156,12 +169,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c3531ef92142984",
+  "active": "5d65aa8af573d532",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/Atomize.md",
+    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
+    "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-4.jpg",
     "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-5.png",
     "00 _resources/Screenshot 2024-06-16 171912 1.png",
     "00 _resources/Screenshot 2024-06-16 171912 2.png",
-    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "02 These Lyrics Will Write Themselves/text message staging.md",
     "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
@@ -173,21 +193,15 @@
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
-    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-    "01 Dream Journal/Dreams/Atomize.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
-    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
     "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "Dreams",
-    "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/06 Mary Jane/Images",
     "01 Dream Journal/Dreams/06 Mary Jane",
     "10 Onymoji/Information/dfsdfsdf.png",
@@ -195,7 +209,6 @@
     "10 Onymoji/Information/bake-kujira-current.png",
     "10 Onymoji/Information/jorogumo-current.png",
     "10 Onymoji/Information/bake-kujira-info.png",
-    "10 Onymoji/Information/jorogumo-info.png",
     "02 These Lyrics Will Write Themselves",
     "10 Onymoji/Shikigami",
     "10 Onymoji",

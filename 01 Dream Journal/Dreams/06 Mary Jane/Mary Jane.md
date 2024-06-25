@@ -61,7 +61,7 @@ Home:
 								</div>
 								<div class="callout-title-inner"> Mary Jane </div>
 							</div>
-							<img alt="Mary Jane.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/06%20Mary%20Jane/Images/mary-jane-1.jpg">
+							<img alt="Mary Jane.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/06%20Mary%20Jane/Images/mary-jane-5.png">
 						</div>
 					</div>
 					<div class="grid right">
