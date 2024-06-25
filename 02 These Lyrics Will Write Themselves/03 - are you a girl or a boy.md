@@ -8,8 +8,8 @@ Next Chapter:
 ---
 <p class="title">are you a girl or a boy?</p>
 <div class="chat">
-	<div class="msg sent" data-time="MINIMIN">it didnt go well</div>
-	<div class="msg sent" data-time="MINIMIN">I don't think I can stay in Seoul anymore..</div>
+	<div class="msg rcvd" data-time="MINIMIN">it didnt go well</div>
+	<div class="msg rcvd" data-time="MINIMIN">I don't think I can stay in Seoul anymore..</div>
 </div>
 <p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">"I'm sick of all this modeling bullshit."</p>
