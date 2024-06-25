@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* ---------------------------------------- Background ---------------------------------------- */
+/* -------------------- Background -------------------- */
 .app-container .arcane-school * {
 	/* Colors */
 	--background-color: 255, 255, 255;
@@ -25,7 +25,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	max-width: 75% !important;
 }
 
-/* ------------------------------------- Color + Font Changes ------------------------------------- */
+/* -------------------- Color + Font Changes -------------------- */
 .arcane-school.markdown-preview-view div.inline-title {
 	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
@@ -35,7 +35,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	background: rgb(var(--primary-color));
 }
 
-/* ---------------------------------------- Properties ---------------------------------------- */
+/* -------------------- Properties -------------------- */
 .arcane-school div.metadata-container {
 	box-shadow: 2px 2px 2px rgb(var(--primary-color), .35);
 }
@@ -73,7 +73,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	border-radius: 0 !important;
 }
 
-/* -------------------------------------- Navigation Bar------------------------------------------ */
+/* -------------------- Navigation Bar-------------------- */
 .arcane-school div.html-tabs {
 	color: rgb(var(--primary-color));
 	background-color: rgb(var(--background-color), .8);
@@ -84,7 +84,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	font-weight: 700;
 }
 
-/* ---------------------------------------- Information Grid ---------------------------------------- */
+/* -------------------- Information Grid -------------------- */
 .arcane-school .box {
 	color: rgb(var(--primary-color));
 	background-color: rgb(var(--background-color), 1);
@@ -99,7 +99,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	cursor: pointer;
 }
 
-/* ------ Article Links ----- */
+/* ----- Article Links ----- */
 .arcane-school a.internal-link {
 	-webkit-text-fill-color: rgb(var(--primary-color)) !important;
 	text-decoration: none !important;
@@ -111,7 +111,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	padding: 0 5px;
 }
 
-/* ------ Description Panel ----- */
+/* ----- Description Panel ----- */
 .arcane-school .description-tile img {
 	width: 80%;
 	height: unset;
@@ -152,7 +152,7 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 	color: rgb(var(--primary-color)) !important;
 }
 
-/* ------ Author's Note ----- */
+/* ----- Author's Note ----- */
 .arcane-school .author-note.box {
 	color: rgb(var(--background-color)) !important;
 	background: rgb(var(--primary-color)) !important;
