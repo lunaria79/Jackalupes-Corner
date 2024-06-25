@@ -49,7 +49,7 @@ ___
 ## Images
 <!--Images-->
 
-![mary-jane-1](../Dreams/Mary%20Jane/Images/mary-jane-1.jpg)
+![mary-jane-1](../Dreams/06%20Mary%20Jane/Images/mary-jane-1.jpg)
 
 
 <!-- github md -->

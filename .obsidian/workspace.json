@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
+                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -189,23 +188,24 @@
   },
   "active": "ce905cc8aed416c4",
   "lastOpenFiles": [
-    "00 _resources/Templates/Dream Journal Template.md",
-    "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+    "00 _resources/Templates/Dream Journal Template.md",
+    "01 Dream Journal/Stage Files/Code Testing Ground.md",
+    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "Dreams/Mary Jane.md",
     "Dreams",
     "01 Dream Journal/Dreams/Mary Jane.md",
-    "01 Dream Journal/Dreams/Mary Jane/Images/mary-jane-1.jpg",
-    "01 Dream Journal/Dreams/Mary Jane/Images",
-    "01 Dream Journal/Dreams/Mary Jane",
+    "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
+    "01 Dream Journal/Dreams/06 Mary Jane/Images",
+    "01 Dream Journal/Dreams/06 Mary Jane",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Atomize.md",
     "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "01 Dream Journal/For Aeli.md",
     "Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/icons.md",
-    "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Markdown Cheat Sheet.md",
     "10 Onymoji/Shikigami/Ubume.md",
@@ -226,7 +226,7 @@
     "10 Onymoji/Information/jorogumo-info.png",
     "00 _resources/Images/draculabase.png",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
-    "01 Dream Journal/Dreams/Mary Jane/Images/mary-jane-4.jpg",
+    "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-4.jpg",
     "02 These Lyrics Will Write Themselves",
     "10 Onymoji/Shikigami",
     "10 Onymoji",
