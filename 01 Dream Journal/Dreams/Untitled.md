@@ -38,7 +38,19 @@ Home:
 									<div class="callout-icon">
 										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
 									</div>
-									<div class="callout-title-inner"> Atomize, Downsize, Layoff</div>
+									<div class="callout-title-inner"> Atomize, Downsize, Layoff </div>
+								</div>
+								<p>So now we're on the run on foot. Any other form of transportation was either killed or destroyed. Fun fact about hellhounds, they have 4 legs and are very fast. We may be very fast, but we only have two legs. So the chase is long and harrowing. Not long after the beginning, we realize there something else with four legs following us. But it doesn't have the same demonic energy as the other beasts following us. And while we lose the hellhounds somehow, this animal is still making a beeline for us.</p>
+								<p>While we're hurriedly trying to make a boat. A headless dog bursts into the clearing. And we discover what the real purpose of that town was. The CP was attempting to create an army of unkillable creatures. And started experiments with small rodents. And had worked his way up to dogs. This pupper was the only success. Sensing no ill will coming from it, we allow it to climb up in our backpack, and we make haste across the water.</p>
+								<p>We arrive back in the capital, through not exactly legal means. Concerned about the headless nature of our new dog, we craft him a head, and with a little magic and a blue handkerchief, we have a totally completely normal Pyrenees dog.</p>
+								<p>On the way back up to the castle through the catacombs, we are stopped by the CP's men. Who attempt to arrest us under the pretense of us being the cause of the destruction of the village. And also tried to take our dog. Which is honestly bullshit and everyone there knew it. Lucky for us, we were then teleported into the RM's chamber, where the aforementioned mage, the TWO CP's and our sister were waiting.</p>
+							</div>
+							<div class="box">
+								<div class="callout-title">
+									<div class="callout-icon">
+										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+									</div>
+									<div class="callout-title-inner">  Kill Yourself, Come On Do Us All a Favour  </div>
 								</div>
 								<p> The CP was there, cause he had known that I had been sent to investigate the village. And was also concerned when the village was destroyed. He himself knew that it wasn't me. So barged into our going to be reunion with discussions of politics. He's kind of a dick. </p>
 								<p> It turns out, at the start of the empire, the original oracle predicted the destruction of the kingdom as we know it to be done by demons. And it'll start with the dogs. Which was very concerning, so it became a royal secret passed down through first crown princes. Imagine how upset everyone else in the room was when they found this out. A lot of arguing happened and nothing got done. </p>
@@ -47,18 +59,6 @@ Home:
 								<p> While our sister is up at the castle, working through her half of the sickness, while informing everyone, we start our way back up to the castle. However, half way, our mind clears a little, and we make a decision. We’re staying. And only us.   </p>
 								<p> We manage to flag down two soldiers that can read and write, and send up a letter to our loved ones. And we return the docks, sword and armor on hand. And we wait. </p>
 							</div>
-						</div>
-						<div class="box">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> Kill Yourself, Come On Do Us All a Favour </div>
-							</div>
-							<p>So now we're on the run on foot. Any other form of transportation was either killed or destroyed. Fun fact about hellhounds, they have 4 legs and are very fast. We may be very fast, but we only have two legs. So the chase is long and harrowing. Not long after the beginning, we realize there something else with four legs following us. But it doesn't have the same demonic energy as the other beasts following us. And while we lose the hellhounds somehow, this animal is still making a beeline for us.</p>
-							<p>While we're hurriedly trying to make a boat. A headless dog bursts into the clearing. And we discover what the real purpose of that town was. The CP was attempting to create an army of unkillable creatures. And started experiments with small rodents. And had worked his way up to dogs. This pupper was the only success. Sensing no ill will coming from it, we allow it to climb up in our backpack, and we make haste across the water.</p>
-							<p>We arrive back in the capital, through not exactly legal means. Concerned about the headless nature of our new dog, we craft him a head, and with a little magic and a blue handkerchief, we have a totally completely normal Pyrenees dog.</p>
-							<p>On the way back up to the castle through the catacombs, we are stopped by the CP's men. Who attempt to arrest us under the pretense of us being the cause of the destruction of the village. And also tried to take our dog. Which is honestly bullshit and everyone there knew it. Lucky for us, we were then teleported into the RM's chamber, where the aforementioned mage, the TWO CP's and our sister were waiting.</p>
 						</div>
 					</div>
 				</div>
@@ -72,11 +72,15 @@ Home:
 									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
 									<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
 								</div>
-								<div class="callout-title-inner">
-									character note
-								</div>
-							</div><img alt="placeholder.png" src="">
-							<p>...</p>
+								<div class="callout-title-inner"> character descriptions </div>
+							</div>
+						
+							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
+							<p>SCP - (Second Crown Prince) Kind of looks like my Laurence Sim </p>
+							<p>RM - (Royal Mage) Starborn, but has two human forms. His day to day is one emo bitch. Black hair, eye circles, gothic robes the whole nine yards. The form he uses for public appearances is basically the same as Phobos from W.I.T.C.H.
+							<br>His Star form basically blurs the edges of his human form. And his physical features are covered with a myriad of galaxies and stars. *Note: Insert Photos later*</p>
+							<p>OK - (Oracle Knight) We never really saw ourselves, up to whatever you want.  </p>
+							<p>OS - (Oracle Saint) Zelda but with longer blonde hair and slightly softer features (we don't have to be identical, but we are twins)</p>
 						</div>
 					</div>
 					<div class="grid right">
