@@ -46,20 +46,49 @@ div.html-tab-content {
 	padding: 0;
 }
 
+/* --------------------------------------------- Title ---------------------------------------------- */
+.dream-journal-test .inline-title, .dream-journal-test h1, .dream-journal-test h2, .dream-journal-test h3, .dream-journal-test h4, .dream-journal-test h5, .dream-journal-test h6 {
+	-webkit-text-fill-color: currentColor !important;
+	-webkit-background-clip: unset !important;
+	background-clip: unset !important;
+	background-image: none !important;
+}
+
+.markdown-preview-view.dream-journal-test div.inline-title {
+	/*Position */
+	transform: unset;
+	/* Size */
+	margin: 0;
+	padding: 10px 25px;
+	width: 100%;
+	/* Colors */
+	color: rgb(var(--purple-tint));
+	background-color: rgb(var(--background-color), 1);
+	/* Border */
+	border-left: 5px solid rgb(var(--primary-color));
+	border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
+	box-shadow: none;
+}
+
+.markdown-source-view.dream-journal-test div.inline-title {
+	
+}
+
 /* ------------------------------------------- Properties ------------------------------------------- */
 .dream-journal-test .mod-header {
 	margin-bottom: 0;
 }
 
 .dream-journal-test div.metadata-container {
+	/*Position */
+	transform: unset;
+	/* Size */
 	margin: 0;
 	padding: 10px 25px;
 	width: 100%;
-	transform: unset;
+	/* Colors */
 	color: rgb(var(--purple-tint));
 	background-color: rgb(var(--background-color), 1);
-
-
 	/* Border */
 	border-left: 5px solid rgb(var(--primary-color));
 	border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
@@ -70,15 +99,6 @@ div.html-tab-content {
  .metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
     background-color: #202335;
 }
-
-
-
-
-
-
-
-
-
 
 .dream-journal-test div.metadata-properties-heading.is-collapsed {
 	padding: 0;
@@ -97,7 +117,10 @@ div.html-tab-content {
 	display: none;
 }
 
-/* ---------- Classes ---------- */
+
+
+
+/* ---------- Classes ---------- 
 .dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
 	color: rgb(var(--blue-tint));
 }
@@ -123,7 +146,7 @@ div.html-tab-content {
 	color: rgb(var(--text));
 }
 
-/* ---------- Tags ---------- */
+/* ---------- Tags ---------- 
 .dream-journal-test .multi-select-pill-content, .dream-journal-test .multi-select-pill svg.svg-icon {
 	color: black;
 	font-weight: 700;
@@ -159,7 +182,7 @@ div.html-tab-content {
 	text-decoration: none;
 }
 
-/* ---------- Checkboxes ---------- */
+/* ---------- Checkboxes ---------- 
 .theme-dark:not(.css-settings-manager) .dream-journal-test input[type=checkbox]:not(:checked) {
 	color: rgb(var(--red-tint));
 	background-color: transparent !important;
