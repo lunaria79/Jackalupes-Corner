@@ -11,8 +11,9 @@ tags:
 2024-06-24
 - Maddness
 + Mary Jane Update
-+ Reformated All Dream Page CSS
-+ Updated Template CSS
++ Simplified Dream Journal CSS
++ Consalidated Dream Journal Special Themes into One File
++ Reformat Template CSS
 
 2024-06-25
 + Atomize Reformatted
