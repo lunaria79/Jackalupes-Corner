@@ -51,14 +51,14 @@ Next Chapter: "[[03 - are you a girl or a boy]]"
 <p class="text">Some people had started conversations with him, but he hadn't replied out of disinterest. Without a profile picture, he'd gotten very limited responses, and he was fine with that. Yoongi had only messaged one person himself, after all; an overly attractive man with a badly worded profile, filled with spelling errors and a slew of ᄏᄏᄏ's. Sure, MINIMIN was attractive and he had a serious penchant where sticking his tongue out of his mouth was concerned, but who the hell was worth 8 million won a month? Yoongi could afford that, sure, but then again Yoongi could afford a lot of things. He just didn't spend his money frivolously on things that weren't up to standard.</p>
 <p class="text">Apparently, MINIMIN thought he was up to standard.</p>
 <div class="chat">
-	<div class="msg rcvd" data-time="MYG">No need to curse, it was just a question.</div>
-	<div class="msg rcvd" data-time="MYG">You seriously think you'd be worth 8,000,000 won?</div>
+	<div class="msg sent" data-time="MYG">No need to curse, it was just a question.</div>
+	<div class="msg sent" data-time="MYG">You seriously think you'd be worth 8,000,000 won?</div>
 </div>
 <p class="text">Yoongi set his phone aside, returning to his packing before Jungkook came to fetch him for his 11 o'clock. He had an interview with Grazia, and then he had a production meeting with Joon once he returned. Following that, they had to visit PAROXCISM in the studios to check out how their routine was coming along for their title track. ILGI would be arriving back in Seoul tomorrow, and Yoongi had some urgent re-recordings to make for one of their tracks. It didn't seem like they'd have the time to review and produce Jungkook's cover today. Yoongi felt bad, but they'd really have to pencil it in at a later date.</p>
 <p class="text">The reply didn't take long to come; Yoongi lifted an eyebrow as his phone buzzed shortly after he'd sent a reply.</p>
 <div class="chat">
-	<div class="msg sent" data-time="MINIMIN">that's what I said. And this was a stupid prank anyway; my friend set me up</div>
-	<div class="msg sent" data-time="MINIMIN">We were just having drinks, and he made me an account while I wasn't looking</div>
+	<div class="msg rcvd" data-time="MINIMIN">that's what I said. And this was a stupid prank anyway; my friend set me up</div>
+	<div class="msg rcvd" data-time="MINIMIN">We were just having drinks, and he made me an account while I wasn't looking</div>
 </div>
 <p class="text">Snorting, Yoongi quickly tapped out a response, spinning in his chair. Maybe this guy was sharing his pain; they shouldn't get on each other's bad side.</p>
 <div class="chat">

@@ -5,14 +5,16 @@ tags:
   - Stage
 ---
 <div class="chat">
-	<div data-time="MYG" class="msg rcvd"> I'm done with the transfer. MY PA, Jungkook, will pick you up within the hour. </div>
-	<div data-time="MYG" class="msg rcvd"> He'll settle your rent too, so don't worry about anything. </div>
-	<div data-time="MYG" class="msg rcvd"> I'll see you later. </div>
+	<div data-time="PARK.J" class="msg sent">  your PA is a fucking sarcastic prick </div>
+	<div data-time="Yoongi (???)" class="msg rcvd"> Yoongi (???) is typing...  </div>
+	<div data-time="Yoongi (???)" class="msg rcvd"> Yeah. </div>
+	<div data-time="Yoongi (???)" class="msg rcvd"> Tell me something I don't know. </div>
 </div>
 
-<p class="msg"><b>MYG:</b> I'm done with the transfer. MY PA, Jungkook, will pick you up within the hour.</p>
-<p class="msg"><b>MYG:</b> He'll settle your rent too, so don't worry about anything.</p>
-<p class="msg"><b>MYG:</b> I'll see you later.</p>
+<p class="msg"><b>PARK.J:</b> your PA is a fucking sarcastic prick</p>
+<p class="msg"><i>Yoongi (???) is typing...</i></p>
+<p class="msg"><b>Yoongi (???):</b> Yeah.</p>
+<p class="msg"><b>Yoongi (???):</b> Tell me something I don't know.</p>
 
 <div class="chat">
 	<div data-time="MYG" class="msg rcvd">  </div>

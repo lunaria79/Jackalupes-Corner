@@ -42,12 +42,14 @@ Next Chapter:
 <p class="text">Jimin cocked his head, lips pursed into a confused pout. "Wrong about me?" He repeated. "What did you initially think of me?"</p>
 <p class="text">"That you were a money-grubbing, knife wielding, sexual predator," Jungkook said bluntly, making Jimin choke. The PA snorted as the doors began to close. "But, you know. You did worry about whether or not you needed to bring your microwave-clock, and you have a stuffed dog that's almost taller than you are, so there's that." The doors shut on him shooting Jimin a wry smirk.</p>
 <p class="text">Completely blindsided by this cheeky shit of a PA, Jimin fished his phone out of his pocket with an offended glower. He found Yoongi's number - courtesy of Jeon Jungkook, who was extra as all hell, okay, that comment about Jimin's height was so fucking unnecessary? Who did he think he was, talking to his boss'... Sugar baby like that, what a little jerk, Yoongi was going to Hear Things about this tonight, god damn it - and sent a text off to him before calling Taehyung to gossip viciously about his day.</p>
-<p class="msg"><b>PARK.J:</b> your PA is a fucking sarcastic prick</p>
-<p class="msg"><i>Yoongi (???) is typing...</i></p>
-<p class="msg"><b>Yoongi (???):</b> Yeah.</p>
-<p class="msg"><b>Yoongi (???):</b> Tell me something I don't know.</p>
-<p class="divide">•·······•·······•</p>
-<p class="text"><a id="p59"></a>"WHAT THE FUCK?" Taehyung hollered. "Jiminie, you gotta get out of there right now, like 5 minutes ago. What the hell? WHAT THE HELL?! Why are you making such terrible decisions?!"</p>
+<div class="chat">
+	<div data-time="PARK.J" class="msg sent">  your PA is a fucking sarcastic prick </div>
+	<div data-time="Yoongi (???)" class="msg rcvd"> Yoongi (???) is typing...  </div>
+	<div data-time="Yoongi (???)" class="msg rcvd"> Yeah. </div>
+	<div data-time="Yoongi (???)" class="msg rcvd"> Tell me something I don't know. </div>
+</div>
+<p class="divide">•·······•·······•·······•·······•</p>
+<p class="text">"WHAT THE FUCK?" Taehyung hollered. "Jiminie, you gotta get out of there right now, like 5 minutes ago. What the hell? WHAT THE HELL?! Why are you making such terrible decisions?!"</p>
 <p class="text">He gasped over the line, sounding horrified. "Oh my god. Did we trade places? Are you me? Am I you?" There was a smacking sound that obviously indicated Tae was viciously slapping himself as he spoke. "Have we traded bodies? Is this an episode of Star Trek, because I'm wearing a red shirt and that's a bad sign---"</p>
 <p class="text">"Taehyung," Jimin tried to interrupt, but it was pretty difficult to interrupt Tae once he'd gotten on a roll.</p>
 <p class="text">"Who am I? Why am I here?" The painter asked dramatically. Jimin could just picture him flinging his brush in the air, paint splattering the ceiling. Again. "Why have I been put here, in this specific place and time--- Wait." There was a short pause before Taehyung hissed, "Oh shit, oops. My landlord is going to kill me."</p>
@@ -99,7 +101,7 @@ Next Chapter:
 <p class="text">"Park Jimin, fashion detective," Taehyung mock wept on the other end of the line. "The modern day Sherlock Holmes; an inspiration to gay men everywhere. I'm so proud---"</p>
 <p class="text">"TAEHYUNG THESE POCKET SQUARES ARE LIBERTY SILK---"</p>
 <p class="text">"HOLY SHIT---"</p>
-<p class="divide">•·······•·······•</p>
+<p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">"Things are getting a lot worse," Namjoon rubbed his eyes tiredly. Seokjin was already snoozing, slumped against his shoulder in the car. None of the 3 of them were up to driving, so they'd shared a cab after work and Yoongi was presently in the basement of his apartment complex at 4:07am. "Stuff like arguments between the ROXIES and really bad hashtags are trending... I really don't want this to be another #cutfor case, but if it continues going in that direction then..."</p>
 <p class="text">"I know he doesn't tend to look at social media too much, but even if it's Ki-moon, he won't be able to handle that well," Yoongi nodded, trying to keep his eyes open. His hands were buried in the pockets of his hoodie as he turned to look at Namjoon from the front seat. "I know." Biting on his lip, he tried to think of a reason why the lead dancer would be disliked this much, but came up empty. "I don't understand. Why isn't he being as well received as the other members?"</p>
 <p class="text">"His visual is more unique," Namjoon admitted, frowning. "He tends to err more on the punk side where it comes to style, so some people are complaining that he doesn't fit in with the other members.</p>
@@ -162,7 +164,7 @@ Next Chapter:
 <p class="text">"We had a lot of things to sort out," Yoongi muttered, worrying about Ki-moon. They really had to do something for that kid; he didn't deserve half the shit he got, both from the fans and antis. "I'm sorry we haven't been able to talk much," he added under his breath. "And that--- That I was back so late?" It came out as more of a question than a statement--- Yoongi hadn't apologized to anyone for being home late in years and the words sounded odd on his own tongue. "We can talk more tomorrow..."</p>
 <p class="text">"Don't be sorry," Jimin whispered. He sounded like he was smiling as he curved a hand over Yoongi's shoulder, giving it a gentle squeeze. "You should rest. Go to sleep, Yoongi."</p>
 <p class="text">And Yoongi did.</p>
-<p class="divide">•·······•·······•</p>
+<p class="divide">•·······•·······•·······•·······•</p>
 <p class="text">Jimin had crept out of the room at 6:30, contemplative as he rummaged through the things in Yoongi's fridge to make some breakfast. There were way too many pre-packaged meals for his liking; it was obvious that Yoongi wasn't very good at taking care of himself, even if he was good at taking care of others.</p>
 <p class="text">Or at least, Jimin was pretty sure he was. They hadn't talked for long, but Yoongi's voice - and wow, that voice, that sort of rhythmically drunken drawl - was the most gentle when he'd spoken about his artists, especially ILGI. It was also obvious that Yoongi had a soft spot for Jungkook, and that he cared way more for the guy than any boss typically would for their employee. Jimin would know; his ex-boss had turned out to be a complete and total jerk.</p>
 <p class="text">He didn't want to jump to conclusions yet; they'd technically just met each other, but Yoongi just seemed like a guy who wanted some company. Sure, he'd gone about it in what was possibly the most convoluted way there was, but he'd had his reasons... Jimin had never found it very hard to make friends, especially not with Tae around to kind of lubricate any social faux pas. They were both outgoing and social, but it was clear to see that Yoongi wasn't like that. He purchased an entire building to protect his privacy, for fuck's sake.</p>
