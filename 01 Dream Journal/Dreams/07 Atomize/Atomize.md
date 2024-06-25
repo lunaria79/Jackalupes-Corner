@@ -78,7 +78,6 @@ Home:
 							</div>
 							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
 							<p>SCP - (Second Crown Prince) Kind of looks like my Laurence Sim </p>
-							<p>RM - (Royal Mage) Starborn, but has two human forms. His day to day is one emo bitch. Black hair, eye circles, gothic robes the whole nine yards. The form he uses for public appearances is basically the same as Phobos from W.I.T.C.H.
 							<br>His Star form basically blurs the edges of his human form. And his physical features are covered with a myriad of galaxies and stars. *Note: Insert Photos later*</p>
 							<p>OK - (Oracle Knight) We never really saw ourselves, up to whatever you want.  </p>
 							<p>OS - (Oracle Saint) Zelda but with longer blonde hair and slightly softer features (we don't have to be identical, but we are twins)</p>
@@ -94,7 +93,7 @@ Home:
 								<div class="callout-title-inner"> character note </div>
 							</div>
 							<img alt="placeholder.png" src="">
-							 <p>...</p>
+							 <p>RM - (Royal Mage) Starborn, but has two human forms. His day to day is one emo bitch. Black hair, eye circles, gothic robes the whole nine yards. The form he uses for public appearances is basically the same as Phobos from W.I.T.C.H. </p>
 						</div>
 					</div>
 				</div>
