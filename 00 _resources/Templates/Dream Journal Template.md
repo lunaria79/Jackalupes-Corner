@@ -51,6 +51,7 @@ Home:
 								</div>
 								<div class="callout-title-inner"> character note </div>
 							</div>
+							<img alt="placeholder.png" src="">
 							<p>...</p>
 						</div>
 					</div>
@@ -62,6 +63,7 @@ Home:
 								</div>
 								<div class="callout-title-inner"> character note </div>
 							</div>
+							<img alt="placeholder.png" src="">
 							<p>...</p>
 						</div>
 					</div>

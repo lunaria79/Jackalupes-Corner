@@ -9,14 +9,12 @@
 	--purple-tint: 229, 36, 142;
 	--text: 0, 0, 0;
 	--medium-radius: 0;
+	
+	font-family: "Aleo", serif !important;
 }
 
 .arcane-school.markdown-preview-view {
 	background: rgba(255, 255, 255, 1);
-}
-
-.arcane-school * {
-	font-family: "Aleo", serif !important;
 }
 
 div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {

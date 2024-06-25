@@ -2,11 +2,9 @@
 	--background-color: 21, 7, 29;
 	--primary-color: 185, 51, 73;
 	--text: 255, 230, 215;
-	
 	--red-tint: 185, 51, 73;
 	--blue-tint: 96, 159, 230;
 	--purple-tint: 229, 36, 142;
-	
 	font-family: "Barlow", sans-serif;
 }
 
@@ -17,34 +15,21 @@
 	background-color: rgb(var(--background-color), .15) !important;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
-.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input, .gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--text)) !important;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
-.gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input, .gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
 	color: rgb(var(--red-tint)) !important;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg{
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--text)) !important;
 	color: rgb(var(--red-tint)) !important;
 	font-weight: 700;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg  {
+.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg, .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--red-tint)) !important;
 	color: rgb(var(--text)) !important;
 	font-weight: 700;
@@ -52,7 +37,7 @@
 
 /* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
-    color: rgb(var(--primary-color)) !important;
+	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
 }
@@ -65,7 +50,7 @@
 	background: rgb(var(--text)) !important;
 }
 
-/* ------------------------------------------ Text Changes ------------------------------------------ */
+/* --------------------------------------------- Changes --------------------------------------------- */
 .gods-and-fiends h3 {
 	color: rgb(var(--yellow-tint)) !important;
 }
@@ -82,16 +67,6 @@
 	color: rgb(var(--blue-tint)) !important;
 }
 
-.gods-and-fiends .char-note img {
-	width: 200px;
-	height: 200px;
-	object-fit: cover;
-	
-	float: left;
-	margin-right: 10px;
-}
-
-
 /* ---------------------------------------------- CRT ------------------------------------------------ */
 /*https://aleclownes.com/2017/02/01/crt-display.html*/
 
@@ -103,76 +78,76 @@
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: linear-gradient(90deg, rgba(21,7,29,0.15) 0%, rgba(185,51,73,0.10247426607361698) 50%, rgba(21,7,29,0.15) 100%);
+	background: linear-gradient(90deg, rgba(21, 7, 29, 0.15) 0%, rgba(185, 51, 73, 0.10247426607361698) 50%, rgba(21, 7, 29, 0.15) 100%);
 	z-index: 2;
 	background-size: 100% 2px, 3px 100%;
 	pointer-events: none;
 }
 
 @keyframes flicker {
-0% {
-opacity: 0.27861;
-}
-5% {
-opacity: 0.34769;
-}
-10% {
-opacity: 0.23604;
-}
-15% {
-opacity: 0.90626;
-}
-20% {
-opacity: 0.18128;
-}
-25% {
-opacity: 0.83891;
-}
-30% {
-opacity: 0.65583;
-}
-35% {
-opacity: 0.67807;
-}
-40% {
-opacity: 0.26559;
-}
-45% {
-opacity: 0.84693;
-}
-50% {
-opacity: 0.96019;
-}
-55% {
-opacity: 0.08594;
-}
-60% {
-opacity: 0.20313;
-}
-65% {
-opacity: 0.71988;
-}
-70% {
-opacity: 0.53455;
-}
-75% {
-opacity: 0.37288;
-}
-80% {
-opacity: 0.71428;
-}
-85% {
-opacity: 0.70419;
-}
-90% {
-opacity: 0.7003;
-}
-95% {
-opacity: 0.36108;
-}
-100% {
-opacity: 0.24387;
-}
+	0% {
+		opacity: 0.27861;
+	}
+	5% {
+		opacity: 0.34769;
+	}
+	10% {
+		opacity: 0.23604;
+	}
+	15% {
+		opacity: 0.90626;
+	}
+	20% {
+		opacity: 0.18128;
+	}
+	25% {
+		opacity: 0.83891;
+	}
+	30% {
+		opacity: 0.65583;
+	}
+	35% {
+		opacity: 0.67807;
+	}
+	40% {
+		opacity: 0.26559;
+	}
+	45% {
+		opacity: 0.84693;
+	}
+	50% {
+		opacity: 0.96019;
+	}
+	55% {
+		opacity: 0.08594;
+	}
+	60% {
+		opacity: 0.20313;
+	}
+	65% {
+		opacity: 0.71988;
+	}
+	70% {
+		opacity: 0.53455;
+	}
+	75% {
+		opacity: 0.37288;
+	}
+	80% {
+		opacity: 0.71428;
+	}
+	85% {
+		opacity: 0.70419;
+	}
+	90% {
+		opacity: 0.7003;
+	}
+	95% {
+		opacity: 0.36108;
+	}
+	100% {
+		opacity: 0.24387;
+	}
 }
 
 .markdown-reading-view div.crt div.markdown-preview-sizer::after {
@@ -183,7 +158,7 @@ opacity: 0.24387;
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background: rgba(21,7,29,.1);
+	background: rgba(21, 7, 29, .1);
 	opacity: 0;
 	z-index: 2;
 	pointer-events: none;
