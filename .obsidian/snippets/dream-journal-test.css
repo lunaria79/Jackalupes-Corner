@@ -27,12 +27,17 @@
 	font-family: "Dosis", sans-serif;
 }
 
-div.markdown-source-view.dream-journal-test.is-live-preview, .markdown-source-view.dream-journal-test {
+.dream-journal-test * {
+	--tile-background: rgb(var(--background-color), .99);
+}
+
+div.markdown-source-view.dream-journal-test.is-live-preview,
+.markdown-source-view.dream-journal-test {
 	background-image: none;
 	background-color: transparent;
 }
 
-div.markdown-reading-view>div.markdown-preview-view.dream-journal-test>div {
+div.markdown-reading-view > div.markdown-preview-view.dream-journal-test > div {
 	backdrop-filter: blur(0px);
 	padding: 20px;
 	max-width: 75%;
@@ -47,7 +52,13 @@ div.html-tab-content {
 }
 
 /* --------------------------------------------- Title ---------------------------------------------- */
-.dream-journal-test .inline-title, .dream-journal-test h1, .dream-journal-test h2, .dream-journal-test h3, .dream-journal-test h4, .dream-journal-test h5, .dream-journal-test h6 {
+.dream-journal-test .inline-title,
+.dream-journal-test h1,
+.dream-journal-test h2,
+.dream-journal-test h3,
+.dream-journal-test h4,
+.dream-journal-test h5,
+.dream-journal-test h6 {
 	-webkit-text-fill-color: currentColor !important;
 	-webkit-background-clip: unset !important;
 	background-clip: unset !important;
@@ -62,10 +73,10 @@ div.html-tab-content {
 	width: 100%;
 	/* Colors */
 	color: rgb(var(--purple-tint));
-	background-color: rgb(var(--background-color), 1);
+	background-color: var(--tile-background);
 	/* Border */
 	border-left: 5px solid rgb(var(--primary-color));
-	border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
+	border-radius: 0 var(--medium-radius) var(--medium-radius) 0;
 	box-shadow: none;
 }
 
@@ -83,16 +94,17 @@ div.html-tab-content {
 	width: 100%;
 	/* Colors */
 	color: rgb(var(--purple-tint));
-	background-color: rgb(var(--background-color), 1);
+	background-color: var(--tile-background);
 	/* Border */
 	border-left: 5px solid rgb(var(--primary-color));
-	border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
+	border-radius: 0 var(--medium-radius) var(--medium-radius) 0;
 	box-shadow: none;
 }
 
 
- .metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
-    background-color: #202335;
+.metadata-property .multi-select-container:focus,
+.metadata-property .multi-select-container:focus-within {
+	background-color: #202335;
 }
 
 .dream-journal-test div.metadata-properties-heading.is-collapsed {
@@ -116,23 +128,28 @@ div.html-tab-content {
 
 
 /* ---------- Classes ---------- */
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
 	color: rgb(var(--blue-tint));
 }
 
-.dream-journal-test .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+.dream-journal-test .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.dream-journal-test .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
 	color: rgb(var(--orange-tint));
 }
 
-.dream-journal-test .metadata-property[data-property-key="Completed"] svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+.dream-journal-test .metadata-property[data-property-key="Completed"] svg.svg-icon,
+.dream-journal-test .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--green-tint));
 }
 
-.dream-journal-test .metadata-property[data-property-key="Home"] svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+.dream-journal-test .metadata-property[data-property-key="Home"] svg.svg-icon,
+.dream-journal-test .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
 	color: rgb(var(--yellow-tint));
 }
 
-.dream-journal-test .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property {
+.dream-journal-test .metadata-property-icon svg.svg-icon,
+.dream-journal-test .metadata-property {
 	font-weight: 700;
 	cursor: pointer;
 }
@@ -142,7 +159,8 @@ div.html-tab-content {
 }
 
 /* ---------- Tags ---------- */
-.dream-journal-test .multi-select-pill-content, .dream-journal-test .multi-select-pill svg.svg-icon {
+.dream-journal-test .multi-select-pill-content,
+.dream-journal-test .multi-select-pill svg.svg-icon {
 	color: black;
 	font-weight: 700;
 }
@@ -158,19 +176,25 @@ div.html-tab-content {
 	cursor: pointer;
 }
 
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--blue-tint));
 	color: rgb(var(--background-color));
 	font-weight: 700;
 }
 
-.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill, .dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-content, .dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
+.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill,
+.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--orange-tint));
 	color: rgb(var(--background-color));
 	font-weight: 700;
 }
 
-.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill, .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-content, .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill,
+.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: transparent;
 	color: rgb(var(--yellow-tint));
 	font-weight: 700;

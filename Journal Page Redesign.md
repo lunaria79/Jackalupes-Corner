@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - in-progress
   - Stage
-Completed: true
+Completed: false
 Home:
   - "[[Dream Journal Home Page]]"
 ---
