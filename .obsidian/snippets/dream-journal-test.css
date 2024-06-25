@@ -66,6 +66,20 @@ div.html-tab-content {
 	box-shadow: none;
 }
 
+
+ .metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
+    background-color: #202335;
+}
+
+
+
+
+
+
+
+
+
+
 .dream-journal-test div.metadata-properties-heading.is-collapsed {
 	padding: 0;
 }
