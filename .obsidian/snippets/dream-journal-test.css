@@ -201,7 +201,6 @@ div.html-tab-content {
 .dream-journal-test .metadata-property-icon svg.svg-icon,
 .dream-journal-test .metadata-property {
 	font-weight: 700;
-
 }
 
 .dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
@@ -236,8 +235,8 @@ div.html-tab-content {
 .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill,
 .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-content,
 .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	background-color: transparent;
-	color: rgb(var(--yellow-tint));
+	background-color: rgb(var(--yellow-tint));
+	color: rgb(var(--background-color));
 	
 }
 
@@ -245,23 +244,6 @@ div.html-tab-content {
 .dream-journal-test .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--green-tint));
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .dream-journal-test input[type=checkbox]:not(:checked) {
@@ -307,6 +289,13 @@ div.html-tab-content {
 	margin-top: 0;
 	margin-bottom: 12px;
 }
+
+
+
+
+
+
+
 
 /* ---------------------------------------- Information Grid ---------------------------------------- */
 /* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */

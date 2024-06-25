@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - dream-journal-base
-  - steampunk-mermaids
+  - milo-caspian
 Home:
   - "[[Milo and Caspian]]"
 tags:
