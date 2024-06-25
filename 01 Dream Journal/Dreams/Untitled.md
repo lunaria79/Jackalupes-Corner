@@ -10,15 +10,9 @@ Home:
 <div class="block-language-tabs">
 		<div data-x-data="{ tab: 0 }">
 			<div class="html-tabs">
-				<div class="html-tab html-tab-active" data-x-bind:class="{ 'html-tab-active': tab == 0 }" data-x-on:click="tab = 0">
-					<p>Plots</p>
-				</div>
-				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1">
-					<p>Characters</p>
-				</div>
-				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2">
-					<p>Notes</p>
-				</div>
+				<div class="html-tab html-tab-active" data-x-bind:class="{ 'html-tab-active': tab == 0 }" data-x-on:click="tab = 0"> <p>Plots</p> </div>
+				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1"> <p>Characters</p> </div>
+				<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"> <p>Notes</p> </div>
 			</div>
 			<div class="html-tab-content">
 				<div data-x-show="tab == 0" style="">
@@ -27,12 +21,9 @@ Home:
 							<div class="box">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
 									</div>
-									<div class="callout-title-inner">
-										village arc
-									</div>
+									<div class="callout-title-inner"> village arc </div>
 								</div>
 								<p>It all starts in the village at the edge of a large empire. The empire consists of thousands of medium to small islands, each with their own distinct magical abilities.</p>
 								<p>We are in the body of a young man. While unexpecting on the outside, he holds within him a big secret. He is one of the last Oracles to ever exist. His younger sister, back home at the capital, is the only other one. When they were younger, the youngest was cursed to experience his ailments on a smaller scale. And while you can treat him from afar through his sister, the two do not wish to be life bound anymore. Earlier in the year, we had received a prophetic dream that the small village we are now in was important.</p>
@@ -45,33 +36,20 @@ Home:
 							<div class="box">
 								<div class="callout-title">
 									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-										<path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
 									</div>
-									<div class="callout-title-inner">
-										return arc
-									</div>
+									<div class="callout-title-inner"> return arc </div>
 								</div>
 								<p>So now we're on the run on foot. Any other form of transportation was either killed or destroyed. Fun fact about hellhounds, they have 4 legs and are very fast. We may be very fast, but we only have two legs. So the chase is long and harrowing. Not long after the beginning, we realize there something else with four legs following us. But it doesn't have the same demonic energy as the other beasts following us. And while we lose the hellhounds somehow, this animal is still making a beeline for us.</p>
 								<p>While we're hurriedly trying to make a boat. A headless dog bursts into the clearing. And we discover what the real purpose of that town was. The CP was attempting to create an army of unkillable creatures. And started experiments with small rodents. And had worked his way up to dogs. This pupper was the only success. Sensing no ill will coming from it, we allow it to climb up in our backpack, and we make haste across the water.</p>
 								<p>We arrive back in the capital, through not exactly legal means. Concerned about the headless nature of our new dog, we craft him a head, and with a little magic and a blue handkerchief, we have a totally completely normal Pyrenees dog.</p>
 								<p>On the way back up to the castle through the catacombs, we are stopped by the CP's men. Who attempt to arrest us under the pretense of us being the cause of the destruction of the village. And also tried to take our dog. Which is honestly bullshit and everyone there knew it. Lucky for us, we were then teleported into the RM's chamber, where the aforementioned mage, the TWO CP's and our sister were waiting.</p>
 							</div>
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-									<path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-								</div>
-								<div class="callout-title-inner">
-									return arc
-								</div>
-							</div>
 						</div>
 						<div class="box">
 							<div class="callout-title">
 								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-									<path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+									<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
 								</div>
 								<div class="callout-title-inner"> return arc </div>
 							</div>
