@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -120,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 _resources/Templates/Dream Journal Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 _resources/Templates/Dream Journal Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 _resources/Templates/Dream Journal Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,14 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89330ad624c225e9",
+  "active": "ce905cc8aed416c4",
   "lastOpenFiles": [
+    "00 _resources/Templates/Dream Journal Template.md",
+    "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/Mary Jane/Mary Jane.md",
     "Dreams/Mary Jane.md",
     "Dreams",
-    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/Mary Jane.md",
     "01 Dream Journal/Dreams/Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/Mary Jane/Images",
