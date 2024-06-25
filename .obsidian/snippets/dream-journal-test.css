@@ -34,7 +34,7 @@ div.markdown-source-view.dream-journal-test.is-live-preview, .markdown-source-vi
 div.markdown-reading-view>div.markdown-preview-view.dream-journal-test>div {
 	backdrop-filter: blur(0px);
 	padding: 20px;
-	max-width: 85%;
+	max-width: 75%;
 }
 
 .mod-header {
@@ -54,11 +54,12 @@ div.html-tab-content {
 	margin: 0;
 	padding: 10px 25px;
 	width: 100%;
+
 	transform: None;
 	color: rgb(var(--purple-tint));
 	background-color: rgb(var(--background-color), .8);
 	border: 2px solid rgb(var(--primary-color));
-	border-radius: var(--medium-radius);
+	
 	box-shadow: none;
 }
 

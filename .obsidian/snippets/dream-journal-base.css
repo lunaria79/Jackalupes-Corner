@@ -222,7 +222,7 @@ div.html-tab-content {
 }
 
 /* ---------------------------------------- Tabs ---------------------------------------- */
-div.html-tabs {
+.dream-journal-base div.html-tabs {
 	padding: 5px 0 8px 20px;
 	margin: 0 10px;
 	color: rgb(var(--primary-color));
@@ -232,16 +232,16 @@ div.html-tabs {
 	box-shadow: 2px 2px 2px rgb(var(--background-color), .5);
 }
 
-div.html-tab {
+.dream-journal-base div.html-tab {
 	padding: 0;
 	height: 30px;
 }
 
-div.html-tab:hover {
+.dream-journal-base div.html-tab:hover {
 	color: rgb(var(--primary-color));
 }
 
-.html-tab-active {
+.dream-journal-base .html-tab-active {
 	color: rgb(var(--text));
 	border-bottom-width: 2px;
 	border-bottom-style: solid;
@@ -250,7 +250,7 @@ div.html-tab:hover {
 
 /* ---------------------------------------- Information Grid ---------------------------------------- */
 /* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
-.wrapper {
+.dream-journal-base .wrapper {
 	grid-template-columns: 1fr 1fr;
 	background-color: transparent;
 	padding: 10px;
@@ -259,22 +259,22 @@ div.html-tab:hover {
 	margin-top: 0;
 }
 
-.grid {
+.dream-journal-base .grid {
 	display: grid;
 	grid-gap: 10px;
 }
 
-.grid.left {
+.dream-journal-base .grid.left {
 	grid-column: 1 / span 1;
 	grid-auto-rows: min-content;
 }
 
-.grid.right {
+.dream-journal-base .grid.right {
 	grid-column: span 1 / -1;
 	grid-auto-rows: min-content;
 }
 
-.box {
+.dream-journal-base .box {
 	padding: 5px 20px;
 	max-height: 750px;
 	overflow: scroll;
@@ -286,15 +286,15 @@ div.html-tab:hover {
 	box-shadow: 2px 2px 2px rgb(var(--background-color), .5);
 }
 
-.callout-title {
+.dream-journal-base .callout-title {
 	margin-top: 15px;
 }
 
-.callout-icon svg {
+.dream-journal-base .callout-icon svg {
 	margin-top: -5px;
 }
 
-.callout-title-inner {
+.dream-journal-base .callout-title-inner {
 	margin-top: -2px;
 	font-weight: 700;
 }
@@ -304,7 +304,7 @@ div.html-tab:hover {
 	background-image: none;
 }
 
-.box img {
+.dream-journal-base .box img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -313,7 +313,7 @@ div.html-tab:hover {
 	background-color: rgb(var(--background-color), .5);
 }
 
-.char-note img {
+.dream-journal-base .char-note img {
 	width: 200px;
 	height: 200px;
 	object-fit: cover;
@@ -321,7 +321,7 @@ div.html-tab:hover {
 	margin-right: 10px;
 }
 
-.markdown-rendered p {
+.markdown-rendered.dream-journal-base p {
 	margin-top: 0;
 	margin-bottom: 12px;
 }
