@@ -53,6 +53,38 @@ div.html-tab-content {
 	padding: 0;
 }
 
+/* --------------------------------------------- Tile ---------------------------------------------- */
+.markdown-preview-view.dream-journal-test div.inline-title,
+.dream-journal-test div.metadata-container,
+.dream-journal-test div.html-tabs {
+	/*Position */
+	transform: unset;
+	/* Size */
+	padding: 10px 25px;
+	width: 100%;
+	/* Colors */
+	color: rgb(var(--purple-tint));
+	background-color: var(--tile-background);
+	/* Border */
+	border-left: var(--tile-border);
+	border-radius: var(--tile-border-radius);
+	box-shadow: none;
+}
+
+.dream-journal-test div.metadata-container {
+	/* Size */
+	margin: 0;
+}
+
+.dream-journal-test div.html-tabs {
+	/* Size */
+	padding: 5px 0 8px 20px;
+	margin: 0 10px;
+	width: unset;
+	/* Border */
+	border-bottom: none;
+}
+
 /* --------------------------------------------- Title ---------------------------------------------- */
 .dream-journal-test .inline-title,
 .dream-journal-test h1,
@@ -67,40 +99,9 @@ div.html-tab-content {
 	background-image: none !important;
 }
 
-.markdown-preview-view.dream-journal-test div.inline-title {
-	/*Position */
-	transform: unset;
-	/* Size */
-	padding: 10px 25px;
-	width: 100%;
-	/* Colors */
-	color: rgb(var(--purple-tint));
-	background-color: var(--tile-background);
-	/* Border */
-	border-left: var(--tile-border);
-	border-radius: var(--tile-border-radius);
-	box-shadow: none;
-}
-
 /* ------------------------------------------- Properties ------------------------------------------- */
 .dream-journal-test .mod-header {
 	margin-bottom: 0;
-}
-
-.dream-journal-test div.metadata-container {
-	/*Position */
-	transform: unset;
-	/* Size */
-	margin: 0;
-	padding: 10px 25px;
-	width: 100%;
-	/* Colors */
-	color: rgb(var(--purple-tint));
-	background-color: var(--tile-background);
-	/* Border */
-	border-left: var(--tile-border);
-	border-radius: var(--tile-border-radius);
-	box-shadow: none;
 }
 
 
@@ -224,20 +225,6 @@ div.html-tab-content {
 }
 
 /* ---------------------------------------- Tabs ---------------------------------------- */
-.dream-journal-test div.html-tabs {
-	/* Size */
-	padding: 5px 0 8px 20px;
-	margin: 0 10px;
-	/* Colors */
-	color: rgb(var(--purple-tint));
-	background-color: var(--tile-background);
-	/* Border */
-	border-left: var(--tile-border);
-	border-bottom: none;
-	border-radius: var(--tile-border-radius);
-	box-shadow: none;
-}
-
 .dream-journal-test div.html-tab {
 	padding: 0;
 	height: 30px;
@@ -254,8 +241,13 @@ div.html-tab-content {
 	border-color: rgb(var(--primary-color));
 }
 
+.markdown-rendered.dream-journal-test .html-tab p {
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+
 /* ---------------------------------------- Information Grid ---------------------------------------- */
-/* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
+/* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- 
 .dream-journal-test .wrapper {
 	grid-template-columns: 1fr 1fr;
 	background-color: transparent;
