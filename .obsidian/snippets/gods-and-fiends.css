@@ -50,6 +50,22 @@
 	font-weight: 700;
 }
 
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
+    color: rgb(var(--primary-color)) !important;
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--primary-color)) !important;
+}
+
+.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked {
+	background: rgb(var(--text)) !important;
+}
+
+.gods-and-fiends input[type=checkbox]:checked:after {
+	background: rgb(var(--text)) !important;
+}
+
+/* ------------------------------------------ Text Changes ------------------------------------------ */
 .gods-and-fiends h3 {
 	color: rgb(var(--yellow-tint)) !important;
 }
@@ -66,28 +82,13 @@
 	color: rgb(var(--blue-tint)) !important;
 }
 
-.gods-and-fiends img {
+.gods-and-fiends .char-note img {
 	width: 200px;
 	height: 200px;
 	object-fit: cover;
 	
 	float: left;
 	margin-right: 10px;
-}
-
-/* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
-    color: rgb(var(--primary-color)) !important;
-	background-color: transparent !important;
-	border: 2px solid rgb(var(--primary-color)) !important;
-}
-
-.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked {
-	background: rgb(var(--text)) !important;
-}
-
-.gods-and-fiends input[type=checkbox]:checked:after {
-	background: rgb(var(--text)) !important;
 }
 
 
