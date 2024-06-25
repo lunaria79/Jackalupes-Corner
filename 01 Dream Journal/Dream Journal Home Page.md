@@ -16,7 +16,7 @@ tags:
 
 2024-06-25
 + Atomize Reformatted
-!  Possibly Completely Change how div.box looks (more modern?)
+!  Possibly Redesign Dream Jounal to be more Modern
 ~~~
 # Current Pages
 1. [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
