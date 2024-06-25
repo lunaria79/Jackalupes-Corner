@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "5d65aa8af573d532",
+            "id": "d1efacd2e35f82c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "66cb97299f8847c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "01 Dream Journal/Dreams/Untitled.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "01 Dream Journal/Dreams/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md",
+                "file": "01 Dream Journal/Dreams/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/Gaia's Wrath.md"
+                "file": "01 Dream Journal/Dreams/Untitled.md"
               }
             }
           },
@@ -193,13 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d65aa8af573d532",
+  "active": "d1efacd2e35f82c7",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/Gaia's Wrath.md",
+    "01 Dream Journal/Dreams/Untitled.md",
     "README.md",
     "Updates Prior.md",
     "03 Others",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
@@ -214,7 +204,6 @@
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-3.png",
     "01 Dream Journal/Dreams/07 Atomize/Images",
     "01 Dream Journal/Dreams/07 Atomize",
-    "01 Dream Journal/Dreams/Untitled.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",

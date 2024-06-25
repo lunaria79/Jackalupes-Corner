@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+/* ---------------------------------------- Background ---------------------------------------- */
+.dream-journal-test {
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
+	background-blend-mode: darken;
+	background-color: rgb(var(--primary-color), .1);
+}
+
+.dream-journal-test * {
+	/* Colors */
+	--background-color: 28, 28, 44;
+	--primary-color: 243, 172, 208;
+	--text: 255, 255, 255;
+	--red-tint: 247, 151, 130;
+	--orange-tint: 247, 202, 130;
+	--yellow-tint: 222, 233, 165;
+	--green-tint: 165, 233, 176;
+	--blue-tint: 165, 214, 230;
+	--purple-tint: 213, 168, 233;
+	/* Sizes */
+	--medium-radius: 6px;
+	--small-radius: 4px;
+	--file-line-width: 60%;
+	/* Fonts */
+	font-family: "Dosis", sans-serif;
+}
+
+div.markdown-source-view.dream-journal-test.is-live-preview, .markdown-source-view.dream-journal-test {
+	background-image: none;
+	background-color: transparent;
+}
+
+div.markdown-reading-view>div.markdown-preview-view.dream-journal-test>div {
+	backdrop-filter: blur(0px);
+	padding: 20px;
+	max-width: 85%;
+}
+
+.mod-header {
+	padding: 10px;
+}
+
+div.html-tab-content {
+	padding: 0;
+}
+
+/* ------------------------------------------- Properties ------------------------------------------- */
+.dream-journal-test .mod-header {
+	margin-bottom: 0;
+}
+
+.dream-journal-test div.metadata-container {
+	margin: 0;
+	padding: 10px 25px;
+	width: 100%;
+	transform: None;
+	color: rgb(var(--purple-tint));
+	background-color: rgb(var(--background-color), .8);
+	border: 2px solid rgb(var(--primary-color));
+	border-radius: var(--medium-radius);
+	box-shadow: none;
+}
+
+.dream-journal-test div.metadata-properties-heading.is-collapsed {
+	padding: 0;
+}
+
+.dream-journal-test div.metadata-container.is-collapsed {
+	height: 45px;
+}
+
+.dream-journal-test .metadata-properties-title {
+	color: rgb(var(--primary-color));
+	font-weight: 800;
+}
+
+.dream-journal-test .metadata-add-button.text-icon-button {
+	display: none;
+}
+
+/* ---------- Classes ---------- */
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
+	color: rgb(var(--blue-tint));
+}
+
+.dream-journal-test .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+	color: rgb(var(--orange-tint));
+}
+
+.dream-journal-test .metadata-property[data-property-key="Completed"] svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+	color: rgb(var(--green-tint));
+}
+
+.dream-journal-test .metadata-property[data-property-key="Home"] svg.svg-icon, .dream-journal-test .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+	color: rgb(var(--yellow-tint));
+}
+
+.dream-journal-test .metadata-property-icon svg.svg-icon, .dream-journal-test .metadata-property {
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.dream-journal-test .metadata-add-button.text-icon-button {
+	color: rgb(var(--text));
+}
+
+/* ---------- Tags ---------- */
+.dream-journal-test .multi-select-pill-content, .dream-journal-test .multi-select-pill svg.svg-icon {
+	color: black;
+	font-weight: 700;
+}
+
+.dream-journal-test div.multi-select-pill-content span {
+	margin-top: 2px !important;
+}
+
+.dream-journal-test .metadata-property .multi-select-pill {
+	background-color: rgb(var(--purple-tint));
+	border-radius: var(--small-radius);
+	padding: 3px 5px;
+	cursor: pointer;
+}
+
+.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+	background-color: rgb(var(--blue-tint));
+	color: rgb(var(--background-color));
+	font-weight: 700;
+}
+
+.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill, .dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-content, .dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
+	background-color: rgb(var(--orange-tint));
+	color: rgb(var(--background-color));
+	font-weight: 700;
+}
+
+.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill, .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-content, .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+	background-color: transparent;
+	color: rgb(var(--yellow-tint));
+	font-weight: 700;
+	text-decoration: none;
+}
+
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager) .dream-journal-test input[type=checkbox]:not(:checked) {
+	color: rgb(var(--red-tint));
+	background-color: transparent !important;
+	border: 2px solid rgb(var(--red-tint));
+	border-radius: var(--small-radius);
+	cursor: pointer !important;
+}
+
+.theme-dark:not(.css-settings-manager) .dream-journal-test input[type=checkbox]:checked {
+	background: rgb(var(--green-tint));
+	border-radius: var(--small-radius);
+	border-color: rgb(var(--green-tint));
+	cursor: pointer !important;
+}
+
+.dream-journal-test input[type=checkbox]:checked:after {
+	background: rgb(var(--green-tint));
+	border-radius: var(--small-radius);
+	-webkit-mask-image: none;
+	cursor: pointer !important;
+}

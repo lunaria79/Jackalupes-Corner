@@ -14,7 +14,8 @@
     "dream-journal-base",
     "code",
     "arcane-school",
-    "dream-journal-pages"
+    "dream-journal-pages",
+    "dream-journal-test"
   ],
   "showViewHeader": true
 }
