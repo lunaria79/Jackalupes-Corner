@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 
-
 /* ---------------------------------------- Background ---------------------------------------- */
 .dream-journal-base {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
@@ -54,10 +53,18 @@ div.html-tab-content {
 	background-image: none !important;
 }
 
+.markdown-preview-view.dream-journal-base div.inline-title {
+	color: rgb(var(--primary-color));
+	border: 2px solid rgb(var(--primary-color));
+	border-radius: var(--medium-radius);
+	padding: 3px 15px;
+	background-color: rgb(var(--background-color), .8);
+}
+
 .markdown-source-view.dream-journal-base div.inline-title {
 	color: rgb(var(--text));
 	background-color: rgb(28, 28, 44, 1);
-	padding: 0 25px;
+	padding: 0 10px;
 }
 
 .dream-journal-base img {
@@ -105,7 +112,6 @@ div.html-tab-content {
 	padding: 10px 25px;
 	width: 100%;
 	transform: None;
-	
 	color: rgb(var(--purple-tint));
 	background-color: rgb(var(--background-color), .8);
 	border: 2px solid rgb(var(--primary-color));
