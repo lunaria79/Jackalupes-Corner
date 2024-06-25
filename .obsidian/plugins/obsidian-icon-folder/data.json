@@ -40,7 +40,6 @@
   "01 Dream Journal/Dream Journal Home Page.md": "FasHouse",
   "01 Dream Journal/ZIALONA Home Page.md": "FasHouse",
   "01 Dream Journal/Dreams/A Court of Death and Desire.md": "FasFileLines",
-  "01 Dream Journal/Dreams/Atomize.md": "FasFilePen",
   "01 Dream Journal/Dreams/Trauma Central (Not Official).md": "FasFilePen",
   "01 Dream Journal/Stage Files/Code Testing Ground.md": "FasFileCode",
   "01 Dream Journal/Stage Files": "FasFolderTree",
@@ -130,5 +129,8 @@
   "01 Dream Journal/Dreams/06 Mary Jane": "FasFolderTree",
   "01 Dream Journal/Dreams/06 Mary Jane/Images": "FasFolderTree",
   "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md": "FasFilePen",
-  "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md": "FasFileLines"
+  "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md": "FasFileLines",
+  "01 Dream Journal/Dreams/07 Atomize": "FasFolderTree",
+  "01 Dream Journal/Dreams/07 Atomize/Atomize.md": "FasFilePen",
+  "01 Dream Journal/Dreams/07 Atomize/Images": "FasFolderTree"
 }

@@ -10,9 +10,12 @@ tags:
 
 2024-06-24
 - Maddness
-+ Mary Jane
++ Mary Jane Update
 + Reformated All Dream Page CSS
 + Updated Template CSS
+
+2024-06-25
++ Atomize Reformatted
 ~~~
 # Current Pages
 1. [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
@@ -24,7 +27,7 @@ tags:
 ### Loose
 1. [A Court of Death and Desire](Dreams/A%20Court%20of%20Death%20and%20Desire.md)
 # In Progress
-1. [Atomize](Dreams/Atomize.md)
+1. [Atomize](Dreams/07%20Atomize/Atomize.md)
 2. [Gaia's Wrath](Dreams/Gaia's%20Wrath.md)
 3. [Isle of the Gods](Dreams/Isle%20of%20the%20Gods.md)
 4. [NANOBEAM (I Know it's a Shit Name)](Dreams/NANOBEAM%20(I%20Know%20it's%20a%20Shit%20Name).md)

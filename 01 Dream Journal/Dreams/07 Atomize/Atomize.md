@@ -2,7 +2,9 @@
 cssclasses:
   - dream-journal-base
 tags:
-  - Stage
+  - dream
+  - atomize
+  - in-progress
 Completed: false
 Home:
   - "[[Dream Journal Home Page]]"
@@ -74,7 +76,6 @@ Home:
 								</div>
 								<div class="callout-title-inner"> character descriptions </div>
 							</div>
-						
 							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
 							<p>SCP - (Second Crown Prince) Kind of looks like my Laurence Sim </p>
 							<p>RM - (Royal Mage) Starborn, but has two human forms. His day to day is one emo bitch. Black hair, eye circles, gothic robes the whole nine yards. The form he uses for public appearances is basically the same as Phobos from W.I.T.C.H.
@@ -90,11 +91,10 @@ Home:
 									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
 									<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
 								</div>
-								<div class="callout-title-inner">
-									character note
-								</div>
-							</div><img alt="placeholder.png" src="">
-							<p>...</p>
+								<div class="callout-title-inner"> character note </div>
+							</div>
+							<img alt="placeholder.png" src="">
+							 <p>...</p>
 						</div>
 					</div>
 				</div>
@@ -108,11 +108,14 @@ Home:
 									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
 									<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
 								</div>
-								<div class="callout-title-inner">
-									image + note
-								</div>
-							</div><img alt="placeholder.png" src="">
-							<p>...</p>
+								<div class="callout-title-inner"> note </div>
+							</div>
+							<p>Hello everyone, you might have noticed that I'm not in the castle. Today, as I'm sure you've heard from REDACTED that we've both received the prophecy of the destruction of the kingdom. But more importantly, I guess I should explain how I got down here. I woke up with the most devastating headache I've ever had. Now that I think about it, it was probably a migraine. I digress. All I knew was that I had to get down to the docks. Now I might have scared some of our citizens with the sluggish way I was walking. But it's a bit too late now. We have more pressing matters at hand. Which I'll get to in a minute.</p>
+							<p>When I arrived at the docks, as soon as I set foot on wood planks it's made of, my mind was flung forward. And an influx of information greeted my third eye. The demons are just across the horizon. And their army has grown. Those killed by them are taking up as thralls. There are more hellhounds than ever before. This is not a battle that can be won. I strongly recommend we evacuate everyone, citizens and soldiers alike.</p>
+							<p>This may come as a surprise to you, but I've decided to stay. My mind is clearing as these two excellent young fellows are writing. And it's my duty to protect this kingdom to my dying breath. Ergo, I'm staying and you can't convince me otherwise. So I am to write down my last words to you.</p>
+							<p><b>REDACTED</b>: You have been one of my closest friends since childhood. And since then, I knew that you would make a much better king than that bitch of a brother. Growing up alongside of you was one of the happiest experiences in my life. From beating you in horse races, to beating to you in hunting competitions to beating you in finding love first, I have loved one upping you in every aspect in life. I jest. You're the closest thing to an older brother I have ever had. And for that I love and adore you. Please do not miss me when I'm gone. I'm going to haunt your ass, so we can continue pilfering the kitchens for the rest of our lives.</p>
+							<p><b>REDACTED</b>: My beloved baby sister. I'm sorry for all of the pain I have caused you over the years. Physically and mentally. It seems to the very end I was unable to cure you of that damn curse. And for that, I will apologize for the rest of eternity. I know that I haven't said it enough growing up but I love you. Since the death of our parents, it's been you and me against the world, and I wouldn't have it any other way. Please forget anything mean I said during puberty, I didn't mean any of it. I was lashing out at the wrong person. It's something I'll never forgive myself for. As you continue on to be the last oracle living, I hope the rest of your prophecies be merry.</p>
+							<p><b>REDACTED</b>: Hey love. I know you're probably mad at me. And you should be. Making this decision without your input. But I feel like it was important to do. I'm sorry that our last few conversations have been arguments due to my own pig headed behavior.  I'm sorry that I'm throwing a massive wrench in our plans for the future. You didn't ask for such an idiot of a boyfriend did you. I love you too the moons and back, and then some. May I forever last in your memory, as I speak your name as my final breath.</p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -122,11 +125,16 @@ Home:
 									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
 									<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
 								</div>
-								<div class="callout-title-inner">
-									note
-								</div>
+								<div class="callout-title-inner"> note </div>
 							</div>
-							<p>...</p>
+							<p>Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.  </p>
+							<p>Now, as your looking down upon the tea gathering in the gardens from the tower. You see the SCP come hastily in, with a grim look on his face, and making a beeline for the OS. And they have quick conversation, and they both start heading towards your tower. So you check comms, and see the "HOLY FUCK SHIT EVERYTHING'S GOING WRONG" message. As well as the "connection lost" message. How would that make you feel?</p>
+							<ol>
+								<li>Vindictive that you were right all along.
+								<li>Panicking. Cause where the fuck is your partner.
+								<li>Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
+								<li>Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
+							</ol>
 						</div>
 					</div>
 				</div>
