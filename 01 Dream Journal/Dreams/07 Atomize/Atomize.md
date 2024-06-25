@@ -92,7 +92,7 @@ Home:
 								</div>
 								<div class="callout-title-inner"> character note </div>
 							</div>
-							<img alt="placeholder.png" src="">
+							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/starborn-1.png">
 							 <p>RM - (Royal Mage) Starborn, but has two human forms. His day to day is one emo bitch. Black hair, eye circles, gothic robes the whole nine yards. The form he uses for public appearances is basically the same as Phobos from W.I.T.C.H. </p>
 						</div>
 					</div>

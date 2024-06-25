@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFileImage",
       "FasFileLines",
       "FasFilePen",
       "FasFolderTree",
-      "FasFileCode",
-      "FarAddressCard"
+      "FasFileCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -132,5 +132,11 @@
   "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md": "FasFileLines",
   "01 Dream Journal/Dreams/07 Atomize": "FasFolderTree",
   "01 Dream Journal/Dreams/07 Atomize/Atomize.md": "FasFilePen",
-  "01 Dream Journal/Dreams/07 Atomize/Images": "FasFolderTree"
+  "01 Dream Journal/Dreams/07 Atomize/Images": "FasFolderTree",
+  "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png": "FasFileImage",
+  "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg": "FasFileImage",
+  "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-2.jpg": "FasFileImage",
+  "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-3.jpg": "FasFileImage",
+  "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-4.jpg": "FasFileImage",
+  "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-5.png": "FasFileImage"
 }
