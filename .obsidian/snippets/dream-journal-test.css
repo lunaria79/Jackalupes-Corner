@@ -19,6 +19,7 @@
 	--blue-tint: 165, 214, 230;
 	--purple-tint: 213, 168, 233;
 	/* Sizes */
+	--large-radius: 10px;
 	--medium-radius: 6px;
 	--small-radius: 4px;
 	--file-line-width: 60%;
@@ -54,12 +55,11 @@ div.html-tab-content {
 	margin: 0;
 	padding: 10px 25px;
 	width: 100%;
-
 	transform: None;
 	color: rgb(var(--purple-tint));
 	background-color: rgb(var(--background-color), .8);
 	border: 2px solid rgb(var(--primary-color));
-	
+	border-radius: var(--medium-radius);
 	box-shadow: none;
 }
 
