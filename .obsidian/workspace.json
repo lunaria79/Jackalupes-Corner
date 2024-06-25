@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal Page Redesign.md",
+                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal Page Redesign.md",
+                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal Page Redesign.md"
+                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md"
               }
             }
           },
@@ -194,14 +193,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1efacd2e35f82c7",
+  "active": "98ded919acc8064e",
   "lastOpenFiles": [
+    "Journal Page Redesign.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
+    "00 _resources/Templates/Dream Journal Template.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
-    "Journal Page Redesign.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
@@ -232,7 +232,6 @@
     "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "02 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-    "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "Dreams",
     "01 Dream Journal/Dreams/06 Mary Jane/Images",
     "01 Dream Journal/Dreams/06 Mary Jane",

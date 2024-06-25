@@ -189,6 +189,21 @@ div.html-tab-content {
 }
 
 /* ---------- Classes + Tags ---------- */
+.dream-journal-test .metadata-property .multi-select-pill {
+	background-color: rgb(var(--purple-tint));
+	border-radius: var(--small-radius);
+	padding: 3px 5px;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+.dream-journal-test .metadata-property-icon svg.svg-icon,
+.dream-journal-test .metadata-property {
+	font-weight: 700;
+
+}
+
 .dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 .dream-journal-test .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
 	color: rgb(var(--blue-tint));
@@ -199,7 +214,6 @@ div.html-tab-content {
 .dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--blue-tint));
 	color: rgb(var(--background-color));
-	font-weight: 700;
 }
 
 .dream-journal-test .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
@@ -212,7 +226,6 @@ div.html-tab-content {
 .dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--orange-tint));
 	color: rgb(var(--background-color));
-	font-weight: 700;
 }
 
 .dream-journal-test .metadata-property[data-property-key="Home"] svg.svg-icon,
@@ -225,48 +238,13 @@ div.html-tab-content {
 .dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: transparent;
 	color: rgb(var(--yellow-tint));
-	font-weight: 700;
-	text-decoration: none;
+	
 }
 
 .dream-journal-test .metadata-property[data-property-key="Completed"] svg.svg-icon,
 .dream-journal-test .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--green-tint));
 }
-
-
-.dream-journal-test .metadata-property-icon svg.svg-icon,
-.dream-journal-test .metadata-property {
-	font-weight: 700;
-	cursor: pointer;
-}
-
-.dream-journal-test .metadata-add-button.text-icon-button {
-	color: rgb(var(--text));
-}
-
-/* ---------- Tags ---------- */
-.dream-journal-test .multi-select-pill-content,
-.dream-journal-test .multi-select-pill svg.svg-icon {
-	color: black;
-	font-weight: 700;
-}
-
-.dream-journal-test div.multi-select-pill-content span {
-	margin-top: 2px !important;
-}
-
-.dream-journal-test .metadata-property .multi-select-pill {
-	background-color: rgb(var(--purple-tint));
-	border-radius: var(--small-radius);
-	padding: 3px 5px;
-	cursor: pointer;
-}
-
-
-
-
-
 
 
 
