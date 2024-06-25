@@ -1,8 +1,10 @@
 ---
 cssclasses:
   - dream-journal-test
-tags: []
-Completed: false
+tags:
+  - in-progress
+  - Stage
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
 ---
