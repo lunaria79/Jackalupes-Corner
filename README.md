@@ -14,6 +14,5 @@
 !  Possibly Redesign Dream Jounal to be more Modern
 
 2024-06-25
-+ Updated Dream Journal Base Design
-! Update Background Images
++ Updated Dream Journal Design
 ~~~

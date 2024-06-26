@@ -2,24 +2,6 @@
 tags:
   - Stage
 ---
-# Updates & Notes
-~~~diff
-2024-06-21
-+ Villanous Snakes Give the Best Dick
-+ Bridgerton Wishes
-
-2024-06-24
-- Maddness
-+ Mary Jane Reformatted
-+ Simplified Dream Journal CSS
-+ Consalidated Dream Journal Special Themes into One File
-+ Reformatted Template CSS
-
-2024-06-25
-+ Atomize Reformatted
-! Reformat Gaia's Wrath
-!  Possibly Redesign Dream Jounal to be more Modern
-~~~
 # Current Pages
 1. [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
 2. [Of Gods and Fiends](Dreams/02%20Of%20Gods%20and%20Fiends/Of%20Gods%20and%20Fiends.md)
