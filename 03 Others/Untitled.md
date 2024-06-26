@@ -11,7 +11,7 @@ Home:
 >
 > <label>First<input type="radio" name="test" />l</label>
 >
->>
+>> [!multi-column]
 >>
 >>> [!note]+ Use Case
 >>> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
