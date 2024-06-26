@@ -17,4 +17,5 @@
 + Updated Dream Journal Design
 ! Redesign Arcane School Newsletter
 - Office Dicothomy
+! DISCOVERED HOW TO MAKE CUSTOM INFOBOXES
 ~~~
