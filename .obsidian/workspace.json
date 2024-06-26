@@ -34,22 +34,26 @@
           {
             "id": "5eadbe01391f34ba",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "f67e988ea3e620d5",
+            "id": "38e21a75d9f8680f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -104,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -120,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md"
               }
             }
           },
@@ -191,10 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f67e988ea3e620d5",
+  "active": "38e21a75d9f8680f",
   "lastOpenFiles": [
-    "01 Dream Journal/Dream Journal Home Page.md",
     "README.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "03 Others/Minecraft Summon Items.md",
     "03 Others/Markdown Cheat Sheet.md",
     "Updates Prior.md",
@@ -229,7 +235,6 @@
     "00 _resources/Screenshot 2024-06-16 171912 1.png",
     "00 _resources/Screenshot 2024-06-16 171912 2.png",
     "02 These Lyrics Will Write Themselves/text message staging.md",
-    "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "Dreams",
     "01 Dream Journal/Dreams/06 Mary Jane/Images",
     "01 Dream Journal/Dreams/06 Mary Jane",
