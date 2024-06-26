@@ -15,4 +15,5 @@
 
 2024-06-25
 + Updated Dream Journal Design
+! Redesign Arcane School Newsletter
 ~~~
