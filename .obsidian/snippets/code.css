@@ -103,7 +103,7 @@
 	margin-top: 0;
 	margin-bottom: -5px;
 	background: #32324330;
-	border-radius: 0 0 var(--medium-radius) var(--medium-radius);
+	border-radius: 0  0;
 }
 
 div.markdown-preview-view.code>div>div>pre>code {

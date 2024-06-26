@@ -100,3 +100,16 @@ div.markdown-reading-view {
 	color: #ce7d44;
 	font-weight: normal;
 }
+
+.markdown-preview-view pre {
+	/*Position */
+	transform: unset;
+	/* Size */
+	padding: 10px 25px;
+	width: 100%;
+	/* Colors */
+	/* Border */
+	border-left: 5px solid var(--code-normal) ;
+
+	box-shadow: none;
+}
