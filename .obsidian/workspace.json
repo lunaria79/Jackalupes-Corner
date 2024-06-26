@@ -42,9 +42,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f67e988ea3e620d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eadbe01391f34ba",
+  "active": "f67e988ea3e620d5",
   "lastOpenFiles": [
     "01 Dream Journal/Dream Journal Home Page.md",
     "README.md",
