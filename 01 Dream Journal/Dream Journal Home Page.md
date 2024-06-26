@@ -25,5 +25,3 @@ tags:
 # To Write
 ## Prison for the Rich and Famous
 The A/B/O Prison one
-## dicothomy
-office siren x office himbo x office ice prince x office bimbo except they were roommates
