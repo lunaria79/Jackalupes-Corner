@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - dream-journal-test
+  - dream-journal-base
 tags:
   - in-progress
   - Stage

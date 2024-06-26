@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - dream-journal-test
+  - dream-journal-base
 tags:
   - dream
   - atomize

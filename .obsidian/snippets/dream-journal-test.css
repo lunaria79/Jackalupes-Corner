@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 
 /* ---------------------------------------- Background ---------------------------------------- */
-.dream-journal-test {
+.dream-journal-base {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
 }
 
-.dream-journal-test * {
+.dream-journal-base * {
 	/* Colors */
 	--background-color: 28, 28, 44;
 	--background-highlight: 32, 35, 53;
@@ -79,13 +79,13 @@
 	font-family: "Rokkitt", serif;
 }
 
-div.markdown-source-view.dream-journal-test.is-live-preview,
-.markdown-source-view.dream-journal-test {
+div.markdown-source-view.dream-journal-base.is-live-preview,
+.markdown-source-view.dream-journal-base {
 	background-image: none;
 	background-color: transparent;
 }
 
-div.markdown-reading-view > div.markdown-preview-view.dream-journal-test > div {
+div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	backdrop-filter: blur(0px);
 	padding: 10px;
 	max-width: 65%;
@@ -100,16 +100,16 @@ div.html-tab-content {
 }
 
 /* --------------------------------------------- Tile ---------------------------------------------- */
-.dream-journal-test * {
+.dream-journal-base * {
 	--tile-background: rgb(var(--background-color), .99) ;
 	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
 	--tile-border: 5px solid rgb(var(--primary-color)) ;
 }
 
-.markdown-preview-view.dream-journal-test div.inline-title,
-.dream-journal-test div.metadata-container,
-.dream-journal-test div.html-tabs,
-.dream-journal-test .box {
+.markdown-preview-view.dream-journal-base div.inline-title,
+.dream-journal-base div.metadata-container,
+.dream-journal-base div.html-tabs,
+.dream-journal-base .box {
 	/*Position */
 	transform: unset;
 	/* Size */
@@ -123,12 +123,12 @@ div.html-tab-content {
 	box-shadow: none;
 }
 
-.dream-journal-test div.metadata-container {
+.dream-journal-base div.metadata-container {
 	/* Size */
 	margin: 0;
 }
 
-.dream-journal-test div.html-tabs {
+.dream-journal-base div.html-tabs {
 	/* Size */
 	padding: 5px 0 8px 20px;
 	margin: 0 10px;
@@ -138,20 +138,20 @@ div.html-tab-content {
 }
 
 
-.dream-journal-test .box {
+.dream-journal-base .box {
 	max-height: 750px;
 	overflow: scroll;
 	scroll-behavior: smooth;	
 }
 
 /* -------------------------------------------- Headings -------------------------------------------- */
-.dream-journal-test .inline-title,
-.dream-journal-test h1,
-.dream-journal-test h2,
-.dream-journal-test h3,
-.dream-journal-test h4,
-.dream-journal-test h5,
-.dream-journal-test h6 {
+.dream-journal-base .inline-title,
+.dream-journal-base h1,
+.dream-journal-base h2,
+.dream-journal-base h3,
+.dream-journal-base h4,
+.dream-journal-base h5,
+.dream-journal-base h6 {
 	/* Removes Heading Gradient */
 	-webkit-text-fill-color: currentColor !important;
 	-webkit-background-clip: unset !important;
@@ -160,7 +160,7 @@ div.html-tab-content {
 }
 
 /* ------------------------------------------- Properties ------------------------------------------- */
-.dream-journal-test .metadata-properties-title {
+.dream-journal-base .metadata-properties-title {
 	/* Properties Title Apperance */
 	color: rgb(var(--primary-color));
 	font-weight: 800;
@@ -173,23 +173,23 @@ div.html-tab-content {
 }	
 
 
-.dream-journal-test .metadata-add-button.text-icon-button {
+.dream-journal-base .metadata-add-button.text-icon-button {
 	/* Hides Add Property */
 	display: none;
 }
 
-.dream-journal-test div.metadata-properties-heading.is-collapsed {
+.dream-journal-base div.metadata-properties-heading.is-collapsed {
 	/* Properties Collapsed Behavior */
 	padding: 0;
 }
 
-.dream-journal-test div.metadata-container.is-collapsed {
+.dream-journal-base div.metadata-container.is-collapsed {
 	/* Properties Collapsed Behavior */
 	height: 45px;
 }
 
 /* ---------- Classes + Tags ---------- */
-.dream-journal-test .metadata-property .multi-select-pill {
+.dream-journal-base .metadata-property .multi-select-pill {
 	background-color: rgb(var(--purple-tint));
 	border-radius: var(--small-radius);
 	padding: 3px 5px;
@@ -198,55 +198,55 @@ div.html-tab-content {
 	font-weight: 700;
 }
 
-.dream-journal-test .metadata-property-icon svg.svg-icon,
-.dream-journal-test .metadata-property {
+.dream-journal-base .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property {
 	font-weight: 700;
 }
 
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
 	color: rgb(var(--blue-tint));
 }
 
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.dream-journal-test .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--blue-tint));
 	color: rgb(var(--background-color));
 }
 
-.dream-journal-test .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.dream-journal-test .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
 	color: rgb(var(--orange-tint));
 }
 
-.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill,
-.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.dream-journal-test .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--orange-tint));
 	color: rgb(var(--background-color));
 }
 
-.dream-journal-test .metadata-property[data-property-key="Home"] svg.svg-icon,
-.dream-journal-test .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
 	color: rgb(var(--yellow-tint));
 }
 
-.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill,
-.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.dream-journal-test .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--yellow-tint));
 	color: rgb(var(--background-color));
 	
 }
 
-.dream-journal-test .metadata-property[data-property-key="Completed"] svg.svg-icon,
-.dream-journal-test .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--green-tint));
 }
 
 /* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager) .dream-journal-test input[type=checkbox]:not(:checked) {
+.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
 	color: rgb(var(--red-tint));
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--red-tint));
@@ -254,14 +254,14 @@ div.html-tab-content {
 	cursor: pointer !important;
 }
 
-.theme-dark:not(.css-settings-manager) .dream-journal-test input[type=checkbox]:checked {
+.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
 	background: rgb(var(--green-tint));
 	border-radius: var(--small-radius);
 	border-color: rgb(var(--green-tint));
 	cursor: pointer !important;
 }
 
-.dream-journal-test input[type=checkbox]:checked:after {
+.dream-journal-base input[type=checkbox]:checked:after {
 	background: rgb(var(--green-tint));
 	border-radius: var(--small-radius);
 	-webkit-mask-image: none;
@@ -269,37 +269,30 @@ div.html-tab-content {
 }
 
 /* ---------------------------------------- Tabs ---------------------------------------- */
-.dream-journal-test div.html-tab {
+.dream-journal-base div.html-tab {
 	padding: 0;
 	height: 30px;
 }
 
-.dream-journal-test div.html-tab:hover {
+.dream-journal-base div.html-tab:hover {
 	color: rgb(var(--primary-color));
 }
 
-.dream-journal-test .html-tab-active {
+.dream-journal-base .html-tab-active {
 	color: rgb(var(--text));
 	border-bottom-width: 2px;
 	border-bottom-style: solid;
 	border-color: rgb(var(--primary-color));
 }
 
-.markdown-rendered.dream-journal-test .html-tab p {
+.markdown-rendered.dream-journal-base .html-tab p {
 	margin-top: 0;
 	margin-bottom: 12px;
 }
 
-
-
-
-
-
-
-
 /* ---------------------------------------- Information Grid ---------------------------------------- */
 /* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
-.dream-journal-test .wrapper {
+.dream-journal-base .wrapper {
 	grid-template-columns: 1fr 1fr;
 	background-color: transparent;
 	padding: 10px;
@@ -308,40 +301,40 @@ div.html-tab-content {
 	margin-top: 0;
 }
 
-.dream-journal-test .grid {
+.dream-journal-base .grid {
 	display: grid;
 	grid-gap: 10px;
 }
 
-.dream-journal-test .grid.left {
+.dream-journal-base .grid.left {
 	grid-column: 1 / span 1;
 	grid-auto-rows: min-content;
 }
 
-.dream-journal-test .grid.right {
+.dream-journal-base .grid.right {
 	grid-column: span 1 / -1;
 	grid-auto-rows: min-content;
 }
 
-.dream-journal-test .callout-title {
+.dream-journal-base .callout-title {
 	margin-top: 15px;
 }
 
-.dream-journal-test .callout-icon svg {
+.dream-journal-base .callout-icon svg {
 	margin-top: -5px;
 }
 
-.dream-journal-test .callout-title-inner {
+.dream-journal-base .callout-title-inner {
 	margin-top: -2px;
 	font-weight: 700;
 }
 
-.dream-journal-test h3 {
+.dream-journal-base h3 {
 	margin: 0 !important;
 	background-image: none;
 }
 
-.dream-journal-test .box img {
+.dream-journal-base .box img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -350,7 +343,7 @@ div.html-tab-content {
 	background-color: rgb(var(--background-color), .5);
 }
 
-.dream-journal-test .char-note img {
+.dream-journal-base .char-note img {
 	width: 200px;
 	height: 200px;
 	object-fit: cover;
@@ -358,7 +351,7 @@ div.html-tab-content {
 	margin-right: 10px;
 }
 
-.markdown-rendered.dream-journal-test p {
+.markdown-rendered.dream-journal-base p {
 	margin-top: 0;
 	margin-bottom: 12px;
 }
