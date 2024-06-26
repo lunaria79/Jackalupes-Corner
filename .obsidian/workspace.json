@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03 Others/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03 Others/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03 Others/Untitled.md"
               }
             }
           },
@@ -208,14 +207,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eadbe01391f34ba",
+  "active": "2917ccf05e052b1d",
   "lastOpenFiles": [
-    "03 Others/Untitled.md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
+    "README.md",
+    "03 Others/Untitled.md",
     "03 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "README.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "03 Others/Minecraft Summon Items.md",
