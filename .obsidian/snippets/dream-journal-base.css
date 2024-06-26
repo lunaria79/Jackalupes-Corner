@@ -60,7 +60,8 @@ div.html-tab-content {
 .markdown-preview-view.dream-journal-base div.inline-title,
 .dream-journal-base div.metadata-container,
 .dream-journal-base div.html-tabs,
-.dream-journal-base .box {
+.dream-journal-base .box,
+.dream-journal-base .callout[data-callout="tabbed"] p {
 	/*Position */
 	transform: unset;
 	/* Size */
@@ -88,11 +89,16 @@ div.html-tab-content {
 	border-bottom: none;
 }
 
-
 .dream-journal-base .box {
 	max-height: 750px;
 	overflow: scroll;
 	scroll-behavior: smooth;	
+}
+
+.dream-journal-base .callout[data-callout="tabbed"] p label {
+	width: fit-content;
+	height: fit-content;
+	margin-right: 5px;
 }
 
 /* -------------------------------------------- Headings -------------------------------------------- */
