@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 Others/Untitled.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -204,7 +205,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "2917ccf05e052b1d",
