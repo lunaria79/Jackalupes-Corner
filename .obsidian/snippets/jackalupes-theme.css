@@ -114,16 +114,7 @@ div.markdown-reading-view {
 	box-shadow: none;
 }
 
-/*
-author: damikiller37
-source: https://discord.com/channels/686053708261228577/702656734631821413/1122956284040327328
-*/
-
-/*
-    Icon Only Pinned Tabs Snippet
-    Requires Installer version 1.1.9+ due to the use of :has.
-*/
-
+/* author: damikiller37 | Icon Only Pinned Tabs Snippet */
 /* You don't need this if you you want the pin icons removed */
 .workspace
   .mod-root
@@ -161,11 +152,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11229
   padding: 0 var(--size-4-2);
 }
 
-/*
-author: matekusu
-source: https://discord.com/channels/686053708261228577/702656734631821413/1147232919946022943
-*/
-
+/* author: matekusu */
 /* Immersive Ribbon Menu */
 .workspace-ribbon.mod-left {
   background-color: transparent; /*c myn: hides weird flashing in default theme when opening */
@@ -209,6 +196,9 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11472
 }
 
 /* Copyright (c) 2022 kneecaps */
+* {
+	--tooltip-border: 5px solid rgb(var(--purple-tint));
+}
 
 .tooltip {
   background-color: rgb(var(--purple-tint));
@@ -216,17 +206,14 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11472
   word-wrap: break-word;
 }
 .tooltip .tooltip-arrow {
-  border-bottom: 5px solid var(--red);
+  border-bottom: var(--tooltip-border);
 }
 .tooltip.mod-right .tooltip-arrow {
-  border-right: 5px solid var(--red);
+  border-right: var(--tooltip-border);
 }
 .tooltip.mod-left .tooltip-arrow {
-  border-left: 5px solid var(--red);
+  border-left: var(--tooltip-border);
 }
 .tooltip.mod-top .tooltip-arrow {
-  border-top: 5px solid var(--red);
-}
-body {
-  --red: hsla(var(--interactive-accent-hsl), 0.9);
+  border-top: var(--tooltip-border);
 }

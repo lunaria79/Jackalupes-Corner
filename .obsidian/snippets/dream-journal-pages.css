@@ -124,6 +124,10 @@
 	color: rgb(var(--blue-tint)) !important;
 }
 
+.gods-and-fiends bold {
+	color: rgb(var(--purple-tint)) !important;
+}
+
 /* -------------------- CRT -------------------- */
 /* https://aleclownes.com/2017/02/01/crt-display.html */
 .markdown-reading-view div.crt div.markdown-preview-sizer::before {
