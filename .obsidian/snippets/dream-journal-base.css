@@ -103,18 +103,18 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	padding: 10px;
 }
 
-.dream-journal-base .callout[data-callout="tabbed"] p label {
-	width: fit-content;
-	height: fit-content;
-	margin-right: 5px;
+[data-callout="tabbed"] > .callout-content {
+	padding: 0 !important;
 }
 
 [data-callout="tabbed"] > .callout-content > blockquote {
 	margin: 0;
 }
 
-[data-callout="tabbed"] > .callout-content {
-	padding: 0 !important;
+.dream-journal-base .callout[data-callout="tabbed"] p label {
+	width: fit-content;
+	height: fit-content;
+	margin-right: 5px;
 }
 
 /* ----------------------------------------------- Info ---------------------------------------------- */
