@@ -15,7 +15,7 @@ Home:
 >
 >>> [!multi-column]
 >>>
->>>> [!note]+ story arc
+>>>> [!story-arc]+ story arc
 >>>> Scythia starts making friends (Cole from St. Joes!) in her classroom, when she was forced into a group project. Cole and the others seemed a bit uppity, but weren't rude so she liked them. She won them over with her hard work and treats she brought from home.
 >>>> But for some fucking reason, her classmate Alex inserts himself in the group, demands she give him some of the noodles she had made, and when she didn't have any desert left to give him, broke into her backpack and stole some of her strawberry ice cream. She grabs him by the shirt, almost punches the daylights out of him, takes a deep breath, and then asks calmly (for her) why the hell he was behaving this way.
 >>>> Presumably because he thought she had gone soft, Alex proceeds to attack the surrounding disciplinary students that were trying to intervene. Seeing Alex attack her new friends, Scythia sees red and body slams him through a table. At this point the bell rings and Alex escapes into the fray. 
