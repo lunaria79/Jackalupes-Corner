@@ -109,7 +109,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 
 [data-callout="tabbed"] > .callout-content {
 	padding: 0 !important;
-	grid-template-columns: .1fr .1fr 1fr;
+	grid-template-columns: .5fr .5fr .5fr;
 }
 
 [data-callout="tabbed"] > .callout-content > blockquote {
@@ -120,7 +120,11 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	width: fit-content;
 	height: fit-content;
 	margin-right: 5px;
-	border-radius: 2px;
+	
+}
+
+[data-callout="tabbed"] > .callout-content label:has(input:checked) {
+	background-color: rgb(var(--background-highlight)) !important;
 }
 
 /* ----------------------------------------------- Info ---------------------------------------------- */

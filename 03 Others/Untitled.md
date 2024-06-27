@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - dream-journal-base
-  - gods-and-fiends
 tags:
   - dream
   - in-progress
@@ -47,11 +46,11 @@ Home:
 >>
 >>> [!multi-column]
 >>>
->>>> [!note]+ younger sister
->>>> The main character. Always wearing big puffy blue dresses. Of African descent, ambiagious from where. Tall, but not as tall as the love intrest or her sister. Suffers a lot do trumatic upbring filled with abuse and assult.
+>>>> [!note]+ lover boy
+>>>> The youngest of the three men. He and the MC have a lot of playful banter. Loves suits with yellow accents. Mixed race, don't know of what. Brown hair, tan skin, green eyes. On the taller side.
 >>>
->>>> [!warning]+ older sister
->>>> The older of the two women. Commonly wears black and/or green mermaid style dresses. Most likely Hispanic mixed with Eastern Euorpean. Serious, but quite caring. Loves her little sister dearly, but is struggling to help her with her mental health issues. Probably has some kind of autism. Likes fancy deserts.
+>>>> [!warning]+ other bandmates
+>>>> A bit older than the rest of the group. Kind and understanding. A bit goofy? Gay dads.
 >>
 >
 > <label>Third<input type="radio" name="test" />l</label>
