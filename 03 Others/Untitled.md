@@ -16,15 +16,11 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ story arc
->>>> Scythia starts making friends in her classroom, but some kid takes advantage of her kindness and she explodes.
+>>>> Scythia starts making friends (Cole from St. Joes!) in her classroom, when she was forced into a group project. 
+>>>> but some kid takes advantage (Alex from St. Joes :c ) of her kindness and she explodes.
 >>>
->>>> [!warning]+ Random Scene
->>>> **Love Interest:** (half jokingly) Did you get lost and the hotel manager touch you?  
->>>> **Main Character:** (half paying attention) Not this time.  
->>>> **Love Interest:** (extremely seriously) What do you mean this time?  
->>>> **Main Character:** Oh look I think our limo is here.  
->>>> **Love Interest:** Wait--  
->>>> (AS A WAY TO DEAL WITH HER TRUAMA, SHE LIKES TO JOKE ABOUT IT WITH HER SISTER AND BANDMATES. SHE IS FINE WITH THE JOKE, AND IF SHE WAS PAYING ATTENTION SHE PROBABLY WOULDVE LAUGHED)
+>>>> [!warning]+ story arc
+>>>> Scythia was reassigned to a new bus (Bus #69) which turns out to be the same bus where all the pathetic misplaced nerds go. While never meeting her, all of the nerds are terrified of her An honestly really cute black girl was elected to try and stop her when she got on, but Scythia says "It's kind of you to try and hug me, but we don't know each other well enough for that. " (Our Scythia is kind of dumb.) 
 >>
 >>> [!multi-column]
 >>>
@@ -39,7 +35,7 @@ Home:
 >>>> [!note]+ Scythia (Or something similar to that)
 >>>> The scariest person at the behavioral school. But she's really sweet if you try to get to know her.
 >>>
->>>> [!warning]+ older sister
+>>>> [!warning]+ the twinkiest twink to ever tw
 >>>> The older of the two women. Commonly wears black and/or green mermaid style dresses. Most likely Hispanic mixed with Eastern Euorpean. Serious, but quite caring. Loves her little sister dearly, but is struggling to help her with her mental health issues. Probably has some kind of autism. Likes fancy deserts.
 >>
 >>> [!multi-column]
