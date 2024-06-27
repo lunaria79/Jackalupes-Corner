@@ -16,7 +16,7 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ story arc
->>>> Scythia starts making friends (Cole from St. Joes!) in her classroom, when she was forced into a group project. 
+>>>> Scythia starts making friends (Cole from St. Joes!) in her classroom, when she was forced into a group project. Cole and the others seemed a bit uppity, but 
 >>>> but some kid takes advantage (Alex from St. Joes :c ) of her kindness and she explodes.
 >>>
 >>>> [!warning]+ story arc
@@ -25,7 +25,7 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ Random Scene
->>>> As they arrive at the red carpet and step out, MC feels like her stomach is collapsing in on herself. On a regular day, she would've paid them no mind, but the camera flashes flings her mind back to her past. She feels like she's going to barf. Instinctively, she curls into the LI's side, and his arm raps around her protectively. He leans down and whispers in her ear, asking if she needs to leave. Her back straightens, her mind clears, and she assures him that she can handle this. It's only a matter of time until she crumbles again.
+>>>> ...
 >>>
 >
 > <label>Characters<input type="radio" name="test" /></label>
@@ -33,10 +33,10 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ Scythia (Or something similar to that)
->>>> The scariest person at the behavioral school. But she's really sweet if you try to get to know her. She's absolutely massive, like orc build. 6'5, built like a freight train. Long frizzy auburn hair with chizzled features.
+>>>> The scariest person at the behavioral school. But she's really sweet if you try to get to know her. She's absolutely massive, like orc build. 6'5, built like a freight train. Long frizzy auburn hair with chiseled features. Likes baking and reading. Wolf autism. Not the sharpest tool in the shed, but she's trying really hard. Doesn't understand why people are mean to her.
 >>>
 >>>> [!warning]+ the twinkiest twink to ever twink
->>>> ...
+>>>> You remember that guy you saw at the gas station? Multiply his twink by four. 6'8, incredibly wiry. Long blond hair, extremely pretty. Awkward as hell. Fashion autism but scared of being called gay. Not because he's homophobic, but the school is. Was terrified of Scythia for 5 seconds and then, upon seeing model potential, instantly fell in love with her. He's *down bad* down bad. It's pathetic really. All he wants is muscle mommy with big hands.
 >>
 >>> [!multi-column]
 >>>
