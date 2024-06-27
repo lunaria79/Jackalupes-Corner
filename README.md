@@ -18,4 +18,7 @@
 ! Redesign Arcane School Newsletter
 - Office Dicothomy
 ! DISCOVERED HOW TO MAKE CUSTOM INFOBOXES
+
+2024-06-27
++ Judas
 ~~~
