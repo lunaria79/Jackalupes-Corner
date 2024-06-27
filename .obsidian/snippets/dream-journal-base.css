@@ -116,15 +116,21 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	margin: 0;
 }
 
-.dream-journal-base .callout[data-callout="tabbed"] p label {
-	width: fit-content;
-	height: fit-content;
-	margin-right: 5px;
-	
+[data-callout="tabbed"] > .callout-content label {
+    width: fit-content;
+    display: inline-block;
+	padding: 10px 15px !important;
+    color: rgb(var(--text)) !important;
+    background-color: #2e7d32;
+    font-weight: 500 !important;
+    font-size: 1rem !important;
+    cursor: pointer;
 }
 
-[data-callout="tabbed"] > .callout-content label:has(input:checked) {
+[data-callout="tabbed"] > .callout-content label:has(input:checked),
+[data-callout="tabbed"] > .callout-content label:hover {
 	background-color: rgb(var(--background-highlight)) !important;
+	cursor: pointer;
 }
 
 /* ----------------------------------------------- Info ---------------------------------------------- */

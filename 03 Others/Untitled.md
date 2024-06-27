@@ -10,7 +10,7 @@ Home:
 ---
 > [!tabbed]
 >
-> <label>First<input type="radio" name="test" /></label>
+> <label>Plots<input type="radio" name="test" /></label>
 >
 >>> [!multi-column]
 >>>
@@ -34,7 +34,7 @@ Home:
 >>>> As they arrive at the red carpet and step out, MC feels like her stomach is collapsing in on herself. On a regular day, she would've paid them no mind, but the camera flashes flings her mind back to her past. She feels like she's going to barf. Instinctively, she curls into the LI's side, and his arm raps around her protectively. He leans down and whispers in her ear, asking if she needs to leave. Her back straightens, her mind clears, and she assures him that she can handle this. It's only a matter of time until she crumbles again.
 >>>
 >
-> <label>Second<input type="radio" name="test" /></label>
+> <label>Characters<input type="radio" name="test" /></label>
 >
 >>> [!multi-column]
 >>>
@@ -53,7 +53,7 @@ Home:
 >>>> A bit older than the rest of the group. Kind and understanding. A bit goofy? Gay dads.
 >>
 >
-> <label>Third<input type="radio" name="test" />l</label>
+> <label>Notes<input type="radio" name="test" />l</label>
 >
 > > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Third)
 > >
