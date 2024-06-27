@@ -16,8 +16,8 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ story arc
->>>> Scythia starts making friends (Cole from St. Joes!) in her classroom, when she was forced into a group project. Cole and the others seemed a bit uppity, but 
->>>> but some kid takes advantage (Alex from St. Joes :c ) of her kindness and she explodes.
+>>>> Scythia starts making friends (Cole from St. Joes!) in her classroom, when she was forced into a group project. Cole and the others seemed a bit uppity, but weren't rude so she liked them. She won them over with her hard work and treats she brought from home.
+>>>> But for some fucking reason, her classmate Alex inserts himself in the group, demands she give him some of the noodles she had made, and when she didn't have any desert left to give him, broke into her backpack and stole some of her strawberry ice cream. She grabs him by the shirt, almost punches the daylights out of him, takes a deep breath, and then asks calmly (for her) why the hell he was behaving this way. 
 >>>
 >>>> [!warning]+ story arc
 >>>> Scythia was reassigned to a new bus (Bus #69) which turns out to be the same bus where all the pathetic misplaced nerds go. While never meeting her, all of the nerds are terrified of her An honestly really cute black girl was elected to try and stop her when she got on, but Scythia says "It's kind of you to try and hug me, but we don't know each other well enough for that. " (Our Scythia is kind of dumb.) 
