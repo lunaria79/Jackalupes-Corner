@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
-                "mode": "preview",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Others/Judas.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Others/Judas.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Others/Judas.md"
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md"
               }
             }
           },
@@ -208,18 +209,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2917ccf05e052b1d",
+  "active": "38e21a75d9f8680f",
   "lastOpenFiles": [
-    "03 Others/Markdown Cheat Sheet.md",
     "03 Others/Judas.md",
-    "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Stage Files/icons.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
+    "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
-    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
+    "03 Others/Markdown Cheat Sheet.md",
+    "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "README.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "03 Others/Minecraft Summon Items.md",
@@ -236,7 +238,6 @@
     "01 Dream Journal/Stage Files/themes/themes.md",
     "03 Others",
     "01 Dream Journal/For Aeli.md",
-    "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-2.png",
