@@ -33,18 +33,18 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ Scythia (Or something similar to that)
->>>> The scariest person at the behavioral school. But she's really sweet if you try to get to know her.
+>>>> The scariest person at the behavioral school. But she's really sweet if you try to get to know her. She's absolutely massive, like orc build. 6'5, built like a freight train. Long frizzy auburn hair with chizzled features.
 >>>
->>>> [!warning]+ the twinkiest twink to ever tw
->>>> The older of the two women. Commonly wears black and/or green mermaid style dresses. Most likely Hispanic mixed with Eastern Euorpean. Serious, but quite caring. Loves her little sister dearly, but is struggling to help her with her mental health issues. Probably has some kind of autism. Likes fancy deserts.
+>>>> [!warning]+ the twinkiest twink to ever twink
+>>>> ...
 >>
 >>> [!multi-column]
 >>>
->>>> [!note]+ lover boy
->>>> The youngest of the three men. He and the MC have a lot of playful banter. Loves suits with yellow accents. Mixed race, don't know of what. Brown hair, tan skin, green eyes. On the taller side.
+>>>> [!note]+ Judas
+>>>> ....
 >>>
->>>> [!warning]+ other bandmates
->>>> A bit older than the rest of the group. Kind and understanding. A bit goofy? Gay dads.
+>>>> [!warning]+ Cole and the Canaries
+>>>> Cole is the leader of the Canaries, the disciplinary club of the school. When one of his teachers assigned Scythia to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 >>
 >
 > <label>Notes<input type="radio" name="test" />l</label>
