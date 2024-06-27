@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dream-journal-base
+  - gods-and-fiends
 tags:
   - dream
   - in-progress

@@ -61,7 +61,8 @@ div.html-tab-content {
 .dream-journal-base div.metadata-container,
 .dream-journal-base div.html-tabs,
 .dream-journal-base .box,
-.dream-journal-base .callout[data-callout="tabbed"] p {
+.dream-journal-base .callout[data-callout="tabbed"] p label,
+div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	/*Position */
 	transform: unset;
 	/* Size */
@@ -95,10 +96,19 @@ div.html-tab-content {
 	scroll-behavior: smooth;	
 }
 
+[data-callout="tabbed"] {
+	background: transparent;
+	outline: none !important;
+}
+
 .dream-journal-base .callout[data-callout="tabbed"] p label {
 	width: fit-content;
 	height: fit-content;
 	margin-right: 5px;
+}
+
+div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
+	margin-block: 10px !important;
 }
 
 /* -------------------------------------------- Headings -------------------------------------------- */
