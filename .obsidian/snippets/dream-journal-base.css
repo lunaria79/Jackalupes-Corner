@@ -103,10 +103,6 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	padding: 10px;
 }
 
-[data-callout="tabbed"]:first-child {
-
-}
-
 [data-callout="tabbed"] > .callout-content {
 	padding: 0 !important;
 	grid-template-columns: .5fr .5fr .5fr;
@@ -117,11 +113,10 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 [data-callout="tabbed"] > .callout-content label {
-    width: fit-content;
+    width: 125px !important;
     display: inline-block;
 	padding: 10px 15px !important;
     color: rgb(var(--text)) !important;
-    background-color: #2e7d32;
     font-weight: 500 !important;
     font-size: 1rem !important;
     cursor: pointer;
@@ -129,7 +124,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 
 [data-callout="tabbed"] > .callout-content label:has(input:checked),
 [data-callout="tabbed"] > .callout-content label:hover {
-	background-color: rgb(var(--background-highlight)) !important;
+	background-color: rgb(var(--background-color), .85) !important;
 	cursor: pointer;
 }
 
