@@ -37,8 +37,22 @@ Home:
 >
 > <label>Second<input type="radio" name="test" /></label>
 >
-> > Lorem, ipsum dolor sit amet consectetur, adipisicing elit. (Second)
-> > [External Link](https://google.com) > > $\LaTeX$
+>>> [!multi-column]
+>>>
+>>>> [!note]+ younger sister
+>>>> The main character. Always wearing big puffy blue dresses. Of African descent, ambiagious from where. Tall, but not as tall as the love intrest or her sister. Suffers a lot do trumatic upbring filled with abuse and assult.
+>>>
+>>>> [!warning]+ older sister
+>>>> The older of the two women. Commonly wears black and/or green mermaid style dresses. Most likely Hispanic mixed with Eastern Euorpean. Serious, but quite caring. Loves her little sister dearly, but is struggling to help her with her mental health issues. Probably has some kind of autism. Likes fancy deserts.
+>>
+>>> [!multi-column]
+>>>
+>>>> [!note]+ younger sister
+>>>> The main character. Always wearing big puffy blue dresses. Of African descent, ambiagious from where. Tall, but not as tall as the love intrest or her sister. Suffers a lot do trumatic upbring filled with abuse and assult.
+>>>
+>>>> [!warning]+ older sister
+>>>> The older of the two women. Commonly wears black and/or green mermaid style dresses. Most likely Hispanic mixed with Eastern Euorpean. Serious, but quite caring. Loves her little sister dearly, but is struggling to help her with her mental health issues. Probably has some kind of autism. Likes fancy deserts.
+>>
 >
 > <label>Third<input type="radio" name="test" />l</label>
 >

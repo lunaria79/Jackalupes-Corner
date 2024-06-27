@@ -103,8 +103,13 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	padding: 10px;
 }
 
+[data-callout="tabbed"]:first-child {
+
+}
+
 [data-callout="tabbed"] > .callout-content {
 	padding: 0 !important;
+	grid-template-columns: .1fr .1fr 1fr;
 }
 
 [data-callout="tabbed"] > .callout-content > blockquote {
@@ -115,6 +120,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	width: fit-content;
 	height: fit-content;
 	margin-right: 5px;
+	border-radius: 2px;
 }
 
 /* ----------------------------------------------- Info ---------------------------------------------- */
