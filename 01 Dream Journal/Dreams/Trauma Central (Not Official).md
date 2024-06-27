@@ -53,7 +53,7 @@ Home:
 >>>> A bit older than the rest of the group. Kind and understanding. A bit goofy? Gay dads.
 >>
 >
-> <label>Notes<input type="radio" name="test" />l</label>
+> <label>Notes<input type="radio" name="test" /></label>
 >
 >>> [!multi-column]
 >>>

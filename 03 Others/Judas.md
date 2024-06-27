@@ -25,7 +25,7 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ Random Scene
->>>> ...
+>>>> The funniest thing about the Judas Confrontation, is that while it's recorded, both Judas and Twink are in maid bunny cosplay.
 >>>
 >
 > <label>Characters<input type="radio" name="test" /></label>
@@ -47,7 +47,7 @@ Home:
 >>>> Cole is the leader of the Canaries, the disciplinary club of the school. When one of his teachers assigned Scythia to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 >>
 >
-> <label>Notes<input type="radio" name="test" />l</label>
+> <label>Notes<input type="radio" name="test" /></label>
 >
 >>> [!multi-column]
 >>>
