@@ -105,7 +105,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 
 [data-callout="tabbed"] > .callout-content {
 	padding: 0 !important;
-	grid-template-columns: .5fr .5fr .5fr;
+	grid-template-columns: .2fr .2fr .2fr 1fr !important;
 }
 
 [data-callout="tabbed"] > .callout-content > blockquote {
