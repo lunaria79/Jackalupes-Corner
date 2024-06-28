@@ -209,4 +209,5 @@ _ _ _ _
 #### Cole and the Canaries
 > **Cole** is the leader of *the Canaries*, the disciplinary club of the school. When one of his teachers assigned **Adelaide** to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 ### Notes
+>  I know they're in a school like setting, but the ages are a bit complicated. At some point, Adelaide says she's 19, and Matteo says he's 21. Only makes sense that they're in college? But why would they be in a behavior school setting then? Why did everyone resemble people I know from Catholic School? What's the meaning of life? Who ate my cheese fries?
 ---
