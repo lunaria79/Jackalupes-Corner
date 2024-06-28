@@ -20,6 +20,9 @@ Home:
 
 2024-06-24
 - Maddness
+
+2024-06-27
++ Judas
 ```
 
 # Dream Journal
@@ -198,10 +201,11 @@ _ _ _ _
 ### Characters
 #### Scythia (Or something similar to that)
 > The scariest person at the behavioral school. But she's really sweet if you try to get to know her. She's absolutely massive, like orc build. 6'5, built like a freight train. Long frizzy auburn hair with chiseled features. Likes baking and reading. Wolf autism. Not the sharpest tool in the shed, but she's trying really hard. Doesn't understand why people are mean to her.
-#### the twinkiest twink to ever twink
+####  Matteo
 > You remember that guy you saw at Sheetz? Multiply his twink by four. 6'8, incredibly wiry. Long blond hair, extremely pretty. Awkward as hell. Fashion autism but scared of being called gay. Not because he's homophobic, but the school is. Was terrified of Scythia for 5 seconds and then, upon seeing model potential, instantly fell in love with her. He's *down bad* down bad. It's pathetic really. All he wants is muscle mommy with big hands. Regularly fantasizes about her edging him. What a freak. 
 #### Judas
-> jihoe has nothing on this fucker. 
+> on the shorter side, black hair and stubble. unassuming. good friends with **Matteo**. Gets along well with Scythia.
+> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining Scythia's reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember Alex? Judas blackmailed him to do all that shit. Has been feeding Cole and the Canaries false information to throw them off the track. Matteo however, caught him in a lie, revealing him to be the *only* person who could've swapped out Scythia's meds for sugar pills. Seems like Matteo falling for Scythia was a bigger wrench in your plans than you thought, huh Judas?
 #### Cole and the Canaries
 > **Cole** is the leader of *the Canaries*, the disciplinary club of the school. When one of his teachers assigned **Scythia** to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 ### Notes
