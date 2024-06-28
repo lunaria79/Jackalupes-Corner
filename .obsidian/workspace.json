@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Dreams/Judas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md",
+                "file": "01 Dream Journal/Dreams/Judas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/For Aeli.md"
+                "file": "01 Dream Journal/Dreams/Judas.md"
               }
             }
           },
@@ -208,10 +208,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "38e21a75d9f8680f",
+  "active": "2917ccf05e052b1d",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/Judas.md",
     "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/Judas.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",

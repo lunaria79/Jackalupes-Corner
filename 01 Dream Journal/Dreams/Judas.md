@@ -41,7 +41,8 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!char-note]+ Judas
->>>> jihoe has nothing on this fucker. 
+>>>> on the shorter side, black hair and stubble. . good friends with **Matteo** and Gets along well with Adelaide. Huge gaming nerd. Has a Hatsune Miku body pillow (he swears its ironic). Plays Destiny and League. Has an obsession with strategy games.
+>>>> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining Adelaide's reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember Alex? Judas blackmailed him to do all that shit. Has been feeding Cole and the Canaries false information to throw them off the track. Matteo however, caught him in a lie, revealing him to be the *only* person who could've swapped out Adelaide's meds for sugar pills. Seems like Matteo falling for Adelaide was a bigger wrench in your plans than you thought, huh Judas?
 >>>
 >>>> [!char-note]+ Cole and the Canaries
 >>>> **Cole** is the leader of *the Canaries*, the disciplinary club of the school. When one of his teachers assigned **Scythia** to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
