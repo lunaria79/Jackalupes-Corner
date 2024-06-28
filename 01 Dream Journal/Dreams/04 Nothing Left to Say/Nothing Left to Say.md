@@ -1,7 +1,4 @@
 ---
-Home:
-  - "[[Dream Journal Home Page]]"
-  - "[[ZIALONA Home Page]]"
 cssclasses:
   - dream-journal-base
   - nothing-left-to-say
@@ -9,6 +6,9 @@ tags:
   - dream
   - in-progress
 Completed: false
+Home:
+  - "[[Dream Journal Home Page]]"
+  - "[[ZIALONA Home Page]]"
 ---
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">

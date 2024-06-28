@@ -1,6 +1,4 @@
 ---
-Home:
-  - "[[Dream Journal Home Page]]"
 cssclasses:
   - gods-and-fiends
   - crt
@@ -8,6 +6,8 @@ cssclasses:
 tags:
   - dream
 Completed: true
+Home:
+  - "[[Dream Journal Home Page]]"
 ---
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - dream-journal-base
-  - gods-and-fiends
 tags:
   - dream
   - in-progress
@@ -53,7 +52,7 @@ Home:
 >>> [!multi-column]
 >>>
 >>>> [!note]+ note
->>>> Bro
+>>>> .....
 >>>
 >>>> [!note]+ note
 >>>> .....

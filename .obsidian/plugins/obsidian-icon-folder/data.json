@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFilePen",
       "FasFolderOpen",
       "FasClipboardCheck",
       "FasClipboardList",
-      "FasFileImage",
-      "FasFileLines"
+      "FasFileImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -138,5 +138,6 @@
   "Updates Prior.md": "FasClipboardCheck",
   "03 Others/Minecraft Summon Items.md": "FasFileCode",
   "03 Others": "FasFolderOpen",
-  "03 Others/Markdown Cheat Sheet.md": "FasFileCode"
+  "03 Others/Markdown Cheat Sheet.md": "FasFileCode",
+  "01 Dream Journal/Dreams/Judas.md": "FasFilePen"
 }

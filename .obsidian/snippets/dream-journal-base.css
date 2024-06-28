@@ -64,7 +64,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	margin: 0;
 }
 
-[data-callout="tabbed"] > .callout-content label {
+[data-callout="tabbed"] > .callout-content label:nth(first-child) {
     width: 125px !important;
     display: inline-block;
 	padding: 10px 15px !important;
