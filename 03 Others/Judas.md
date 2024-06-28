@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - dream-journal-base
-  - gods-and-fiends
 tags:
   - dream
   - in-progress
@@ -33,18 +32,18 @@ Home:
 >
 >>> [!multi-column]
 >>>
->>>> [!note]+ Scythia (Or something similar to that)
+>>>> [!char-note]+ Scythia (Or something similar to that)
 >>>> The scariest person at the behavioral school. But she's really sweet if you try to get to know her. She's absolutely massive, like orc build. 6'5, built like a freight train. Long frizzy auburn hair with chiseled features. Likes baking and reading. Wolf autism. Not the sharpest tool in the shed, but she's trying really hard. Doesn't understand why people are mean to her.
 >>>
->>>> [!warning]+ the twinkiest twink to ever twink
+>>>> [!char-note]+ the twinkiest twink to ever twink
 >>>> You remember that guy you saw at Sheetz? Multiply his twink by four. 6'8, incredibly wiry. Long blond hair, extremely pretty. Awkward as hell. Fashion autism but scared of being called gay. Not because he's homophobic, but the school is. Was terrified of Scythia for 5 seconds and then, upon seeing model potential, instantly fell in love with her. He's *down bad* down bad. It's pathetic really. All he wants is muscle mommy with big hands. Regularly fantasizes about her edging him. What a freak. 
 >>
 >>> [!multi-column]
 >>>
->>>> [!note]+ Judas
+>>>> [!char-note]+ Judas
 >>>> jihoe has nothing on this fucker. 
 >>>
->>>> [!warning]+ Cole and the Canaries
+>>>> [!char-note]+ Cole and the Canaries
 >>>> Cole is the leader of the Canaries, the disciplinary club of the school. When one of his teachers assigned Scythia to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 >>
 >
