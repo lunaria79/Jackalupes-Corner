@@ -64,16 +64,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	margin: 0;
 }
 
-[data-callout="tabbed"] > .callout-content label:nth(first-child) {
-    width: 125px !important;
-    display: inline-block;
-	padding: 10px 15px !important;
-    color: rgb(var(--text)) !important;
-    font-weight: 500 !important;
-    font-size: 1rem !important;
-    cursor: pointer;
-}
-
 [data-callout="tabbed"] > .callout-content label:has(input:checked),
 [data-callout="tabbed"] > .callout-content label:hover {
 	background-color: rgb(var(--background-color), .85) !important;

@@ -21,4 +21,5 @@
 
 2024-06-27
 + Judas
+- New Format Benched (Pictures will be an issue)
 ~~~
