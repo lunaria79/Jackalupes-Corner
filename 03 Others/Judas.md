@@ -20,7 +20,7 @@ Home:
 >>>> But for some fucking reason, her classmate **Alex** inserts himself in the group, demands she give him some of the noodles she had made, and when she didn't have any desert left to give him, broke into her backpack and stole some of her strawberry ice cream. She grabs him by the shirt, almost punches the daylights out of him, takes a deep breath, and then asks calmly (for her) why the hell he was behaving this way.
 >>>> Presumably because he thought she had gone soft, Alex proceeds to attack the surrounding disciplinary students that were trying to intervene. Seeing **Alex** attack her new friends, **Scythia** sees red and body slams him through a table. At this point the bell rings and **Alex** escapes into the fray. 
 >>>
->>>> [!story-arc]+Bus #69
+>>>> [!story-arc]+ Bus #69
 >>>> **Scythia** was reassigned to a new bus (Bus #69) which turns out to be the same bus where all the pathetic misplaced nerds go. While never meeting her, all of the nerds are terrified of her due to her reputation.  An honestly really cute black girl named **Janet** was elected to try and stop her when she got on, but **Scythia** says "It's kind of you to try and hug me, but we don't know each other well enough for that. "  (Our **Scythia** is kind of dumb.) 
 >>
 >>> [!multi-column]
