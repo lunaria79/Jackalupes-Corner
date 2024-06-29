@@ -30,21 +30,17 @@ cssclasses:
 > [!infobox ]+  Fantasy Steampunk Mermaids
 ![Milo & Caspian](Milo%20&%20Caspian.jpg)
 > ```palette
-> #211D1D, #D18A98, #CCC3C5, #a6bdee, #7d833c, #e8c358
+> #211D1D, #D18A98, #CCC3C5, #a6bdee, #8B7298
 > ```
 >```css
-> --background-color: 51, 41, 27;
-> --primary-color: 226, 183, 113;
-> --text: 248, 244, 215;
->
-> --red-tint: 189, 101, 53;
-> --orange-tint: 203, 155, 79;
-> --yellow-tint: 235, 238, 136;
-> --green-tint: 161, 182, 94;
-> --blue-tint: 179, 246, 229;
-> --purple-tint: 220, 156, 172;
->
-> font-family: "Rokkitt", serif;
+>  --background-color: 33, 29, 29;
+>  --primary-color: 209, 138, 152;
+>  --text: 204, 195, 197;
+>  --red-tint: 209, 138, 152;
+>  --blue-tint: 166, 189, 238;
+>  --purple-tint: 139, 114, 152;
+>  
+>  font-family: "Rokkitt", serif;
 >```
 
 

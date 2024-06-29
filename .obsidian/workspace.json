@@ -46,30 +46,6 @@
             }
           },
           {
-            "id": "e5960c9be6ab238c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ac1111a185ce5e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "879f99e4efb7b6fb",
             "type": "leaf",
             "state": {
@@ -100,18 +76,6 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dreams/08 Judas/Judas.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c3bab22202f7eb48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
                 "mode": "preview",
                 "source": true
               }
@@ -185,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md"
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md"
               }
             }
           },
@@ -257,19 +221,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e5960c9be6ab238c",
+  "active": "879f99e4efb7b6fb",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/08 Judas/Judas.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-    "01 Dream Journal/Dreams/NANOBEAM.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
-    "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
-    "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "README.md",
-    "01 Dream Journal/Dreams/08 Judas/Judas.md",
+    "01 Dream Journal/Dreams/NANOBEAM.md",
+    "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",

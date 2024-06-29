@@ -2,11 +2,13 @@
 cssclasses:
   - dream-journal-base
   - milo-caspian
-Home:
-  - "[[Milo and Caspian]]"
 tags:
-  - gallery
   - dream
+  - gallery
+Completed: true
+Home:
+  - "[[Dream Journal Home Page]]"
+  - "[[Undersea Gallery]]"
 ---
  # The Coral Reefs and Atlantis
  ```img-gallery

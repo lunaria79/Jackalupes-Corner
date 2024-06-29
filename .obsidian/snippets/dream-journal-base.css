@@ -170,8 +170,9 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }	
 
 
-.dream-journal-base .metadata-add-button.text-icon-button, .multi-select-pill-remove-button {
-	/* Hides Add Property */
+.dream-journal-base .metadata-add-button.text-icon-button, 
+.dream-journal-base .multi-select-pill-remove-button {
+	/* Hides Add and Remove Property */
 	display: none;
 }
 
@@ -198,6 +199,10 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .metadata-property-icon svg.svg-icon,
 .dream-journal-base .metadata-property {
 	font-weight: 700;
+}
+
+.dream-journal-base .multi-select-pill-content {
+	margin: 0;
 }
 
 .dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,

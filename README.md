@@ -24,4 +24,7 @@
 - New Format Benched (Pictures will be an issue)
 ! Redesign Milo & Caspian
 ! Create Judas Design
+
+2024-06-29
++ Milo & Caspian Redesigned
 ~~~

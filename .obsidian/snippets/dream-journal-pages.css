@@ -57,6 +57,10 @@
 	background-color: rgb(var(--red-tint));
 }
 
+.milo-caspian .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+.milo-caspian .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+	color: rgb(var(--blue-tint)) !important;
+}
 
 /* -------------------- Checkboxes -------------------- */
 .theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:not(:checked) {
