@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/Judas.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "mode": "preview",
                 "source": true
               }
@@ -75,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
+                "file": "01 Dream Journal/Dreams/Untitled.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,17 +220,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "38e21a75d9f8680f",
+  "active": "2917ccf05e052b1d",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/Untitled.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dreams/Judas.md",
-    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "README.md",
+    "Updates Prior.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/Untitled.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
@@ -238,8 +241,6 @@
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
-    "README.md",
-    "Updates Prior.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
@@ -247,7 +248,6 @@
     "03 Others/Minecraft Summon Items.md",
     "03 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Stage Files/icons.md",
-    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "03 Others",
     "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",

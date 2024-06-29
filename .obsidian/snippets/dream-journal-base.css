@@ -100,12 +100,12 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	color: rgb(var(--text));
 }
 
-.dream-journal-base .callout strong, .box b {
+.dream-journal-base .callout strong, .dream-journal-base .box b, .char-note .callout-title {
 	color: rgb(var(--blue-tint));
 	font-weight: 700;
 }
 
-.dream-journal-base .callout em, .box i {
+.dream-journal-base .callout em,.dream-journal-base .box i {
 	color: rgb(var(--purple-tint));
 	font-weight: 600;
 }
