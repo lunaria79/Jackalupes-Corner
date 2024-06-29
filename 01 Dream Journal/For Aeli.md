@@ -195,7 +195,7 @@ _ _ _ _
  <br>Presumably because he thought she had gone soft, Alex proceeds to attack the surrounding disciplinary students that were trying to intervene. Seeing **Alex** attack her new friends, **Adelaide** sees red and body slams him through a table. At this point the bell rings and **Alex** escapes into the fray. 
 #### Bus #69
 >  **Adelaide** was reassigned to a new bus (Bus #69) which turns out to be the same bus where all the pathetic misplaced nerds go. While never meeting her, all of the nerds are terrified of her due to her reputation.  An honestly really cute black girl named **Janet** was elected to try and stop her when she got on, but **Adelaide** says "It's kind of you to try and hug me, but we don't know each other well enough for that. "  (Our **Adelaide** is kind of dumb.) 
-<br>  TBC.
+<br>  **Adelaide** selects her seat towards the middle of the bus, which is later taken up by a strange tall blonde man, with a gleam in his eye. Reveals himself as **Matteo**, and starts asking strange questions, like "What do you like to do outside of school?" and "What do you think about these outfit ideas?". His friend named **Judas** regularly chimes in with a joke or anecdote. **Adelaide** is not entirely sure what's happening, but it feels nice so she lets it continue.
 #### Judas Confrontation
 > The funniest thing about the **Judas** Confrontation, is that while it's recorded, both **Judas** and **Twink** are in maid bunny cosplay.
 ### Characters
@@ -205,9 +205,11 @@ _ _ _ _
 > You remember that guy you saw at Sheetz? Multiply his twink by four. 6'8, incredibly wiry. Long blond hair, extremely pretty. Awkward as hell. Fashion autism but scared of being called gay. Not because he's homophobic, but the school is. Was terrified of Adelaide for 5 seconds and then, upon seeing model potential, instantly fell in love with her. He's *down bad* down bad. It's pathetic really. All he wants is muscle mommy with big hands. Regularly fantasizes about her edging him. What a freak. 
 #### Judas
 > on the shorter side, black hair and stubble. unassuming. good friends with **Matteo**. Gets along well with Adelaide.
-> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining Adelaide's reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember Alex? Judas blackmailed him to do all that shit. Has been feeding Cole and the Canaries false information to throw them off the track. Matteo however, caught him in a lie, revealing him to be the *only* person who could've swapped out Adelaide's meds for sugar pills. Seems like Matteo falling for Adelaide was a bigger wrench in your plans than you thought, huh Judas?
+<br> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining Adelaide's reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember Alex? Judas blackmailed him to do all that shit. Has been feeding Cole and the Canaries false information to throw them off the track. Matteo however, caught him in a lie, revealing him to be the *only* person who could've swapped out Adelaide's meds for sugar pills. Seems like Matteo falling for Adelaide was a bigger wrench in your plans than you thought, huh Judas?
 #### Cole and the Canaries
 > **Cole** is the leader of *the Canaries*, the disciplinary club of the school. When one of his teachers assigned **Adelaide** to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 ### Notes
 >  I know they're in a school like setting, but the ages are a bit complicated. At some point, Adelaide says she's 19, and Matteo says he's 21. Only makes sense that they're in college? But why would they be in a behavior school setting then? Why did everyone resemble people I know from Catholic School? What's the meaning of life? Who ate my cheese fries?
+>  
+>  I know  that 
 ---
