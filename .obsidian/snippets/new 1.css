@@ -1,0 +1,46 @@
+/* ----------------------------------------------- Tabs ---------------------------------------------- */
+[data-callout="tabbed"] {
+	background: transparent;
+	outline: none !important;
+	padding: 10px;
+}
+
+[data-callout="tabbed"] > .callout-content {
+	padding: 0 !important;
+	grid-template-columns: .2fr .2fr .2fr 1fr !important;
+}
+
+[data-callout="tabbed"] > .callout-content > blockquote {
+	margin: 0;
+}
+
+[data-callout="tabbed"] > .callout-content label:has(input:checked),
+[data-callout="tabbed"] > .callout-content label:hover {
+	background-color: rgb(var(--background-color), .85) !important;
+	cursor: pointer;
+}
+
+[data-callout="tabbed"] > .callout-content p {
+    line-height: 25px;
+}
+
+/* ----------------------------------------- Custom Callouts ----------------------------------------- */
+/* Have to make custom colors for each theme */
+div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
+	margin-block: 10px !important;
+}
+
+.callout[data-callout="story-arc"] {
+    --callout-color: var(--text);
+    --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg>';
+}
+
+.callout[data-callout="char-note"] {
+    --callout-color: var(--purple-tint);
+    --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 64c0-35.3-28.7-64-64-64H64C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64l0-384zM128 192a64 64 0 1 1 128 0 64 64 0 1 1 -128 0zM80 356.6c0-37.9 30.7-68.6 68.6-68.6h86.9c37.9 0 68.6 30.7 68.6 68.6c0 15.1-12.3 27.4-27.4 27.4H107.4C92.3 384 80 371.7 80 356.6z"/></svg>';
+}
+
+.callout[data-callout="note"] {
+    --callout-color: var(--blue-tint);
+    --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"/></svg>';
+}
