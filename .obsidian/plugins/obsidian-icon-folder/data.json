@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderTree",
       "FasFileCode",
       "FasFilePen",
       "FasFolderOpen",
-      "FasClipboardCheck",
-      "FasClipboardList"
+      "FasClipboardCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -84,7 +84,6 @@
   "01 Dream Journal/Dreams/03 The Secret Garden/00 Images/Main Page/wreath.png": "FasFileImage",
   "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters": "FasFolderTree",
   "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md": "FasFilePen",
-  "01 Dream Journal/Dreams/NANOBEAM (I Know it's a Shit Name).md": "FasFilePen",
   "00 _resources/Templates": "FasFolderTree",
   "00 _resources/Images": "FasFolderTree",
   "01 Dream Journal/Dreams/04 Nothing Left to Say": "FasFolderTree",
@@ -139,6 +138,8 @@
   "03 Others/Minecraft Summon Items.md": "FasFileCode",
   "03 Others": "FasFolderOpen",
   "03 Others/Markdown Cheat Sheet.md": "FasFileCode",
-  "01 Dream Journal/Dreams/Judas.md": "FasFilePen",
-  "01 Dream Journal/Stage Files/Potential Redesign.md": "FasFileCode"
+  "01 Dream Journal/Stage Files/Potential Redesign.md": "FasFileCode",
+  "01 Dream Journal/Dreams/08 Judas/Judas.md": "FasFilePen",
+  "01 Dream Journal/Dreams/08 Judas": "FasFolderTree",
+  "01 Dream Journal/Dreams/NANOBEAM.md": "FasFilePen"
 }

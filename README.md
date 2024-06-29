@@ -22,4 +22,6 @@
 2024-06-27
 + Judas
 - New Format Benched (Pictures will be an issue)
+! Redesign Milo & Caspian
+! Create Judas Design
 ~~~

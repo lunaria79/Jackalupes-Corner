@@ -3,8 +3,6 @@ cssclasses:
   - dream-journal-base
 tags:
   - dream
-  - atomize
-  - in-progress
 Completed: false
 Home:
   - "[[Dream Journal Home Page]]"

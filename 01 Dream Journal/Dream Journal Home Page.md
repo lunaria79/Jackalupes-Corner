@@ -9,15 +9,16 @@ tags:
 4. [Nothing Left to Say](Dreams/04%20Nothing%20Left%20to%20Say/Nothing%20Left%20to%20Say.md)
 5. [Milo and Caspian](Dreams/05%20Milo%20&%20Caspian/Milo%20and%20Caspian.md)
 6. [Mary Jane](Dreams/06%20Mary%20Jane/Mary%20Jane.md)
+7.  [Judas](Dreams/08%20Judas/Judas.md)
+8. [Isle of the Gods](Dreams/Isle%20of%20the%20Gods.md)
 ### Loose
 1. [A Court of Death and Desire](Dreams/A%20Court%20of%20Death%20and%20Desire.md)
 # In Progress
 1. [Atomize](Dreams/07%20Atomize/Atomize.md)
 2. [Gaia's Wrath](Dreams/Gaia's%20Wrath.md)
-3. [Isle of the Gods](Dreams/Isle%20of%20the%20Gods.md)
-4. [NANOBEAM (I Know it's a Shit Name)](Dreams/NANOBEAM%20(I%20Know%20it's%20a%20Shit%20Name).md)
-5. [Trauma Central (Not Official)](Dreams/Trauma%20Central%20(Not%20Official).md)
-6. [Judas](Dreams/Judas.md)
+3. [NANOBEAM](Dreams/NANOBEAM.md)
+4. [Trauma Central (Not Official)](Dreams/Trauma%20Central%20(Not%20Official).md)
+5. [Judas](Dreams/08%20Judas/Judas.md)
 # Others
 1. [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
 2. [For Aeli](For%20Aeli.md)

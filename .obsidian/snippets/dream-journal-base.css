@@ -97,24 +97,49 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 /* ----------------------------------------- Tile Style ----------------------------------------- */
 
 .dream-journal-base .callout p {
+	/* Text Color */
 	color: rgb(var(--text));
 }
 
+.markdown-rendered.dream-journal-base p {
+	/* Tile body text margins */
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+
 .dream-journal-base .callout strong, .dream-journal-base .box b, .char-note .callout-title {
+	/* blue accents */
 	color: rgb(var(--blue-tint));
 	font-weight: 700;
 }
 
-.dream-journal-base .callout em,.dream-journal-base .box i {
+.dream-journal-base .callout em,.dream-journal-base .box i, .def-note .callout-title {
+	/* purple accents */
 	color: rgb(var(--purple-tint));
 	font-weight: 600;
 }
 
+.dream-journal-base .box img {
+	/* position */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3px;
+	/* sizing */
+	width: 65%;
+	/* other */
+	background-color: rgb(var(--background-color), .5);
+}
 
-
-
-
-
+.dream-journal-base .char-note img {
+	/* position */
+	object-fit: cover;
+	float: left;
+	margin-right: 10px;
+	/* sizing */
+	width: 200px;
+	height: 200px;
+}
 
 
 
@@ -268,7 +293,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	margin-bottom: 12px;
 }
 
-/* ---------------------------------------- Information Grid ---------------------------------------- */
+/* ---------------------------------------- Tile Grid ---------------------------------------- */
 /* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
 .dream-journal-base .wrapper {
 	grid-template-columns: 1fr 1fr;
@@ -305,31 +330,4 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .callout-title-inner {
 	margin-top: -2px;
 	font-weight: 700;
-}
-
-.dream-journal-base h3 {
-	margin: 0 !important;
-	background-image: none;
-}
-
-.dream-journal-base .box img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 3px;
-	width: 65%;
-	background-color: rgb(var(--background-color), .5);
-}
-
-.dream-journal-base .char-note img {
-	width: 200px;
-	height: 200px;
-	object-fit: cover;
-	float: left;
-	margin-right: 10px;
-}
-
-.markdown-rendered.dream-journal-base p {
-	margin-top: 0;
-	margin-bottom: 12px;
 }
