@@ -141,12 +141,6 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	height: 200px;
 }
 
-
-
-
-
-
-
 /* -------------------------------------------- Headings -------------------------------------------- */
 .dream-journal-base .inline-title,
 .dream-journal-base h1,
@@ -176,7 +170,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }	
 
 
-.dream-journal-base .metadata-add-button.text-icon-button {
+.dream-journal-base .metadata-add-button.text-icon-button, .multi-select-pill-remove-button {
 	/* Hides Add Property */
 	display: none;
 }

@@ -7,18 +7,15 @@
 	Barlow: Of Gods & Fiends, Nothing Left to Say
 	Aleo: Arcane School
 */
-
 /* ----------------------------------------- Milo & Caspian ------------------------------------------ */
 .milo-caspian * {
 	/* Colors */
 	--background-color: 33, 29, 29;
 	--primary-color: 209, 138, 152;
 	--text: 204, 195, 197;
-		
 	--red-tint: 209, 138, 152;
 	--blue-tint: 166, 189, 238;
 	--purple-tint: 139, 114, 152;
-		
 	/* Fonts */
 	font-family: "Rokkitt", serif;
 }
@@ -29,38 +26,50 @@
 	background-color: rgb(var(--background-color), .5);
 }
 
-.milo-caspian .box b, .milo-caspian .char-note .callout-title {
+.milo-caspian .box b,
+.milo-caspian .char-note .callout-title {
 	/* blue accents */
 	color: rgb(var(--red-tint));
 	font-weight: 700;
 }
 
-.milo-caspian .box i, .milo-caspian .def-note .callout-title {
+.milo-caspian .box i,
+.milo-caspian .def-note .callout-title {
 	/* purple accents */
 	color: rgb(var(--blue-tint));
 	font-weight: 600;
 }
 
+/* ---------- Classes + Tags ---------- */
+.milo-caspian .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.milo-caspian .metadata-property[data-property-key="tags"] input.metadata-property-key-input,
+.milo-caspian .metadata-property[data-property-key="Home"] svg.svg-icon,
+.milo-caspian .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+	color: rgb(var(--red-tint));
+}
+
+.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill,
+.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill,
+.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+	background-color: rgb(var(--red-tint));
+}
+
+
 /* -------------------- Checkboxes -------------------- */
 .theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:not(:checked) {
-    color: rgb(var(--red-tint)) !important;
-	background-color: transparent !important;
+	color: rgb(var(--red-tint)) !important;
 	border: 2px solid rgb(var(--red-tint)) !important;
-	border-radius: 0;
-    cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:checked {
-	background: rgb(var(--green-tint)) !important;
-	border-radius: 0;
-	border-color: transparent;
-	cursor: pointer !important;
+	background: rgb(var(--blue-tint)) !important;
 }
 
 .milo-caspian input[type=checkbox]:checked:after {
-	background: rgb(var(--green-tint)) !important;
-    -webkit-mask-image: none;
-	cursor: pointer !important;
+	background: rgb(var(--blue-tint)) !important;
 }
 
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
@@ -83,30 +92,41 @@
 	background-color: rgb(var(--background-color), .15) !important;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input, .gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
+.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--text)) !important;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input, .gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
+.gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
+.gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
 	color: rgb(var(--red-tint)) !important;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--text)) !important;
 	color: rgb(var(--red-tint)) !important;
 	font-weight: 700;
 }
 
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg, .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill,
+.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
+.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--red-tint)) !important;
 	color: rgb(var(--text)) !important;
-	font-weight: 700;
 }
 
 /* ---------- Checkboxes ---------- */
 .theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
 	color: rgb(var(--primary-color)) !important;
-	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color)) !important;
 }
 
@@ -169,19 +189,19 @@
 	20% { opacity: 0.18128; }
 	25% { opacity: 0.83891; }
 	30% { opacity: 0.65583; }
-	35% { opacity: 0.67807; }
-	40% { opacity: 0.26559; }
-	45% { opacity: 0.84693; }
-	50% { opacity: 0.96019; }
-	55% { opacity: 0.08594; }
-	60% { opacity: 0.20313; }
-	65% { opacity: 0.71988; }
-	70% { opacity: 0.53455; }
-	75% { opacity: 0.37288; }
-	80% { opacity: 0.71428; }
-	85% { opacity: 0.70419; }
-	90% { opacity: 0.70030; }
-	95% { opacity: 0.36108; }
+	35% { opacity: 0.67807;	}
+	40% { opacity: 0.26559;	}
+	45% { opacity: 0.84693;	}
+	50% { opacity: 0.96019;	}
+	55% { opacity: 0.08594;	}
+	60% { opacity: 0.20313;	}
+	65% { opacity: 0.71988;	}
+	70% { opacity: 0.53455;	}
+	75% { opacity: 0.37288;	}
+	80% { opacity: 0.71428;	}
+	85% { opacity: 0.70419;	}
+	90% { opacity: 0.70030;	}
+	95% { opacity: 0.36108;	}
 	100% { opacity: 0.24387; }
 }
 
@@ -242,21 +262,34 @@
 }
 
 /* -------------------- Properties -------------------- */
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon, .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input, .nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon, .nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
+.nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
 	color: rgb(var(--text));
 }
 
-.nothing-left-to-say .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon, .nothing-left-to-say .metadata-property[data-property-key="Home"] input.metadata-property-key-input, .nothing-left-to-say .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon, .nothing-left-to-say .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
 	color: rgb(var(--green-tint));
 }
 
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--text));
 	color: rgb(var(--green-tint));
 	font-weight: 700;
 }
 
-.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill, .nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-content, .nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg, .nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill, .nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content, .nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--green-tint));
 	color: rgb(var(--text));
 	font-weight: 700;
@@ -294,18 +327,20 @@
 	--newsletter-box-shadow: 5px 5px rgb(var(--primary-color), .15);
 }
 
-.arcane-school.markdown-preview-view { background: rgba(255, 255, 255, 1); }
+.arcane-school.markdown-preview-view {
+	background: rgba(255, 255, 255, 1);
+}
 
-div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
+div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	backdrop-filter: blur(0px);
 	padding: 20px;
 	max-width: 75% !important;
 }
 
 /* -------------------- Color + Font Changes -------------------- */
-.arcane-school.markdown-preview-view div.inline-title { 
+.arcane-school.markdown-preview-view div.inline-title {
 	color: rgb(var(--primary-color));
-	box-shadow: var(--newsletter-box-shadow); 
+	box-shadow: var(--newsletter-box-shadow);
 }
 
 .arcane-school ::selection {
@@ -314,16 +349,25 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 }
 
 /* -------------------- Properties -------------------- */
-.arcane-school div.metadata-container { box-shadow: var(--newsletter-box-shadow) }
+.arcane-school div.metadata-container {
+	box-shadow: var(--newsletter-box-shadow)
+}
 
-.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill, .arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
+.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill,
+.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
 	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-color));
 	border-radius: 0;
 }
 
-.arcane-school .metadata-container svg, .arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content, .arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content, .arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg, .arcane-school .metadata-property-key-input {
+.arcane-school .metadata-container svg,
+.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+.arcane-school .metadata-property-key-input {
 	color: rgb(var(--primary-color)) !important;
 	background-color: transparent !important;
 }
@@ -353,21 +397,27 @@ div.markdown-reading-view>div.markdown-preview-view.arcane-school>div {
 .arcane-school div.html-tabs {
 	color: rgb(var(--primary-color));
 	background-color: rgb(var(--background-color), .8);
-	box-shadow: var(--newsletter-box-shadow); 
+	box-shadow: var(--newsletter-box-shadow);
 }
 
-.arcane-school div.html-tabs p { font-weight: 700; }
+.arcane-school div.html-tabs p {
+	font-weight: 700;
+}
 
 /* -------------------- Information Grid -------------------- */
 .arcane-school .box {
 	color: rgb(var(--primary-color));
 	background-color: rgb(var(--background-color), 1);
-	box-shadow: var(--newsletter-box-shadow); 
+	box-shadow: var(--newsletter-box-shadow);
 }
 
-.arcane-school .wrapper.interview-articles { grid-template-columns: 1.5fr 1fr; }
+.arcane-school .wrapper.interview-articles {
+	grid-template-columns: 1.5fr 1fr;
+}
 
-.arcane-school .wrapper .box { cursor: pointer; }
+.arcane-school .wrapper .box {
+	cursor: pointer;
+}
 
 /* ----- Article Links ----- */
 .arcane-school a.internal-link {
