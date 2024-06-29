@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFileImage",
       "FasFolderTree",
       "FasFileCode",
       "FasFilePen",
-      "FasFolderOpen",
-      "FasClipboardCheck"
+      "FasFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -110,7 +110,6 @@
   "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller",
   "01 Dream Journal/For Aeli.md": "FasFileLines",
-  "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg": "FasFileImage",
   "00 _resources/Images/draculabase.png": "FasFileImage",
   "02 These Lyrics Will Write Themselves": "FasFolderOpen",
   "02 These Lyrics Will Write Themselves/00 - Table of Contents.md": "FasFileLines",
@@ -141,5 +140,6 @@
   "01 Dream Journal/Stage Files/Potential Redesign.md": "FasFileCode",
   "01 Dream Journal/Dreams/08 Judas/Judas.md": "FasFilePen",
   "01 Dream Journal/Dreams/08 Judas": "FasFolderTree",
-  "01 Dream Journal/Dreams/NANOBEAM.md": "FasFilePen"
+  "01 Dream Journal/Dreams/NANOBEAM.md": "FasFilePen",
+  "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg": "FasFileImage"
 }
