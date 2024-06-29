@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -258,11 +259,12 @@
   },
   "active": "e5960c9be6ab238c",
   "lastOpenFiles": [
-    "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
     "README.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
@@ -284,7 +286,6 @@
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "03 Others",
     "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",

@@ -11,9 +11,9 @@
 /* ----------------------------------------- Milo & Caspian ------------------------------------------ */
 .milo-caspian * {
 	/* Colors */
-	--background-color: 15, 29, 24;	
-	--primary-color: 111, 120, 118;
-	--text: 111, 120, 118;
+	--background-color: 33, 29, 29;
+	--primary-color: 209, 138, 152;
+	--text: 204, 195, 197;
 	
 	
 	
@@ -28,7 +28,7 @@
 }
 
 .milo-caspian {
-	background: url("https://images2.alphacoders.com/884/thumb-1920-884331.jpg") center center / cover no-repeat;
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
 	background-blend-mode: soft-light;
 	background-color: rgb(var(--background-color), .5);
 }
