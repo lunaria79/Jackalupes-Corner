@@ -199,6 +199,7 @@ _ _ _ _
 >  **Adelaide** was reassigned to a new bus (Bus #69) which turns out to be the same bus where all the pathetic misplaced nerds go. While never meeting her, all of the nerds are terrified of her due to her reputation.  An honestly really cute black girl named **Janet** was elected to try and stop her when she got on, but **Adelaide** says "It's kind of you to try and hug me, but we don't know each other well enough for that. "  (Our **Adelaide** is kind of dumb.) 
 >  
 >  **Adelaide** selects her seat towards the middle of the bus, which is later taken up by a strange tall blonde man, with a gleam in his eye. Reveals himself as **Matteo**, and starts asking strange questions, like "What do you like to do outside of school?" and "What do you think about these outfit ideas?". His friend named **Judas** regularly chimes in with a joke or anecdote. **Adelaide** is not entirely sure what's happening, but it feels nice so she lets it continue.
+>  TBC
 #### Judas Confrontation
 > The funniest thing about the **Judas** Confrontation, is that while it's recorded, both **Judas** and **Twink** are in maid bunny cosplay.
 ### Characters
