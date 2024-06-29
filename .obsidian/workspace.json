@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "ac1111a185ce5e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "879f99e4efb7b6fb",
             "type": "leaf",
             "state": {
@@ -104,21 +116,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ac1111a185ce5e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Stage Files/themes/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md"
+                "file": "01 Dream Journal/Stage Files/themes/themes.md"
               }
             }
           },
@@ -257,21 +257,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e5960c9be6ab238c",
+  "active": "ac1111a185ce5e5c",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Dreams/NANOBEAM.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "README.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
-    "01 Dream Journal/Dreams/NANOBEAM.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",

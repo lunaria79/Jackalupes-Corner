@@ -14,15 +14,11 @@
 	--background-color: 33, 29, 29;
 	--primary-color: 209, 138, 152;
 	--text: 204, 195, 197;
-	
-	
-	
-	--red-tint: 189, 101, 53;
-	--orange-tint: 203, 155, 79;
-	--yellow-tint: 235, 238, 136;
-	--green-tint: 161, 182, 94;
-	--blue-tint: 179, 246, 229;
-	--purple-tint: 220, 156, 172;
+		
+	--red-tint: 209, 138, 152;
+	--blue-tint: 166, 189, 238;
+	--purple-tint: 139, 114, 152;
+		
 	/* Fonts */
 	font-family: "Rokkitt", serif;
 }
@@ -31,6 +27,18 @@
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
 	background-blend-mode: soft-light;
 	background-color: rgb(var(--background-color), .5);
+}
+
+.milo-caspian .box b, .milo-caspian .char-note .callout-title {
+	/* blue accents */
+	color: rgb(var(--red-tint));
+	font-weight: 700;
+}
+
+.milo-caspian .box i, .milo-caspian .def-note .callout-title {
+	/* purple accents */
+	color: rgb(var(--blue-tint));
+	font-weight: 600;
 }
 
 /* -------------------- Checkboxes -------------------- */
