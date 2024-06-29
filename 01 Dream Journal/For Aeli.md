@@ -211,5 +211,7 @@ _ _ _ _
 ### Notes
 >  I know they're in a school like setting, but the ages are a bit complicated. At some point, Adelaide says she's 19, and Matteo says he's 21. Only makes sense that they're in college? But why would they be in a behavior school setting then? Why did everyone resemble people I know from Catholic School? What's the meaning of life? Who ate my cheese fries?
 >  
->  I know  that I write **Adelaide** as the dumbest person in the room, but she's actually quite smart. Just not socially aware 
+>  I know  that I write **Adelaide** as the dumbest person in the room, but she's actually quite smart. Just not socially aware at all. Book smarts? Out the wazoo. Street smarts? Who needs smarts when you have a mean grimace and two fists? Interpersonal relationships? She was never taught how to navigate those, but is trying her best. I think that she was in whatever system that has funneled her in to this school from birth. Like, preemptively had some issues as a child and never got the correct treatment. A few kind souls here and there, but they were also fooled by the system. Could this be a convoluted attempt at a critique of capitalism? My story always end up that way.
+>  
+>  I'm think that even though **Judas** is a major villain, he is *still* a victim to the society that has forced him into believe that this behavior is the only way to survive. The actual big bad is the 
 ---
