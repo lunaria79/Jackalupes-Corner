@@ -17,9 +17,11 @@ tags:
 3. [Isle of the Gods](Dreams/Isle%20of%20the%20Gods.md)
 4. [NANOBEAM (I Know it's a Shit Name)](Dreams/NANOBEAM%20(I%20Know%20it's%20a%20Shit%20Name).md)
 5. [Trauma Central (Not Official)](Dreams/Trauma%20Central%20(Not%20Official).md)
+6. [Judas](Dreams/Judas.md)
 # Others
 1. [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
 2. [For Aeli](For%20Aeli.md)
+3. [Potential Redesign](Stage%20Files/Potential%20Redesign.md)
 # Themes
 1. [themes](Stage%20Files/themes/themes.md)
 # To Write

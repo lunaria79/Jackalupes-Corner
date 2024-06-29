@@ -201,7 +201,7 @@ _ _ _ _
 >  **Adelaide** selects her seat towards the middle of the bus, which is later taken up by a strange tall blonde man, with a gleam in his eye. Reveals himself as **Matteo**, and starts asking strange questions, like "What do you like to do outside of school?" and "What do you think about these outfit ideas?". His friend named **Judas** regularly chimes in with a joke or anecdote. **Adelaide** is not entirely sure what's happening, but it feels nice so she lets it continue.
 >  TBC
 #### Judas Confrontation
-> The funniest thing about the **Judas** Confrontation, is that while it's recorded, both **Judas** and **Twink** are in maid bunny cosplay.
+> The funniest thing about the **Judas** Confrontation, is that while it's recorded, both **Judas** and **Matteo** are in maid bunny cosplay.
 ### Characters
 #### Adelaide (Or something similar to that)
 > The scariest person at the behavioral school. But she's really sweet if you try to get to know her. She's absolutely massive, like orc build. 6'5, built like a freight train. Long frizzy auburn hair with chiseled features. Likes baking and reading. Wolf autism. Not the sharpest tool in the shed, but she's trying really hard. Doesn't understand why people are mean to her.
@@ -214,7 +214,7 @@ _ _ _ _
 #### Cole and the Canaries
 > **Cole** is the leader of *the Canaries*, the disciplinary club of the school. When one of his teachers assigned **Adelaide** to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.
 ### Notes
->  I know they're in a school like setting, but the ages are a bit complicated. At some point, Adelaide says she's 19, and Matteo says he's 21. Only makes sense that they're in college? But why would they be in a behavior school setting then? Why did everyone resemble people I know from Catholic School? What's the meaning of life? Who ate my cheese fries?
+>  I know they're in a school like setting, but the ages are a bit complicated. At some point, **Adelaide** says she's 19, and **Matteo** says he's 21. Only makes sense that they're in college? But why would they be in a behavior school setting then? Why did everyone resemble people I know from Catholic School? What's the meaning of life? Who ate my cheese fries?
 >  
 >  I know  that I write **Adelaide** as the dumbest person in the room, but she's actually quite smart. Just not socially aware at all. Book smarts? Out the wazoo. Street smarts? Who needs smarts when you have a mean grimace and two fists? Interpersonal relationships? She was never taught how to navigate those, but is trying her best. I think that she was in whatever system that has funneled her in to this school from birth. Like, preemptively had some issues as a child and never got the correct treatment. A few kind souls here and there, but they were also fooled by the system. Could this be a convoluted attempt at a critique of capitalism? My story always end up that way.
 >  
