@@ -211,5 +211,5 @@ _ _ _ _
 ### Notes
 >  I know they're in a school like setting, but the ages are a bit complicated. At some point, Adelaide says she's 19, and Matteo says he's 21. Only makes sense that they're in college? But why would they be in a behavior school setting then? Why did everyone resemble people I know from Catholic School? What's the meaning of life? Who ate my cheese fries?
 >  
->  I know  that 
+>  I know  that I write **Adelaide** as the dumbest person in the room, but she's actually quite smart. Just not socially aware 
 ---
