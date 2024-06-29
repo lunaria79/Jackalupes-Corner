@@ -219,4 +219,6 @@ _ _ _ _
 >  I know  that I write **Adelaide** as the dumbest person in the room, but she's actually quite smart. Just not socially aware at all. Book smarts? Out the wazoo. Street smarts? Who needs smarts when you have a mean grimace and two fists? Interpersonal relationships? She was never taught how to navigate those, but is trying her best. I think that she was in whatever system that has funneled her in to this school from birth. Like, preemptively had some issues as a child and never got the correct treatment. A few kind souls here and there, but they were also fooled by the system. Could this be a convoluted attempt at a critique of capitalism? My story always end up that way.
 >  
 >  I'm think that even though **Judas** is a major villain, he is *still* a victim to the society that has forced him into believe that this behavior is the only way to survive. The actual big bad is the dystopian society the school has fostered.
+>  
+>  **Judas** isn't in love with **Matteo**, he's in love with control. He may be infatuated with **Matteo**, but he doesn't love him. Any point that he claims otherwise is pure manipulation, as well as self-convincing. Of course, **Judas** isn't doing anything wrong, this is to protect us **Matteo**.
 ---
