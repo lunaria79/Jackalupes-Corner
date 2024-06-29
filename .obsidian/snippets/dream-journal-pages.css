@@ -11,9 +11,12 @@
 /* ----------------------------------------- Milo & Caspian ------------------------------------------ */
 .milo-caspian * {
 	/* Colors */
-	--background-color: 51, 41, 27;
-	--primary-color: 226, 183, 113;
-	--text: 248, 244, 215;
+	--background-color: 15, 29, 24;	
+	--primary-color: 111, 120, 118;
+	--text: 111, 120, 118;
+	
+	
+	
 	--red-tint: 189, 101, 53;
 	--orange-tint: 203, 155, 79;
 	--yellow-tint: 235, 238, 136;

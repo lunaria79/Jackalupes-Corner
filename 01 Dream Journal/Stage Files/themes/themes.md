@@ -30,7 +30,7 @@ cssclasses:
 > [!infobox ]+  Fantasy Steampunk Mermaids
 ![Milo & Caspian](Milo%20&%20Caspian.jpg)
 > ```palette
-> #15071D, #FFE6D7, #B93349, #609FE6, #E5248E
+> #0f1d18
 > ```
 >```css
 > --background-color: 51, 41, 27;
