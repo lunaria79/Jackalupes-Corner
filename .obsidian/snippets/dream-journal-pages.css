@@ -11,6 +11,7 @@
 .milo-caspian * {
 	/* Colors */
 	--background-color: 33, 29, 29;
+	--background-highlight: 209, 138, 152, .1;
 	--primary-color: 209, 138, 152;
 	--text: 204, 195, 197;
 	--red-tint: 209, 138, 152;
@@ -80,6 +81,7 @@
 .gods-and-fiends * {
 	/* Colors */
 	--background-color: 21, 7, 29;
+	--background-highlight: 185, 51, 73, .1;
 	--primary-color: 185, 51, 73;
 	--text: 255, 230, 215;
 	--red-tint: 185, 51, 73;
@@ -228,6 +230,7 @@
 .nothing-left-to-say * {
 	/* Colors */
 	--background-color: 18, 14, 11;
+	--background-highlight: 143, 134, 117, .1;
 	--primary-color: 143, 134, 117;
 	--yellow-tint: 153, 149, 107;
 	--green-tint: 81, 88, 70;
@@ -318,6 +321,7 @@
 .app-container .arcane-school * {
 	/* Colors */
 	--background-color: 255, 255, 255;
+	--background-highlight: 0, 0, 0, .1;
 	--primary-color: 0, 0, 0;
 	--red-tint: 185, 51, 73;
 	--blue-tint: 96, 159, 230;

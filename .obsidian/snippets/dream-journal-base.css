@@ -166,7 +166,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .metadata-property .multi-select-container:focus,
 .metadata-property .multi-select-container:focus-within {
 	/* Focus Highlight */
-	background-color: rgb(var(--background-highlight), 1);
+	background-color: rgb(var(--background-highlight));
 }	
 
 
