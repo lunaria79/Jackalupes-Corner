@@ -77,3 +77,10 @@ tags:
 > ```css
 >/summon skeleton_horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Tame:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],CustomName:'{"text":"Aether","color":"black","bold":true}',Attributes:[{Name:generic.max_health,Base:30},{Name:generic.follow_range,Base:40},{Name:generic.movement_speed,Base:0.3375},{Name:generic.armor,Base:30},{Name:generic.armor_toughness,Base:30},{Name:horse.jump_strength,Base:1}],SaddleItem:{id:"minecraft:saddle",Count:1b}}
 >```
+# Armour
+>[!infobox]+ Helm
+>```css
+> /give @p crystalcraft_unlimited_java:neon_meteorite_armor_helmet{Enchantments:[{id:protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+> Leggings
+> {Enchantments:[{id:soul_speed,lvl:3},{id:protection,lvl:4},{id:feather_falling,lvl:4},{id:depth_strider,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+> ```
