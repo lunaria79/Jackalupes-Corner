@@ -46,18 +46,6 @@
             }
           },
           {
-            "id": "879f99e4efb7b6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "28341373c0348287",
             "type": "leaf",
             "state": {
@@ -94,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -232,16 +221,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "496b9014001555bd",
+  "active": "28341373c0348287",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-    "README.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
-    "03 Others/Minecraft Summon Items.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
-    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "README.md",
+    "03 Others/Minecraft Summon Items.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/NANOBEAM.md",

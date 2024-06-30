@@ -3,7 +3,6 @@ cssclasses:
   - dream-journal-base
 tags:
   - dream
-  - in-progress
 Completed: false
 Home:
   - "[[Dream Journal Home Page]]"
@@ -32,13 +31,6 @@ Home:
 							<p> turns out he's an elder god that has deluded himself into believing our main girl is his wife and property.  </p>
 							<p> and the whole island adventure was a big ruse, and he was sacrificing the party members in order to turn her into a minor god to marry.  </p>
 							<p> after "killing" the guy she actually had become good friends with and trauma bonded with, with an ancient elevator (dreams are wack yall, he was crushed to death because he pushed us out of it cause he <p> saw it was a trap. it was in excruciating detail. i love my dreams)  </p>
-							<p> he then kidnaps her and takes her to the realm of the gods where he forces her into marrying him by <p> threatening her life. parades her around like a doll before the ceremony.  </p>
-							<p> the only person kinda on her side is a minor god dress seamstress that vows to take as long on the dress as possible, so she can either plan her escape and have a moment to herself before her inevitable <p> captivity. she eventually gets drugged however, and the ceremony continues  </p>
-							<p> during the wedding ceremony, THE DEAD GUY SHOWS UP. turns out he's the douche gods younger brother, who was cast out of the realm for "reasons". and enacts a duel with the son of a bitch.  </p>
-							<p> gods have weird rules, so once a female god is married, she is off the market and no other gods can touch her, like at all physically. in her drugged stupor, she recognizes that her friend wont win the fight, and carefully carries on the ceremony to the point that to finish it they just have to drink from some chalice together  </p>
-							<p> and because they had been adventuring together for so long, the guy picks up on the plan. orchestrates a move where's blown backwards up the steps, abandons his weapon and drinks from the chalice with her.  </p>
-							<p> they both think that being married and maybe unhappy about it later was better than dead and/or tortured for a millennia.  </p>
-							<p> and then i woke up will plan more</p>
 						</div>
 					</div>
 					
@@ -50,7 +42,12 @@ Home:
 								</div>
 								<div class="callout-title-inner"> story arc </div>
 							</div>
-							<p> ... </p>
+							<p> he then kidnaps her and takes her to the realm of the gods where he forces her into marrying him by <p> threatening her life. parades her around like a doll before the ceremony.  </p>
+							<p> the only person kinda on her side is a minor god dress seamstress that vows to take as long on the dress as possible, so she can either plan her escape and have a moment to herself before her inevitable <p> captivity. she eventually gets drugged however, and the ceremony continues  </p>
+							<p> during the wedding ceremony, THE DEAD GUY SHOWS UP. turns out he's the douche gods younger brother, who was cast out of the realm for "reasons". and enacts a duel with the son of a bitch.  </p>
+							<p> gods have weird rules, so once a female god is married, she is off the market and no other gods can touch her, like at all physically. in her drugged stupor, she recognizes that her friend wont win the fight, and carefully carries on the ceremony to the point that to finish it they just have to drink from some chalice together  </p>
+							<p> and because they had been adventuring together for so long, the guy picks up on the plan. orchestrates a move where's blown backwards up the steps, abandons his weapon and drinks from the chalice with her.  </p>
+							<p> they both think that being married and maybe unhappy about it later was better than dead and/or tortured for a millennia.  </p>
 						</div>
 					</div>
 				</div>				
