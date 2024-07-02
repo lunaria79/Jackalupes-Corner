@@ -3,7 +3,6 @@ cssclasses:
   - dream-journal-base
 tags:
   - dream
-  - in-progress
 Completed: false
 Home:
   - "[[Dream Journal Home Page]]"
@@ -20,7 +19,7 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box">
-							<div class="callout-title"> <div class="callout-title-inner">  <b> story arc </b> </div> </div>
+							<div class="callout-title"> <div class="callout-title-inner">  story arc </div> </div>
 							<p> What was supposed to be an easy dungeon exploration leaves a adventure part marooned on a deserted island. A mysterious force is mysteriously picking of members on by one until there are only five left.  </p>
 							<p> two party members start off on the wrong foot and get on each others nerves. surprise surprise in the end they are married.  </p>
 							<p> there's a slightly pompous older guy that's in charge of the expedition.  </p>

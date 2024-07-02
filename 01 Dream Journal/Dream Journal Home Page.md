@@ -23,6 +23,7 @@ tags:
 1. [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
 2. [For Aeli](For%20Aeli.md)
 3. [Potential Redesign](Stage%20Files/Potential%20Redesign.md)
+4. [Dream Journal Template](../00%20_resources/Templates/Dream%20Journal%20Template.md)
 # Themes
 1. [themes](Stage%20Files/themes/themes.md)
 # To Write
