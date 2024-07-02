@@ -46,31 +46,31 @@
             }
           },
           {
-            "id": "2d776a7e63eb3bb7",
+            "id": "655d65f9bbb818c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "01 Dream Journal/Dreams/08 Judas/Judas.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "e81dc400a57e9ccd",
+            "id": "01174f984c82d263",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/08 Judas/Judas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/08 Judas/Judas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md"
+                "file": "01 Dream Journal/Dreams/08 Judas/Judas.md"
               }
             }
           },
@@ -209,15 +209,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e81dc400a57e9ccd",
+  "active": "655d65f9bbb818c8",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "README.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
