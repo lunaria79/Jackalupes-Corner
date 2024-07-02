@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md"
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md"
               }
             }
           },
@@ -232,14 +233,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6599ad2015552ad3",
+  "active": "28341373c0348287",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
-    "01 Dream Journal/Dreams/08 Judas/Judas.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Dreams/08 Judas/Judas.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "02 These Lyrics Will Write Themselves/00 - Table of Contents.md",
+    "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
+    "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
+    "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "README.md",
     "Updates Prior.md",
@@ -258,10 +263,6 @@
     "01 Dream Journal/Dreams/08 Judas",
     "01 Dream Journal/Dreams/Untitled.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
-    "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
-    "01 Dream Journal/ZIALONA Home Page.md",
-    "01 Dream Journal/Stage Files/Potential Redesign.md",
-    "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "03 Others",
     "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",

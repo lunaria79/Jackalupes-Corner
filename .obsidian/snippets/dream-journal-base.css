@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-/* ---------------------------------------- Background ---------------------------------------- */
+/* ------------------------------------------- Page Setup ------------------------------------------- */
 .dream-journal-base {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
 	background-blend-mode: soft-light;
@@ -47,7 +47,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	padding: 0;
 }
 
-/* -------------------------------------------- Headings -------------------------------------------- */
 .dream-journal-base .inline-title,
 .dream-journal-base h1,
 .dream-journal-base h2,
@@ -91,7 +90,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	height: 45px;
 }
 
-/* ---------- Classes + Tags ---------- */
+/* -------------------- Classes + Tags -------------------- */
 .dream-journal-base .metadata-property .multi-select-pill {
 	background-color: rgb(var(--purple-tint));
 	border-radius: var(--small-radius);
@@ -151,7 +150,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	color: rgb(var(--green-tint));
 }
 
-/* ---------- Checkboxes ---------- */
+/* -------------------- Checkboxes -------------------- */
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
 	color: rgb(var(--red-tint));
 	background-color: transparent !important;
@@ -288,6 +287,11 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	margin-top: 15px;
 }
 
+.markdown-rendered.dream-journal-base h3,
+.markdown-rendered.dream-journal-base h4 {
+	margin: 0;
+}
+
 .markdown-rendered.dream-journal-base p {
 	/* Text Color */
 	color: rgb(var(--text));
@@ -321,7 +325,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	/* sizing */
 	width: 65%;
 	/* other */
-	background-color: rgb(var(--background-color), .5);
+	background-color: rgb(var(--background-highlight), .75);
 }
 
 .dream-journal-base .char-note img {

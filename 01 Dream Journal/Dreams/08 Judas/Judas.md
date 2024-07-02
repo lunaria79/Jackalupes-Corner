@@ -51,19 +51,19 @@ Home:
 							<div class="callout-title"> <div class="callout-title-inner"> judas </div> </div>
 							<img alt="placeholder.png" src="">
 							<p> on the shorter side, black hair and stubble. unassuming. good friends with <b> Matteo </b>. Gets along well with <b>Adelaide</b>.</p>
-							<p> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining <b>Adelaide's</b> reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember <b> Alex</b>? <b>Judas</b> blackmailed him to do all that shit. Has been feeding <b>Cole</b> and <i>the Canaries</i> false information to throw them off the track. <b>Matteo</b> however, caught him in a lie, revealing him to be the <i>only</i> person who could've swapped out <b>Adelaide's</b> meds for sugar pills. Seems like <b>Matteo</b> falling for <b>Adelaide</b> was a bigger wrench in your plans than you thought, huh <b>Judas</b>? </p>
+							<p> Turns out, he was pulling the strings behind the scenes for ruining <b>Adelaide's</b> reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember <b> Alex</b>? <b>Judas</b> blackmailed him to do all that shit. Has been feeding <b>Cole</b> and <i>the Canaries</i> false information to throw them off the track. <b>Matteo</b> however, caught him in a lie, revealing him to be the <i>only</i> person who could've swapped out <b>Adelaide's</b> meds for sugar pills. Seems like <b>Matteo</b> falling for <b>Adelaide</b> was a bigger wrench in your plans than you thought, huh <b>Judas</b>? </p>
 						</div>
 					</div>
 					<div class="grid right">
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> matteo </div> </div>
 							<img alt="placeholder.png" src="">
-							<p> You remember that guy you saw at Sheetz? Multiply his twink by four. 6'8, incredibly wiry. Long blond hair, extremely pretty. Awkward as hell. Fashion autism but scared of being called gay. Not because he's homophobic, but the school is. Was terrified of Adelaide for 5 seconds and then, upon seeing model potential, instantly fell in love with her. He's _down bad_ down bad. It's pathetic really. All he wants is muscle mommy with big hands. Regularly fantasizes about her edging him. What a freak. </p>
+							<p> You remember that guy you saw at Sheetz? Multiply his twink by four. 6'8, incredibly wiry. Long blond hair, extremely pretty. Awkward as hell. Fashion autism but scared of being called gay. Not because he's homophobic, but the school is. Was terrified of <b>Adelaide</b> for 5 seconds and then, upon seeing model potential, instantly fell in love with her. He's  <i>down bad</i> down bad. It's pathetic really. All he wants is muscle mommy with big hands. Regularly fantasizes about her edging him. What a freak. </p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> cole and the canaries </div> </div>
 							<img alt="placeholder.png" src="">
-							<p>><b>Cole</b> is the leader of <i>the Canaries</i>, the disciplinary club of the school. When one of his teachers assigned <b>Adelaide</b> to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.</p>
+							<p><b>Cole</b> is the leader of <i>the Canaries</i>, the disciplinary club of the school. When one of his teachers assigned <b>Adelaide</b> to a group project with him and his friends, he took up the opportunity as a chance to "re-educate" her. However, on spending time with her, he realized that she was quite sweet, and any violence she had caused was severely provoked. He and his friends, while not publicly being friends with her, decide to launch a private investigation behind the scenes on why the school treated her so badly.</p>
 						</div>
 					</div>
 				</div>
