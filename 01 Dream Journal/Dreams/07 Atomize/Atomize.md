@@ -19,12 +19,7 @@ Home:
 					<div class="wrapper grid">
 						<div class="grid left">
 							<div class="box">
-								<div class="callout-title">
-									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-									</div>
-									<div class="callout-title-inner"> Animals </div>
-								</div>
+								<div class="callout-title"> <div class="callout-title-inner"> Animals </div> </div>
 								<p>It all starts in the village at the edge of a large empire. The empire consists of thousands of medium to small islands, each with their own distinct magical abilities.</p>
 								<p>We are in the body of a young man. While unexpecting on the outside, he holds within him a big secret. He is one of the last Oracles to ever exist. His younger sister, back home at the capital, is the only other one. When they were younger, the youngest was cursed to experience his ailments on a smaller scale. And while you can treat him from afar through his sister, the two do not wish to be life bound anymore. Earlier in the year, we had received a prophetic dream that the small village we are now in was important.</p>
 								<p>Finding the cure is not the only goal here in this village. You see, we work in a secret three person organization. Along with the Second Crown Prince and the Royal Mage. The three of us had received word that there was unrest in the village. So the SCP sent his most trustworthy knight, with the promise of taking care of his sister, there to spy.</p>
@@ -34,24 +29,14 @@ Home:
 						</div>
 						<div class="grid right">
 							<div class="box">
-								<div class="callout-title">
-									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-									</div>
-									<div class="callout-title-inner"> Atomize, Downsize, Layoff </div>
-								</div>
+								<div class="callout-title"> <div class="callout-title-inner"> Atomize, Downsize, Layoff </div> </div>
 								<p>So now we're on the run on foot. Any other form of transportation was either killed or destroyed. Fun fact about hellhounds, they have 4 legs and are very fast. We may be very fast, but we only have two legs. So the chase is long and harrowing. Not long after the beginning, we realize there something else with four legs following us. But it doesn't have the same demonic energy as the other beasts following us. And while we lose the hellhounds somehow, this animal is still making a beeline for us.</p>
 								<p>While we're hurriedly trying to make a boat. A headless dog bursts into the clearing. And we discover what the real purpose of that town was. The CP was attempting to create an army of unkillable creatures. And started experiments with small rodents. And had worked his way up to dogs. This pupper was the only success. Sensing no ill will coming from it, we allow it to climb up in our backpack, and we make haste across the water.</p>
 								<p>We arrive back in the capital, through not exactly legal means. Concerned about the headless nature of our new dog, we craft him a head, and with a little magic and a blue handkerchief, we have a totally completely normal Pyrenees dog.</p>
 								<p>On the way back up to the castle through the catacombs, we are stopped by the CP's men. Who attempt to arrest us under the pretense of us being the cause of the destruction of the village. And also tried to take our dog. Which is honestly bullshit and everyone there knew it. Lucky for us, we were then teleported into the RM's chamber, where the aforementioned mage, the TWO CP's and our sister were waiting.</p>
 							</div>
 							<div class="box">
-								<div class="callout-title">
-									<div class="callout-icon">
-										<svg fill="currentColor" height="16px" viewbox="0 0 384 512" width="16px" xmlns="http://www.w3.org/2000/svg"> <path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-									</div>
-									<div class="callout-title-inner">  Kill Yourself, Come On Do Us All a Favour  </div>
-								</div>
+								<div class="callout-title"> <div class="callout-title-inner">  Kill Yourself, Come On Do Us All a Favour  </div> </div>
 								<p> The CP was there, cause he had known that I had been sent to investigate the village. And was also concerned when the village was destroyed. He himself knew that it wasn't me. So barged into our going to be reunion with discussions of politics. He's kind of a dick. </p>
 								<p> It turns out, at the start of the empire, the original oracle predicted the destruction of the kingdom as we know it to be done by demons. And it'll start with the dogs. Which was very concerning, so it became a royal secret passed down through first crown princes. Imagine how upset everyone else in the room was when they found this out. A lot of arguing happened and nothing got done. </p>
 								<p> But more importantly, or loyal doggo betrayed us. He instantly took a liking to our sister. And she was as equally taken by him. She didn't even care that he was headless! So the bitch dog laid there getting belly rubs. We want belly rubs and head scritches too!   </p>
@@ -67,13 +52,7 @@ Home:
 				<div class="wrapper grid">
 					<div class="grid left">
 						<div class="box char-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-									<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> character descriptions </div>
-							</div>
+							<div class="callout-title">  <div class="callout-title-inner"> character descriptions </div> </div>
 							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
 							<p>SCP - (Second Crown Prince) Kind of looks like my Laurence Sim </p>
 							<br>His Star form basically blurs the edges of his human form. And his physical features are covered with a myriad of galaxies and stars. *Note: Insert Photos later*</p>
@@ -83,13 +62,7 @@ Home:
 					</div>
 					<div class="grid right">
 						<div class="box char-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-									<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> character note </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> character note </div> </div>
 							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/starborn-1.png">
 							 <p>RM - (Royal Mage) Starborn, but has two human forms. His day to day is one emo bitch. Black hair, eye circles, gothic robes the whole nine yards. The form he uses for public appearances is basically the same as Phobos from W.I.T.C.H. </p>
 						</div>
@@ -100,13 +73,7 @@ Home:
 				<div class="wrapper grid">
 					<div class="grid left">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-									<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> note </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> note </div> </div>
 							<p>Hello everyone, you might have noticed that I'm not in the castle. Today, as I'm sure you've heard from REDACTED that we've both received the prophecy of the destruction of the kingdom. But more importantly, I guess I should explain how I got down here. I woke up with the most devastating headache I've ever had. Now that I think about it, it was probably a migraine. I digress. All I knew was that I had to get down to the docks. Now I might have scared some of our citizens with the sluggish way I was walking. But it's a bit too late now. We have more pressing matters at hand. Which I'll get to in a minute.</p>
 							<p>When I arrived at the docks, as soon as I set foot on wood planks it's made of, my mind was flung forward. And an influx of information greeted my third eye. The demons are just across the horizon. And their army has grown. Those killed by them are taking up as thralls. There are more hellhounds than ever before. This is not a battle that can be won. I strongly recommend we evacuate everyone, citizens and soldiers alike.</p>
 							<p>This may come as a surprise to you, but I've decided to stay. My mind is clearing as these two excellent young fellows are writing. And it's my duty to protect this kingdom to my dying breath. Ergo, I'm staying and you can't convince me otherwise. So I am to write down my last words to you.</p>
@@ -117,13 +84,7 @@ Home:
 					</div>
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg fill="currentColor" height="16px" viewbox="0 0 448 512" width="16px" xmlns="http://www.w3.org/2000/svg">
-									<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> note </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> note </div> </div>
 							<p>Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.  </p>
 							<p>Now, as your looking down upon the tea gathering in the gardens from the tower. You see the SCP come hastily in, with a grim look on his face, and making a beeline for the OS. And they have quick conversation, and they both start heading towards your tower. So you check comms, and see the "HOLY FUCK SHIT EVERYTHING'S GOING WRONG" message. As well as the "connection lost" message. How would that make you feel?</p>
 							<ol>
