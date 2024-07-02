@@ -7,7 +7,7 @@
 	Barlow: Of Gods & Fiends, Nothing Left to Say
 	Aleo: Arcane School
 */
-/* ----------------------------------------- Milo & Caspian ------------------------------------------ */
+/* ----------------------------------------- Milo & Caspian ----------------------------------------- */
 .milo-caspian * {
 	/* Colors */
 	--background-color: 33, 29, 29;
@@ -77,11 +77,16 @@
 	background: rgb(var(--blue-tint)) !important;
 }
 
-/* -------------------- Custom SVG -------------------- */
-.milo-caspian .box .callout-title-inner::before {
-	background-color: rgb(var(--text));
+/* -------------------- Custom Tile -------------------- */
+.milo-caspian .char-note {
+	border-left-color: rgb(var(--red-tint));
 }
 
+.milo-caspian .def-note {
+	border-left-color: rgb(var(--blue-tint));
+}
+
+/* -------------------- Custom SVG -------------------- */
 .milo-caspian .box.char-note .callout-title-inner::before {
 	background-color: rgb(var(--red-tint)) !important;
 }
@@ -155,6 +160,15 @@
 
 .gods-and-fiends input[type=checkbox]:checked:after {
 	background: rgb(var(--text)) !important;
+}
+
+/* -------------------- Custom Tile -------------------- */
+.gods-and-fiends .char-note {
+	border-left-color: rgb(var(--purple-tint));
+}
+
+.gods-and-fiends .def-note {
+	border-left-color: rgb(var(--blue-tint));
 }
 
 /* -------------------- Custom SVG -------------------- */
@@ -339,11 +353,24 @@
 	background: rgb(var(--text)) !important;
 }
 
+/* -------------------- Custom Tile -------------------- */
+.nothing-left-to-say .char-note {
+	border-left-color: rgb(var(--blue-tint));
+}
+
+.nothing-left-to-say .def-note {
+	border-left-color: rgb(var(--green-tint));
+}
+
+.nothing-left-to-say .def-note .callout-title-inner {
+	color: rgb(var(--green-tint)) !important;
+}
+
 /* -------------------- Custom SVG -------------------- */
 .nothing-left-to-say .box.char-note .callout-title-inner::before {
 	background-color: rgb(var(--blue-tint)) !important;
 }
 
 .nothing-left-to-say .box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--blue-tint)) !important;
+	background-color: rgb(var(--green-tint)) !important;
 }

@@ -221,6 +221,14 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	box-shadow: none;
 }
 
+.dream-journal-base .char-note {
+	border-left-color: rgb(var(--blue-tint));
+}
+
+.dream-journal-base .def-note {
+	border-left-color: rgb(var(--purple-tint));
+}
+
 .dream-journal-base div.metadata-container {
 	/* Size */
 	margin: 0;

@@ -1,4 +1,4 @@
-/* ----------------------------------------------- Tabs ---------------------------------------------- */
+/* ----------------------------------------------- Tabs --------------------------------------------- */
 [data-callout="tabbed"] {
 	background: transparent;
 	outline: none !important;
@@ -24,7 +24,7 @@
     line-height: 25px;
 }
 
-/* ----------------------------------------- Custom Callouts ----------------------------------------- */
+/* ----------------------------------------- Custom Callouts ---------------------------------------- */
 /* Have to make custom colors for each theme */
 div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	margin-block: 10px !important;
@@ -45,7 +45,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
     --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"/></svg>';
 }
 
-/* ------------------------------------------ Arcane School ------------------------------------------ */
+/* ------------------------------------------ Arcane School ----------------------------------------- */
 .app-container .arcane-school * {
 	/* Colors */
 	--background-color: 255, 255, 255;
@@ -60,7 +60,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	/* Font */
 	font-family: "Aleo", serif !important;
 
-	--newsletter-box-shadow: 5px 5px rgb(var(--primary-color), .15);
+	--newsletter-box-shadow: 2px 2px 5px rgb(var(--primary-color), .15);
 }
 
 .arcane-school.markdown-preview-view {
@@ -217,4 +217,52 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 .arcane-school .author-note.box p {
 	color: rgb(var(--background-color)) !important;
 	margin-bottom: 10px !important;
+}
+
+
+
+
+/* -------------------- Custom Tile -------------------- */
+.arcane-school .char-note {
+	border-left-color: rgb(var(--primary-color));
+}
+
+.arcane-school .def-note {
+	border-left-color: rgb(var(--primary-color));
+}
+
+/* -------------------- Custom SVG -------------------- */
+.arcane-school .box.char-note .callout-title-inner::before {
+	background-color: rgb(var(--primary-color));
+}
+
+.arcane-school .box.def-note .callout-title-inner::before {
+	background-color: rgb(var(--primary-color));
+}
+
+/* -------------------- Changes -------------------- */
+.gods-and-fiends h3 {
+	color: rgb(var(--yellow-tint)) !important;
+}
+
+.markdown-preview-view.gods-and-fiends div.inline-title {
+	color: rgb(var(--text)) !important;
+}
+
+.gods-and-fiends .char-note div.callout-title {
+	color: rgb(var(--purple-tint)) !important;
+}
+
+.gods-and-fiends .def-note div.callout-title {
+	color: rgb(var(--blue-tint)) !important;
+}
+
+.gods-and-fiends b {
+	color: rgb(var(--blue-tint)) !important;
+	font-weight: 800;
+}
+
+.gods-and-fiends i {
+	color: rgb(var(--purple-tint)) !important;
+	font-weight: 700;
 }
