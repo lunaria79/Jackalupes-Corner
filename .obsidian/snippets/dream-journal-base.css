@@ -285,13 +285,14 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 /* -------------------- Text -------------------- */
-
-.dream-journal-base .callout p {
+.dream-journal-base .callout-title {
 	/* Text Color */
 	color: rgb(var(--text));
 }
 
 .markdown-rendered.dream-journal-base p {
+	/* Text Color */
+	color: rgb(var(--text));
 	/* Tile body text margins */
 	margin-top: 0;
 	margin-bottom: 12px;

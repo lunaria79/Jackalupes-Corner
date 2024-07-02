@@ -18,30 +18,19 @@ Completed: false
 			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1"><p>Articles</p></div>
 			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"><p>Notes</p></div>
 		</div>
-		
 		<div class="html-tab-content">
 			<div data-x-show="tab == 0" style="">
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="currentColor" width="16px" height="16px"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  story arc</div>
-							</div>
+							<div class="callout-title">  <div class="callout-title-inner">  story arc</div> </div>
 							<p>i'd like to pretend that i know what im doing</p>
 						</div>
 					</div>
 					
 					<div class="grid right">
 						<div class="box">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="currentColor" width="16px" height="16px"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> story arc </div>
-							</div>
+							<div class="callout-title">  <div class="callout-title-inner"> story arc </div> </div>
 							<img alt="reality.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Reality.png">
 							<p> ... </p>
 						</div>
@@ -125,12 +114,7 @@ Completed: false
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box  def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> Species Overview: Kai Folk</div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> Species Overview: Kai Folk</div> </div>
 							<img alt="Kai Folk" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/00%20Images/Kai%20Folk.jpg">
 							<p>The Kai Folk are the forest creatures that are tasked with maintaining the beauty of the flora around and in [INSERT SCHOOL NAME HERE] in exchange for protection and food. In legends, it is written that their ancestors were prehistoric birds that drank from the Aether Sea.</p>
 						</div>
@@ -138,12 +122,7 @@ Completed: false
 					
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  note </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
 							<p>...</p>
 						</div>
 					</div>

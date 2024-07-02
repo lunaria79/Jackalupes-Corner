@@ -21,12 +21,7 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="currentColor" width="16px" height="16px"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Prologue</div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  Prologue</div> </div>
 							<p> <b>Anaia</b>, the youngest member of the oldest surviving vampire coven, had endured a traumatic upbringing due to her clan's decision to remain neutral during the <i>Millennium War</i>. After society was rebuilt, the elders decided to reintegrate one member at a time. <b>Anaia</b> was chosen to be the first to return, as she was the most powerful. </p>
 							<p>It was decided that <b>Anaia</b> would be sent to an elite school in the countryside. However, the sudden presence of a vampire hunter clan in the area posed a threat to her safety. Despite some vague threats, she remained relatively safe for a while.</p>
 							<p> The situation escalated when <b>Anaia</b> and her classmates had a traumatic encounter at an old medieval castle during a field trip. While trying to make friends with her female classmates by accepting a dare to sneak into the boys' dormitory, <b>Anaia</b> overheard vampire hunters and their hounds prowling the halls. Panicking, she took refuge in a side room where she ran into <b>Toshi</b>.</p>
@@ -34,15 +29,9 @@ Home:
 							<p> The fragile peace is shattered the next morning when the discovery of the charred body of a vampire classmate hanging from a tree sends the students into a panic. Amidst the chaos, <b>Anaia</b> and <b>Toshi</b> stay together, embarking on a decades-long journey through the countryside, evading hunters and discovering themselves. Their bond grows stronger as they face challenges together and navigate the dangers of the world around them. Eventually, <b>Anaia</b> is taken back by the clan, and the two lose touch.</p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="currentColor" width="16px" height="16px"><path d="M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> Reintroduction </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> Reintroduction </div> </div>
 							<p>After undergoing extensive "reeducation", <b>Anaia</b> is now prepared to make her debut in high society. She has a busy schedule ahead, with multiple high-profile events lined up for her first week. Her first engagement is a special charity event, where a renowned celebrity chef will be auctioning off his meals to raise funds for building libraries in underprivileged areas. <b>Anaia</b> is particularly excited about this event, as she has a deep appreciation for fine dining and is thrilled to have received an invitation.</p>
 							<p>As she arrived, she immediately felt out of her depth. The charity event had an unexpected air of snobbery, and it seemed like no one cared about donating. Most of the guests were only interested in the chef, and she decided to keep to herself and observe. </p>
 							<p>While <b>Anaia</b> was arranging her cutlery, <b>Toshi</b> glanced into the room and spotted his platonic soulmate sitting alone. He fought the urge to rush over to her and instead chose to express his love differently. When dishes were served, <b>Anaia's</b> plate remained empty. Wearing a mask, <b>Toshi</b> confidently strode out of the kitchen and stopped at her place.</p>
@@ -56,12 +45,7 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box  char-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Anaia </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  Anaia </div> </div>
 							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/anaiaref.jpg">
 							<h3>Prologue</h3>
 							<p> <b>Anaia</b> was the most successful of all of the parasite experiments. She struggles with PTSD, anxiety and selective mutism, choosing to speak directly to other's minds. She is significantly more powerful than the other members of her coven, but any disobedience has long since been beaten out of her. Due to how vampires age, she is mentally around 16, although her body is many centuries old. When she enters school, she's incredibly awkward and shy, and doesn't know how to interact with others well. Her classmates avoid her due to her coven, so she spends most of her days alone.  After becoming friends with <b>Toshi</b>, she slowly grows out of her shell and gains confidence. The coven finds her much harder to control when they capture her again. </p>
@@ -71,15 +55,9 @@ Home:
 							<p><b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with <i>ichor</i>, they've permanently turned golden.</p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box char-note ">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Toshi  </div>
-							</div>
+							<div class="callout-title">  <div class="callout-title-inner">  Toshi  </div> </div>
 							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
 							<h3>Prologue</h3>
 							<p>There is an air of mystery surrounding <b>Toshi's</b> birth. He was not born, but found. His purpose unknown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose.</p>
@@ -96,12 +74,7 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box  def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Vampirism </div>
-							</div>
+							<div class="callout-title">  <div class="callout-title-inner">  Vampirism </div> </div>
 							<p> Vampirism is not a curse, but in fact a blood disease. Parasites within the blood kill the body, but keep the host and it's brain functions alive. Vampires have to drink blood, cause the parasites need fresh blood to maintain the system they created. How insane a vampire is, is due to its force of will, and ability to not let its brain fully be controlled by the parasites. A completely feral vampire would have had its mind consumed by the parasites. There is a fine balance between how much a parasite has taken over, and how much power a vampire has. </p>
 							<p> Some vampire clans use this to their advantage. They steal babies and toddlers, turn them, and see if at the young age, they are able to resist the parasites. If the child is feral, they kill them. They then spend the next few centuries "training" the child with a series of situations in which the parasite, in a lasp of control, could take over. They want the child to be as powerful as possible, but still with control. This is what happened to <b>Anaia.</b></p>
 							<p> The reason <b>Anaia</b> eyes turned yellow, is because in drinking <i>golden ichor</i>, she slowly replaced all of the parasitic blood inside of her. The parasites could not fight back against <i>golden ichor</i>. She was a vampire, but is now simply an undead, cause she no longer is controlled by vampiric parasites.</p>
@@ -110,21 +83,11 @@ Home:
 					
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Toshi and Anaia </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  Toshi and Anaia </div> </div>
 							<p>Both <b>Toshi</b> and <b>Anaia</b> are Aromantic and Asexual. And while they both present masculine and feminine respectively, <b>Toshi</b> is a physical representation of a concept and has no true gender, and <b>Anaia</b> rather die than truly think about their gender issues for longer than two seconds. Their relationship is closer to queerplatonic, although its straight passing.</p>
 						</div>
 						<div class="box def-note ">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Golden Ichor </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  Golden Ichor </div> </div>
 							<p>Instead of blood, Golden Ichor is what flows through Gods' veins. It is highly coveted by mortals, because it can cure disease and extend your lifespan, as well as granting godlike powers to the consumer. Gods use Golden Ichor as a power play,  showing off how powerful they are by drinking other's blood. Gods rarely offer their own blood to mortals, and if they do its only to those they truly favor.</p>
 						</div>
 					</div>

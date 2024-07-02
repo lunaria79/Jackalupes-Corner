@@ -157,6 +157,19 @@
 	background: rgb(var(--text)) !important;
 }
 
+/* -------------------- Custom SVG -------------------- */
+.gods-and-fiends .box .callout-title-inner::before {
+	background-color: rgb(var(--text));
+}
+
+.gods-and-fiends .box.char-note .callout-title-inner::before {
+	background-color: rgb(var(--purple-tint)) !important;
+}
+
+.gods-and-fiends .box.def-note .callout-title-inner::before {
+	background-color: rgb(var(--blue-tint)) !important;
+}
+
 /* -------------------- Changes -------------------- */
 .gods-and-fiends h3 {
 	color: rgb(var(--yellow-tint)) !important;

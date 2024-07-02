@@ -35,8 +35,7 @@ Home:
 					
 					<div class="grid right">
 						<div class="box">
-							<div class="callout-title">
-								<div class="callout-icon"> <div class="callout-title-inner">  Sea of Monsters</div> </div>
+							<div class="callout-title"> <div class="callout-title-inner">  Sea of Monsters</div> </div>
 								<p> As the crew search for the two deserters, <b>Caspian</b> and <b>Milo</b> are on a small ship heading towards the <b>Sea of Monsters</b>. <b>Milo</b> is rightfully freaked out about this, but <b>Caspian</b> comforts and assures him that he'll explain everything soon. <b>Milo</b> thinks to himself, "If I'm being taken to my death by monster, I'm slightly more ok with it if I'm dying next to this idiot beside me". As they travel, the sea is suspiciously calm, and they quickly come across the reason why. An unnatural whirlpool has formed, and <b>Caspian</b> seems determined to drive right into it, even as <b>Milo</b> is panicking.</p>
 								 <p><q>Hey Cas… Cas? Love?... CAS!! DO YOU HAPPEN TO NOT SEE THE GIANT FUCKING WHIRLPOOL YOU'RE DRIVING US IN TO???</q>
 								<br><q> Calm down baby, don't you trust me?</q> 
@@ -51,20 +50,14 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box  char-note">
-							<div class="callout-title">  <div class="callout-title-inner">  Caspian </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  Caspian </div> </div>
 							<p>Fish</p>
 						</div>
 					</div>
 					
 					<div class="grid right">
 						<div class="box char-note ">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  Milo  </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  Milo  </div> </div>
 							<p>not fish</p>
 						</div>
 					</div>
@@ -74,12 +67,7 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box  def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> SSS Stargazer</div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> SSS Stargazer</div> </div>
 							<img alt="SSS Stargazer.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Milo%20%26%20Caspian/00%20Images/SSS%20Stargazer.png">
 							<p>The <i>Star Gazer</i>  was an aircraft of legends. The voyager was commanded by the legendary <b>Captain Nyarai Laforeze </b>and her trusty first mate, <b>Cadenza Milore</b>. The ship was massive, nearing 1000 ft long. And the size of the crew was nothing to sneeze at. Hundreds of crew members were on that ship, but to the general public, only about 20 were named. The <i>Star Gazer</i> braved many a storm, monsters, and foes alike. But, nothing could ever destroy her. The stories of her adventures reached every corner of the globe. However, one day, <i>The Star Gazer</i> mysteriously went down over the <b>Sea of Monsters</b>, and vanished from the known world. No wreckage or survivors were reportedly ever found.</p>
 						</div>
@@ -87,12 +75,7 @@ Home:
 					
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner"> Moodboard + Gallery </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner"> Moodboard + Gallery </div> </div>
 							<img alt="steampunk moodboard.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Milo%20%26%20Caspian/00%20Images/steampunk%20moodboard.png" referrerpolicy="no-referrer">
 							<br><a data-href="Undersea Gallery" href="Undersea Gallery" class="internal-link" target="_blank" rel="noopener"><span class="iconize-icon-in-link" title="FasImages" aria-label="FasImages" data-icon="FasImages" aria-hidden="true"></span>Undersea Gallery</a>
 						</div>
