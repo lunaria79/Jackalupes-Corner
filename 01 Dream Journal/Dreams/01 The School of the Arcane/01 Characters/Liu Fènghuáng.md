@@ -11,12 +11,7 @@ Completed: false
 <div class="wrapper grid interview-articles ">
 	<div class="grid left">
 		<div class="box char-note">
-			<div class="callout-title">
-				<div class="callout-icon">
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" width="16px" height="16px"><path d="M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H80c-44.2 0-80-35.8-80-80V128c0-17.7 14.3-32 32-32s32 14.3 32 32V400c0 8.8 7.2 16 16 16s16-7.2 16-16V96zm64 24v80c0 13.3 10.7 24 24 24H296c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24H184c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16z"></path></svg>
-				</div>
-				<div class="callout-title-inner">  Interview with Liu Fènghuáng </div>
-			</div>
+			<div class="callout-title"> <div class="callout-title-inner">  Interview with Liu Fènghuáng </div> </div>
 			<p class="reporter">Hello students. We here at SOTA border Tàiyáng De Yáolán, or in common, The Sun's Cradle. This empire reaches from the skies to the depths of the Middle Sea, but remains hidden to the surrounding world. Join us today as we speak to the empire's 4th prince, Liu Fènghuáng. Yuàn tài yáng shēng qǐ Fènghuáng, how are you today?</p>
 			<p>  Yuàn yuè liàng luò shān, I am doing well. </p>
 			<p class="reporter"> As a fellow student with Common as a second language, I admire your refusal to speak to those who do not try to pronounce your name correctly. </p>
@@ -78,12 +73,7 @@ Completed: false
 	
 	<div class="grid right">
 		<div class="box char-note description-tile">
-			<div class="callout-title">
-				<div class="callout-icon">
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-				</div>
-				<div class="callout-title-inner"> Description </div>
-			</div>
+			<div class="callout-title"> <div class="callout-title-inner"> Description </div> </div>
 			<img alt="Peppe Stare" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/01%20The%20School%20of%20the%20Arcane/01%20Characters/00%20Images/Liu%20F%C3%A8nghu%C3%A1ng.png">
 			<h3> Pronouns </h3>
 			<p>He/Him</p>
@@ -97,9 +87,7 @@ Completed: false
 			<p>Chinese, Common</p>
 		</div>
 		<div class="box char-note description-tile">
-			<div class="callout-title">
-				<div class="callout-title-inner">  Normal Appearance </div>
-			</div>
+			<div class="callout-title"> <div class="callout-title-inner">  Normal Appearance </div> </div>
 			<p>Fènghuáng stands at 6'3, which is abnormal for the people of Tàiyáng Dìguó. He's deathly pale, with a small nose, thin lips, and small sharp pink eyes. He has mysterious white markings on his forehead and cheeks. His pinkish red hair is usually tied back in a ponytail.  Fènghuáng is very proud of his culture and heritage, so he can be seen around campus wearing the school uniform with a matching traditional shan on top.</p>
 			<div class="callout-title">
 				<div class="callout-title-inner">  Phoenix Form</div>
