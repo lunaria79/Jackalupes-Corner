@@ -77,6 +77,19 @@
 	background: rgb(var(--blue-tint)) !important;
 }
 
+/* -------------------- Custom SVG -------------------- */
+.milo-caspian .box .callout-title-inner::before {
+	background-color: rgb(var(--text));
+}
+
+.milo-caspian .box.char-note .callout-title-inner::before {
+	background-color: rgb(var(--red-tint)) !important;
+}
+
+.milo-caspian .box.def-note .callout-title-inner::before {
+	background-color: rgb(var(--blue-tint)) !important;
+}
+
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
 .gods-and-fiends * {
 	/* Colors */

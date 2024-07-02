@@ -47,42 +47,22 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box  char-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  younger sister </div>
-							</div>
-							<p>The main character. Always wearing big puffy blue dresses. Of African descent, ambiagious from where. Tall, but not as tall as the love intrest or her sister. Suffers a lot do trumatic upbring filled with abuse and assult.</p>
+							<div class="callout-title"> <div class="callout-title-inner">  younger sister </div> </div>
+							<p>The main character. Always wearing big puffy blue dresses. Of African descent, ambiguous from where. Tall, but not as tall as the love interest or her sister. Suffers a lot do traumatic upbring filled with abuse and assault.</p>
 						</div>
 						<div class="box  char-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  love interest </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  love interest </div> </div>
 							<p>The youngest of the three men. He and the MC have a lot of playful banter. Loves suits with yellow accents. Mixed race, don't know of what. Brown hair, tan skin, green eyes. On the taller side.</p>
 						</div>
 					</div>
 					
 					<div class="grid right">
 						<div class="box char-note ">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  older sister </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  older sister </div> </div>
 							<p>The older of the two women. Commonly wears black and/or green mermaid style dresses. Most likely Hispanic mixed with Eastern Euorpean. Serious, but quite caring. Loves her little sister dearly, but is struggling to help her with her mental health issues. Probably has some kind of autism. Likes fancy deserts.</p>
 						</div>		
 						<div class="box char-note ">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  other bandmates </div>
-							</div>
+							<div class="callout-title">  <div class="callout-title-inner">  other bandmates </div> </div>
 							<p> A bit older than the rest of the group. Kind and understanding. A bit goofy? Gay dads.</p>
 						</div>
 					</div>
@@ -92,12 +72,7 @@ Home:
 				<div class="wrapper grid ">
 					<div class="grid left">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  note </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
 							<p>A 5 member A Capella group. Very famous. 3 men, 2 women. I believe that is a modern setting? But the cars and dresses did not match. Like, antebellum dresses, but 1980s cars?
 							<br> Strangers to Lovers. Much angst due to trauma 
 							<br> At the end of the dream, there were some fantasy elements that i might abandon. I.E. the MC is a vampire that was forcefully turned *twice*. 
@@ -109,12 +84,7 @@ Home:
 					
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title">
-								<div class="callout-icon">
-									<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-								</div>
-								<div class="callout-title-inner">  note </div>
-							</div>
+							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
 							<p>...</p>
 						</div>
 					</div>
