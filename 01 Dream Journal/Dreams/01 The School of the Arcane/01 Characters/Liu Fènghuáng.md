@@ -8,7 +8,7 @@ tags:
   - in-progress
 Completed: false
 ---
-<div class="wrapper grid interview-articles ">
+<div class="wrapper grid interview">
 	<div class="grid left">
 		<div class="box char-note">
 			<div class="callout-title"> <div class="callout-title-inner">  Interview with Liu Fènghuáng </div> </div>
@@ -24,15 +24,10 @@ Completed: false
 			<p>Leo Fung-HooAhng. Spoken from the back of your throat.</p>
 		</div>
 		<div class="box author-note">
-			<div class="callout-title">
-				<div class="callout-icon">
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-				</div>
-				<div class="callout-title-inner">  author's note </div>
-			</div>
-				<p>Xiao Fèng is the name his adoptive siblings call him.</p>
-				<p>Phoenixes only have one child. And they die in childbirth. And up until Fènghuáng's birth, every descendant of the original phoenix is a woman. And it is tradition to name the child Liu Fènghuàng. When Fènghuáng was born, his adopted mother still wanted to continue the tradition. It didn't lead to an easy early childhood, but he's grown to love his name. </p>
-				<p>Nor calls him "love" when he's trying to tease him. Only in private though. </p>
+			<div class="callout-title"> <div class="callout-title-inner">  author's note </div> </div>
+			<p>Xiao Fèng is the name his adoptive siblings call him.</p>
+			<p>Phoenixes only have one child. And they die in childbirth. And up until Fènghuáng's birth, every descendant of the original phoenix is a woman. And it is tradition to name the child Liu Fènghuàng. When Fènghuáng was born, his adopted mother still wanted to continue the tradition. It didn't lead to an easy early childhood, but he's grown to love his name. </p>
+			<p>Nor calls him "love" when he's trying to tease him. Only in private though. </p>
 		</div>
 		<div class="box char-note">
 			<p class="reporter">You have talked in the past about your struggles with self-worth and projecting insecurity on others. Could you possibly give any advice to our readers who also struggle with these issues?</p>
@@ -40,14 +35,9 @@ Completed: false
 			<p>I am not afraid to admit how absolutely terrible I was behaving when I arrived here. And I am incredibly ashamed. Although there are numerous explanations for my behavior, it was uncouth of me to act the way that I did. I do extend my humble apologies to all that I had negatively impacted during that time.</p>
 		</div>
 		<div class="box author-note">
-			<div class="callout-title">
-				<div class="callout-icon">
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-				</div>
-				<div class="callout-title-inner">  author's note </div>
-			</div>
-				<p>He has panic attacks ever-so-often about living up to his ancestor's reputations. </p>
-				<p>In the beginning, Fènghuáng was scared of and uncertain of his own sexual identity. After meeting Aefir, though, those problems solve themselves very quickly.</p>
+			<div class="callout-title"> <div class="callout-title-inner">  author's note </div> </div>
+			<p>He has panic attacks ever-so-often about living up to his ancestor's reputations. </p>
+			<p>In the beginning, Fènghuáng was scared of and uncertain of his own sexual identity. After meeting Aefir, though, those problems solve themselves very quickly.</p>
 		</div>
 		<div class="box char-note">
 			<p class="reporter">If you could speak your mind freely to the Empress, what would you say?</p>
@@ -60,17 +50,11 @@ Completed: false
 			<p> I've found that I find cleaning very relaxing. And I'm the chef of the household, seeing that Book is a cat and Aefir is helpless. Aefir is banned from my kitchen. In my pocket dimension, there's a perfect recreation of the Emperoress's Floating Gardens. I tend to flora and fauna there, while Book is napping. When alone at home, I tend to wander aimlessly through the rooms until someone comes home. Aefir and Book are so loud together, it's strange when it's quite.</p>
 		</div>
 		<div class="box author-note">
-			<div class="callout-title">
-				<div class="callout-icon">
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
-				</div>
-				<div class="callout-title-inner">  author's note </div>
-			</div>
-				<p> He walks in such a way that it appears like he's floating.</p>
-				<p> Fènghuáng learned how to take care of Texture 4 hair because he was sick of tired of Book's rats nest of a head. Though it cannot say so, it's appreciative of his efforts. </p>
+			<div class="callout-title"> <div class="callout-title-inner">  author's note </div> </div>
+			<p> He walks in such a way that it appears like he's floating.</p>
+			<p> Fènghuáng learned how to take care of Texture 4 hair because he was sick of tired of Book's rats nest of a head. Though it cannot say so, it's appreciative of his efforts. </p>
 		</div>
 	</div>
-	
 	<div class="grid right">
 		<div class="box char-note description-tile">
 			<div class="callout-title"> <div class="callout-title-inner"> Description </div> </div>
