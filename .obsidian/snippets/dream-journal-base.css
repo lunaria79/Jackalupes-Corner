@@ -48,99 +48,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	padding: 0;
 }
 
-/* --------------------------------------------- Tile ---------------------------------------------- */
-.dream-journal-base * {
-	--tile-background: rgb(var(--background-color), .99) ;
-	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
-	--tile-border: 5px solid rgb(var(--primary-color)) ;
-}
-
-.markdown-preview-view.dream-journal-base div.inline-title,
-.dream-journal-base div.metadata-container,
-.dream-journal-base div.html-tabs,
-.dream-journal-base .box,
-.dream-journal-base .callout[data-callout="tabbed"] p label,
-div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
-	/*Position */
-	transform: unset;
-	/* Size */
-	padding: 10px 25px;
-	width: 100%;
-	/* Colors */
-	background-color: var(--tile-background);
-	/* Border */
-	border-left: var(--tile-border);
-	border-radius: var(--tile-border-radius);
-	box-shadow: none;
-}
-
-.dream-journal-base div.metadata-container {
-	/* Size */
-	margin: 0;
-}
-
-.dream-journal-base div.html-tabs {
-	/* Size */
-	padding: 5px 0 8px 20px;
-	margin: 0 10px;
-	width: unset;
-	/* Border */
-	border-bottom: none;
-}
-
-.dream-journal-base .box {
-	max-height: 750px;
-	overflow: scroll;
-	scroll-behavior: smooth;	
-}
-
-/* ----------------------------------------- Tile Style ----------------------------------------- */
-
-.dream-journal-base .callout p {
-	/* Text Color */
-	color: rgb(var(--text));
-}
-
-.markdown-rendered.dream-journal-base p {
-	/* Tile body text margins */
-	margin-top: 0;
-	margin-bottom: 12px;
-}
-
-.dream-journal-base .callout strong, .dream-journal-base .box b, .char-note .callout-title {
-	/* blue accents */
-	color: rgb(var(--blue-tint));
-	font-weight: 700;
-}
-
-.dream-journal-base .callout em,.dream-journal-base .box i, .def-note .callout-title {
-	/* purple accents */
-	color: rgb(var(--purple-tint));
-	font-weight: 600;
-}
-
-.dream-journal-base .box img {
-	/* position */
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 3px;
-	/* sizing */
-	width: 65%;
-	/* other */
-	background-color: rgb(var(--background-color), .5);
-}
-
-.dream-journal-base .char-note img {
-	/* position */
-	object-fit: cover;
-	float: left;
-	margin-right: 10px;
-	/* sizing */
-	width: 200px;
-	height: 200px;
-}
-
 /* -------------------------------------------- Headings -------------------------------------------- */
 .dream-journal-base .inline-title,
 .dream-journal-base h1,
@@ -292,6 +199,101 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	margin-bottom: 12px;
 }
 
+
+/* --------------------------------------------- Tile ---------------------------------------------- */
+.dream-journal-base * {
+	--tile-background: rgb(var(--background-color), .99) ;
+	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
+	--tile-border: 5px solid rgb(var(--primary-color)) ;
+}
+
+.markdown-preview-view.dream-journal-base div.inline-title,
+.dream-journal-base div.metadata-container,
+.dream-journal-base div.html-tabs,
+.dream-journal-base .box,
+.dream-journal-base .callout[data-callout="tabbed"] p label,
+div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
+	/*Position */
+	transform: unset;
+	/* Size */
+	padding: 10px 25px;
+	width: 100%;
+	/* Colors */
+	background-color: var(--tile-background);
+	/* Border */
+	border-left: var(--tile-border);
+	border-radius: var(--tile-border-radius);
+	box-shadow: none;
+}
+
+.dream-journal-base div.metadata-container {
+	/* Size */
+	margin: 0;
+}
+
+.dream-journal-base div.html-tabs {
+	/* Size */
+	padding: 5px 0 8px 20px;
+	margin: 0 10px;
+	width: unset;
+	/* Border */
+	border-bottom: none;
+}
+
+.dream-journal-base .box {
+	max-height: 750px;
+	overflow: scroll;
+	scroll-behavior: smooth;	
+}
+
+/* ----------------------------------------- Tile Style ----------------------------------------- */
+
+.dream-journal-base .callout p {
+	/* Text Color */
+	color: rgb(var(--text));
+}
+
+.markdown-rendered.dream-journal-base p {
+	/* Tile body text margins */
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+
+.dream-journal-base .callout strong, .dream-journal-base .box b, .char-note .callout-title {
+	/* blue accents */
+	color: rgb(var(--blue-tint));
+	font-weight: 700;
+}
+
+.dream-journal-base .callout em,.dream-journal-base .box i, .def-note .callout-title {
+	/* purple accents */
+	color: rgb(var(--purple-tint));
+	font-weight: 600;
+}
+
+.dream-journal-base .box img {
+	/* position */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3px;
+	/* sizing */
+	width: 65%;
+	/* other */
+	background-color: rgb(var(--background-color), .5);
+}
+
+.dream-journal-base .char-note img {
+	/* position */
+	object-fit: cover;
+	float: left;
+	margin-right: 10px;
+	/* sizing */
+	width: 200px;
+	height: 200px;
+}
+
+
 /* ---------------------------------------- Tile Grid ---------------------------------------- */
 /* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
 .dream-journal-base .wrapper {
@@ -329,4 +331,16 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .callout-title-inner {
 	margin-top: -2px;
 	font-weight: 700;
+}
+
+.box .callout-title-inner {
+	color: red;
+}
+
+.box .callout-title-inner::before {
+	content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E");
+	color: red;
+	width: 200px;
+	height: 200px;
+	display: shown;
 }
