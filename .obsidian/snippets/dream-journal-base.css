@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-
 /* ---------------------------------------- Background ---------------------------------------- */
 .dream-journal-base {
 	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
@@ -74,10 +73,9 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .metadata-property .multi-select-container:focus-within {
 	/* Focus Highlight */
 	background-color: rgb(var(--background-highlight));
-}	
+}
 
-
-.dream-journal-base .metadata-add-button.text-icon-button, 
+.dream-journal-base .metadata-add-button.text-icon-button,
 .dream-journal-base .multi-select-pill-remove-button {
 	/* Hides Add and Remove Property */
 	display: none;
@@ -146,7 +144,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 	background-color: rgb(var(--yellow-tint));
 	color: rgb(var(--background-color));
-	
 }
 
 .dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon,
@@ -177,7 +174,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	cursor: pointer !important;
 }
 
-/* ---------------------------------------- Tabs ---------------------------------------- */
+/* ---------------------------------------------- Tabs ---------------------------------------------- */
 .dream-journal-base div.html-tab {
 	padding: 0;
 	height: 30px;
@@ -199,12 +196,11 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	margin-bottom: 12px;
 }
 
-
 /* --------------------------------------------- Tile ---------------------------------------------- */
 .dream-journal-base * {
-	--tile-background: rgb(var(--background-color), .99) ;
-	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0 ;
-	--tile-border: 5px solid rgb(var(--primary-color)) ;
+	--tile-background: rgb(var(--background-color), .99);
+	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0;
+	--tile-border: 5px solid rgb(var(--primary-color));
 }
 
 .markdown-preview-view.dream-journal-base div.inline-title,
@@ -243,7 +239,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .box {
 	max-height: 750px;
 	overflow: scroll;
-	scroll-behavior: smooth;	
+	scroll-behavior: smooth;
 }
 
 /* -------------------- Custom SVG -------------------- */
@@ -261,7 +257,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .box .callout-title-inner::before {
-	background-color: rgb(var(--text));
+	background-color: rgb(var(--primary-color));
 	/* Content */
 	content: '';
 	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='18px' fill='%233fffff' viewBox='0 0 384 512'%3E%3Cpath d='M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
@@ -287,7 +283,9 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 /* -------------------- Text -------------------- */
 .dream-journal-base .callout-title {
 	/* Text Color */
-	color: rgb(var(--text));
+	color: rgb(var(--primary-color));
+	/* Position */
+	margin-top: 15px;
 }
 
 .markdown-rendered.dream-journal-base p {
@@ -298,13 +296,17 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	margin-bottom: 12px;
 }
 
-.dream-journal-base .callout strong, .dream-journal-base .box b, .char-note .callout-title {
+.dream-journal-base .callout strong,
+.dream-journal-base .box b,
+.char-note .callout-title {
 	/* blue accents */
 	color: rgb(var(--blue-tint));
 	font-weight: 700;
 }
 
-.dream-journal-base .callout em,.dream-journal-base .box i, .def-note .callout-title {
+.dream-journal-base .callout em,
+.dream-journal-base .box i,
+.def-note .callout-title {
 	/* purple accents */
 	color: rgb(var(--purple-tint));
 	font-weight: 600;
@@ -332,9 +334,8 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	height: 200px;
 }
 
-
-/* ---------------------------------------- Tile Grid ---------------------------------------- */
-/* ---------- https://codepen.io/Fraasi/pen/aKBbmw ---------- */
+/* -------------------- Tile Grid -------------------- */
+/* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
 .dream-journal-base .wrapper {
 	grid-template-columns: 1fr 1fr;
 	background-color: transparent;
@@ -357,17 +358,4 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .grid.right {
 	grid-column: span 1 / -1;
 	grid-auto-rows: min-content;
-}
-
-.dream-journal-base .callout-title {
-	margin-top: 15px;
-}
-
-.dream-journal-base .callout-icon {
-	display: unset;
-}
-
-.dream-journal-base .callout-title-inner {
-	margin-top: -2px;
-	font-weight: 700;
 }

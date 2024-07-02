@@ -158,10 +158,6 @@
 }
 
 /* -------------------- Custom SVG -------------------- */
-.gods-and-fiends .box .callout-title-inner::before {
-	background-color: rgb(var(--text));
-}
-
 .gods-and-fiends .box.char-note .callout-title-inner::before {
 	background-color: rgb(var(--purple-tint)) !important;
 }
@@ -344,10 +340,6 @@
 }
 
 /* -------------------- Custom SVG -------------------- */
-.nothing-left-to-say .box .callout-title-inner::before {
-	background-color: rgb(var(--text));
-}
-
 .nothing-left-to-say .box.char-note .callout-title-inner::before {
 	background-color: rgb(var(--blue-tint)) !important;
 }
