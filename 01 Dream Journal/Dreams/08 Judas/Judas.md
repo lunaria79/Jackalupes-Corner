@@ -75,8 +75,8 @@ Home:
 								<div class="callout-title-inner"> judas </div>
 							</div>
 							<img alt="placeholder.png" src="">
-							<p> on the shorter side, black hair and stubble. unassuming. good friends with <b> Matteo </b>. Gets along well with Adelaide.</p>
-							<p> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining Adelaide's reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember <b> Alex</b>? <b>Judas</b> blackmailed him to do all that shit. Has been feeding <b>Cole</b> and <i>the Canaries</i> false information to throw them off the track. <b>Matteo</b> however, caught him in a lie, revealing him to be the <i>only</i> person who could've swapped out <b>Adelaide's</b> meds for sugar pills. Seems like <b>Matteo</b> falling for <b>Adelaide</b> was a bigger wrench in your plans than you thought, huh <b>Judas</b>? </p>
+							<p> on the shorter side, black hair and stubble. unassuming. good friends with <b> Matteo </b>. Gets along well with <b>Adelaide</b>.</p>
+							<p> FAKE ASS BITCH. I HATE YOU. Turns out, he was pulling the strings behind the scenes for ruining <b>Adelaide's</b> reputation. You see, if everyone else is focused on the big bad, who would pay attention to him slowly taking up power? Remember <b> Alex</b>? <b>Judas</b> blackmailed him to do all that shit. Has been feeding <b>Cole</b> and <i>the Canaries</i> false information to throw them off the track. <b>Matteo</b> however, caught him in a lie, revealing him to be the <i>only</i> person who could've swapped out <b>Adelaide's</b> meds for sugar pills. Seems like <b>Matteo</b> falling for <b>Adelaide</b> was a bigger wrench in your plans than you thought, huh <b>Judas</b>? </p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -126,7 +126,7 @@ Home:
 					</div>
 				</div>
 				<div class="grid right">
-					<div class="box">
+					<div class="box def-note">
 						<div class="callout-title">
 							<div class="callout-icon">
 								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="currentColor" width="16px" height="16px"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z"></path></svg>
