@@ -343,3 +343,15 @@
 	background: rgb(var(--text)) !important;
 }
 
+/* -------------------- Custom SVG -------------------- */
+.nothing-left-to-say .box .callout-title-inner::before {
+	background-color: rgb(var(--text));
+}
+
+.nothing-left-to-say .box.char-note .callout-title-inner::before {
+	background-color: rgb(var(--blue-tint)) !important;
+}
+
+.nothing-left-to-say .box.def-note .callout-title-inner::before {
+	background-color: rgb(var(--blue-tint)) !important;
+}

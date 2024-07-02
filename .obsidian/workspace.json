@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
                 "mode": "preview",
                 "source": true
               }
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md"
+                "file": "01 Dream Journal/Dreams/Isle of the Gods.md"
               }
             }
           },
@@ -235,17 +236,17 @@
   "active": "6a5e21083d0bf245",
   "lastOpenFiles": [
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/08 Judas/Judas.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "README.md",
     "Updates Prior.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/NANOBEAM.md",
     "01 Dream Journal/Dreams/Trauma Central (Not Official).md",
     "01 Dream Journal/Dream Journal Home Page.md",
