@@ -21,4 +21,6 @@ Previous Chapter:
 + The School of the Arcane Redesigned
 - Judas Special Design Scrapped
 + Code Desgin Updated
++ Judas Completed
++ Milo & Caspian Completed
 ~~~
