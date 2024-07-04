@@ -1,8 +1,13 @@
+---
+cssclasses:
+  - code
+---
 ~~~diff
 2024-06-21
 + Villanous Snakes Give the Best Dick
 + Bridgerton Wishes
-
+~~~
+~~~diff
 2024-06-24
 - Maddness
 + Mary Jane Reformatted
@@ -12,19 +17,22 @@
 + Atomize Reformatted
 ! Reformat Gaia's Wrath
 !  Possibly Redesign Dream Jounal to be more Modern
-
+~~~
+~~~diff
 2024-06-25
 + Updated Dream Journal Design
 ! Redesign Arcane School Newsletter
 - Office Dicothomy
 ! DISCOVERED HOW TO MAKE CUSTOM INFOBOXES
-
+~~~
+~~~diff
 2024-06-27
 + Judas
 - New Format Benched (Pictures will be an issue)
 ! Redesign Milo & Caspian
 ! Create Judas Design
-
+~~~
+~~~diff
 2024-06-29
 + Milo & Caspian Redesigned
 ! Create Judas Design

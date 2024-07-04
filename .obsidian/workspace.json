@@ -46,55 +46,19 @@
             }
           },
           {
-            "id": "655d65f9bbb818c8",
+            "id": "672902d7e7533a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/08 Judas/Judas.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "01174f984c82d263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "46bd92b334c86c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "95c93fd8fa97da96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "Updates Prior.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "Updates Prior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "Updates Prior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md"
+                "file": "Updates Prior.md"
               }
             }
           },
@@ -234,14 +197,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "46bd92b334c86c2c",
+  "active": "672902d7e7533a68",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-    "README.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dream Journal Home Page.md",
+    "Updates Prior.md",
+    "README.md",
+    "03 Others/Minecraft Summon Items.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
@@ -257,9 +223,6 @@
     "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
-    "00 _resources/Templates/Dream Journal Template.md",
-    "Updates Prior.md",
-    "03 Others/Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Dreams/08 Judas",

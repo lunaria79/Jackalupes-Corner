@@ -404,7 +404,6 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	max-width: 65% !important;
 }
 
-/* -------------------- Color + Font Changes -------------------- */
 .arcane-school.markdown-preview-view div.inline-title {
 	color: rgb(var(--primary-color));
 	box-shadow: var(--newsletter-box-shadow);
@@ -416,49 +415,53 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 }
 
 /* ------------------------------------------- Properties ------------------------------------------- */
-.arcane-school div.metadata-container {
-	box-shadow: var(--newsletter-box-shadow)
-}
+	.arcane-school div.metadata-container {
+		box-shadow: var(--newsletter-box-shadow)
+	}
 
-.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill,
-.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
-	color: rgb(var(--primary-color)) !important;
-	background-color: transparent !important;
-	border: 2px solid rgb(var(--primary-color));
-	border-radius: 0;
-}
+	.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+	.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill,
+	.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill {
+		color: rgb(var(--primary-color)) !important;
+		background-color: transparent !important;
+		border: 2px solid rgb(var(--primary-color));
+		border-radius: 0;
+	}
 
-.arcane-school .metadata-container svg,
-.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.arcane-school .metadata-property-key-input {
-	color: rgb(var(--primary-color)) !important;
-	background-color: transparent !important;
-}
+	.arcane-school .metadata-container svg,
+	.arcane-school .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+	.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+	.arcane-school .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+	.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+	.arcane-school .metadata-property-key-input {
+		color: rgb(var(--primary-color)) !important;
+		background-color: transparent !important;
+	}
 
-/* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
-	color: rgb(var(--primary-color)) !important;
-	background-color: transparent !important;
-	border: 2px solid rgb(var(--primary-color)) !important;
-	border-radius: 0 !important;
-	cursor: pointer !important;
-}
+	.arcane-school .metadata-property .multi-select-pill {
+		padding-bottom: 1px;
+	}
 
-.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
-	background: black !important;
-	border-radius: 0 !important;
-	border-color: transparent;
-}
+	/* ---------- Checkboxes ---------- */
+	.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:not(:checked) {
+		color: rgb(var(--primary-color)) !important;
+		background-color: transparent !important;
+		border: 2px solid rgb(var(--primary-color)) !important;
+		border-radius: 0 !important;
+		cursor: pointer !important;
+	}
 
-.arcane-school input[type=checkbox]:checked:after {
-	-webkit-mask-image: none;
-	background: black !important;
-	border-radius: 0 !important;
-}
+	.theme-dark:not(.css-settings-manager) .arcane-school input[type=checkbox]:checked {
+		background: black !important;
+		border-radius: 0 !important;
+		border-color: transparent;
+	}
+
+	.arcane-school input[type=checkbox]:checked:after {
+		-webkit-mask-image: none;
+		background: black !important;
+		border-radius: 0 !important;
+	}
 
 /* ---------------------------------------- Navigation Bar ------------------------------------------ */
 	.arcane-school div.html-tabs {
@@ -481,9 +484,9 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 }
 
 /* ------------------------ Tabs ----------------------- */
-.arcane-school div.html-tabs p {
-	margin-top: 0 !important;
-}
+	.arcane-school div.html-tabs p {
+		margin-top: 0 !important;
+	}
 
 /* -------------------- Custom Tile -------------------- */
 .arcane-school .box {

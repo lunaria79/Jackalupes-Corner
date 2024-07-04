@@ -1,12 +1,12 @@
 ---
-Home:
-  - "[[The School of the Arcane]]"
 cssclasses:
   - dream-journal-base
   - arcane-school
 tags:
   - in-progress
 Completed: false
+Home:
+  - "[[The School of the Arcane]]"
 ---
 <div class="wrapper grid interview">
 	<div class="grid left">
