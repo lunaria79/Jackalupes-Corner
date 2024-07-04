@@ -62,138 +62,138 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 }
 
 /* ------------------------------------------- Properties ------------------------------------------- */
-.dream-journal-base .metadata-properties-title {
-	/* Properties Title Apperance */
-	color: rgb(var(--primary-color));
-	font-weight: 800;
-}
+	.dream-journal-base .metadata-properties-title {
+		/* Properties Title Apperance */
+		color: rgb(var(--primary-color));
+		font-weight: 800;
+	}
 
-.metadata-property .multi-select-container:focus,
-.metadata-property .multi-select-container:focus-within {
-	/* Focus Highlight */
-	background-color: rgb(var(--background-highlight));
-}
+	.metadata-property .multi-select-container:focus,
+	.metadata-property .multi-select-container:focus-within {
+		/* Focus Highlight */
+		background-color: rgb(var(--background-highlight));
+	}
 
-.dream-journal-base .metadata-add-button.text-icon-button,
-.dream-journal-base .multi-select-pill-remove-button {
-	/* Hides Add and Remove Property */
-	display: none;
-}
+	.dream-journal-base .metadata-add-button.text-icon-button,
+	.dream-journal-base .multi-select-pill-remove-button {
+		/* Hides Add and Remove Property */
+		display: none;
+	}
 
-.dream-journal-base div.metadata-properties-heading.is-collapsed {
-	/* Properties Collapsed Behavior */
-	padding: 0;
-}
+	.dream-journal-base div.metadata-properties-heading.is-collapsed {
+		/* Properties Collapsed Behavior */
+		padding: 0;
+	}
 
-.dream-journal-base div.metadata-container.is-collapsed {
-	/* Properties Collapsed Behavior */
-	height: 45px;
-}
+	.dream-journal-base div.metadata-container.is-collapsed {
+		/* Properties Collapsed Behavior */
+		height: 45px;
+	}
 
-/* -------------------- Classes + Tags -------------------- */
-.dream-journal-base .metadata-property .multi-select-pill {
-	background-color: rgb(var(--purple-tint));
-	border-radius: var(--small-radius);
-	padding: 3px 5px;
-	cursor: pointer;
-	text-decoration: none;
-	font-weight: 700;
-}
+	/* -------------------- Classes + Tags -------------------- */
+	.dream-journal-base .metadata-property .multi-select-pill {
+		background-color: rgb(var(--purple-tint));
+		border-radius: var(--small-radius);
+		padding: 3px 5px;
+		cursor: pointer;
+		text-decoration: none;
+		font-weight: 700;
+	}
 
-.dream-journal-base .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property {
-	font-weight: 700;
-}
+	.dream-journal-base .metadata-property-icon svg.svg-icon,
+	.dream-journal-base .metadata-property {
+		font-weight: 700;
+	}
 
-.dream-journal-base .multi-select-pill-content {
-	margin: 0;
-}
+	.dream-journal-base .multi-select-pill-content {
+		margin: 0;
+	}
 
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
-	color: rgb(var(--blue-tint));
-}
+	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+	.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
+		color: rgb(var(--blue-tint));
+	}
 
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--blue-tint));
-	color: rgb(var(--background-color));
-}
+	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--blue-tint));
+		color: rgb(var(--background-color));
+	}
 
-.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
-	color: rgb(var(--orange-tint));
-}
+	.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+	.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+		color: rgb(var(--orange-tint));
+	}
 
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--orange-tint));
-	color: rgb(var(--background-color));
-}
+	.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
+	.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+	.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--orange-tint));
+		color: rgb(var(--background-color));
+	}
 
-.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
-	color: rgb(var(--yellow-tint));
-}
+	.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon,
+	.dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+		color: rgb(var(--yellow-tint));
+	}
 
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--yellow-tint));
-	color: rgb(var(--background-color));
-}
+	.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill,
+	.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+	.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--yellow-tint));
+		color: rgb(var(--background-color));
+	}
 
-.dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-	color: rgb(var(--green-tint));
-}
+	.dream-journal-base .metadata-property[data-property-key="Completed"] svg.svg-icon,
+	.dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+		color: rgb(var(--green-tint));
+	}
 
-/* -------------------- Checkboxes -------------------- */
-.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
-	color: rgb(var(--red-tint));
-	background-color: transparent !important;
-	border: 2px solid rgb(var(--red-tint));
-	border-radius: var(--small-radius);
-	cursor: pointer !important;
-}
+	/* -------------------- Checkboxes -------------------- */
+	.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
+		color: rgb(var(--red-tint));
+		background-color: transparent !important;
+		border: 2px solid rgb(var(--red-tint));
+		border-radius: var(--small-radius);
+		cursor: pointer !important;
+	}
 
-.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
-	background: rgb(var(--green-tint));
-	border-radius: var(--small-radius);
-	border-color: rgb(var(--green-tint));
-	cursor: pointer !important;
-}
+	.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
+		background: rgb(var(--green-tint));
+		border-radius: var(--small-radius);
+		border-color: rgb(var(--green-tint));
+		cursor: pointer !important;
+	}
 
-.dream-journal-base input[type=checkbox]:checked:after {
-	background: rgb(var(--green-tint));
-	border-radius: var(--small-radius);
-	-webkit-mask-image: none;
-	cursor: pointer !important;
-}
+	.dream-journal-base input[type=checkbox]:checked:after {
+		background: rgb(var(--green-tint));
+		border-radius: var(--small-radius);
+		-webkit-mask-image: none;
+		cursor: pointer !important;
+	}
 
 /* ---------------------------------------------- Tabs ---------------------------------------------- */
-.dream-journal-base div.html-tab {
-	padding: 0;
-	height: 30px;
-}
+	.dream-journal-base div.html-tab {
+		padding: 0;
+		height: 30px;
+	}
 
-.dream-journal-base div.html-tab:hover {
-	color: rgb(var(--primary-color));
-}
+	.dream-journal-base div.html-tab:hover {
+		color: rgb(var(--primary-color));
+	}
 
-.dream-journal-base .html-tab-active {
-	color: rgb(var(--text));
-	border-bottom-width: 2px;
-	border-bottom-style: solid;
-	border-color: rgb(var(--primary-color));
-}
+	.dream-journal-base .html-tab-active {
+		color: rgb(var(--text));
+		border-bottom-width: 2px;
+		border-bottom-style: solid;
+		border-color: rgb(var(--primary-color));
+	}
 
-.markdown-rendered.dream-journal-base .html-tab p {
-	margin-top: 0;
-	margin-bottom: 12px;
-}
+	.markdown-rendered.dream-journal-base .html-tab p {
+		margin-top: 0;
+		margin-bottom: 12px;
+	}
 
 /* --------------------------------------------- Tile ---------------------------------------------- */
 .dream-journal-base * {
@@ -247,6 +247,12 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	max-height: 750px;
 	overflow: scroll;
 	scroll-behavior: smooth;
+}
+
+.dream-journal-base .box:hover {
+	cursor: pointer;
+	transition: 200ms;
+	transform: scale(1.01);
 }
 
 /* -------------------- Custom SVG -------------------- */

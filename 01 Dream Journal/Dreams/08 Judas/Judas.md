@@ -3,8 +3,7 @@ cssclasses:
   - dream-journal-base
 tags:
   - dream
-  - in-progress
-Completed: false
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
 ---
@@ -29,6 +28,7 @@ Home:
 							<div class="callout-title"> <div class="callout-title-inner"> The Judas Confrontation </div> </div>
 							<p>The funniest thing about the <b> Judas </b> Confrontation, is that while it's recorded, both <b> Judas </b> and <b> Matteo </b> are in maid bunny cosplay. </p>
 							<p> That's pretty much the only thing. During Halloween, <b>Matteo</b> breaks in to the school following a lead that he got from <b> Cole </b> on the location of where the school keeps their video tapes. After finding the tapes for the med bay on the day that <b>Adelaide's</b> meds were stolen, he went back to his dorm to watch it. While the perpetrator was completely unidentifiable by appearance, the color drains from <b>Matteo's</b> face when he realizes that the man has a limping gait. The exact same that <b>Jude</b> started walking with the day before due to a baseball injury.</p>
+							<p><b>Matteo</b> storms into <b>Judas'</b> room and confronts him. <b>Judas</b> emotionally devastates him and leaves.<b>Adelaide</b> and <b>Cole</b> show up for the Halloween get together and find <b>Matteo</b> sobbing in a maid dress.</p>
 						</div>
 					</div>
 					<div class="grid right">
