@@ -1,15 +1,15 @@
 ---
-Home:
-  - "[[Dream Journal Home Page]]"
-  - "[[ZIALONA Home Page]]"
 cssclasses:
   - dream-journal-base
   - arcane-school
 tags:
+  - dream
   - home
   - in-progress
-  - dream
 Completed: false
+Home:
+  - "[[Dream Journal Home Page]]"
+  - "[[ZIALONA Home Page]]"
 ---
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">
@@ -50,10 +50,10 @@ Completed: false
 							<p>The Headmaster invited us behind the closed doors of their office for an interview.</p>
 						</div>
 						<a class="internal-link" href="Liu Fènghuáng " target="_blank" rel="noopener">
-						<div class="box char-note">
-							<div class="callout-title"> <div class="callout-title-inner">  Interview with Liu Fènghuáng </div> </div>
-							<p>The Phoenix of the Tàiyáng De Ānxí Zhī Dì sits down to talk to us about his upgrining, his struggles, and the family he found along the way.</p>
-						</div>
+							<div class="box char-note">
+								<div class="callout-title"> <div class="callout-title-inner">  Interview with Liu Fènghuáng </div> </div>
+								<p>The Phoenix of the Tàiyáng De Ānxí Zhī Dì sits down to talk to us about his upbringing, his struggles, and the family he found along the way.</p>
+							</div>
 						</a>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">  Interview with Aefir </div> </div>

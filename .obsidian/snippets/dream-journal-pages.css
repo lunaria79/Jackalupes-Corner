@@ -7,375 +7,376 @@
 	Barlow: Of Gods & Fiends, Nothing Left to Say
 	Aleo: Arcane School
 */
-/* ----------------------------------------- Milo & Caspian ----------------------------------------- */
-.milo-caspian * {
-	/* Colors */
-	--background-color: 33, 29, 29;
-	--background-highlight: 209, 138, 152, .1;
-	--primary-color: 209, 138, 152;
-	--text: 204, 195, 197;
-	--red-tint: 209, 138, 152;
-	--blue-tint: 166, 189, 238;
-	--purple-tint: 139, 114, 152;
-	/* Fonts */
-	font-family: "Rokkitt", serif;
-}
 
-.milo-caspian {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
-	background-blend-mode: soft-light;
-	background-color: rgb(var(--background-color), .5);
-}
+/* ------------------------------------------ Milo & Caspian ----------------------------------------- */
+	.milo-caspian * {
+		/* Colors */
+		--background-color: 33, 29, 29;
+		--background-highlight: 209, 138, 152, .1;
+		--primary-color: 209, 138, 152;
+		--text: 204, 195, 197;
+		--red-tint: 209, 138, 152;
+		--blue-tint: 166, 189, 238;
+		--purple-tint: 139, 114, 152;
+		/* Fonts */
+		font-family: "Rokkitt", serif;
+	}
 
-.milo-caspian .box b,
-.milo-caspian .char-note .callout-title {
-	/* blue accents */
-	color: rgb(var(--red-tint));
-	font-weight: 700;
-}
+	.milo-caspian {
+		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
+		background-blend-mode: soft-light;
+		background-color: rgb(var(--background-color), .5);
+	}
 
-.milo-caspian .box i,
-.milo-caspian .def-note .callout-title {
-	/* purple accents */
-	color: rgb(var(--blue-tint));
-	font-weight: 600;
-}
+	.milo-caspian .box b,
+	.milo-caspian .char-note .callout-title {
+		/* blue accents */
+		color: rgb(var(--red-tint));
+		font-weight: 700;
+	}
 
-/* ---------- Classes + Tags ---------- */
-.milo-caspian .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.milo-caspian .metadata-property[data-property-key="tags"] input.metadata-property-key-input,
-.milo-caspian .metadata-property[data-property-key="Home"] svg.svg-icon,
-.milo-caspian .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
-	color: rgb(var(--red-tint));
-}
+	.milo-caspian .box i,
+	.milo-caspian .def-note .callout-title {
+		/* purple accents */
+		color: rgb(var(--blue-tint));
+		font-weight: 600;
+	}
 
-.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill,
-.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill,
-.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--red-tint));
-}
+	/* ---------- Classes + Tags ---------- */
+	.milo-caspian .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+	.milo-caspian .metadata-property[data-property-key="tags"] input.metadata-property-key-input,
+	.milo-caspian .metadata-property[data-property-key="Home"] svg.svg-icon,
+	.milo-caspian .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
+		color: rgb(var(--red-tint));
+	}
 
-.milo-caspian .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-.milo-caspian .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-	color: rgb(var(--blue-tint)) !important;
-}
+	.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill,
+	.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+	.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+	.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill,
+	.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+	.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--red-tint));
+	}
 
-/* -------------------- Checkboxes -------------------- */
-.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:not(:checked) {
-	color: rgb(var(--red-tint)) !important;
-	border: 2px solid rgb(var(--red-tint)) !important;
-}
+	.milo-caspian .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+	.milo-caspian .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+		color: rgb(var(--blue-tint)) !important;
+	}
 
-.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:checked {
-	background: rgb(var(--blue-tint)) !important;
-}
+	/* -------------------- Checkboxes -------------------- */
+	.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:not(:checked) {
+		color: rgb(var(--red-tint)) !important;
+		border: 2px solid rgb(var(--red-tint)) !important;
+	}
 
-.milo-caspian input[type=checkbox]:checked:after {
-	background: rgb(var(--blue-tint)) !important;
-}
+	.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:checked {
+		background: rgb(var(--blue-tint)) !important;
+	}
 
-/* -------------------- Custom Tile -------------------- */
-.milo-caspian .char-note {
-	border-left-color: rgb(var(--red-tint));
-}
+	.milo-caspian input[type=checkbox]:checked:after {
+		background: rgb(var(--blue-tint)) !important;
+	}
 
-.milo-caspian .def-note {
-	border-left-color: rgb(var(--blue-tint));
-}
+	/* -------------------- Custom Tile -------------------- */
+	.milo-caspian .char-note {
+		border-left-color: rgb(var(--red-tint));
+	}
 
-/* -------------------- Custom SVG -------------------- */
-.milo-caspian .box.char-note .callout-title-inner::before {
-	background-color: rgb(var(--red-tint)) !important;
-}
+	.milo-caspian .def-note {
+		border-left-color: rgb(var(--blue-tint));
+	}
 
-.milo-caspian .box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--blue-tint)) !important;
-}
+	/* -------------------- Custom SVG -------------------- */
+	.milo-caspian .box.char-note .callout-title-inner::before {
+		background-color: rgb(var(--red-tint)) !important;
+	}
+
+	.milo-caspian .box.def-note .callout-title-inner::before {
+		background-color: rgb(var(--blue-tint)) !important;
+	}
 
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
-.gods-and-fiends * {
-	/* Colors */
-	--background-color: 21, 7, 29;
-	--background-highlight: 185, 51, 73, .1;
-	--primary-color: 185, 51, 73;
-	--text: 255, 230, 215;
-	--red-tint: 185, 51, 73;
-	--blue-tint: 96, 159, 230;
-	--purple-tint: 229, 36, 142;
-	/* Fonts */
-	font-family: "Barlow", sans-serif;
-}
+	.gods-and-fiends * {
+		/* Colors */
+		--background-color: 21, 7, 29;
+		--background-highlight: 185, 51, 73, .1;
+		--primary-color: 185, 51, 73;
+		--text: 255, 230, 215;
+		--red-tint: 185, 51, 73;
+		--blue-tint: 96, 159, 230;
+		--purple-tint: 229, 36, 142;
+		/* Fonts */
+		font-family: "Barlow", sans-serif;
+	}
 
-/* -------------------- Properties -------------------- */
-.gods-and-fiends {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
-	background-blend-mode: soft-light;
-	background-color: rgb(var(--background-color), .15) !important;
-}
+	/* -------------------- Properties -------------------- */
+	.gods-and-fiends {
+		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
+		background-blend-mode: soft-light;
+		background-color: rgb(var(--background-color), .15) !important;
+	}
 
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
-.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-	color: rgb(var(--text)) !important;
-}
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
+	.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+		color: rgb(var(--text)) !important;
+	}
 
-.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
-.gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
-	color: rgb(var(--red-tint)) !important;
-}
+	.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
+	.gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
+	.gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+	.gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+		color: rgb(var(--red-tint)) !important;
+	}
 
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--text)) !important;
-	color: rgb(var(--red-tint)) !important;
-	font-weight: 700;
-}
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--text)) !important;
+		color: rgb(var(--red-tint)) !important;
+		font-weight: 700;
+	}
 
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--red-tint)) !important;
-	color: rgb(var(--text)) !important;
-}
+	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill,
+	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
+	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--red-tint)) !important;
+		color: rgb(var(--text)) !important;
+	}
 
-/* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
-	color: rgb(var(--primary-color)) !important;
-	border: 2px solid rgb(var(--primary-color)) !important;
-}
+	/* ---------- Checkboxes ---------- */
+	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
+		color: rgb(var(--primary-color)) !important;
+		border: 2px solid rgb(var(--primary-color)) !important;
+	}
 
-.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked {
-	background: rgb(var(--text)) !important;
-}
+	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked {
+		background: rgb(var(--text)) !important;
+	}
 
-.gods-and-fiends input[type=checkbox]:checked:after {
-	background: rgb(var(--text)) !important;
-}
+	.gods-and-fiends input[type=checkbox]:checked:after {
+		background: rgb(var(--text)) !important;
+	}
 
-/* -------------------- Custom Tile -------------------- */
-.gods-and-fiends .char-note {
-	border-left-color: rgb(var(--purple-tint));
-}
+	/* -------------------- Custom Tile -------------------- */
+	.gods-and-fiends .char-note {
+		border-left-color: rgb(var(--purple-tint));
+	}
 
-.gods-and-fiends .def-note {
-	border-left-color: rgb(var(--blue-tint));
-}
+	.gods-and-fiends .def-note {
+		border-left-color: rgb(var(--blue-tint));
+	}
 
-/* -------------------- Custom SVG -------------------- */
-.gods-and-fiends .box.char-note .callout-title-inner::before {
-	background-color: rgb(var(--purple-tint)) !important;
-}
+	/* -------------------- Custom SVG -------------------- */
+	.gods-and-fiends .box.char-note .callout-title-inner::before {
+		background-color: rgb(var(--purple-tint)) !important;
+	}
 
-.gods-and-fiends .box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--blue-tint)) !important;
-}
+	.gods-and-fiends .box.def-note .callout-title-inner::before {
+		background-color: rgb(var(--blue-tint)) !important;
+	}
 
-/* -------------------- Changes -------------------- */
-.gods-and-fiends h3 {
-	color: rgb(var(--yellow-tint)) !important;
-}
+	/* -------------------- Changes -------------------- */
+	.gods-and-fiends h3 {
+		color: rgb(var(--yellow-tint)) !important;
+	}
 
-.markdown-preview-view.gods-and-fiends div.inline-title {
-	color: rgb(var(--text)) !important;
-}
+	.markdown-preview-view.gods-and-fiends div.inline-title {
+		color: rgb(var(--text)) !important;
+	}
 
-.gods-and-fiends .char-note div.callout-title {
-	color: rgb(var(--purple-tint)) !important;
-}
+	.gods-and-fiends .char-note div.callout-title {
+		color: rgb(var(--purple-tint)) !important;
+	}
 
-.gods-and-fiends .def-note div.callout-title {
-	color: rgb(var(--blue-tint)) !important;
-}
+	.gods-and-fiends .def-note div.callout-title {
+		color: rgb(var(--blue-tint)) !important;
+	}
 
-.gods-and-fiends b {
-	color: rgb(var(--blue-tint)) !important;
-	font-weight: 800;
-}
+	.gods-and-fiends b {
+		color: rgb(var(--blue-tint)) !important;
+		font-weight: 800;
+	}
 
-.gods-and-fiends i {
-	color: rgb(var(--purple-tint)) !important;
-	font-weight: 700;
-}
+	.gods-and-fiends i {
+		color: rgb(var(--purple-tint)) !important;
+		font-weight: 700;
+	}
 
-/* -------------------- CRT -------------------- */
-/* https://aleclownes.com/2017/02/01/crt-display.html */
-.markdown-reading-view div.crt div.markdown-preview-sizer::before {
-	content: " ";
-	display: block;
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	background: linear-gradient(90deg, rgba(21, 7, 29, 0.15) 0%, rgba(185, 51, 73, 0.10247426607361698) 50%, rgba(21, 7, 29, 0.15) 100%);
-	z-index: 2;
-	background-size: 100% 2px, 3px 100%;
-	pointer-events: none;
-}
+	/* -------------------- CRT -------------------- */
+	/* https://aleclownes.com/2017/02/01/crt-display.html */
+	.markdown-reading-view div.crt div.markdown-preview-sizer::before {
+		content: " ";
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		background: linear-gradient(90deg, rgba(21, 7, 29, 0.15) 0%, rgba(185, 51, 73, 0.10247426607361698) 50%, rgba(21, 7, 29, 0.15) 100%);
+		z-index: 2;
+		background-size: 100% 2px, 3px 100%;
+		pointer-events: none;
+	}
 
-@keyframes flicker {
-	0% { opacity: 0.27861; }
-	5% { opacity: 0.34769; }
-	10% { opacity: 0.23604; }
-	15% { opacity: 0.90626; }
-	20% { opacity: 0.18128; }
-	25% { opacity: 0.83891; }
-	30% { opacity: 0.65583; }
-	35% { opacity: 0.67807;	}
-	40% { opacity: 0.26559;	}
-	45% { opacity: 0.84693;	}
-	50% { opacity: 0.96019;	}
-	55% { opacity: 0.08594;	}
-	60% { opacity: 0.20313;	}
-	65% { opacity: 0.71988;	}
-	70% { opacity: 0.53455;	}
-	75% { opacity: 0.37288;	}
-	80% { opacity: 0.71428;	}
-	85% { opacity: 0.70419;	}
-	90% { opacity: 0.70030;	}
-	95% { opacity: 0.36108;	}
-	100% { opacity: 0.24387; }
-}
+	@keyframes flicker {
+		0% { opacity: 0.27861; }
+		5% { opacity: 0.34769; }
+		10% { opacity: 0.23604; }
+		15% { opacity: 0.90626; }
+		20% { opacity: 0.18128; }
+		25% { opacity: 0.83891; }
+		30% { opacity: 0.65583; }
+		35% { opacity: 0.67807;	}
+		40% { opacity: 0.26559;	}
+		45% { opacity: 0.84693;	}
+		50% { opacity: 0.96019;	}
+		55% { opacity: 0.08594;	}
+		60% { opacity: 0.20313;	}
+		65% { opacity: 0.71988;	}
+		70% { opacity: 0.53455;	}
+		75% { opacity: 0.37288;	}
+		80% { opacity: 0.71428;	}
+		85% { opacity: 0.70419;	}
+		90% { opacity: 0.70030;	}
+		95% { opacity: 0.36108;	}
+		100% { opacity: 0.24387; }
+	}
 
-.markdown-reading-view div.crt div.markdown-preview-sizer::after {
-	content: " ";
-	display: block;
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	background: rgba(21, 7, 29, .1);
-	opacity: 0;
-	z-index: 2;
-	pointer-events: none;
-	animation: flicker 1s infinite;
-}
+	.markdown-reading-view div.crt div.markdown-preview-sizer::after {
+		content: " ";
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		background: rgba(21, 7, 29, .1);
+		opacity: 0;
+		z-index: 2;
+		pointer-events: none;
+		animation: flicker 1s infinite;
+	}
 
 /* --------------------------------------- Nothing Left to Say --------------------------------------- */
-.nothing-left-to-say * {
-	/* Colors */
-	--background-color: 18, 14, 11;
-	--background-highlight: 143, 134, 117, .1;
-	--primary-color: 143, 134, 117;
-	--yellow-tint: 153, 149, 107;
-	--green-tint: 81, 88, 70;
-	--blue-tint: 62, 74, 77;
-	--text: 199, 195, 186;
-	/* Fonts */
-	font-family: "Barlow", sans-serif;
-}
+	.nothing-left-to-say * {
+		/* Colors */
+		--background-color: 18, 14, 11;
+		--background-highlight: 143, 134, 117, .1;
+		--primary-color: 143, 134, 117;
+		--yellow-tint: 153, 149, 107;
+		--green-tint: 81, 88, 70;
+		--blue-tint: 62, 74, 77;
+		--text: 199, 195, 186;
+		/* Fonts */
+		font-family: "Barlow", sans-serif;
+	}
 
-.nothing-left-to-say {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/sleeping-deer.jpg") center center / cover no-repeat;
-	background-size: 100%;
-}
+	.nothing-left-to-say {
+		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/sleeping-deer.jpg") center center / cover no-repeat;
+		background-size: 100%;
+	}
 
-/* -------------------- Font Changes -------------------- */
-.nothing-left-to-say h4 {
-	color: rgb(var(--yellow-tint)) !important;
-}
+	/* -------------------- Font Changes -------------------- */
+	.nothing-left-to-say h4 {
+		color: rgb(var(--yellow-tint)) !important;
+	}
 
-.markdown-preview-view.nothing-left-to-say div.inline-title {
-	color: rgb(var(--text)) !important;
-}
+	.markdown-preview-view.nothing-left-to-say div.inline-title {
+		color: rgb(var(--text)) !important;
+	}
 
-.nothing-left-to-say .char-note div.callout-title {
-	color: rgb(var(--blue-tint)) !important;
-}
+	.nothing-left-to-say .char-note div.callout-title {
+		color: rgb(var(--blue-tint)) !important;
+	}
 
-.nothing-left-to-say .def-note div.callout-title {
-	color: rgb(var(--blue-tint)) !important;
-}
+	.nothing-left-to-say .def-note div.callout-title {
+		color: rgb(var(--blue-tint)) !important;
+	}
 
-.nothing-left-to-say img {
-	width: 200px;
-	float: left;
-	margin-right: 10px;
-}
+	.nothing-left-to-say img {
+		width: 200px;
+		float: left;
+		margin-right: 10px;
+	}
 
-/* -------------------- Properties -------------------- */
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
-.nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-.nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-	color: rgb(var(--text));
-}
+	/* -------------------- Properties -------------------- */
+	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
+	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
+	.nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
+	.nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
+		color: rgb(var(--text));
+	}
 
-.nothing-left-to-say .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
-.nothing-left-to-say .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
-.nothing-left-to-say .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.nothing-left-to-say .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
-	color: rgb(var(--green-tint));
-}
+	.nothing-left-to-say .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
+	.nothing-left-to-say .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
+	.nothing-left-to-say .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
+	.nothing-left-to-say .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
+		color: rgb(var(--green-tint));
+	}
 
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--text));
-	color: rgb(var(--green-tint));
-	font-weight: 700;
-}
+	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--text));
+		color: rgb(var(--green-tint));
+		font-weight: 700;
+	}
 
-.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill,
-.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill,
-.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--green-tint));
-	color: rgb(var(--text));
-	font-weight: 700;
-}
+	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill,
+	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-content,
+	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
+	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill,
+	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
+	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
+		background-color: rgb(var(--green-tint));
+		color: rgb(var(--text));
+		font-weight: 700;
+	}
 
-/* ---------- Checkboxes ---------- */
-.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:not(:checked) {
-	color: rgb(var(--primary-color)) !important;
-	background-color: transparent !important;
-	border: 2px solid rgb(var(--primary-color)) !important;
-}
+	/* ---------- Checkboxes ---------- */
+	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:not(:checked) {
+		color: rgb(var(--primary-color)) !important;
+		background-color: transparent !important;
+		border: 2px solid rgb(var(--primary-color)) !important;
+	}
 
-.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked {
-	background: rgb(var(--text)) !important;
-}
+	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked {
+		background: rgb(var(--text)) !important;
+	}
 
-.nothing-left-to-say input[type=checkbox]:checked:after {
-	background: rgb(var(--text)) !important;
-}
+	.nothing-left-to-say input[type=checkbox]:checked:after {
+		background: rgb(var(--text)) !important;
+	}
 
-/* -------------------- Custom Tile -------------------- */
-.nothing-left-to-say .char-note {
-	border-left-color: rgb(var(--blue-tint));
-}
+	/* -------------------- Custom Tile -------------------- */
+	.nothing-left-to-say .char-note {
+		border-left-color: rgb(var(--blue-tint));
+	}
 
-.nothing-left-to-say .def-note {
-	border-left-color: rgb(var(--green-tint));
-}
+	.nothing-left-to-say .def-note {
+		border-left-color: rgb(var(--green-tint));
+	}
 
-.nothing-left-to-say .def-note .callout-title-inner {
-	color: rgb(var(--green-tint)) !important;
-}
+	.nothing-left-to-say .def-note .callout-title-inner {
+		color: rgb(var(--green-tint)) !important;
+	}
 
-/* -------------------- Custom SVG -------------------- */
-.nothing-left-to-say .box.char-note .callout-title-inner::before {
-	background-color: rgb(var(--blue-tint)) !important;
-}
+	/* -------------------- Custom SVG -------------------- */
+	.nothing-left-to-say .box.char-note .callout-title-inner::before {
+		background-color: rgb(var(--blue-tint)) !important;
+	}
 
-.nothing-left-to-say .box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--green-tint)) !important;
-}
+	.nothing-left-to-say .box.def-note .callout-title-inner::before {
+		background-color: rgb(var(--green-tint)) !important;
+	}
 
-/* ------------------------------------------ Arcane School ----------------------------------------- */
+/* ----------------------------------------- Arcane School ------------------------------------------- */
 .app-container .arcane-school * {
 	/* Colors */
 	--background-color: 255, 255, 255;
@@ -489,6 +490,11 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 	cursor: pointer;
 }
 
+/* ------------------------ Tabs ----------------------- */
+.arcane-school div.html-tabs p {
+	margin-top: 0 !important;
+}
+
 /* -------------------- Custom Tile -------------------- */
 .arcane-school .char-note {
 	border-left-color: rgb(var(--primary-color));
@@ -564,6 +570,11 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
 
 .arcane-school a.internal-link:hover div.callout-title-inner::before {
 	background-color: rgb(var(--background-color)) !important;
+}
+
+.arcane-school a.internal-link:hover {
+	cursor: pointer;
+
 }
 
 /* ----- Description Panel ----- */
