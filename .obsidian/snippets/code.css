@@ -128,14 +128,25 @@
 	}
 
 /* ----------------------- Difference ----------------------- */
-pre.language-diff {
-	margin-bottom: 5px;
-}
+	pre.language-diff {
+		margin-bottom: 10px !important;
+	}
 
-.language-diff .token {
-	font-weight: 600;
-}
+	.language-diff .token {
+		font-weight: 700;
+	}
 
-.language-diff .token.inserted {
-	color: #21f47f !important;
-}
+	.language-diff .token.inserted,
+	.cm-positive {
+		color: #21f47f !important;
+	}
+
+	.language-diff .token.deleted,
+	.cm-negative {
+		color: #ff0031 !important;
+	}
+
+	.language-diff .token.bold,
+	.cm-hmd-codeblock {
+		color: #fbecff;
+	}

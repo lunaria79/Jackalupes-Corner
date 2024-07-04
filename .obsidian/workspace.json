@@ -46,12 +46,24 @@
             }
           },
           {
-            "id": "672902d7e7533a68",
+            "id": "ad1a38b8a4a81c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates Prior.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63373cfc34db01ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
                 "mode": "preview",
                 "source": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Updates Prior.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Updates Prior.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Updates Prior.md"
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md"
               }
             }
           },
@@ -197,16 +209,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "672902d7e7533a68",
+  "active": "ad1a38b8a4a81c04",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/08 Judas/Judas.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
-    "Updates Prior.md",
-    "README.md",
-    "03 Others/Minecraft Summon Items.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "Updates Prior.md",
+    "03 Others/Minecraft Summon Items.md",
+    "README.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
