@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+                "file": "01 Dream Journal/Dreams/08 Judas/Judas.md",
                 "mode": "preview",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Others/Minecraft Summon Items.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "mode": "preview",
                 "source": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Others/Minecraft Summon Items.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Others/Minecraft Summon Items.md",
+                "file": "01 Dream Journal/For Aeli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Others/Minecraft Summon Items.md"
+                "file": "01 Dream Journal/For Aeli.md"
               }
             }
           },
@@ -210,6 +210,10 @@
   },
   "active": "63373cfc34db01ad",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/08 Judas/Judas.md",
+    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
+    "03 Others/Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "README.md",
     "Updates Prior.md",
@@ -218,9 +222,7 @@
     "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "02 These Lyrics Will Write Themselves/00 - Table of Contents.md",
-    "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
@@ -232,10 +234,8 @@
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Dreams/NANOBEAM.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
-    "01 Dream Journal/For Aeli.md",
     "03 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "03 Others/Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Dreams/08 Judas",
     "03 Others",
