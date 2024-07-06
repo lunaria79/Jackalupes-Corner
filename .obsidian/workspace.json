@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 Pokemon/Testing.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -76,13 +76,13 @@
               "type": "markdown",
               "state": {
                 "file": "02 Pokemon/Image Staging.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Testing.md",
+                "file": "02 Pokemon/Image Staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Testing.md",
+                "file": "02 Pokemon/Image Staging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Testing.md"
+                "file": "02 Pokemon/Image Staging.md"
               }
             }
           },
@@ -220,16 +221,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "864097951112d394",
+  "active": "b908e11ed1006393",
   "lastOpenFiles": [
-    "02 Pokemon/Originals.md",
-    "02 Pokemon/Testing.md",
+    "Updates Prior.md",
     "02 Pokemon/Image Staging.md",
+    "02 Pokemon/Testing.md",
+    "README.md",
+    "02 Pokemon/03 Status/vulpix-status.png",
+    "02 Pokemon/Originals.md",
     "02 Pokemon/03 Status/jolteon-status.svg",
     "00 _resources/Untitled.png",
     "02 Pokemon/01 Pokemon/jolteon.gif",
     "02 Pokemon/02 Egg/Eevee_Egg.png",
-    "README.md",
     "02 Pokemon/04 Held Item/everstone.png",
     "02 Pokemon/03 Status/vulpix-status.svg",
     "02 Pokemon/03 Status",
@@ -242,7 +245,6 @@
     "02 Pokemon/04 Held Item",
     "02 Pokemon/02 Egg",
     "02 Pokemon/01 Pokemon",
-    "Updates Prior.md",
     "01 Dream Journal/For Aeli.md",
     "02 Pokemon",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
@@ -261,7 +263,6 @@
     "01 Dream Journal/Dreams/03 The Secret Garden/01 Characters/𝚓𝚞𝚗𝚎.md",
     "01 Dream Journal/Dreams/03 The Secret Garden/𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝 𝚐𝚊𝚛𝚍𝚎𝚗 𝚋𝚞𝚝 𝚋𝚢 𝚓𝚊𝚗𝚎 𝚊𝚞𝚜𝚝𝚎𝚗 𝚋𝚞𝚝 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚚𝚞𝚎𝚎𝚛.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Dreams/08 Judas",
     "04 Others",
     "01 Dream Journal/Dreams/07 Atomize/Images",

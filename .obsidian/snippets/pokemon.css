@@ -54,7 +54,11 @@
 
 /* ------------------------------------------- Table Setup ------------------------------------------ */
 .pokemon td[data-et-cell="10"] img {
-	max-height: 50px;
+	scale: 1;
+}
+
+.pokemon img {
+	max-height: 100px;
 }
 
 .pokemon tr {
@@ -65,4 +69,9 @@
 
 .pokemon td img {
 	margin: auto auto;
+}
+
+.pokemon td {
+    margin-left: auto;
+    margin-right: auto;
 }
