@@ -1,50 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 /* ------------------------------------------- Page Setup ------------------------------------------- */
-.pokemon {
-	background: url("") center center / cover no-repeat;
-	background-blend-mode: soft-light;
-	background-color: rgb(var(--background-color), .5);
+	.pokemon {
+		background: url("") center center / cover no-repeat;
+		background-blend-mode: soft-light;
+		background-color: rgb(var(--background-color), .5);
+	}
+
+	.pokemon * {
+		/* Colors */
+		--background-color: 28, 28, 44;
+		--background-highlight: 32, 35, 53;
+		--primary-color: 243, 172, 208;
+		--text: 255, 255, 255;
+		--red-tint: 247, 151, 130;
+		--orange-tint: 247, 202, 130;
+		--yellow-tint: 222, 233, 165;
+		--green-tint: 165, 233, 176;
+		--blue-tint: 165, 214, 230;
+		--purple-tint: 213, 168, 233;
+		/* Sizes */
+		--large-radius: 20px;
+		--medium-radius: 10px;
+		--small-radius: 5px;
+		--file-line-width: 60%;
+		/* Fonts */
+		font-family: "Dosis", sans-serif;
+	}
+
+	div.markdown-source-view.pokemon.is-live-preview,
+	.markdown-source-view.pokemon {
+		background-image: none;
+		background-color: transparent;
+	}
+
+	div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
+		backdrop-filter: blur(0px);
+		padding: 10px;
+		max-width: 90%;
+	}
+
+	.markdown-source-view.mod-cm6.is-readable-line-width.pokemon .cm-sizer {
+		max-width: 80% !important;
+		font-size: 12px;
+	}
+
+	.pokemon .mod-header {
+		padding: 10px;
+	}
+
+	.pokemon div.html-tab-content {
+		padding: 0;
+	}
+
+/* ------------------------------------------- Table Setup ------------------------------------------ */
+.pokemon td[data-et-cell="10"] img {
+	max-height: 50px;
 }
 
-.pokemon * {
-	/* Colors */
-	--background-color: 28, 28, 44;
-	--background-highlight: 32, 35, 53;
-	--primary-color: 243, 172, 208;
-	--text: 255, 255, 255;
-	--red-tint: 247, 151, 130;
-	--orange-tint: 247, 202, 130;
-	--yellow-tint: 222, 233, 165;
-	--green-tint: 165, 233, 176;
-	--blue-tint: 165, 214, 230;
-	--purple-tint: 213, 168, 233;
-	/* Sizes */
-	--large-radius: 20px;
-	--medium-radius: 10px;
-	--small-radius: 5px;
-	--file-line-width: 60%;
-	/* Fonts */
-	font-family: "Dosis", sans-serif;
+.pokemon tr {
+	height: 50px;
+
+	text-align: center;
 }
 
-div.markdown-source-view.pokemon.is-live-preview,
-.markdown-source-view.pokemon {
-	background-image: none;
-	background-color: transparent;
+.pokemon td img {
+	margin: auto auto;
 }
-
-div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
-	backdrop-filter: blur(0px);
-	padding: 10px;
-	max-width: 90%;
-}
-
-.pokemon .mod-header {
-	padding: 10px;
-}
-
-.pokemon div.html-tab-content {
-	padding: 0;
-}
-
-/* ------------------------------------------- Table Setup ------------------------------------------- */

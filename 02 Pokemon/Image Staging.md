@@ -1,8 +1,3 @@
-![](01%20Pokemon/vulpix.gif)
-![](01%20Pokemon/eevee.gif)
-![](02%20Egg/Vulpix_Egg.png)
-![vulpix-status](03%20Status/vulpix-status.svg)
-![](04%20Held%20Item/everstone.png)
-![](02%20Egg/Eevee_Egg.png)
-![](01%20Pokemon/jolteon.gif)
-![](03%20Status/jolteon-status.svg)
+| Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif)   | [Vulpix](https://pokemondb.net/pokedex/vulpix)   | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire     |        | Fire       | TRUE      | FA LSE   | ![vulpix](03%20Status/vulpix-status.svg) | -                                                 |           |            |           |
+| Kanto  | 0133    | ![eevee](01%20Pokemon/eevee.gif)     | [Eevee](https://pokemondb.net/pokedex/eevee)     | ![Eevee_Egg](02%20Egg/Eevee_Egg.png)   | Normal   |        | Normal     | FALSE     | FALSE    | -                                        | -                                                 |           |            |           |
+| Kanto  | 0135    | ![jolteon](01%20Pokemon/jolteon.gif) | [Jolteon](https://pokemondb.net/pokedex/jolteon) | ![Eevee_Egg](02%20Egg/Eevee_Egg.png)   | Electric |        | Electric   | FALSE     | TRUE     | -                                        | ![jolteon-status](03%20Status/jolteon-status.svg) |           |            |           |

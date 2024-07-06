@@ -73,9 +73,11 @@
             "id": "b908e11ed1006393",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "02 Pokemon/03 Status/jolteon-status.svg"
+                "file": "02 Pokemon/Image Staging.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -220,11 +222,11 @@
   },
   "active": "864097951112d394",
   "lastOpenFiles": [
-    "02 Pokemon/03 Status/jolteon-status.svg",
-    "02 Pokemon/Image Staging.md",
-    "00 _resources/Untitled.png",
-    "02 Pokemon/Testing.md",
     "02 Pokemon/Originals.md",
+    "02 Pokemon/Testing.md",
+    "02 Pokemon/Image Staging.md",
+    "02 Pokemon/03 Status/jolteon-status.svg",
+    "00 _resources/Untitled.png",
     "02 Pokemon/01 Pokemon/jolteon.gif",
     "02 Pokemon/02 Egg/Eevee_Egg.png",
     "README.md",
