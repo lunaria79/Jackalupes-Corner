@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 Pokemon/Testing.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -76,13 +76,13 @@
               "type": "markdown",
               "state": {
                 "file": "02 Pokemon/Image Staging.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Originals.md",
+                "file": "02 Pokemon/Image Staging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Originals.md",
+                "file": "02 Pokemon/Image Staging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Originals.md"
+                "file": "02 Pokemon/Image Staging.md"
               }
             }
           },
@@ -221,11 +220,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1f01a8e57dad2cde",
+  "active": "b908e11ed1006393",
   "lastOpenFiles": [
+    "00 _resources/ninetales.gif",
     "02 Pokemon/Testing.md",
-    "02 Pokemon/Originals.md",
     "02 Pokemon/Image Staging.md",
+    "02 Pokemon/Originals.md",
     "Updates Prior.md",
     "README.md",
     "02 Pokemon/03 Status/vulpix-status.png",

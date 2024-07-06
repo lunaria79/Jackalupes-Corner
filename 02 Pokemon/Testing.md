@@ -4,8 +4,8 @@ cssclasses:
 ---
 
 ```yaml enhanced-tables
-yes-format: "TRUE" 
-no-format: "FALSE"
+yes-format: "1" 
+no-format: "0"
 filter: $row.numberColumn > 1200
 columns:
   Number column:
@@ -24,7 +24,7 @@ columns:
     type: bool
   Held Item:
     type: bool
-filter: $row.Collected === '✔'
+filter: Boolean($row.Collected) > 0
 filters:
     Evolving: $row.Evolving === 'TRUE'
 pagination:
@@ -42,6 +42,5 @@ hide-configuration: false
 ```
 | Region | Pokedex | Pokemon                            | Pokedex Entry                                  | Egg                                    | Type A | Type B | Best Field | Collected | Evolving | Status                                          |
 | ------ | ------- | ---------------------------------- | ---------------------------------------------- | -------------------------------------- | ------ | ------ | ---------- | --------- | -------- | ----------------------------------------------- |
-| Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif) | [Vulpix](https://pokemondb.net/pokedex/vulpix) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | TRUE      | FALSE    | ![vulpix-status](03%20Status/vulpix-status.png) |
-| Kanto  | 0097    | Ghastly                            | Ghastly                                        | Ghastly                                | Ghost  | Posion | Ghost      | True      | False    | Gastly                                          |
+| Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif) | [Vulpix](https://pokemondb.net/pokedex/vulpix) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | 1         | 0        | ![vulpix-status](03%20Status/vulpix-status.png) |
 |        |         |                                    |                                                |                                        |        |        |            |           |          |                                                 |
