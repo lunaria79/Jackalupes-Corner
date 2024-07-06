@@ -1,8 +1,8 @@
 ```yaml enhanced-tables
 
 # date-format: DD-MM-YYYY
-yes-format: "yes"
-no-format: "no"
+yes-format: "true"
+no-format: "false"
 
 columns:
   Number column:
@@ -27,8 +27,6 @@ columns:
       '5': '⭐️⭐️⭐️⭐️⭐️'
   Boolean:
     type: bool
-    yes-format: '👍'
-    no-format: '👎'
 filter: $row.numberColumn > 1200
 filters:
  Small numbers: $row.numberColumn < 1200
@@ -46,12 +44,12 @@ style: |
      color: var(--color-base-70) !important;
    }
 # hide-controls: true
-hide-configuration: true
+hide-configuration: false
 ```
 
 | Id | Number column | Date       | Rating | Formatted    | Hidden             | Boolean  |
 |----|---------------|------------|--------|--------------|--------------------| -------- |
 | 1  | 500           | 01-01-2024 | 2      | _**bold**_   | Text you won't see |          |
-| 2  | 1000          | 07-02-2024 | 5      |              |                    | no       |
-| 3  | 1500          | 11-06-2024 | 1      | green        |                    | yes      | 
+| 2  | 1000          | 07-02-2024 | 5      |              |                    | false       |
+| 3  | 1500          | 11-06-2024 | 1      | green        |                    | true      | 
 | 4  | 10000         | 05-01-2024 | 4      | ~~strike~~   |                    | whatever |

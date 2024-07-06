@@ -75,8 +75,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Pokemon/Originals.md",
-                "mode": "source",
+                "file": "02 Pokemon/Untitled.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -87,14 +87,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Pokemon/Untitled.md",
+                "file": "02 Pokemon/Originals.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b908e11ed1006393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Pokemon/Untitled 1.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -144,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -161,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Untitled.md",
+                "file": "02 Pokemon/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Untitled.md",
+                "file": "02 Pokemon/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Untitled.md"
+                "file": "02 Pokemon/Untitled 1.md"
               }
             }
           },
@@ -233,12 +244,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1f01a8e57dad2cde",
+  "active": "b908e11ed1006393",
   "lastOpenFiles": [
     "02 Pokemon/Originals.md",
+    "02 Pokemon/Untitled 1.md",
     "02 Pokemon/Untitled.md",
-    "Updates Prior.md",
+    "02 Pokemon/03 Held Item",
+    "02 Pokemon/02 Egg",
+    "02 Pokemon/01 Pokemon",
     "README.md",
+    "Updates Prior.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/For Aeli.md",
     "02 Pokemon",
@@ -261,7 +276,6 @@
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
-    "01 Dream Journal/Dreams/NANOBEAM.md",
     "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg",
     "01 Dream Journal/Dreams/08 Judas",
     "04 Others",
@@ -277,9 +291,6 @@
     "00 _resources/Screenshot 2024-06-16 171912 2.png",
     "Dreams",
     "01 Dream Journal/Dreams/06 Mary Jane/Images",
-    "01 Dream Journal/Dreams/06 Mary Jane",
-    "03 These Lyrics Will Write Themselves",
-    "10 Onymoji/Shikigami",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

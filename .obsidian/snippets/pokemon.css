@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 /* ------------------------------------------- Page Setup ------------------------------------------- */
-..pokemon {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
+.pokemon {
+	background: url("") center center / cover no-repeat;
 	background-blend-mode: soft-light;
 	background-color: rgb(var(--background-color), .5);
 }
 
-..pokemon * {
+.pokemon * {
 	/* Colors */
 	--background-color: 28, 28, 44;
 	--background-highlight: 32, 35, 53;
@@ -27,8 +27,8 @@
 	font-family: "Dosis", sans-serif;
 }
 
-div.markdown-source-view..pokemon.is-live-preview,
-.markdown-source-view..pokemon {
+div.markdown-source-view.pokemon.is-live-preview,
+.markdown-source-view.pokemon {
 	background-image: none;
 	background-color: transparent;
 }
@@ -36,13 +36,15 @@ div.markdown-source-view..pokemon.is-live-preview,
 div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
 	backdrop-filter: blur(0px);
 	padding: 10px;
-	max-width: 5%;
+	max-width: 90%;
 }
 
-..pokemon .mod-header {
+.pokemon .mod-header {
 	padding: 10px;
 }
 
-..pokemon div.html-tab-content {
+.pokemon div.html-tab-content {
 	padding: 0;
 }
+
+/* ------------------------------------------- Table Setup ------------------------------------------- */
