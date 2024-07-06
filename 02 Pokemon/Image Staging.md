@@ -1,3 +1,8 @@
 ![](01%20Pokemon/vulpix.gif)
 ![](01%20Pokemon/eevee.gif)
 ![](02%20Egg/Vulpix_Egg.png)
+![vulpix-status](03%20Status/vulpix-status.svg)
+![](04%20Held%20Item/everstone.png)
+![](02%20Egg/Eevee_Egg.png)
+![](01%20Pokemon/jolteon.gif)
+![](03%20Status/jolteon-status.svg)

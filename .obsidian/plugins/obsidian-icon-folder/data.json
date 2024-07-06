@@ -151,5 +151,10 @@
   "02 Pokemon": "FasFolderOpen",
   "02 Pokemon/01 Pokemon/vulpix.gif": "FasImage",
   "02 Pokemon/01 Pokemon/eevee.gif": "FasImage",
-  "02 Pokemon/02 Egg/Vulpix_Egg.png": "FasImage"
+  "02 Pokemon/02 Egg/Vulpix_Egg.png": "FasImage",
+  "02 Pokemon/03 Status/vulpix-status.svg": "FasImage",
+  "02 Pokemon/04 Held Item/everstone.png": "FasImage",
+  "02 Pokemon/02 Egg/Eevee_Egg.png": "FasImage",
+  "02 Pokemon/01 Pokemon/jolteon.gif": "FasImage",
+  "02 Pokemon/03 Status/jolteon-status.svg": "FasImage"
 }
