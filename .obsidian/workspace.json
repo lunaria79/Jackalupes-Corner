@@ -76,13 +76,13 @@
               "type": "markdown",
               "state": {
                 "file": "02 Pokemon/Image Staging.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Image Staging.md",
+                "file": "02 Pokemon/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Image Staging.md",
+                "file": "02 Pokemon/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Image Staging.md"
+                "file": "02 Pokemon/Testing.md"
               }
             }
           },
@@ -221,14 +221,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b908e11ed1006393",
+  "active": "864097951112d394",
   "lastOpenFiles": [
-    "Updates Prior.md",
-    "02 Pokemon/Image Staging.md",
+    "02 Pokemon/Originals.md",
     "02 Pokemon/Testing.md",
+    "02 Pokemon/Image Staging.md",
+    "Updates Prior.md",
     "README.md",
     "02 Pokemon/03 Status/vulpix-status.png",
-    "02 Pokemon/Originals.md",
     "02 Pokemon/03 Status/jolteon-status.svg",
     "00 _resources/Untitled.png",
     "02 Pokemon/01 Pokemon/jolteon.gif",
