@@ -24,7 +24,7 @@ columns:
     type: bool
   Held Item:
     type: bool
-filter: $row.collected === 'yes'
+filter: $row.collected === 'TRUE'
 filters:
     Evolving: $row.Evolving === 'TRUE'
 pagination:
