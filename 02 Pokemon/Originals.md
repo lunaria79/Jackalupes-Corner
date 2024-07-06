@@ -5,8 +5,6 @@ yes-format: "yes"
 no-format: "no"
 
 columns:
-  Regions:
-     type: number
   Number column:
     alias: numberColumn
     type: number
@@ -50,9 +48,10 @@ style: |
 # hide-controls: true
 hide-configuration: true
 ```
-| Id  | Region | Number column | Date       | Rating | Formatted  | Hidden             | Boolean  |
-| --- | -------------------- | ---------- | ------ | ---------- | ------------------ | -------- |
-| 0037   | 500                  | 01-01-2024 | 2      | _**bold**_ | Text you won't see |          |
-| 0038   | 1000                 | 07-02-2024 | 5      |            |                    | no       |
-| 0059   | 1500                 | 11-06-2024 | 1      | green      |                    | yes      |
-| 0077   | 10000                | 05-01-2024 | 4      | ~~strike~~ |                    | whatever |
+
+| Id | Number column | Date       | Rating | Formatted    | Hidden             | Boolean  |
+|----|---------------|------------|--------|--------------|--------------------| -------- |
+| 1  | 500           | 01-01-2024 | 2      | _**bold**_   | Text you won't see |          |
+| 2  | 1000          | 07-02-2024 | 5      |              |                    | no       |
+| 3  | 1500          | 11-06-2024 | 1      | green        |                    | yes      | 
+| 4  | 10000         | 05-01-2024 | 4      | ~~strike~~   |                    | whatever |
