@@ -46,25 +46,13 @@
             }
           },
           {
-            "id": "1f01a8e57dad2cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Pokemon/Originals.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "864097951112d394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Pokemon/Testing.md",
-                "mode": "source",
+                "file": "02 Pokemon/Original.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -87,12 +75,12 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "02 Pokemon/01 Pokemon/arcanine.gif"
+                "file": "02 Pokemon/02 Egg/Growlithe_Egg.png"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/01 Pokemon/arcanine.gif",
+                "file": "02 Pokemon/Original.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/01 Pokemon/arcanine.gif",
+                "file": "02 Pokemon/Original.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/01 Pokemon/arcanine.gif"
+                "file": "02 Pokemon/Original.md"
               }
             }
           },
@@ -230,25 +218,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6599ad2015552ad3",
+  "active": "864097951112d394",
   "lastOpenFiles": [
-    "02 Pokemon/Image Staging.md",
-    "02 Pokemon/Testing.md",
-    "02 Pokemon/01 Pokemon/arcanine.gif",
-    "02 Pokemon/03 Status/ninetales-status.png",
-    "Updates Prior.md",
-    "02 Pokemon/03 Status/vulpix-status.png",
-    "02 Pokemon/03 Status/vulpix-status2.png",
-    "02 Pokemon/03 Status/vulpix-status1.png",
-    "02 Pokemon/01 Pokemon/ninetales.gif",
-    "02 Pokemon/Originals.md",
-    "README.md",
-    "02 Pokemon/03 Status/jolteon-status.svg",
-    "00 _resources/Untitled.png",
-    "02 Pokemon/01 Pokemon/jolteon.gif",
-    "02 Pokemon/02 Egg/Eevee_Egg.png",
-    "02 Pokemon/03 Status",
     "01 Dream Journal/Dream Journal Home Page.md",
+    "02 Pokemon/Image Staging.md",
+    "02 Pokemon/Original.md",
+    "02 Pokemon/Testing.md",
+    "02 Pokemon/01 Pokemon/rapidash.gif",
+    "02 Pokemon/02 Egg/Ponyta_Egg.png",
+    "02 Pokemon/01 Pokemon/ponyta.gif",
+    "02 Pokemon/02 Egg/Growlithe_Egg.png",
+    "02 Pokemon/03 Status/growlithe-status.png",
+    "02 Pokemon/03 Status/vulpix-status.png",
+    "02 Pokemon/03 Status/ninetales-status.png",
+    "02 Pokemon/01 Pokemon/arcanine.gif",
+    "02 Pokemon/04 Held Item/everstone.png",
+    "Updates Prior.md",
+    "02 Pokemon/03 Status/vulpix-status2.png",
+    "README.md",
+    "02 Pokemon/03 Status",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "02 Pokemon/04 Held Item",

@@ -155,5 +155,10 @@
   "02 Pokemon/04 Held Item/everstone.png": "FasImage",
   "02 Pokemon/02 Egg/Eevee_Egg.png": "FasImage",
   "02 Pokemon/01 Pokemon/jolteon.gif": "FasImage",
-  "02 Pokemon/01 Pokemon/ninetales.gif": "FasImage"
+  "02 Pokemon/01 Pokemon/ninetales.gif": "FasImage",
+  "02 Pokemon/02 Egg/Growlithe_Egg.png": "FasImage",
+  "02 Pokemon/03 Status/ninetales-status.png": "FasImage",
+  "02 Pokemon/03 Status/vulpix-status.png": "FasImage",
+  "02 Pokemon/03 Status/growlithe-status.png": "FasImage",
+  "02 Pokemon/Original.md": "FasFileLines"
 }

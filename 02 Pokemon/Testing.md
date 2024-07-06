@@ -1,12 +1,9 @@
----
-cssclasses:
-  - pokemon
----
-
 ```yaml enhanced-tables
-yes-format: "1" 
+
+# date-format: DD-MM-YYYY
+yes-format: "1"
 no-format: "0"
-filter: $row.numberColumn > 1200
+
 columns:
   Number column:
     alias: numberColumn
@@ -18,20 +15,31 @@ columns:
   Formatted:
     formatter: "`#${$row.Id}) ${$cell}`"
     nowrap: true
-  Collected:
+  Hidden:
+    hidden: true
+  Rating:
+    type: enum
+    enum:
+      '1': '⭐️'
+      '2': '⭐️⭐️'
+      '3': '⭐️⭐️⭐️'
+      '4': '⭐️⭐️⭐️⭐️'
+      '5': '⭐️⭐️⭐️⭐️⭐️'
+  Boolean:
     type: bool
-  Evolving:
-    type: bool
-  Held Item:
-    type: bool
-filter: Boolean($row.Collected) > -1
+filter: $row.numberColumn > 1200
 filters:
-    Evolving: Boolean($row.Evolving) > 0
+ Small numbers: $row.numberColumn < 1200
+ High rating: Number($row.Rating) > 3
+ Green: $row.Formatted === 'green'
+ Boolean: Boolean($row.Boolean) > 1
+sort: Rating
+# sort: -Rating
 pagination:
-  page-size: 50
+  page-size: 5
   page-sizes:
-   - 50
-   - 100
+   - 5
+   - 10
 style: |
    th {
      background-color: var(--color-base-50) !important;
@@ -41,8 +49,9 @@ style: |
 hide-configuration: false
 ```
 
-| Region | Pokedex | Pokemon                                  | Pokedex Entry                                        | Egg                                    | Type A | Type B | Best Field | Collected | Evolving | Status                                                |
-| ------ | ------- | ---------------------------------------- | ---------------------------------------------------- | -------------------------------------- | ------ | ------ | ---------- | --------- | -------- | ----------------------------------------------------- |
-| Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif)       | [Vulpix](https://pokemondb.net/pokedex/vulpix)       | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | 1         | 0        | ![vulpix-status](03%20Status/vulpix-status.png)       |
-| Kanto  | 0038    | ![ninetales](01%20Pokemon/ninetales.gif) | [Ninetales](https://pokemondb.net/pokedex/ninetales) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | 1         | 0        | ![ninetales-status](03%20Status/ninetales-status.png) |
-| Kanto  | 0059    |                                          |                                                      |                                        |        |        |            |           |          |                                                       |
+| Id | Number column | Date       | Rating | Formatted    | Hidden             | Boolean  |
+|----|---------------|------------|--------|--------------|--------------------| -------- |
+| 1  | 500           | 01-01-2024 | 2      | _**bold**_   | Text you won't see |    0      |
+| 2  | 1000          | 07-02-2024 | 5      |              |                    | 0       |
+| 3  | 1500          | 11-06-2024 | 1      | green        |                    | 1      | 
+| 4  | 10000         | 05-01-2024 | 4      | ~~strike~~   |                    | 1 |
