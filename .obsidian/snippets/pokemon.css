@@ -70,7 +70,7 @@
 	margin: auto auto;
 }
 
-.pokemon td {
+.pokemon td, .pokemon th {
     margin: auto;
     text-align:center; 
     vertical-align:middle;
