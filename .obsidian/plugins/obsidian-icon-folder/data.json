@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasImage",
       "FasFolderOpen",
       "FasFileLines",
       "FasFileImage",
-      "FasFolderTree",
-      "FasFileCode"
+      "FasFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -148,5 +148,8 @@
   "04 Others": "FasFolderOpen",
   "04 Others/Markdown Cheat Sheet.md": "FasFileCode",
   "04 Others/Minecraft Summon Items.md": "FasFileCode",
-  "02 Pokemon": "FasFolderOpen"
+  "02 Pokemon": "FasFolderOpen",
+  "02 Pokemon/01 Pokemon/vulpix.gif": "FasImage",
+  "02 Pokemon/01 Pokemon/eevee.gif": "FasImage",
+  "02 Pokemon/02 Egg/Vulpix_Egg.png": "FasImage"
 }
