@@ -24,9 +24,9 @@ columns:
     type: bool
   Held Item:
     type: bool
-filter: Boolean($row.Collected) > 0
+filter: Boolean($row.Collected) > -1
 filters:
-    Evolving: $row.Evolving === 'TRUE'
+    Evolving: Boolean($row.Evolving) > 0
 pagination:
   page-size: 50
   page-sizes:
@@ -40,7 +40,9 @@ style: |
 # hide-controls: true
 hide-configuration: false
 ```
-| Region | Pokedex | Pokemon                            | Pokedex Entry                                  | Egg                                    | Type A | Type B | Best Field | Collected | Evolving | Status                                          |
-| ------ | ------- | ---------------------------------- | ---------------------------------------------- | -------------------------------------- | ------ | ------ | ---------- | --------- | -------- | ----------------------------------------------- |
-| Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif) | [Vulpix](https://pokemondb.net/pokedex/vulpix) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | 1         | 0        | ![vulpix-status](03%20Status/vulpix-status.png) |
-|        |         |                                    |                                                |                                        |        |        |            |           |          |                                                 |
+
+| Region | Pokedex | Pokemon                                  | Pokedex Entry                                        | Egg                                    | Type A | Type B | Best Field | Collected | Evolving | Status                                                |
+| ------ | ------- | ---------------------------------------- | ---------------------------------------------------- | -------------------------------------- | ------ | ------ | ---------- | --------- | -------- | ----------------------------------------------------- |
+| Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif)       | [Vulpix](https://pokemondb.net/pokedex/vulpix)       | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | 1         | 0        | ![vulpix-status](03%20Status/vulpix-status.png)       |
+| Kanto  | 0038    | ![ninetales](01%20Pokemon/ninetales.gif) | [Ninetales](https://pokemondb.net/pokedex/ninetales) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png) | Fire   | -      | Fire       | 1         | 0        | ![ninetales-status](03%20Status/ninetales-status.png) |
+| Kanto  | 0059    |                                          |                                                      |                                        |        |        |            |           |          |                                                       |
