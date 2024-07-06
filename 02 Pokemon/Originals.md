@@ -1,8 +1,8 @@
 ```yaml enhanced-tables
 
 # date-format: DD-MM-YYYY
-yes-format: "true"
-no-format: "false"
+yes-format: "1"
+no-format: "0"
 
 columns:
   Number column:
@@ -31,6 +31,8 @@ filter: $row.numberColumn > 1200
 filters:
  Small numbers: $row.numberColumn < 1200
  High rating: Number($row.Rating) > 3
+ Green: $row.Formatted === 'green'
+ Boolean: Boolean($row.Boolean) > 1
 sort: Rating
 # sort: -Rating
 pagination:
@@ -49,7 +51,7 @@ hide-configuration: false
 
 | Id | Number column | Date       | Rating | Formatted    | Hidden             | Boolean  |
 |----|---------------|------------|--------|--------------|--------------------| -------- |
-| 1  | 500           | 01-01-2024 | 2      | _**bold**_   | Text you won't see |          |
-| 2  | 1000          | 07-02-2024 | 5      |              |                    | false       |
-| 3  | 1500          | 11-06-2024 | 1      | green        |                    | true      | 
-| 4  | 10000         | 05-01-2024 | 4      | ~~strike~~   |                    | whatever |
+| 1  | 500           | 01-01-2024 | 2      | _**bold**_   | Text you won't see |    0      |
+| 2  | 1000          | 07-02-2024 | 5      |              |                    | 0       |
+| 3  | 1500          | 11-06-2024 | 1      | green        |                    | 1      | 
+| 4  | 10000         | 05-01-2024 | 4      | ~~strike~~   |                    | 2 |

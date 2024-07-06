@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Testing.md",
+                "file": "02 Pokemon/Originals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Testing.md",
+                "file": "02 Pokemon/Originals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Testing.md"
+                "file": "02 Pokemon/Originals.md"
               }
             }
           },
@@ -221,10 +221,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "864097951112d394",
+  "active": "1f01a8e57dad2cde",
   "lastOpenFiles": [
-    "02 Pokemon/Originals.md",
     "02 Pokemon/Testing.md",
+    "02 Pokemon/Originals.md",
     "02 Pokemon/Image Staging.md",
     "Updates Prior.md",
     "README.md",
