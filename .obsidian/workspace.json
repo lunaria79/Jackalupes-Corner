@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 Pokemon/Original.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -207,20 +208,19 @@
   },
   "active": "b908e11ed1006393",
   "lastOpenFiles": [
-    "02 Pokemon/03 Status/rhyhorn-status.png",
-    "02 Pokemon/03 Status/haunter-status.png",
-    "02 Pokemon/03 Status/gastly-status.png",
-    "02 Pokemon/Rhyhorn_Egg.png",
-    "02 Pokemon/Original.md",
-    "02 Pokemon/Mew_Egg.png",
-    "02 Pokemon/Mew_Egg 1.png",
-    "02 Pokemon/Dratini_Egg.png",
-    "02 Pokemon/Snorlax_Egg.png",
-    "02 Pokemon/Eevee_Egg 1.png",
-    "02 Pokemon/Eevee_Egg 2.png",
-    "02 Pokemon/Eevee_Egg.png",
     "02 Pokemon/Testing.md",
+    "02 Pokemon/Original.md",
     "02 Pokemon/Image Staging.md",
+    "02 Pokemon/02 Egg/Rhyhorn_Egg.png",
+    "02 Pokemon/02 Egg/Magikarp_Egg.png",
+    "02 Pokemon/02 Egg/Ditto_Egg.png",
+    "02 Pokemon/03 Status/jolteon-status.png",
+    "02 Pokemon/03 Status/snorlax-status.png",
+    "02 Pokemon/03 Status/dratini-status.png",
+    "02 Pokemon/03 Status/magikarp-status.png",
+    "02 Pokemon/03 Status/ditto-status.png",
+    "02 Pokemon/03 Status/tangela-status.png",
+    "02 Pokemon/03 Status/rhyhorn-status.png",
     "04 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "Updates Prior.md",

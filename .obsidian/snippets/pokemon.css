@@ -1,7 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-/* ------------------------------------------- Page Setup ------------------------------------------- */
+/* ------------------------------------------- Colors ------------------------------------------- */
+
+.pokemon.blue {
+	--background: #ebeff1;
+	
+	--header-background: #9bb7c9;
+	--first-column-background: #d0e0e3;
+
+	--table-row-odd: whitesmoke;
+	--table-row-even: #ebeff1;
+	--box-shadow-color: #c9d1db;
+
+	--font-color: #45818e;
+}
+
+.pokemon.green {
+	--background: #fefcfd;
+	
+	--header-background: #c4b8bc;
+	--first-column-background: #efe5e6;
+
+	--table-row-odd: whitesmoke;
+	--table-row-even: #f9f5f5;
+	--box-shadow-color: #ebe7e7;
+
+	--font-color: #9e8a88;	
+}
+
+/* - - - - - - - - - - Page Setup - - - - - - - - - - */
 	.markdown-preview-view.markdown-rendered.pokemon {
-		background: #ebeff1;
+		background: var(--background);
 	}
 
 	div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
@@ -19,74 +47,72 @@
 		display: none;
 	}
 
-/* ------------------------------------------- Table Setup ------------------------------------------ */
-& .pokemon .table-container {
-	/* Table Width */
-	width: 100% !important;
-	transform: scale(.85);
-    margin-top: -20px;
-    margin-bottom: -10px;
-}
+/* - - - - - - - - - - Table Setup - - - - - - - - - - */
+	.pokemon .table-container {
+		/* Table Width */
+		width: 100% !important;
+		transform: scale(.85);
+	    margin-top: -20px;
+	    margin-bottom: -10px;
+	}
 
-.pokemon.markdown-rendered table {
-	border-radius: 0;
-	box-shadow: 12px 12px #c9d1db;
-	outline: none;
-}
+	.pokemon.markdown-rendered table {
+		border-radius: 0;
+		box-shadow: 12px 12px var(--box-shadow-color);
+		outline: none;
+	}
 
-.pokemon td, .pokemon th {
-    margin: auto;
-    text-align: center; 
-    vertical-align: middle;
-}
-
+	.pokemon td, .pokemon th {
+	    margin: auto;
+	    text-align: center; 
+	    vertical-align: middle;
+	}
 
 /* - - - Header - - - */
-.pokemon tr > th, & th  {
-	height: 35px;
-	color: whitesmoke !important;
-	background: #9bb7c9 !important;
-}
+	.pokemon tr > th, & th  {
+		height: 35px;
+		color: whitesmoke !important;
+		background: var(--header-background) !important;
+	}
 
 /* - - - Rows - - - */
-.pokemon tr {
-	height: 25px;
-	text-align: center;
-}
+	.pokemon tr {
+		height: 25px;
+		text-align: center;
+	}
 
-.pokemon.markdown-rendered tr, .pokemon.markdown-rendered tr a, .pokemon td {
-	font-weight: 700;
-	font-size: 18px !important;
-	color: #45818e !important;
-	text-decoration: none;
-	-webkit-text-fill-color: unset !important;
-}
+	.pokemon.markdown-rendered tr, .pokemon.markdown-rendered tr a, .pokemon td {
+		font-weight: 700;
+		font-size: 18px !important;
+		color: var(--font-color) !important;
+		text-decoration: none;
+		-webkit-text-fill-color: unset !important;
+	}
 
-.pokemon.markdown-rendered tbody tr:nth-child(odd), .pokemon.markdown-rendered tbody tr:nth-child(odd):hover {
-	background: whitesmoke;
-}
+	.pokemon.markdown-rendered tbody tr:nth-child(odd), .pokemon.markdown-rendered tbody tr:nth-child(odd):hover {
+		background: var(--table-row-odd);
+	}
 
-.pokemon.markdown-rendered tbody tr:nth-child(even), .pokemon.markdown-rendered tbody tr:nth-child(even):hover {
-	background: #ebeff1;
-}
+	.pokemon.markdown-rendered tbody tr:nth-child(even), .pokemon.markdown-rendered tbody tr:nth-child(even):hover {
+		background: var(--table-row-even);
+	}
 
 /* - - - Columns - - - */
-.cm-html-embed tbody tr > td:first-child, .markdown-rendered tbody tr > td:first-child {
-	background: #d0e0e3;
-}
-
+	.pokemon.markdown-rendered tbody tr > td:first-child {
+		background: var(--first-column-background);
+	}
 
 /* - - - Images - - - */
-.pokemon td[data-et-cell="10"] img {
-	scale: 1;
-}
+	.pokemon td[data-et-cell="10"] img {
+		scale: 1;
+	}
 
-.pokemon img {
-	max-height: 100px;
-}
+	.pokemon img {
+		max-height: 100px;
+	}
 
 
-.pokemon td img {
-	margin: auto auto;
-}
+	.pokemon td img {
+		margin: auto auto;
+	}
 
