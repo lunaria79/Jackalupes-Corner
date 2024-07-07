@@ -15,7 +15,7 @@
 		max-width: 80% !important;
 	}
 
-	div.metadata-container {
+	.markdown-preview-view.show-properties.pokemon .metadata-container {
 		display: none;
 	}
 
@@ -23,6 +23,10 @@
 & .pokemon .table-container {
 	/* Table Width */
 	width: 100% !important;
+	transform: scale(.85);
+    margin-top: -20px;
+    margin-bottom: -20px;
+
 }
 
 .pokemon.markdown-rendered table {

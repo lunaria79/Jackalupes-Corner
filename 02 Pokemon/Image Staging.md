@@ -1,6 +1,0 @@
-![](01%20Pokemon/ninetales.gif)
-![](01%20Pokemon/arcanine.gif)
-![](02%20Egg/Growlithe_Egg.png)
-![](01%20Pokemon/ponyta.gif)
-![](02%20Egg/Ponyta_Egg.png)
-![](01%20Pokemon/rapidash.gif)
