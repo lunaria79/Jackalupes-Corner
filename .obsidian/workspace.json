@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -187,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,6 +207,9 @@
   },
   "active": "b908e11ed1006393",
   "lastOpenFiles": [
+    "02 Pokemon/03 Status/rhyhorn-status.png",
+    "02 Pokemon/03 Status/haunter-status.png",
+    "02 Pokemon/03 Status/gastly-status.png",
     "02 Pokemon/Rhyhorn_Egg.png",
     "02 Pokemon/Original.md",
     "02 Pokemon/Mew_Egg.png",
@@ -218,9 +219,6 @@
     "02 Pokemon/Eevee_Egg 1.png",
     "02 Pokemon/Eevee_Egg 2.png",
     "02 Pokemon/Eevee_Egg.png",
-    "02 Pokemon/Ditto_Egg.png",
-    "02 Pokemon/Magikarp_Egg.png",
-    "02 Pokemon/Tangela_Egg.png",
     "02 Pokemon/Testing.md",
     "02 Pokemon/Image Staging.md",
     "04 Others/Markdown Cheat Sheet.md",
