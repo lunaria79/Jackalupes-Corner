@@ -13,7 +13,20 @@
       "FasFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": ".png",
+        "icon": "FasImage",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": ".gif",
+        "icon": "FasImage",
+        "for": "everything",
+        "order": 1
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -160,5 +173,6 @@
   "02 Pokemon/03 Status/ninetales-status.png": "FasImage",
   "02 Pokemon/03 Status/vulpix-status.png": "FasImage",
   "02 Pokemon/03 Status/growlithe-status.png": "FasImage",
-  "02 Pokemon/Original.md": "FasFileLines"
+  "02 Pokemon/Original.md": "FasFileLines",
+  "02 Pokemon/01 Pokemon/arcanine.gif": "FasImage"
 }

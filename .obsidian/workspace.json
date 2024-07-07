@@ -49,11 +49,9 @@
             "id": "b908e11ed1006393",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 Pokemon/Original.md",
-                "mode": "preview",
-                "source": true
+                "file": "02 Pokemon/01 Pokemon/arcanine.gif"
               }
             }
           },
@@ -118,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "02 Pokemon/01 Pokemon/arcanine.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "02 Pokemon/01 Pokemon/arcanine.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Original.md"
+                "file": "02 Pokemon/01 Pokemon/arcanine.gif"
               }
             }
           },
@@ -207,23 +204,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b908e11ed1006393",
+  "active": "6599ad2015552ad3",
   "lastOpenFiles": [
-    "02 Pokemon/01 Pokemon/ponyta.gif",
-    "02 Pokemon/03 Status/ponyta-status.png",
-    "02 Pokemon/Image Staging.md",
-    "02 Pokemon/Original.md",
-    "02 Pokemon/Testing.md",
-    "04 Others/Markdown Cheat Sheet.md",
-    "02 Pokemon/03 Status/rapidash-status.png",
-    "01 Dream Journal/Dream Journal Home Page.md",
-    "02 Pokemon/02 Egg/Growlithe_Egg.png",
-    "02 Pokemon/01 Pokemon/rapidash.gif",
-    "02 Pokemon/02 Egg/Ponyta_Egg.png",
-    "02 Pokemon/03 Status/growlithe-status.png",
-    "02 Pokemon/03 Status/vulpix-status.png",
-    "02 Pokemon/03 Status/ninetales-status.png",
+    "02 Pokemon/01 Pokemon/vulpix.gif",
     "02 Pokemon/01 Pokemon/arcanine.gif",
+    "02 Pokemon/Original.md",
+    "02 Pokemon/01 Pokemon/mew.gif",
+    "02 Pokemon/01 Pokemon/dratini.gif",
+    "02 Pokemon/01 Pokemon/snorlax.gif",
+    "02 Pokemon/01 Pokemon/flareon.gif",
+    "02 Pokemon/01 Pokemon/jolteon 1.gif",
+    "02 Pokemon/01 Pokemon/eevee 1.gif",
+    "02 Pokemon/01 Pokemon/ditto.gif",
+    "02 Pokemon/01 Pokemon/magikarp.gif",
+    "02 Pokemon/01 Pokemon/tangela.gif",
+    "02 Pokemon/Testing.md",
+    "02 Pokemon/Image Staging.md",
+    "04 Others/Markdown Cheat Sheet.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
     "Updates Prior.md",
     "README.md",
     "02 Pokemon/03 Status",
