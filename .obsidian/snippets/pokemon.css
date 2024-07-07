@@ -10,18 +10,26 @@
 		max-width: 100%;
 	}
 
-
 	.markdown-source-view.mod-cm6.is-readable-line-width.pokemon .cm-sizer {
 		/* Source View Width */
 		max-width: 80% !important;
 	}
 
+	div.metadata-container {
+		display: none;
+	}
+
 /* ------------------------------------------- Table Setup ------------------------------------------ */
 & .pokemon .table-container {
-	/* Table WIdth */
+	/* Table Width */
 	width: 100% !important;
 }
 
+.pokemon.markdown-rendered table {
+	border-radius: 0;
+	box-shadow: 12px 12px #c9d1db;
+	outline: none;
+}
 
 /* - - - Header - - - */
 .pokemon tr > th, & th  {
@@ -32,9 +40,11 @@
 
 
 /* - - - Rows - - - */
-.pokemon.markdown-rendered tr {
+.pokemon.markdown-rendered tr, .pokemon.markdown-rendered tr a {
 	font-weight: 700;
 	color: #45818e !important;
+	text-decoration: none;
+	-webkit-text-fill-color: unset !important;
 }
 
 .pokemon.markdown-rendered tbody tr:nth-child(odd), .pokemon.markdown-rendered tbody tr:nth-child(odd):hover {
