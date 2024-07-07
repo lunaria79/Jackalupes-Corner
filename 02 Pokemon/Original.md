@@ -6,18 +6,7 @@ cssclasses:
 ```yaml enhanced-tables
 yes-format: "1" 
 no-format: "0"
-filter: $row.numberColumn > 1200
 columns:
-  Number column:
-    alias: numberColumn
-    type: number
-    number-format: "style: 'currency', currency: 'EUR'"
-  Date:
-    type: date
-    date-format: YYYY/MM/DD
-  Formatted:
-    formatter: "`#${$row.Id}) ${$cell}`"
-    nowrap: true
   Collected:
     type: bool
   Evolving:
@@ -28,10 +17,10 @@ filter: Boolean($row.Collected) > -1
 filters:
     Evolving: Boolean($row.Evolving) > 0
 pagination:
-  page-size: 50
+  page-size: 15
   page-sizes:
-   - 50
-   - 100
+   - 15
+   - 30
 style: |
    th {
      background-color: var(--color-base-50) !important;

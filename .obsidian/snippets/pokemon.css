@@ -1,29 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 /* ------------------------------------------- Page Setup ------------------------------------------- */
-	.markdown-preview-view.markdown-rendered.node-insert-event.is-readable-line-width.allow-fold-headings.show-indentation-guide.allow-fold-lists.show-properties.pokemon {
+	.markdown-preview-view.markdown-rendered.pokemon {
 		background: #ebeff1;
 	}
 
 	div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
+		/* Reading View Width */
 		padding: 10px;
 		max-width: 100%;
 	}
 
 
-
 	.markdown-source-view.mod-cm6.is-readable-line-width.pokemon .cm-sizer {
+		/* Source View Width */
 		max-width: 80% !important;
 	}
 
-	.pokemon .mod-header {
-		padding: 10px;
-	}
-
-	.pokemon div.html-tab-content {
-		padding: 0;
-	}
-
 /* ------------------------------------------- Table Setup ------------------------------------------ */
+& .pokemon .table-container {
+	/* Table WIdth */
+	width: 100% !important;
+}
+
+
+/* - - - Header - - - */
+.pokemon tr > th, & th  {
+	height: 35px;
+	color: whitesmoke !important;
+	background: #9bb7c9 !important;
+}
+
+
+/* - - - Rows - - - */
+.pokemon.markdown-rendered tr {
+	font-weight: 700;
+	color: #45818e !important;
+}
+
+.pokemon.markdown-rendered tbody tr:nth-child(odd), .pokemon.markdown-rendered tbody tr:nth-child(odd):hover {
+	background: whitesmoke;
+}
+
+.pokemon.markdown-rendered tbody tr:nth-child(even), .pokemon.markdown-rendered tbody tr:nth-child(even):hover {
+	background: #ebeff1;
+}
+
+
+
+.pokemon tr {
+	height: 25px;
+
+	text-align: center;
+}
+
+.pokemon td, .pokemon th {
+    margin: auto;
+    text-align: center; 
+    vertical-align: middle;
+}
+
+
+/* - - - Images - - - */
 .pokemon td[data-et-cell="10"] img {
 	scale: 1;
 }
@@ -32,18 +69,8 @@
 	max-height: 100px;
 }
 
-.pokemon tr {
-	height: 50px;
-
-	text-align: center;
-}
 
 .pokemon td img {
 	margin: auto auto;
 }
 
-.pokemon td, .pokemon th {
-    margin: auto;
-    text-align:center; 
-    vertical-align:middle;
-}
