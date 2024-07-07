@@ -52,11 +52,11 @@
 		/* Table Width */
 		width: 100% !important;
 		transform: scale(.85);
-	    margin-top: -20px;
-	    margin-bottom: -10px;
+
 	}
 
 	.pokemon.markdown-rendered table {
+		width: 1120px;
 		border-radius: 0;
 		box-shadow: 12px 12px var(--box-shadow-color);
 		outline: none;
