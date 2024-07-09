@@ -28,25 +28,25 @@
 }
 
 /* - - - - - - - - - - Page Setup - - - - - - - - - - */
-	.markdown-preview-view.markdown-rendered.pokemon {
-		background: var(--background);
-		overflow: hidden;
-	}
+.markdown-preview-view.markdown-rendered.pokemon {
+	background: var(--background);
+	overflow: hidden;
+}
 
-	div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
-		/* Reading View Width */
-		padding: 10px;
-		max-width: 100%;
-	}
+div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
+	/* Reading View Width */
+	padding: 10px;
+	max-width: 100%;
+}
 
-	.markdown-source-view.mod-cm6.is-readable-line-width.pokemon .cm-sizer {
-		/* Source View Width */
-		max-width: 80% !important;
-	}
+.markdown-source-view.mod-cm6.is-readable-line-width.pokemon .cm-sizer {
+	/* Source View Width */
+	max-width: 80% !important;
+}
 
-	.markdown-preview-view.show-properties.pokemon .metadata-container, .pokemon .inline-title {
-		display: none;
-	}
+.markdown-preview-view.show-properties.pokemon .metadata-container, .pokemon .inline-title {
+	display: none;
+}
 
 /* - - - - - - - - - - Table Setup - - - - - - - - - - */
 .pokemon .table-container {
