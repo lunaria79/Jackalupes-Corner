@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 Pokemon/Original.md",
                 "mode": "preview",
                 "source": true
               }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02 Pokemon/Original.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02 Pokemon/Original.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "02 Pokemon/Original.md"
               }
             }
           },
@@ -209,10 +210,12 @@
   },
   "active": "bf15e4dffad3b2d0",
   "lastOpenFiles": [
+    "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
+    "02 Pokemon/Original.md",
+    "README.md",
+    "02 Pokemon/Testing.md",
     "Updates Prior.md",
     "02 Pokemon/01 Pokemon/ponyta.gif",
-    "02 Pokemon/Original.md",
-    "02 Pokemon/Testing.md",
     "02 Pokemon/Image Staging.md",
     "02 Pokemon/02 Egg/Rhyhorn_Egg.png",
     "02 Pokemon/02 Egg/Magikarp_Egg.png",
@@ -225,7 +228,6 @@
     "02 Pokemon/03 Status/tangela-status.png",
     "04 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "README.md",
     "02 Pokemon/03 Status",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
@@ -241,7 +243,6 @@
     "03 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "03 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
-    "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",

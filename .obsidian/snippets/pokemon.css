@@ -30,6 +30,7 @@
 /* - - - - - - - - - - Page Setup - - - - - - - - - - */
 	.markdown-preview-view.markdown-rendered.pokemon {
 		background: var(--background);
+		overflow: hidden;
 	}
 
 	div.markdown-reading-view > div.markdown-preview-view.pokemon > div {
@@ -48,71 +49,81 @@
 	}
 
 /* - - - - - - - - - - Table Setup - - - - - - - - - - */
-	.pokemon .table-container {
-		/* Table Width */
-		width: 100% !important;
-		transform: scale(.85);
+.pokemon .table-container {
+	/* Table Width */
+	width: 100% !important;
+	margin-bottom: 10px;
+}
 
-	}
+.pokemon.markdown-rendered table {
+	width: 1120px;
+	border-radius: 0;
+	box-shadow: 12px 12px var(--box-shadow-color);
+	outline: none;
+}
 
-	.pokemon.markdown-rendered table {
-		width: 1120px;
-		border-radius: 0;
-		box-shadow: 12px 12px var(--box-shadow-color);
-		outline: none;
-	}
-
-	.pokemon td, .pokemon th {
-	    margin: auto;
-	    text-align: center; 
-	    vertical-align: middle;
-	}
+.pokemon td, .pokemon th {
+    margin: auto;
+    text-align: center; 
+    vertical-align: middle;
+}
 
 /* - - - Header - - - */
-	.pokemon tr > th, & th  {
-		height: 35px;
-		color: whitesmoke !important;
-		background: var(--header-background) !important;
-	}
+.pokemon tr > th, & th  {
+	height: 35px;
+	color: whitesmoke !important;
+	background: var(--header-background) !important;
+}
 
 /* - - - Rows - - - */
-	.pokemon tr {
-		height: 25px;
-		text-align: center;
-	}
+.pokemon tr {
+	height: 65px;
+	text-align: center;
+}
 
-	.pokemon.markdown-rendered tr, .pokemon.markdown-rendered tr a, .pokemon td {
-		font-weight: 700;
-		font-size: 18px !important;
-		color: var(--font-color) !important;
-		text-decoration: none;
-		-webkit-text-fill-color: unset !important;
-	}
+.pokemon.markdown-rendered tr, .pokemon.markdown-rendered tr a, .pokemon td {
+	font-weight: 700;
+	font-size: 18px !important;
+	color: var(--font-color) !important;
+	text-decoration: none;
+	-webkit-text-fill-color: unset !important;
+}
 
-	.pokemon.markdown-rendered tbody tr:nth-child(odd), .pokemon.markdown-rendered tbody tr:nth-child(odd):hover {
-		background: var(--table-row-odd);
-	}
+.pokemon.markdown-rendered tbody tr:nth-child(odd), .pokemon.markdown-rendered tbody tr:nth-child(odd):hover {
+	background: var(--table-row-odd);
+}
 
-	.pokemon.markdown-rendered tbody tr:nth-child(even), .pokemon.markdown-rendered tbody tr:nth-child(even):hover {
-		background: var(--table-row-even);
-	}
+.pokemon.markdown-rendered tbody tr:nth-child(even), .pokemon.markdown-rendered tbody tr:nth-child(even):hover {
+	background: var(--table-row-even);
+}
 
 /* - - - Columns - - - */
-	.pokemon.markdown-rendered tbody tr > td:first-child {
-		background: var(--first-column-background);
-	}
+.pokemon.markdown-rendered tbody tr > td:first-child {
+	background: var(--first-column-background);
+}
 
 /* - - - Images - - - */
-	.pokemon td[data-et-cell="10"] img {
-		scale: 1;
-	}
+.pokemon td[data-et-cell="10"] img {
+	scale: 1;
+}
 
-	.pokemon img {
-		max-height: 100px;
-	}
+.pokemon img {
+	max-height: 100px;
+}
 
+.pokemon td img {
+	margin: auto auto;
+}
 
-	.pokemon td img {
-		margin: auto auto;
-	}
+/* - - - Navigation - - - */
+div.enhanced-tables-controls {
+	height: 25px;
+}
 
+div.enhanced-tables-controls label {
+	display: none;
+}
+
+.enhanced-tables-pagination div select {
+	display: none;
+}
