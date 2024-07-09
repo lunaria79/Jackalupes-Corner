@@ -24,3 +24,7 @@ Previous Chapter:
 + Judas Completed
 + Milo & Caspian Completed
 ~~~
+~~~diff
+2024-07-07
++ Pokemon
+~~~

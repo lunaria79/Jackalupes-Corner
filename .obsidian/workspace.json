@@ -61,14 +61,16 @@
             "id": "bf15e4dffad3b2d0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "02 Pokemon/01 Pokemon/ponyta.gif"
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Original.md"
+                "file": "README.md"
               }
             }
           },
@@ -206,10 +207,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b908e11ed1006393",
+  "active": "bf15e4dffad3b2d0",
   "lastOpenFiles": [
-    "02 Pokemon/Testing.md",
+    "Updates Prior.md",
+    "02 Pokemon/01 Pokemon/ponyta.gif",
     "02 Pokemon/Original.md",
+    "02 Pokemon/Testing.md",
     "02 Pokemon/Image Staging.md",
     "02 Pokemon/02 Egg/Rhyhorn_Egg.png",
     "02 Pokemon/02 Egg/Magikarp_Egg.png",
@@ -220,10 +223,8 @@
     "02 Pokemon/03 Status/magikarp-status.png",
     "02 Pokemon/03 Status/ditto-status.png",
     "02 Pokemon/03 Status/tangela-status.png",
-    "02 Pokemon/03 Status/rhyhorn-status.png",
     "04 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "Updates Prior.md",
     "README.md",
     "02 Pokemon/03 Status",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
