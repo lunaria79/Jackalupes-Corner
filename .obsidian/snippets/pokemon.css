@@ -127,3 +127,10 @@ div.enhanced-tables-controls label {
 .enhanced-tables-pagination div select {
 	display: none;
 }
+
+
+/*- - - - - Custom Row Colors - - - - - */
+.pokemon.markdown-rendered tbody tr > td[data-et-row-cell="17-0"] {
+	color: #b78961 !important;
+	background: #ffe5a0 !important;
+}
