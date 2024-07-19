@@ -25,6 +25,7 @@ Home:
 						<div class="box">
 							<div class="callout-title">  <div class="callout-title-inner">  story arc</div> </div>
 							<p>i'd like to pretend that i know what im doing</p>
+							<p> A dead princess of a long-forgotten empire is stitched back together with the fabric of the universe into a cat and is sent back to Earth. A "firbolg" champion goes off to train and see the world. The Emperor’s unloved son leaves home in the search of more knowledge. They meet at a secret school, in a secret valley, in a secret other-world. </p>
 						</div>
 					</div>
 					
