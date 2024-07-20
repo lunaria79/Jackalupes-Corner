@@ -12,20 +12,19 @@ cssclasses:
 > #1C1C2C, #F3ACD0, #FFF, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9
 > ```
 > ```css
+> /* Colors */
 > --background-color: 28, 28, 44;
+> --background-highlight: 32, 35, 53;
 > --primary-color: 243, 172, 208;
 > --text: 255, 255, 255;
->
-> --red-tint: 247, 151, 130;
-> --orange-tint: 247, 202, 130;
+> /* Tints */
+> --primary-tint:  243, 172, 208;
+> --secondary-tint: 165, 214, 230;
+> --tertiary-tint: 213, 168, 233;
 > --yellow-tint: 222, 233, 165;
-> --green-tint: 165, 233, 176;
-> --blue-tint: 165, 214, 230;
-> --purple-tint: 213, 168, 233;
->
+> /* Fonts */
 > font-family: "Dosis", sans-serif;
 >```
-
 
 > [!infobox ]+ Milo & Caspian
 ![Milo & Caspian](Milo%20&%20Caspian.jpg)
@@ -45,7 +44,6 @@ cssclasses:
 > /* Fonts */
 > font-family: "Rokkitt", serif;
 >```
-
 
 >[!infobox]+ Of Gods and Fiends
 >![Crimson City - hereisbis twit](Crimson%20City%20-%20hereisbis%20twit.jpg)
@@ -72,14 +70,15 @@ cssclasses:
 > #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
 > ```
 >```css
+> /* Colors */
 > --background-color: 18, 14, 11;
-> --primary-color: 143 , 134, 117;
->
-> --yellow-tint: 153, 149, 107;
-> --green-tint: 81, 88, 70;
-> --blue-tint: 62, 74, 77;
->
+> --background-highlight: 143, 134, 117, .1;
+> --primary-color: 143, 134, 117;
 > --text: 199, 195, 186;
->
-> font-family: "Rokkitt", serif;
+> /* Tints */
+> --primary-tint: 143 , 134, 117;
+> --secondary-tint: 62, 74, 77;
+> --tertiary-tint:  81, 88, 70;
+> /* Fonts */
+> font-family: "Barlow", sans-serif;
 >```

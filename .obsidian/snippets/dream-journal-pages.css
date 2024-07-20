@@ -145,11 +145,6 @@
 		--primary-tint: 143 , 134, 117;
 		--secondary-tint: 62, 74, 77;
 		--tertiary-tint:  81, 88, 70;
-		
-		--yellow-tint: 153, 149, 107;
-		--green-tint: 81, 88, 70;
-		--blue-tint: 62, 74, 77;
-		
 		/* Fonts */
 		font-family: "Barlow", sans-serif;
 	}
@@ -198,7 +193,6 @@
 	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked { background: rgb(var(--text)) !important; }
 
 	.nothing-left-to-say input[type=checkbox]:checked:after { background: rgb(var(--text)) !important; }
-
 
 /* ----------------------------------------- Arcane School ------------------------------------------- */
 .app-container .arcane-school * {
