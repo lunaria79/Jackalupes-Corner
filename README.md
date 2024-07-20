@@ -26,5 +26,9 @@ Previous Chapter:
 ~~~
 ~~~diff
 2024-07-07
-+ Pokemon
++ Pokemon Kanto Region
+~~~
+~~~diff
+2024-07-19
+! Working on fixing repo.
 ~~~

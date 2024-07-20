@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Original.md"
+                "file": "README.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   },
   "active": "70cc57a46d33684c",
   "lastOpenFiles": [
-    "README.md",
     "02 Pokemon/Original.md",
+    "README.md",
     "02 Pokemon/03 Status/chikorita-status.png",
     "02 Pokemon/01 Pokemon/chikorita.gif",
     "02 Pokemon/02 Egg/Chikorita_Egg.png",
