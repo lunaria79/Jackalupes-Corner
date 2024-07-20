@@ -19,7 +19,6 @@
 		--primary-tint: 209, 138, 152;
 		--secondary-tint: 166, 189, 238;
 		--tertiary-tint: 139, 114, 152;
-
 		/* Fonts */
 		font-family: "Rokkitt", serif;
 	}
@@ -30,15 +29,9 @@
 		background-color: rgb(var(--background-color), .5);
 	}
 
-	.milo-caspian .box b {
-		/* blue accents */
-		color: rgb(var(--primary-tint));
-	}
+	.milo-caspian .box b { /* blue accents */ color: rgb(var(--primary-tint)); }
 
-	.milo-caspian .box i {
-		/* purple accents */
-		color: rgb(var(--secondary-tint));
-	}
+	.milo-caspian .box i { /* purple accents */ color: rgb(var(--secondary-tint)); }
 
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
 	.gods-and-fiends * {
@@ -47,110 +40,44 @@
 		--background-highlight: 185, 51, 73, .1;
 		--primary-color: 185, 51, 73;
 		--text: 255, 230, 215;
-		--red-tint: 185, 51, 73;
-		--blue-tint: 96, 159, 230;
-		--purple-tint: 229, 36, 142;
+		/* Tints */
+		--primary-tint: 185, 51, 73;
+		--secondary-tint: 229, 36, 142;
+		--tertiary-tint: 96, 159, 230;
 		/* Fonts */
 		font-family: "Barlow", sans-serif;
 	}
 
-	/* -------------------- Properties -------------------- */
 	.gods-and-fiends {
 		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
 		background-blend-mode: soft-light;
 		background-color: rgb(var(--background-color), .15) !important;
 	}
-
+	
+	/* -------------------- Changes -------------------- */
 	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
 	.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-		color: rgb(var(--text)) !important;
-	}
-
-	.gods-and-fiends .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
-	.gods-and-fiends .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
-		color: rgb(var(--red-tint)) !important;
-	}
-
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--text)) !important;
-		color: rgb(var(--red-tint)) !important;
-		font-weight: 700;
-	}
-
+	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input,
 	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill,
 	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content,
 	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
 	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
 	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--red-tint)) !important;
+	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg,
+	.markdown-preview-view.gods-and-fiends div.inline-title	{
 		color: rgb(var(--text)) !important;
 	}
 
-	/* ---------- Checkboxes ---------- */
-	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:not(:checked) {
-		color: rgb(var(--primary-color)) !important;
-		border: 2px solid rgb(var(--primary-color)) !important;
-	}
-
-	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked {
-		background: rgb(var(--text)) !important;
-	}
-
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
+	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg,
+	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked,
 	.gods-and-fiends input[type=checkbox]:checked:after {
-		background: rgb(var(--text)) !important;
+		background-color: rgb(var(--text)) !important;
 	}
 
-	/* -------------------- Custom Tile -------------------- */
-	.gods-and-fiends .char-note {
-		border-left-color: rgb(var(--purple-tint));
-	}
-
-	.gods-and-fiends .def-note {
-		border-left-color: rgb(var(--blue-tint));
-	}
-
-	/* -------------------- Custom SVG -------------------- */
-	.gods-and-fiends .box.char-note .callout-title-inner::before {
-		background-color: rgb(var(--purple-tint)) !important;
-	}
-
-	.gods-and-fiends .box.def-note .callout-title-inner::before {
-		background-color: rgb(var(--blue-tint)) !important;
-	}
-
-	/* -------------------- Changes -------------------- */
-	.gods-and-fiends h3 {
-		color: rgb(var(--yellow-tint)) !important;
-	}
-
-	.markdown-preview-view.gods-and-fiends div.inline-title {
-		color: rgb(var(--text)) !important;
-	}
-
-	.gods-and-fiends .char-note div.callout-title {
-		color: rgb(var(--purple-tint)) !important;
-	}
-
-	.gods-and-fiends .def-note div.callout-title {
-		color: rgb(var(--blue-tint)) !important;
-	}
-
-	.gods-and-fiends b {
-		color: rgb(var(--blue-tint)) !important;
-		font-weight: 800;
-	}
-
-	.gods-and-fiends i {
-		color: rgb(var(--purple-tint)) !important;
-		font-weight: 700;
-	}
+	.gods-and-fiends h3 { color: rgb(var(--yellow-tint)) !important; }
 
 	/* -------------------- CRT -------------------- */
 	/* https://aleclownes.com/2017/02/01/crt-display.html */
@@ -213,10 +140,16 @@
 		--background-color: 18, 14, 11;
 		--background-highlight: 143, 134, 117, .1;
 		--primary-color: 143, 134, 117;
+		--text: 199, 195, 186;
+		/* Tints */
+		--primary-tint: 153, 149, 107;
+		--secondary-tint: 62, 74, 77;
+		--tertiary-tint:  81, 88, 70;
+		
 		--yellow-tint: 153, 149, 107;
 		--green-tint: 81, 88, 70;
 		--blue-tint: 62, 74, 77;
-		--text: 199, 195, 186;
+		
 		/* Fonts */
 		font-family: "Barlow", sans-serif;
 	}
@@ -228,19 +161,11 @@
 
 	/* -------------------- Font Changes -------------------- */
 	.nothing-left-to-say h4 {
-		color: rgb(var(--yellow-tint)) !important;
+		color: rgb(var(--primary-tint)) !important;
 	}
 
 	.markdown-preview-view.nothing-left-to-say div.inline-title {
 		color: rgb(var(--text)) !important;
-	}
-
-	.nothing-left-to-say .char-note div.callout-title {
-		color: rgb(var(--blue-tint)) !important;
-	}
-
-	.nothing-left-to-say .def-note div.callout-title {
-		color: rgb(var(--blue-tint)) !important;
 	}
 
 	.nothing-left-to-say img {
@@ -257,19 +182,10 @@
 		color: rgb(var(--text));
 	}
 
-	.nothing-left-to-say .metadata-property[data-property-key="Home"] .metadata-property-icon svg.svg-icon,
-	.nothing-left-to-say .metadata-property[data-property-key="Home"] input.metadata-property-key-input,
-	.nothing-left-to-say .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-	.nothing-left-to-say .metadata-property[data-property-key="tags"] input.metadata-property-key-input {
-		color: rgb(var(--green-tint));
-	}
-
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
 		background-color: rgb(var(--text));
-		color: rgb(var(--green-tint));
-		font-weight: 700;
 	}
 
 	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill,
@@ -278,9 +194,7 @@
 	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill,
 	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
 	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--green-tint));
 		color: rgb(var(--text));
-		font-weight: 700;
 	}
 
 	/* ---------- Checkboxes ---------- */

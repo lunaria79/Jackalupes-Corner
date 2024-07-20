@@ -27,20 +27,23 @@ cssclasses:
 >```
 
 
-> [!infobox ]+  Fantasy Steampunk Mermaids
+> [!infobox ]+ Milo & Caspian
 ![Milo & Caspian](Milo%20&%20Caspian.jpg)
 > ```palette
 > #211D1D, #D18A98, #CCC3C5, #a6bdee, #8B7298
 > ```
 >```css
->  --background-color: 33, 29, 29;
->  --primary-color: 209, 138, 152;
->  --text: 204, 195, 197;
->  --red-tint: 209, 138, 152;
->  --blue-tint: 166, 189, 238;
->  --purple-tint: 139, 114, 152;
->  
->  font-family: "Rokkitt", serif;
+> /* Colors */
+> --background-color: 33, 29, 29;
+> --background-highlight: 209, 138, 152, .1;
+> --primary-color: 209, 138, 152;
+> --text: 204, 195, 197;
+> /* Tints */
+> --primary-tint: 209, 138, 152;
+> --secondary-tint: 166, 189, 238;
+> --tertiary-tint: 139, 114, 152;
+> /* Fonts */
+> font-family: "Rokkitt", serif;
 >```
 
 
@@ -50,14 +53,16 @@ cssclasses:
 > #15071D, #FFE6D7, #B93349, #609FE6, #E5248E
 > ```
 >```css
+> /* Colors */
 > --background-color: 21, 7, 29;
+> --background-highlight: 185, 51, 73, .1;
 > --primary-color: 185, 51, 73;
 > --text: 255, 230, 215;
->
-> --red-tint: 185, 51, 73;
-> --blue-tint: 96, 159, 230;
-> --purple-tint: 229, 36, 142;
->
+> /* Tints */
+> --primary-tint: 185, 51, 73;
+> --secondary-tint: 229, 36, 142;
+> --tertiary-tint: 96, 159, 230;
+> /* Fonts */
 > font-family: "Barlow", sans-serif;
 >```
 
