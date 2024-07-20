@@ -377,6 +377,11 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	height: 200px;
 }
 
+/* --------------------  Links -------------------- */
+.dream-journal-base a {
+	text-decoration: none !important;
+}
+
 /* -------------------- Tile Grid -------------------- */
 /* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
 .dream-journal-base .wrapper {

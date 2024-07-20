@@ -35,3 +35,7 @@ Previous Chapter:
 ! Change Dream Journal theme tint vars to primary, secondary, tertriary system. (Dream Journal)
 + All but School of Arcane updated. (Dream Journal)
 ~~~
+~~~diff
+2024-07-20
++ Dream Journal Base + Pages Theme Updated (Dream Journal)
+~~~
