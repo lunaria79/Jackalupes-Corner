@@ -7,7 +7,7 @@ cssclasses:
   - code
 ---
 > [!infobox ]+   Court of Death and Desire
-> ![kiki-farmhouse](kiki-farmhouse.jpg)
+> ![kiki-farmhouse](images/kiki-farmhouse.jpg)
 > ```palette
 > #1C1C2C, #F3ACD0, #FFF, #F79782, #F7CA82, #DEE9A5, #A5E9B0, #A4D7E5, #D2A5E9
 > ```
@@ -27,7 +27,7 @@ cssclasses:
 >```
 
 > [!infobox ]+ Milo & Caspian
-![Milo & Caspian](Milo%20&%20Caspian.jpg)
+![Milo & Caspian](images/Milo%20&%20Caspian.jpg)
 > ```palette
 > #211D1D, #D18A98, #CCC3C5, #a6bdee, #8B7298
 > ```
@@ -46,7 +46,7 @@ cssclasses:
 >```
 
 >[!infobox]+ Of Gods and Fiends
->![Crimson City - hereisbis twit](Crimson%20City%20-%20hereisbis%20twit.jpg)
+>![Crimson City - hereisbis twit](images/Crimson%20City%20-%20hereisbis%20twit.jpg)
 > ```palette
 > #15071D, #FFE6D7, #B93349, #609FE6, #E5248E
 > ```
@@ -65,7 +65,7 @@ cssclasses:
 >```
 
 >[!infobox]+ Nothing Left to Say
->![sleeping-deer](sleeping-deer.jpg)
+>![sleeping-deer](images/sleeping-deer.jpg)
 >```palette
 > #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
 > ```

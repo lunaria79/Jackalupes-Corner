@@ -119,11 +119,6 @@
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 1.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 2.png": "FasFileImage",
   "01 Dream Journal/Dreams/05 Milo & Caspian/00 Images/Coral Reef/coral reef 3.png": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes": "FasFolderTree",
-  "01 Dream Journal/Stage Files/themes/Crimson City - hereisbis twit.jpg": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes/kiki-farmhouse.jpg": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes/sleeping-deer.jpg": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes/themes.md": "FasPaintRoller",
   "01 Dream Journal/For Aeli.md": "FasFileLines",
   "00 _resources/Images/draculabase.png": "FasFileImage",
   "01 Dream Journal/Dreams/06 Mary Jane": "FasFolderTree",
@@ -149,7 +144,6 @@
     "iconColor": "#ac49da"
   },
   "01 Dream Journal/Dreams/NANOBEAM.md": "FasFilePen",
-  "01 Dream Journal/Stage Files/themes/Milo & Caspian.jpg": "FasFileImage",
   "03 These Lyrics Will Write Themselves": "FasFolderOpen",
   "03 These Lyrics Will Write Themselves/00 - Table of Contents.md": "FasFileLines",
   "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
@@ -173,5 +167,11 @@
   "02 Pokemon/03 Status/vulpix-status.png": "FasImage",
   "02 Pokemon/03 Status/growlithe-status.png": "FasImage",
   "02 Pokemon/Original.md": "FasFileLines",
-  "02 Pokemon/01 Pokemon/arcanine.gif": "FasImage"
+  "02 Pokemon/01 Pokemon/arcanine.gif": "FasImage",
+  "01 Dream Journal/Stage Files/images": "FasFolderTree",
+  "01 Dream Journal/Stage Files/images/sleeping-deer.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/images/Milo & Caspian.jpg": "FasFileImage",
+  "01 Dream Journal/Stage Files/themes.md": "FasPaintRoller"
 }
