@@ -31,5 +31,5 @@ Previous Chapter:
 ~~~diff
 2024-07-19
 + Fixed repo sync. (feat. Gabe)
-! Change Dream Journal theme color vars to primary, secondary, tertriary system.
+! Change Dream Journal theme tint vars to primary, secondary, tertriary system.
 ~~~
