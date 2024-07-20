@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md"
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md"
               }
             }
           },
@@ -232,10 +232,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "92f3f741dcfdea59",
+  "active": "5f52a777d6997d89",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/Isle of the Gods.md",
     "README.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
