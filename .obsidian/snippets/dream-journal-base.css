@@ -14,13 +14,14 @@
 	--text: 255, 255, 255;
 	/* Tints */
 	--primary-tint:  243, 172, 208;
+	--secondary-tint: 165, 214, 230;
+	--tertiary-tint: 213, 168, 233;
 	
 	--red-tint: 247, 151, 130;
 	--orange-tint: 247, 202, 130;
 	--yellow-tint: 222, 233, 165;
 	--green-tint: 165, 233, 176;
-	--blue-tint: 165, 214, 230;
-	--purple-tint: 213, 168, 233;
+
 	/* Sizes */
 	--large-radius: 20px;
 	--medium-radius: 10px;
@@ -67,7 +68,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 /* ------------------------------------------- Properties ------------------------------------------- */
 	.dream-journal-base .metadata-properties-title {
 		/* Properties Title Apperance */
-		color: rgb(var(--primary-color));
+		color: rgb(var(--primary-tint));
 		font-weight: 800;
 	}
 
@@ -122,13 +123,13 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 
 	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 	.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
-		color: rgb(var(--blue-tint));
+		color: rgb(var(--secondary-tint));
 	}
 
 	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
 	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
 	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--blue-tint));
+		background-color: rgb(var(--secondary-tint));
 		color: rgb(var(--background-color));
 	}
 
@@ -198,7 +199,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 		color: rgb(var(--text));
 		border-bottom-width: 2px;
 		border-bottom-style: solid;
-		border-color: rgb(var(--primary-color));
+		border-color: rgb(var(--primary-tint));
 	}
 
 	.markdown-rendered.dream-journal-base .html-tab p {
@@ -210,7 +211,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base * {
 	--tile-background: rgb(var(--background-color), .99);
 	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0;
-	--tile-border: 5px solid rgb(var(--primary-color));
+	--tile-border: 5px solid rgb(var(--primary-tint));
 }
 
 .markdown-preview-view.dream-journal-base div.inline-title,
@@ -233,11 +234,11 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .dream-journal-base .char-note {
-	border-left-color: rgb(var(--blue-tint));
+	border-left-color: rgb(var(--secondary-tint));
 }
 
 .dream-journal-base .def-note {
-	border-left-color: rgb(var(--purple-tint));
+	border-left-color: rgb(var(--tertiary-tint));
 }
 
 .dream-journal-base div.metadata-container {
@@ -281,7 +282,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .box .callout-title-inner::before {
-	background-color: rgb(var(--primary-color));
+	background-color: rgb(var(--primary-tint));
 	/* Content */
 	content: '';
 	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='18px' fill='%233fffff' viewBox='0 0 384 512'%3E%3Cpath d='M64 0C28.7 0 0 28.7 0 64V448c0 35.3 28.7 64 64 64H320c35.3 0 64-28.7 64-64V160H256c-17.7 0-32-14.3-32-32V0H64zM256 0V128H384L256 0zM112 256H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64H272c8.8 0 16 7.2 16 16s-7.2 16-16 16H112c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
@@ -289,7 +290,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .box.char-note .callout-title-inner::before {
-	background-color: rgb(var(--blue-tint)) !important;
+	background-color: rgb(var(--secondary-tint)) !important;
 	/* Content */
 	content: '';
 	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z'/%3E%3C/svg%3E") no-repeat 50% 50%;
@@ -297,7 +298,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--purple-tint)) !important;
+	background-color: rgb(var(--tertiary-tint)) !important;
 	/* Content */
 	content: '';
 	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z'/%3E%3C/svg%3E") no-repeat 50% 50%;
@@ -307,7 +308,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 /* -------------------- Text -------------------- */
 .dream-journal-base .callout-title {
 	/* Text Color */
-	color: rgb(var(--primary-color));
+	color: rgb(var(--primary-tint));
 	/* Position */
 	margin-top: 15px;
 }
@@ -329,7 +330,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .box b,
 .char-note .callout-title {
 	/* blue accents */
-	color: rgb(var(--blue-tint));
+	color: rgb(var(--secondary-tint));
 	font-weight: 700;
 }
 
@@ -337,7 +338,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 .dream-journal-base .box i,
 .def-note .callout-title {
 	/* purple accents */
-	color: rgb(var(--purple-tint));
+	color: rgb(var(--tertiary-tint));
 	font-weight: 600;
 }
 
@@ -351,7 +352,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	width: 65%;
 	/* other */
 	background-color: rgb(var(--background-highlight), .75);
-	box-shadow: 2px 2px rgb(var(--blue-tint));
+	box-shadow: 2px 2px rgb(var(--secondary-tint));
 }
 
 .dream-journal-base .char-note img {
