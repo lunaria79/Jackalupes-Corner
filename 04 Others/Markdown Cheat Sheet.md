@@ -103,6 +103,7 @@ print("Hi there")
 ```diff
 - This line is removed.
 + This line is added.
+! This line is highlighted.
 ```
 
 

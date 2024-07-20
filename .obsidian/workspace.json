@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -75,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "04 Others/Markdown Cheat Sheet.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,9 +219,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "70cc57a46d33684c",
+  "active": "bf15e4dffad3b2d0",
   "lastOpenFiles": [
     "02 Pokemon/Original.md",
+    "04 Others/Markdown Cheat Sheet.md",
     "README.md",
     "02 Pokemon/03 Status/chikorita-status.png",
     "02 Pokemon/01 Pokemon/chikorita.gif",
@@ -239,7 +240,6 @@
     "03 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Stage Files/icons.md",
-    "04 Others/Markdown Cheat Sheet.md",
     "03 These Lyrics Will Write Themselves/text message staging.md",
     "Updates Prior.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
