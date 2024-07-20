@@ -182,6 +182,7 @@
 	--background-color: 255, 255, 255;
 	--background-highlight: 0, 0, 0, .1;
 	--primary-color: 0, 0, 0;
+	-primary-tint: 0,0,0;
 	--text: 0, 0, 0;
 	/* Sizes */
 	--medium-radius: 0;

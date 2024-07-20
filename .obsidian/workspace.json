@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md"
+                "file": "README.md"
               }
             }
           },
@@ -232,10 +231,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5f52a777d6997d89",
+  "active": "5eadbe01391f34ba",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Stage Files/themes/themes.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
