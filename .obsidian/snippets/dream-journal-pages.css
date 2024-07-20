@@ -30,78 +30,14 @@
 		background-color: rgb(var(--background-color), .5);
 	}
 
-	.milo-caspian .box b,
-	.milo-caspian .char-note .callout-title {
+	.milo-caspian .box b {
 		/* blue accents */
 		color: rgb(var(--primary-tint));
-		font-weight: 700;
 	}
 
-	.milo-caspian .box i,
-	.milo-caspian .def-note .callout-title {
+	.milo-caspian .box i {
 		/* purple accents */
 		color: rgb(var(--secondary-tint));
-		font-weight: 600;
-	}
-
-	/* ---------- Classes + Tags ---------- */
-	.milo-caspian .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-	.milo-caspian .metadata-property[data-property-key="tags"] input.metadata-property-key-input,
-	.milo-caspian .metadata-property[data-property-key="Home"] svg.svg-icon,
-	.milo-caspian .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
-		color: rgb(var(--primary-tint));
-	}
-
-	.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill,
-	.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-	.milo-caspian .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-	.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill,
-	.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-	.milo-caspian .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--primary-tint));
-	}
-	
-	.milo-caspian .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-	.milo-caspian .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-	.milo-caspian .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--secondary-tint));
-	}
-
-	.milo-caspian .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-	.milo-caspian .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-		color: rgb(var(--secondary-tint)) !important;
-	}
-
-	/* -------------------- Checkboxes -------------------- */
-	.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:not(:checked) {
-		color: rgb(var(--primary-tint)) !important;
-		border: 2px solid rgb(var(--primary-tint)) !important;
-	}
-
-	.theme-dark:not(.css-settings-manager) .milo-caspian input[type=checkbox]:checked {
-		background: rgb(var(--secondary-tint)) !important;
-	}
-
-	.milo-caspian input[type=checkbox]:checked:after {
-		background: rgb(var(--secondary-tint)) !important;
-	}
-
-	/* -------------------- Custom Tile -------------------- */
-	.milo-caspian .char-note {
-		border-left-color: rgb(var(--primary-tint));
-	}
-
-	.milo-caspian .def-note {
-		border-left-color: rgb(var(--secondary-tint));
-	}
-
-	/* -------------------- Custom SVG -------------------- */
-	.milo-caspian .box.char-note .callout-title-inner::before {
-		background-color: rgb(var(--primary-tint)) !important;
-	}
-
-	.milo-caspian .box.def-note .callout-title-inner::before {
-		background-color: rgb(var(--secondary-tint)) !important;
 	}
 
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
