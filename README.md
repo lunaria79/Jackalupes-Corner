@@ -6,30 +6,32 @@ Previous Chapter:
 ---
 ~~~diff
 2024-07-01
-- HTML Tile SVGS Removed
-+ SVGS added as ::before in CSS file
-! Redesign The School of the Arcane
+- HTML Tile SVGS Removed (Dream Journal)
++ SVGS added as ::before in CSS file (Dream Journal)
+! Redesign The School of the Arcane (Dream Journal)
 ~~~
 ~~~diff
 2024-07-02
-+ Dream Journal Design Updated
-+ The School of the Arcane Redesigned
++ Dream Journal Design Updated (Dream Journal)
++ The School of the Arcane Redesigned (Dream Journal)
 ~~~
 ~~~diff
 2024-07-04
-+ Dream Journal Design Updated
-+ The School of the Arcane Redesigned
-- Judas Special Design Scrapped
-+ Code Desgin Updated
-+ Judas Completed
-+ Milo & Caspian Completed
++ Dream Journal Design Updated (Dream Journal)
++ The School of the Arcane Redesigned (Dream Journal)
+- Judas Special Design Scrapped (Dream Journal)
++ Code Desgin Updated (Dream Journal)
++ Judas Completed (Dream Journal)
++ Milo & Caspian Completed (Dream Journal)
 ~~~
 ~~~diff
 2024-07-07
-+ Pokemon Kanto Region
++ Pokemon Kanto Region (Pokemon)
 ~~~
 ~~~diff
 2024-07-19
 + Fixed repo sync. (feat. Gabe)
-! Change Dream Journal theme tint vars to primary, secondary, tertriary system.
++ Chicken. (Pokemon)
+! Change Dream Journal theme tint vars to primary, secondary, tertriary system. (Dream Journal)
++ All but School of Arcane updated. (Dream Journal)
 ~~~

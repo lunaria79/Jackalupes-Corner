@@ -142,7 +142,7 @@
 		--primary-color: 143, 134, 117;
 		--text: 199, 195, 186;
 		/* Tints */
-		--primary-tint: 153, 149, 107;
+		--primary-tint: 143 , 134, 117;
 		--secondary-tint: 62, 74, 77;
 		--tertiary-tint:  81, 88, 70;
 		
@@ -160,13 +160,9 @@
 	}
 
 	/* -------------------- Font Changes -------------------- */
-	.nothing-left-to-say h4 {
-		color: rgb(var(--primary-tint)) !important;
-	}
+	.nothing-left-to-say h4 { color: rgb(var(--primary-tint)) !important; 	}
 
-	.markdown-preview-view.nothing-left-to-say div.inline-title {
-		color: rgb(var(--text)) !important;
-	}
+	.markdown-preview-view.nothing-left-to-say div.inline-title { color: rgb(var(--text)) !important; }
 
 	.nothing-left-to-say img {
 		width: 200px;
@@ -179,7 +175,7 @@
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
 	.nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
 	.nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-		color: rgb(var(--text));
+		color: rgb(var(--tertiary-tint));
 	}
 
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
@@ -195,44 +191,14 @@
 	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
 	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
 		color: rgb(var(--text));
+		background-color: rgb(var(--tertiary-tint));
 	}
 
 	/* ---------- Checkboxes ---------- */
-	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:not(:checked) {
-		color: rgb(var(--primary-color)) !important;
-		background-color: transparent !important;
-		border: 2px solid rgb(var(--primary-color)) !important;
-	}
+	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked { background: rgb(var(--text)) !important; }
 
-	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked {
-		background: rgb(var(--text)) !important;
-	}
+	.nothing-left-to-say input[type=checkbox]:checked:after { background: rgb(var(--text)) !important; }
 
-	.nothing-left-to-say input[type=checkbox]:checked:after {
-		background: rgb(var(--text)) !important;
-	}
-
-	/* -------------------- Custom Tile -------------------- */
-	.nothing-left-to-say .char-note {
-		border-left-color: rgb(var(--blue-tint));
-	}
-
-	.nothing-left-to-say .def-note {
-		border-left-color: rgb(var(--green-tint));
-	}
-
-	.nothing-left-to-say .def-note .callout-title-inner {
-		color: rgb(var(--green-tint)) !important;
-	}
-
-	/* -------------------- Custom SVG -------------------- */
-	.nothing-left-to-say .box.char-note .callout-title-inner::before {
-		background-color: rgb(var(--blue-tint)) !important;
-	}
-
-	.nothing-left-to-say .box.def-note .callout-title-inner::before {
-		background-color: rgb(var(--green-tint)) !important;
-	}
 
 /* ----------------------------------------- Arcane School ------------------------------------------- */
 .app-container .arcane-school * {
