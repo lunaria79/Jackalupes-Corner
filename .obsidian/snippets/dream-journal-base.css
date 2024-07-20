@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
 /* ------------------------------------------- Page Setup ------------------------------------------- */
 .dream-journal-base {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/themes/kiki-farmhouse.jpg") center center / cover no-repeat;
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/kiki-farmhouse.jpg") center center / cover no-repeat;
 	background-blend-mode: soft-light;
 	background-color: rgb(var(--background-color), .5);
 }
