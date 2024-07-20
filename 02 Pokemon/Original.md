@@ -18,6 +18,7 @@ filter: Boolean($row.Collected) > -1
 filters:    
     Evolving: Boolean($row.Evolving) >= 1
     Collected: Boolean($row.Collected) >= 1
+    To Collect: Boolean($row.Collected) < 1
 pagination:
   page-size: 8
   page-sizes:
@@ -29,10 +30,10 @@ hide-configuration: true
 | Region | Pokedex | Pokemon                                  | Pokedex Entry                                        | Egg                                          | Type A   | Type B | Best Field         | Collected | Evolving | Status                                                |
 | ------ | ------- | ---------------------------------------- | ---------------------------------------------------- | -------------------------------------------- | -------- | ------ | ------------------ | --------- | -------- | ----------------------------------------------------- |
 | Kanto  | 0037    | ![vulpix](01%20Pokemon/vulpix.gif)       | [Vulpix](https://pokemondb.net/pokedex/vulpix)       | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png)       | Fire     | -      | Fire               | 1         | 0        | ![vulpix-status](03%20Status/vulpix-status.png)       |
-| Kanto  | 0038    | ![ninetales](01%20Pokemon/ninetales.gif) | [Ninetales](https://pokemondb.net/pokedex/ninetales) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png)       | Fire     | -      | Fire               | 1         | 0        | ![ninetales-status](03%20Status/ninetales-status.png) |
-| Kanto  | 0059    | ![arcanine](01%20Pokemon/arcanine.gif)   | [Arcanine](https://pokemondb.net/pokedex/arcanine)   | ![Growlithe_Egg](02%20Egg/Growlithe_Egg.png) | Fire     | -      | Fire               | 1         | 0        | ![growlithe-status](03%20Status/growlithe-status.png) |
+| Kanto  | 0038    | ![ninetales](01%20Pokemon/ninetales.gif) | [Ninetales](https://pokemondb.net/pokedex/ninetales) | ![Vulpix_Egg](02%20Egg/Vulpix_Egg.png)       | Fire     | -      | Fire               | 1         | 1        | ![ninetales-status](03%20Status/ninetales-status.png) |
+| Kanto  | 0059    | ![arcanine](01%20Pokemon/arcanine.gif)   | [Arcanine](https://pokemondb.net/pokedex/arcanine)   | ![Growlithe_Egg](02%20Egg/Growlithe_Egg.png) | Fire     | -      | Fire               | 1         | 1        | ![growlithe-status](03%20Status/growlithe-status.png) |
 | Kanto  | 0078    | ![ponyta](01%20Pokemon/ponyta.gif)       | [Ponyta](https://pokemondb.net/pokedex/ponyta)       | ![Ponyta_Egg](02%20Egg/Ponyta_Egg.png)       | Fire     | -      | Fire               | 1         | 0        | ![ponyta-status](03%20Status/ponyta-status.png)       |
-| Kanto  | 0079    | ![rapidash](01%20Pokemon/rapidash.gif)   | [Rapidash](https://pokemondb.net/pokedex/rapidash)   | ![Ponyta_Egg](02%20Egg/Ponyta_Egg.png)       | Fire     | -      | Fire               | 1         | 0        | ![rapidash-status](03%20Status/rapidash-status.png)   |
+| Kanto  | 0079    | ![rapidash](01%20Pokemon/rapidash.gif)   | [Rapidash](https://pokemondb.net/pokedex/rapidash)   | ![Ponyta_Egg](02%20Egg/Ponyta_Egg.png)       | Fire     | -      | Fire               | 1         | 1        | ![rapidash-status](03%20Status/rapidash-status.png)   |
 | Kanto  | 0092    | ![gastly](01%20Pokemon/gastly.gif)       | [Gastly](https://pokemondb.net/pokedex/gastly)       | ![](02%20Egg/Gastly_Egg.png)                 | Ghost    | Poison | Ghost              | 1         | 0        | ![gastly-status](03%20Status/gastly-status.png)       |
 | Kanto  | 0093    | ![](01%20Pokemon/haunter.gif)            | [Haunter](https://pokemondb.net/pokedex/haunter)     | ![](02%20Egg/Gastly_Egg.png)                 | Ghost    | Poison | Ghost              | 1         | 0        | ![haunter-status](03%20Status/haunter-status.png)     |
 | Kanto  | 0111    | ![](01%20Pokemon/rhyhorn-f.gif)          | [Rhyhorn](https://pokemondb.net/pokedex/rhyhorn)     | ![](02%20Egg/Rhyhorn_Egg.png)                | Ground   | Rock   | Water/Grass/Ground | 1         | 0        | ![rhyhorn-status](03%20Status/rhyhorn-status.png)     |

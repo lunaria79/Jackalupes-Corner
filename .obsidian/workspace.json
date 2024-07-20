@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 Pokemon/Original.md",
                 "mode": "preview",
                 "source": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02 Pokemon/Original.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02 Pokemon/Original.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "02 Pokemon/Original.md"
               }
             }
           },
@@ -221,8 +221,10 @@
   },
   "active": "bf15e4dffad3b2d0",
   "lastOpenFiles": [
-    "02 Pokemon/Original.md",
     "04 Others/Markdown Cheat Sheet.md",
+    "02 Pokemon/Original.md",
+    "04 Others/Minecraft Summon Items.md",
+    "Updates Prior.md",
     "README.md",
     "02 Pokemon/03 Status/chikorita-status.png",
     "02 Pokemon/01 Pokemon/chikorita.gif",
@@ -241,7 +243,6 @@
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Stage Files/icons.md",
     "03 These Lyrics Will Write Themselves/text message staging.md",
-    "Updates Prior.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
