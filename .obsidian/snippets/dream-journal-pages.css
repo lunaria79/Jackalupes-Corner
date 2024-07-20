@@ -29,9 +29,6 @@
 		background-color: rgb(var(--background-color), .5);
 	}
 
-	.milo-caspian .box b { /* blue accents */ color: rgb(var(--primary-tint)); }
-
-	.milo-caspian .box i { /* purple accents */ color: rgb(var(--secondary-tint)); }
 
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
 	.gods-and-fiends * {
@@ -58,14 +55,7 @@
 	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
 	.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input,
-	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill,
-	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-	.gods-and-fiends .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill,
-	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-	.gods-and-fiends .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg,
-	.markdown-preview-view.gods-and-fiends div.inline-title	{
+	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input	{
 		color: rgb(var(--text)) !important;
 	}
 
@@ -157,14 +147,6 @@
 	/* -------------------- Font Changes -------------------- */
 	.nothing-left-to-say h4 { color: rgb(var(--primary-tint)) !important; 	}
 
-	.markdown-preview-view.nothing-left-to-say div.inline-title { color: rgb(var(--text)) !important; }
-
-	.nothing-left-to-say img {
-		width: 200px;
-		float: left;
-		margin-right: 10px;
-	}
-
 	/* -------------------- Properties -------------------- */
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
 	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
@@ -200,9 +182,6 @@
 	--background-color: 255, 255, 255;
 	--background-highlight: 0, 0, 0, .1;
 	--primary-color: 0, 0, 0;
-	--red-tint: 185, 51, 73;
-	--blue-tint: 96, 159, 230;
-	--purple-tint: 229, 36, 142;
 	--text: 0, 0, 0;
 	/* Sizes */
 	--medium-radius: 0;
@@ -210,6 +189,7 @@
 	font-family: "Aleo", serif !important;
 
 	--newsletter-box-shadow: 2px 2px 5px rgb(var(--primary-color), .15);
+	--tile-border: 5px solid rgb(0,0,0);
 }
 
 .arcane-school.markdown-preview-view {

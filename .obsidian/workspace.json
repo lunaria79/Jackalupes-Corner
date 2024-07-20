@@ -58,42 +58,6 @@
             }
           },
           {
-            "id": "07e60b3e01d80b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bf15e4dffad3b2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ffaa71de1558a629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "92f3f741dcfdea59",
             "type": "leaf",
             "state": {
@@ -106,7 +70,19 @@
             }
           },
           {
-            "id": "db815ce0e73a8419",
+            "id": "5f52a777d6997d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9ef3cc105375bd69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md",
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes/themes.md"
+                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md"
               }
             }
           },
@@ -256,15 +232,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "db815ce0e73a8419",
+  "active": "5f52a777d6997d89",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Stage Files/themes/themes.md",
+    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "README.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/Gaia's Wrath.md",
@@ -287,7 +264,6 @@
     "03 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "03 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
-    "01 Dream Journal/Stage Files/Potential Redesign.md",
     "02 Pokemon/01 Pokemon/ponyta.gif",
     "02 Pokemon/02 Egg/Rhyhorn_Egg.png",
     "02 Pokemon/02 Egg/Magikarp_Egg.png",

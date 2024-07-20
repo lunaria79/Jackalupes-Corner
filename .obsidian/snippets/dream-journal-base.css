@@ -16,10 +16,7 @@
 	--primary-tint:  243, 172, 208;
 	--secondary-tint: 165, 214, 230;
 	--tertiary-tint: 213, 168, 233;
-	
 	--yellow-tint: 222, 233, 165;
-
-
 	/* Sizes */
 	--large-radius: 20px;
 	--medium-radius: 10px;
@@ -304,6 +301,10 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 /* -------------------- Text -------------------- */
+.dream-journal-base .inline-title {
+	color: rgb(var(--text));
+}
+
 .dream-journal-base .callout-title {
 	/* Text Color */
 	color: rgb(var(--primary-tint));
