@@ -348,6 +348,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	width: 65%;
 	/* other */
 	background-color: rgb(var(--background-highlight), .75);
+	box-shadow: 2px 2px rgb(var(--blue-tint));
 }
 
 .dream-journal-base .char-note img {

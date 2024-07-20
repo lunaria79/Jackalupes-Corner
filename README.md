@@ -30,5 +30,6 @@ Previous Chapter:
 ~~~
 ~~~diff
 2024-07-19
-! Working on fixing repo.
++ Fixed repo sync. (feat. Gabe)
+! Change Dream Journal theme color vars to primary, secondary, tertriary system.
 ~~~
