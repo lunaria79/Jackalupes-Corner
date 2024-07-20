@@ -60,6 +60,11 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	background-image: none !important;
 }
 
+.dream-journal-base ::selection {
+    color: rgb(var(--background-color));
+    background: rgb(var(--primary-tint));
+}
+
 /* ------------------------------------------- Properties ------------------------------------------- */
 	.dream-journal-base .metadata-properties-title {
 		/* Properties Title Apperance */
@@ -351,7 +356,15 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	width: 65%;
 	/* other */
 	background-color: rgb(var(--background-highlight), .75);
+	box-shadow: 2px 2px rgb(var(--primary-tint));
+}
+
+.dream-journal-base .char-note img {
 	box-shadow: 2px 2px rgb(var(--secondary-tint));
+}
+
+.dream-journal-base .def-note img {
+	box-shadow: 2px 2px rgb(var(--tertiary-tint));
 }
 
 .dream-journal-base .char-note img {
