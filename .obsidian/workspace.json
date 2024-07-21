@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "mode": "preview",
                 "source": true
               }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md"
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md"
               }
             }
           },
@@ -208,14 +207,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6c149bf27ec8bddf",
+  "active": "92f3f741dcfdea59",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Stage Files/themes.md",
+    "01 Dream Journal/Stage Files/Potential Redesign.md",
+    "01 Dream Journal/Stage Files/Code Testing Ground.md",
+    "README.md",
+    "04 Others/Minecraft Summon Items.md",
+    "04 Others/Markdown Cheat Sheet.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "03 These Lyrics Will Write Themselves/text message staging.md",
     "03 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "03 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
@@ -223,7 +227,6 @@
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/For Aeli.md",
-    "README.md",
     "Updates Prior.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
@@ -232,13 +235,9 @@
     "01 Dream Journal/Dreams/05 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dreams/A Court of Death and Desire.md",
-    "01 Dream Journal/Dreams/Gaia's Wrath.md",
     "02 Pokemon/01 Pokemon/eevee.gif",
     "02 Pokemon/01 Pokemon/eevee 1.gif",
-    "01 Dream Journal/Dreams/NANOBEAM.md",
-    "01 Dream Journal/Dreams/Isle of the Gods.md",
     "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
-    "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Stage Files/images",
     "00 _resources/Images/draculabase.png",
     "02 Pokemon/03 Status/chikorita-status.png",
