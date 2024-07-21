@@ -65,7 +65,7 @@ Home:
 							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby. His main purpose is a reaper. He's been working very hard to suppress the political groups that want another war. </p>
 							<h3>Fun Facts</h3>
 							<p><b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection.</p>
-							<p>The reason <b>Toshi</b> started reaping was because he felt to guilty enjoying his wealth while others were using theirs to hurt others.</p>
+							<p>He isn't a good person at all. He isn't even a good person. He's an amalgamation of concepts forced into an attempt at humanity. And I love him for it. Yeah, he helps the marginalized, but only because it increases his number of worshipers, ergo his power. Any kindness he shows to others is due to his desire to please <b>Anaia</b>.</p>
 						</div>
 					</div>
 				</div>

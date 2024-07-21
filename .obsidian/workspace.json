@@ -46,31 +46,7 @@
             }
           },
           {
-            "id": "b908e11ed1006393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "92f3f741dcfdea59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5f52a777d6997d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,31 +58,19 @@
             }
           },
           {
-            "id": "9ef3cc105375bd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Stage Files/themes.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "6c149bf27ec8bddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -172,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md"
+                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md"
               }
             }
           },
@@ -245,18 +210,21 @@
   },
   "active": "6c149bf27ec8bddf",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "01 Dream Journal/Stage Files/themes.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
     "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "03 These Lyrics Will Write Themselves/text message staging.md",
     "03 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "03 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md",
     "03 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "01 Dream Journal/ZIALONA Home Page.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/For Aeli.md",
     "README.md",
     "Updates Prior.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
@@ -273,9 +241,6 @@
     "00 _resources/Templates/Dream Journal Template.md",
     "01 Dream Journal/Stage Files/images",
     "00 _resources/Images/draculabase.png",
-    "04 Others/Markdown Cheat Sheet.md",
-    "04 Others/Minecraft Summon Items.md",
-    "02 Pokemon/Original.md",
     "02 Pokemon/03 Status/chikorita-status.png",
     "02 Pokemon/01 Pokemon/chikorita.gif",
     "02 Pokemon/02 Egg/Chikorita_Egg.png",
