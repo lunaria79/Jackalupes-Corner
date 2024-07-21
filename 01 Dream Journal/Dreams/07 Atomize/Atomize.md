@@ -53,11 +53,22 @@ Home:
 				<div class="wrapper grid">
 					<div class="grid left">
 						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character descriptions </div> </div>
-							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
+							<div class="callout-title"> <div class="callout-title-inner">xenos (he/him) </div> </div>
+							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
+							 <p>....</p>
+							 <p>OK - (Oracle Knight) We never really saw ourselves, up to whatever you want.  </p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title"> <div class="callout-title-inner">character note </div> </div>
+							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
+							 <p>....</p>
 							<p>SCP - (Second Crown Prince) Kind of looks like my Laurence Sim </p>
-							<p>OK - (Oracle Knight) We never really saw ourselves, up to whatever you want.  </p>
-							<p>OS - (Oracle Saint) Zelda but with longer blonde hair and slightly softer features (we don't have to be identical, but we are twins)</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title"> <div class="callout-title-inner">character note </div> </div>
+							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
+							 <p>....</p>
+							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -72,6 +83,7 @@ Home:
 							<div class="callout-title"> <div class="callout-title-inner">Levana (she/her) </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder.png">
 							 <p>Due to her visions impacting her more physically than her brother, <b>Levana</b> has always been a very sickly person. Due to this, the former king had her confined to her bed chambers where she could be well enough to be of use. Instead of just sitting around, when she was healthy she threw herself into research. <b>Xenos</b> and <b>Second Prince</b> would often sneak out of the castle to find books and trinkets of her request.</p>
+							 <p>OS - (Oracle Saint) Zelda but with longer blonde hair and slightly softer features (we don't have to be identical, but we are twins)</p>
 						</div>
 					</div>
 				</div>
