@@ -67,7 +67,7 @@ cssclasses:
 >[!infobox]+ Nothing Left to Say
 >![sleeping-deer](images/sleeping-deer.jpg)
 >```palette
-> #120E0B, #8f8675, #c7c3ba,  #515846 , #3e4a4d, #68664d
+> #120E0B, #8f8675, #c7c3ba,  #515846  , #3e4a4d, #68664d
 > ```
 >```css
 > /* Colors */
@@ -81,4 +81,21 @@ cssclasses:
 > --tertiary-tint:  81, 88, 70;
 > /* Fonts */
 > font-family: "Barlow", sans-serif;
+>```
+
+>[!infobox]+ Atomize
+>![atomize](images/atomize.png)
+>```palette
+>  #120E0B, #DDF4F1,  #0d526e , #ca5858, #ca8a58
+> ```
+>```css
+> /* Colors */
+--background-color: 6,26,36;
+--text: 221,244,241;
+/* Tints */
+--primary-tint: 13,82,110;
+--secondary-tint: 202,88,88;
+--tertiary-tint:  202, 138, 88;
+/* Fonts */
+font-family: "Barlow", sans-serif;
 >```

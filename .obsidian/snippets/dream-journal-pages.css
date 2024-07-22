@@ -178,13 +178,13 @@
 /* --------------------------------------------- Atomize --------------------------------------------- */
 	.atomize * {
 		/* Colors */
-		--background-color: 7,35,46;
-		--primary-color: 16,101,129;
+		--background-color: 6,26,36;
+
 		--text: 221,244,241;
 		/* Tints */
-		--primary-tint: 215,185,127;
-		--secondary-tint: 138,19,20;
-		--tertiary-tint:  16,101,129;
+		--primary-tint: 13,82,110;
+		--secondary-tint: 202,88,88;
+		--tertiary-tint:  202, 138, 88;
 		/* Fonts */
 		font-family: "Barlow", sans-serif;
 	}
