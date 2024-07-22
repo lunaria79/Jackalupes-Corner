@@ -175,126 +175,146 @@
 
 	.nothing-left-to-say input[type=checkbox]:checked:after { background: rgb(var(--text)) !important; }
 
+/* --------------------------------------------- Atomize --------------------------------------------- */
+	.atomize * {
+		/* Colors */
+		--background-color: 18, 14, 11;
+		--background-highlight: 143, 134, 117, .1;
+		--primary-color: 143, 134, 117;
+		--text: 199, 195, 186;
+		/* Tints */
+		--primary-tint: 143 , 134, 117;
+		--secondary-tint: 62, 74, 77;
+		--tertiary-tint:  81, 88, 70;
+		/* Fonts */
+		font-family: "Barlow", sans-serif;
+	}
+
+	.atomize {
+		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/sleeping-deer.jpg") center center / cover no-repeat;
+		background-size: 100%;
+	}
+
 /* ----------------------------------------- Arcane School ------------------------------------------- */
-.app-container .arcane-school * {
-	/* Colors */
-	--background-color: 255, 255, 255;
-	--background-highlight: 0, 0, 0, 0.1;
-	--text: 0, 0, 0;
-	/* Tints */
-	--primary-tint: 0, 0, 0;
-	--secondary-tint: 0,0,0;
-	--tertiary-tint: 0,0,0;
-	
-	--medium-radius: 0;
-	font-family: "Aleo", serif !important;
-	--newsletter-box-shadow: 2px 2px 5px rgb(var(--primary-tint), 0.15);
-}
+	.app-container .arcane-school * {
+		/* Colors */
+		--background-color: 255, 255, 255;
+		--background-highlight: 0, 0, 0, 0.1;
+		--text: 0, 0, 0;
+		/* Tints */
+		--primary-tint: 0, 0, 0;
+		--secondary-tint: 0,0,0;
+		--tertiary-tint: 0,0,0;
+		
+		--medium-radius: 0;
+		font-family: "Aleo", serif !important;
+		--newsletter-box-shadow: 2px 2px 5px rgb(var(--primary-tint), 0.15);
+	}
 
-/* ----- Background and Padding ----- */
-.arcane-school.markdown-preview-view {
-    background: rgba(255, 255, 255);
-}
+	/* ----- Background and Padding ----- */
+	.arcane-school.markdown-preview-view {
+	    background: rgba(255, 255, 255);
+	}
 
-div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
-    backdrop-filter: blur(0px);
-    padding: 20px;
-    max-width: 65% !important;
-}
+	div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
+	    backdrop-filter: blur(0px);
+	    padding: 20px;
+	    max-width: 65% !important;
+	}
 
-/* ----- Box Shadow ----- */
-.arcane-school.markdown-preview-view div.inline-title,
-.arcane-school div.metadata-container,
-.arcane-school div.html-tabs,
-.arcane-school .box,
-.arcane-school .box img {
-    box-shadow: var(--newsletter-box-shadow);
-}
+	/* ----- Box Shadow ----- */
+	.arcane-school.markdown-preview-view div.inline-title,
+	.arcane-school div.metadata-container,
+	.arcane-school div.html-tabs,
+	.arcane-school .box,
+	.arcane-school .box img {
+	    box-shadow: var(--newsletter-box-shadow);
+	}
 
-/* -------------------- Metadata Properties -------------------- */
-.arcane-school .metadata-property .multi-select-pill {   padding-bottom: 1px; }
-.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill { 	padding-bottom: 2px; }
+	/* -------------------- Metadata Properties -------------------- */
+	.arcane-school .metadata-property .multi-select-pill {   padding-bottom: 1px; }
+	.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill { 	padding-bottom: 2px; }
 
-/* ---------------------------------------- Information Grid ---------------------------------------- */
-.arcane-school .wrapper { grid-template-columns: 1fr .65fr; }
-.arcane-school .wrapper.interview-articles { grid-template-columns: 1.5fr 1fr; }
+	/* ---------------------------------------- Information Grid ---------------------------------------- */
+	.arcane-school .wrapper { grid-template-columns: 1fr .65fr; }
+	.arcane-school .wrapper.interview-articles { grid-template-columns: 1.5fr 1fr; }
 
-/* -------------------- Custom SVG -------------------- */
-.arcane-school .interview .box.char-note .callout-title-inner::before {
-    background-color: transparent !important;
-    content: unset;
-    -webkit-mask: unset;
-}
+	/* -------------------- Custom SVG -------------------- */
+	.arcane-school .interview .box.char-note .callout-title-inner::before {
+	    background-color: transparent !important;
+	    content: unset;
+	    -webkit-mask: unset;
+	}
 
-.arcane-school .box.char-note .callout-title-inner::before {
-    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H80c-44.2 0-80-35.8-80-80V128c0-17.7 14.3-32 32-32s32 14.3 32 32V400c0 8.8 7.2 16 16 16s16-7.2 16-16V96zm64 24v80c0 13.3 10.7 24 24 24H296c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24H184c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-}
+	.arcane-school .box.char-note .callout-title-inner::before {
+	    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H80c-44.2 0-80-35.8-80-80V128c0-17.7 14.3-32 32-32s32 14.3 32 32V400c0 8.8 7.2 16 16 16s16-7.2 16-16V96zm64 24v80c0 13.3 10.7 24 24 24H296c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24H184c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+	}
 
-.arcane-school .box.author-note .callout-title-inner::before {
-    background-color: rgb(var(--background-color)) !important;
-    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M512 240c0 114.9-114.6 208-256 208c-37.1 0-72.3-6.4-104.1-17.9c-11.9 8.7-31.3 20.6-54.3 30.6C73.6 471.1 44.7 480 16 480c-6.5 0-12.3-3.9-14.8-9.9c-2.5-6-1.1-12.8 3.4-17.4l0 0 0 0 0 0 0 0 .3-.3c.3-.3 .7-.7 1.3-1.4c1.1-1.2 2.8-3.1 4.9-5.7c4.1-5 9.6-12.4 15.2-21.6c10-16.6 19.5-38.4 21.4-62.9C17.7 326.8 0 285.1 0 240C0 125.1 114.6 32 256 32s256 93.1 256 208z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-}
+	.arcane-school .box.author-note .callout-title-inner::before {
+	    background-color: rgb(var(--background-color)) !important;
+	    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M512 240c0 114.9-114.6 208-256 208c-37.1 0-72.3-6.4-104.1-17.9c-11.9 8.7-31.3 20.6-54.3 30.6C73.6 471.1 44.7 480 16 480c-6.5 0-12.3-3.9-14.8-9.9c-2.5-6-1.1-12.8 3.4-17.4l0 0 0 0 0 0 0 0 .3-.3c.3-.3 .7-.7 1.3-1.4c1.1-1.2 2.8-3.1 4.9-5.7c4.1-5 9.6-12.4 15.2-21.6c10-16.6 19.5-38.4 21.4-62.9C17.7 326.8 0 285.1 0 240C0 125.1 114.6 32 256 32s256 93.1 256 208z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+	}
 
-/* ----- Article Links ----- */
-.arcane-school a.internal-link:hover div.callout-title-inner {
-	-webkit-text-fill-color: rgb(var(--background-color));
-	background: rgb(var(--primary-tint));
-	box-shadow: 0 0 0 5px rgb(var(--primary-tint));
-}
+	/* ----- Article Links ----- */
+	.arcane-school a.internal-link:hover div.callout-title-inner {
+		-webkit-text-fill-color: rgb(var(--background-color));
+		background: rgb(var(--primary-tint));
+		box-shadow: 0 0 0 5px rgb(var(--primary-tint));
+	}
 
-.arcane-school a.internal-link { -webkit-text-fill-color: rgb(var(--primary-tint)) !important; }
-.arcane-school a.internal-link:hover div.callout-title-inner::before { background-color: rgb(var(--background-color)) !important; }
-.arcane-school a.internal-link .box:hover { cursor: pointer !important; }
+	.arcane-school a.internal-link { -webkit-text-fill-color: rgb(var(--primary-tint)) !important; }
+	.arcane-school a.internal-link:hover div.callout-title-inner::before { background-color: rgb(var(--background-color)) !important; }
+	.arcane-school a.internal-link .box:hover { cursor: pointer !important; }
 
-/* ----- Description Panel ----- */
-.arcane-school .description-tile img {
-	width: 80%;
-	height: unset;
-	float: unset;
-	margin: 10px auto;
-}
+	/* ----- Description Panel ----- */
+	.arcane-school .description-tile img {
+		width: 80%;
+		height: unset;
+		float: unset;
+		margin: 10px auto;
+	}
 
-.arcane-school .description-tile h3 {
-	color: rgb(var(--primary-tint)) !important;
-	font-weight: 800;
-	font-size: 14px !important;
-}
+	.arcane-school .description-tile h3 {
+		color: rgb(var(--primary-tint)) !important;
+		font-weight: 800;
+		font-size: 14px !important;
+	}
 
-.arcane-school .description-tile p {
-	font-weight: 400;
-	font-size: 16px !important;
-}
+	.arcane-school .description-tile p {
+		font-weight: 400;
+		font-size: 16px !important;
+	}
 
-/* ----- Interview Questions ----- */
-.arcane-school .reporter {
-	margin-top: 10px !important;
-	margin-bottom: 0px;
-	font-weight: 600;
-}
+	/* ----- Interview Questions ----- */
+	.arcane-school .reporter {
+		margin-top: 10px !important;
+		margin-bottom: 0px;
+		font-weight: 600;
+	}
 
-.arcane-school .reporter::before {
-	content: 'Reporter: ';
-	font-weight: 800;
-}
+	.arcane-school .reporter::before {
+		content: 'Reporter: ';
+		font-weight: 800;
+	}
 
-.arcane-school p {
-	margin-top: 5px !important;
-	text-align: justify;
-}
+	.arcane-school p {
+		margin-top: 5px !important;
+		text-align: justify;
+	}
 
-.arcane-school i {
-	font-weight: 550 !important;
-	color: rgb(var(--primary-tint)) !important;
-}
+	.arcane-school i {
+		font-weight: 550 !important;
+		color: rgb(var(--primary-tint)) !important;
+	}
 
-/* ----- Author's Note ----- */
-.arcane-school .author-note.box .callout-title-inner,
-.arcane-school .author-note.box {
-	color: rgb(var(--background-color)) !important;
-	background: rgb(var(--primary-tint)) !important;
-}
+	/* ----- Author's Note ----- */
+	.arcane-school .author-note.box .callout-title-inner,
+	.arcane-school .author-note.box {
+		color: rgb(var(--background-color)) !important;
+		background: rgb(var(--primary-tint)) !important;
+	}
 
-.arcane-school .author-note.box p {
-	color: rgb(var(--background-color)) !important;
-	margin-bottom: 10px !important;
-}
+	.arcane-school .author-note.box p {
+		color: rgb(var(--background-color)) !important;
+		margin-bottom: 10px !important;
+	}

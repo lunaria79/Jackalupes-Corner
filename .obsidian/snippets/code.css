@@ -128,36 +128,33 @@
 	}
 
 /* ----------------------- Difference ----------------------- */
-	pre.language-diff {
+	.code pre.language-diff {
 		margin-bottom: 10px !important;
 	}
 
-	.language-diff .token {
+	.code .language-diff .token {
 		font-weight: 700;
 	}
 
-	.language-diff .token.inserted,
-	.cm-positive {
+	.code .language-diff .token.inserted,
+	.code .cm-positive {
 		color: #21f47f !important;
 	}
 
-	.language-diff .token.deleted,
-	.cm-negative {
+	.code .language-diff .token.deleted,
+	.code .cm-negative {
 		color: #ff0031 !important;
 	}
 
-	.language-diff .token.bold {
+	.code .language-diff .token.bold {
 		color: #fe9fd8;
 	}
 
-	.cm-hmd-codeblock {
+	.code .cm-hmd-codeblock {
 		color: #fbecff;
 	}
 	
-	.HyperMD-codeblock.HyperMD-codeblock-bg.cm-line span {
-		color: #fe9fd8;
-	}
-	
-	.HyperMD-codeblock-end-bg span, .HyperMD-codeblock-begin-bg span {
-		color: white !important;
+	.code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {
+		color: #3e435b !important;
+		font-weight: 700;
 	}
