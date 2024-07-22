@@ -49,9 +49,11 @@
             "id": "92f3f741dcfdea59",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg"
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -106,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg"
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md"
               }
             }
           },
@@ -195,12 +198,14 @@
   },
   "active": "92f3f741dcfdea59",
   "lastOpenFiles": [
-    "01 Dream Journal/Stage Files/images/sleeping-deer.jpg",
+    "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
+    "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg",
+    "01 Dream Journal/Stage Files/images/sleeping-deer.jpg",
     "01 Dream Journal/Stage Files/images/atomize.png",
     "01 Dream Journal/Stage Files/images/space pirates.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",
-    "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
@@ -228,11 +233,9 @@
     "03 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "02 Pokemon/01 Pokemon/eevee.gif",
     "02 Pokemon/01 Pokemon/eevee 1.gif",
-    "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Stage Files/images",
     "00 _resources/Images/draculabase.png",
     "02 Pokemon/03 Status/chikorita-status.png",
-    "02 Pokemon/01 Pokemon/chikorita.gif",
     "Jacks Corner",
     "02 Pokemon/03 Status",
     "02 Pokemon/04 Held Item",

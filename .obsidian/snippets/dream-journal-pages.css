@@ -178,21 +178,19 @@
 /* --------------------------------------------- Atomize --------------------------------------------- */
 	.atomize * {
 		/* Colors */
-		--background-color: 18, 14, 11;
-		--background-highlight: 143, 134, 117, .1;
-		--primary-color: 143, 134, 117;
-		--text: 199, 195, 186;
+		--background-color: 7,35,46;
+		--primary-color: 16,101,129;
+		--text: 221,244,241;
 		/* Tints */
-		--primary-tint: 143 , 134, 117;
-		--secondary-tint: 62, 74, 77;
-		--tertiary-tint:  81, 88, 70;
+		--primary-tint: 215,185,127;
+		--secondary-tint: 138,19,20;
+		--tertiary-tint:  16,101,129;
 		/* Fonts */
 		font-family: "Barlow", sans-serif;
 	}
 
 	.atomize {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/sleeping-deer.jpg") center center / cover no-repeat;
-		background-size: 100%;
+		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/atomize.png") center center / cover no-repeat;
 	}
 
 /* ----------------------------------------- Arcane School ------------------------------------------- */
