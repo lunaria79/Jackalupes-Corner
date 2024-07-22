@@ -3,7 +3,7 @@ cssclasses:
   - dream-journal-base
 tags:
   - dream
-Completed: false
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
 ---
@@ -73,19 +73,22 @@ Home:
 					<div class="grid left">
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
-							<p>A 5 member A Capella group. Very famous. 3 men, 2 women. I believe that is a modern setting? But the cars and dresses did not match. Like, antebellum dresses, but 1980s cars?
-							<br> Strangers to Lovers. Much angst due to trauma 
-							<br> At the end of the dream, there were some fantasy elements that i might abandon. I.E. the MC is a vampire that was forcefully turned *twice*. 
-							<br> Possibly A/B/O??? I don't really remember all of the specifics, but I def remember a scene where the two sisters were scenting each other in the car. The older sisters hair was long and soft, a little curly.  All three men are very protective, could tie in to pack dynamics?
-							<br> The Main Character and Love Interest, while not together yet, are quite touchy. I remember the Love Interests hands were quite big when they wrapped around the MC's waist when picking her up.
-							<br> The MC was wearing 9 inch heels and *struggling*, but i think that that was because i was inhabiting a portion of her brain, and will remove that from the story </p>
+							<p>A 5 member A Capella group. Very famous. 3 men, 2 women. I believe that is a modern setting? But the cars and dresses did not match. Like, antebellum dresses, but 1980s cars?</p>
+						</div>
+						<div class="box def-note">
+							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
+							<p> The MC was wearing 9 inch heels and *struggling*, but i think that that was because i was inhabiting a portion of her brain, and will remove that from the story </p>
 						</div>
 					</div>
 					
 					<div class="grid right">
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
-							<p>...</p>
+							<p> Possibly A/B/O??? I don't really remember all of the specifics, but I def remember a scene where the two sisters were scenting each other in the car. The older sisters hair was long and soft, a little curly.  All three men are very protective, could tie in to pack dynamics? </p>
+						</div>
+						<div class="box def-note">
+							<div class="callout-title"> <div class="callout-title-inner">  note </div> </div>
+							<p>  The Main Character and Love Interest, while not together yet, are quite touchy. I remember the Love Interests hands were quite big when they wrapped around the MC's waist when picking her up. </p>
 						</div>
 					</div>
 				</div>

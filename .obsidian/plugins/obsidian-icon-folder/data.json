@@ -51,12 +51,9 @@
   "01 Dream Journal/Dreams": "FasFolderTree",
   "01 Dream Journal/Dream Journal Home Page.md": "FasHouse",
   "01 Dream Journal/ZIALONA Home Page.md": "FasHouse",
-  "01 Dream Journal/Dreams/A Court of Death and Desire.md": "FasFileLines",
-  "01 Dream Journal/Dreams/Trauma Central (Not Official).md": "FasFilePen",
   "01 Dream Journal/Stage Files/Code Testing Ground.md": "FasFileCode",
   "01 Dream Journal/Stage Files": "FasFolderTree",
   "01 Dream Journal/Dreams/Gaia's Wrath.md": "FasFilePen",
-  "01 Dream Journal/Dreams/Isle of the Gods.md": "FasFilePen",
   "01 Dream Journal/Dreams/02 Of Gods and Fiends": {
     "iconName": "FasFolderTree",
     "iconColor": "#ac49da"
@@ -143,7 +140,6 @@
     "iconName": "FasFolderTree",
     "iconColor": "#ac49da"
   },
-  "01 Dream Journal/Dreams/NANOBEAM.md": "FasFilePen",
   "03 These Lyrics Will Write Themselves": "FasFolderOpen",
   "03 These Lyrics Will Write Themselves/00 - Table of Contents.md": "FasFileLines",
   "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
@@ -173,5 +169,10 @@
   "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/images/Milo & Caspian.jpg": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes.md": "FasPaintRoller"
+  "01 Dream Journal/Stage Files/themes.md": "FasPaintRoller",
+  "01 Dream Journal/Dreams/100 Others": "FasFolderTree",
+  "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md": "FasFileLines",
+  "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md": "FasFilePen",
+  "01 Dream Journal/Dreams/100 Others/NANOBEAM.md": "FasFilePen",
+  "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md": "FasFileLines"
 }
