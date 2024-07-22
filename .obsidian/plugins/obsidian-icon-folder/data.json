@@ -25,6 +25,12 @@
         "icon": "FasImage",
         "for": "everything",
         "order": 1
+      },
+      {
+        "rule": ".jpg",
+        "icon": "FasImage",
+        "for": "everything",
+        "order": 2
       }
     ],
     "extraMargin": {
