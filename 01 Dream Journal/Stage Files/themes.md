@@ -90,12 +90,12 @@ cssclasses:
 > ```
 >```css
 > /* Colors */
---background-color: 6,26,36;
---text: 221,244,241;
-/* Tints */
---primary-tint: 13,82,110;
---secondary-tint: 202,88,88;
---tertiary-tint:  202, 138, 88;
-/* Fonts */
-font-family: "Barlow", sans-serif;
+> --background-color: 6,26,36;
+> --text: 221,244,241;
+> /* Tints */
+> --primary-tint: 13,82,110;
+> --secondary-tint: 202,88,88;
+> --tertiary-tint:  202, 138, 88;
+> /* Fonts */
+> font-family: "Barlow", sans-serif;
 >```
