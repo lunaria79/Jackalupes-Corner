@@ -42,5 +42,6 @@ Previous Chapter:
 ~~~
 ~~~diff
 2024-07-21
-+ Trauma Accappella (Dream Journal)
++ Trauma Accappella Updated (Dream Journal)
++ Gaia's Wrath Updated (Dream Journal)
 ~~~

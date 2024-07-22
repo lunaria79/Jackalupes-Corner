@@ -15,7 +15,7 @@ tags:
 1. [A Court of Death and Desire](Dreams/100%20Others/A%20Court%20of%20Death%20and%20Desire.md)
 # In Progress
 1. [Atomize](Dreams/07%20Atomize/Atomize.md)
-2. [Gaia's Wrath](Dreams/Gaia's%20Wrath.md)
+2. [Gaia's Wrath](Dreams/100%20Others/Gaia's%20Wrath.md)
 3. [NANOBEAM](Dreams/100%20Others/NANOBEAM.md)
 4. [Trauma Accappella](Dreams/100%20Others/Trauma%20Accappella.md)
 5. [Judas](Dreams/08%20Judas/Judas.md)

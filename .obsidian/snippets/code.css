@@ -153,3 +153,11 @@
 	.cm-hmd-codeblock {
 		color: #fbecff;
 	}
+	
+	.HyperMD-codeblock.HyperMD-codeblock-bg.cm-line span {
+		color: #fe9fd8;
+	}
+	
+	.HyperMD-codeblock-end-bg span, .HyperMD-codeblock-begin-bg span {
+		color: white !important;
+	}
