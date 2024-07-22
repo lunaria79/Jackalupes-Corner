@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes.md",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes.md",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Stage Files/themes.md"
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md"
               }
             }
           },
@@ -208,10 +208,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0781726d88d8eaf2",
+  "active": "92f3f741dcfdea59",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Stage Files/themes.md",
+    "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg",
