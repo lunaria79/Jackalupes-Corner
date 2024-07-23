@@ -51,32 +51,32 @@ Home:
 					<div class="grid left">
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">xenos (he/him) </div> </div>
-							<img alt="xenos.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/xenos.jpg">
+							<img alt="xenos.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Atomize/Images/xenos.jpg">
 							 <p><b>Xenos</b> is the pride and joy of the capital city. Known as the "people's champion", he rose from the status of street orphan to that of the revered captain of the royal guard. His kindness won over the palace servants, and his strength, physical and mental, earned him the tutelage of the  former captain of the guard.</p>
 							 <p>He spends his free time caring for his sister, causing mischeif with  the second prince <b>Amore</b>, and annoying his lover and <i>Royal Mage</i> <b>Ithe</b>.</p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> amore (he/him) </div> </div>
-							<img alt="error" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/amore.jpg">
+							<img alt="error" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Atomize/Images/amore.jpg">
 							<p>A less than serious young man, with a big heart. While known as the "people's prince", he does not believe that he is suited for the throne. He only fights for the crown due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">damaeth</div> </div>
-							<img alt="error" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/damaeth.jpg">
+							<img alt="error" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Atomize/Images/damaeth.jpg">
 							<p>A few years older than <b>Amore</b>, <b>Dameth</b> is a wiry secretive man. Always caught up in one illegal business or another, yet never able to find concrete evidence against him. It is an open secret that he has sent numerous assassins for <b>Amore</b> and <b>Levana</b>.</p>
 						</div>
 					</div>
 					<div class="grid right">
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">ithe (he/they) </div> </div>
-							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/ithe.png">
+							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Atomize/Images/ithe.png">
 							 <p><b>Ithe</b> is a <i>Starborn</i> that crash landed as a baby onto <I>Mire</I> after his matron star rejected him. He was taken in and raised by the previous <i>Royal Mage</i>, his <i>Starborn</i> status hidden from all.</p>
 							 <p><i>Ithe</i> grew up alongside the rest of our motley crew, constantly being dragged into schemes "against" his will. Due to his solemn nature and smooth talking abilities, he navigated the boys ways out of many lashings.</p>
 							 <p>As adults, he and the <b>Levana</b> are the most serious about their jobs, and it is a constant source of conflict with <b>Xenos</b>, due to him still wanting to goof off on the job.</p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">levana (she/her) </div> </div>
-							<img alt="levana.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/levana.jpg">
+							<img alt="levana.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/05%20Atomize/Images/levana.jpg">
 							 <p>Due to her visions impacting her more physically than her brother, <b>Levana</b> has always been a very sickly person. Due to this, the former king had her confined to her bed chambers where she could be well enough to be of use. Instead of just sitting around, when she was healthy she threw herself into research. <b>Xenos</b> and <b>Amore</b> would often sneak out of the castle to find books and trinkets of her request.</p>
 						</div>
 					</div>

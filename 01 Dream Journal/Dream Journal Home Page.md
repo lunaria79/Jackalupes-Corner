@@ -7,9 +7,8 @@ tags:
 2. [Of Gods and Fiends](Dreams/02%20Of%20Gods%20and%20Fiends/Of%20Gods%20and%20Fiends.md)
 3. [Nothing Left to Say](Dreams/03%20Nothing%20Left%20to%20Say/Nothing%20Left%20to%20Say.md)
 4. [Milo and Caspian](Dreams/04%20Milo%20&%20Caspian/Milo%20and%20Caspian.md)
-5. [Mary Jane](Dreams/06%20Mary%20Jane/Mary%20Jane.md)
-6. [Atomize](Dreams/07%20Atomize/Atomize.md)
-7.  [Judas](Dreams/08%20Judas/Judas.md)
+5. [Atomize](Dreams/05%20Atomize/Atomize.md)
+6.  [Judas](Dreams/06%20Judas/Judas.md)
 ### Loose
 1. [A Court of Death and Desire](Dreams/100%20Others/A%20Court%20of%20Death%20and%20Desire.md)
 2. [Gaia's Wrath](Dreams/100%20Others/Gaia's%20Wrath.md)
