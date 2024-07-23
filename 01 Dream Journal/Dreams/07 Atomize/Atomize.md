@@ -57,12 +57,12 @@ Home:
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> amore (he/him) </div> </div>
-							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
+							<img alt="error" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/amore.jpg">
 							<p>A less than serious young man, with a big heart. While known as the "people's prince", he does not believe that he is suited for the throne. He only fights for the crown due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">damaeth</div> </div>
-							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
+							<img alt="error" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/damaeth.jpg">
 							<p>A few years older than <b>Amore</b>, <b>Dameth</b> is a wiry secretive man. Always caught up in one illegal business or another, yet never able to find concrete evidence against him. It is an open secret that he has sent numerous assassins for <b>Amore</b> and <b>Levana</b>.</p>
 						</div>
 					</div>
