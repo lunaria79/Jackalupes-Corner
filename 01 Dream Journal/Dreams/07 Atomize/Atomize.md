@@ -4,7 +4,7 @@ cssclasses:
   - atomize
 tags:
   - dream
-Completed: false
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
 ---
@@ -86,7 +86,7 @@ Home:
 				<div class="wrapper grid">
 					<div class="grid left">
 						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> note </div> </div>
+							<div class="callout-title"> <div class="callout-title-inner"> xeno's lament </div> </div>
 							<p>I stand before you today, not from the comfort of our castle and home, but from the stark reality of our situation. This morning, a devastating prophecy reached both <b>Levana</b> and me, foretelling the destruction of our beloved kingdom. I know you must be wondering why I am here, at the docks, far from the castle walls. Let me explain.</p>
 							<p>I woke up this morning with the most excruciating pain in my head, a migraine that clouded my thoughts and tormented my senses. But amidst the agony, a powerful urge pulled me here, to the docks. I may have frightened some of our citizens with my unsteady gait, but what I discovered was far more terrifying than any of my actions.</p>
 							<p>As soon as my feet touched the wooden planks, a flood of visions assaulted my mind. The demons, our ancient enemies, are gathering just beyond the horizon. Their army has grown, bolstered by the souls of our fallen, now twisted into thralls. Their hellhounds are more numerous than ever before. This is not a battle we can win. I beg of you, evacuate the kingdom. Save our people and our soldiers from a fate worse than death.</p>
@@ -99,15 +99,12 @@ Home:
 					</div>
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> note </div> </div>
-							<p>Imagine you're the RM. And the last conversation you had with your partner was telling him he needs to leave a dangerous situation and he ignored you. And you ended the communications on a sour note. And you're trying to go about your duties, keeping your mind off of worrying about him. Cause, you’re the great Royal Mage! You can't show sign of distress.  </p>
-							<p>Now, as your looking down upon the tea gathering in the gardens from the tower. You see the SCP come hastily in, with a grim look on his face, and making a beeline for the OS. And they have quick conversation, and they both start heading towards your tower. So you check comms, and see the "HOLY FUCK SHIT EVERYTHING'S GOING WRONG" message. As well as the "connection lost" message. How would that make you feel?</p>
-							<ol>
-								<li>Vindictive that you were right all along.
-								<li>Panicking. Cause where the fuck is your partner.
-								<li>Angry. Where the fuck is my partner. I'm going to burn down a small unnecessary building.
-								<li>Let's go the logic route. We're finding this fucker and I'm smacking the shit out of him.
-							</ol>
+							<div class="callout-title"> <div class="callout-title-inner"> ithe's journal </div> </div>
+							<p>The sun shone brightly on the gardens below, a stark contrast to the storm brewing within my heart. As the <i>Royal Mage</i>, I couldn't afford to show any signs of distress. The words we exchanged still echoed in my mind, a bitter reminder of my failed attempts to keep him safe. I told him to leave the dangerous situation, but he dug his heels in like a stuborn ass. </p>
+							<p>From the tower, I watched the tea gathering, trying to focus on my duties and keep my mind off the worry gnawing at me. My heart sank to my feet as I saw <b>Amore</b>, a grim look etched on his face, rush to <b>Levana's</b> side, dashing all hope from my mind. They had a quick, urgent conversation before both started heading towards my tower, ignoring all inquires from passerbys.</p>
+							<p>My heart raced as I checked the comms. The message flashed before my eyes: "Mayday. Mayday. The town defenses have been breached by--" Then, "connection lost."</p>
+							<p>A whirlwind of emotions surged through me. Vindication mingled with panic and anger. I was right all along. But where was he? Where the fuck was my partner? The urge to burn down a small, unnecessary building flared up, but logic had to prevail. Taking a deep breath, I steeled myself. We're finding this mule, and when we do, I'll smack the idoacity out of him.</p>
+							<p>Turning on my heel, I approached the pounding on my door. We needed a plan. He was out there somewhere, and I would not rest until we brought him back safely. And when we did, heavens help me, he would never ignore my warnings again.</p>
 						</div>
 					</div>
 				</div>
