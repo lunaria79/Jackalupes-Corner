@@ -38,7 +38,7 @@ Previous Chapter:
 ~~~diff
 2024-07-20
 + Dream Journal Base + Pages Theme Updated (Dream Journal)
-+ Atomize Characters Expanded{Dream Journal}
++ Atomize Characters Expanded (Dream Journal)
 ~~~
 ~~~diff
 2024-07-21

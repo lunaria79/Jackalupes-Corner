@@ -31,7 +31,6 @@ Home:
 							<p>Now, everyone found this suspicious, because the <b>Captain</b> of <i>The Star Gazer</i> had died over 150 years ago. <b>Milo</b>, confused by this confession, continued to support his lover, arguing into the night, and physically getting involved when they tried to rip the key out of <b>Caspian</b>'s grasp. And for the first time, <b>Caspian</b> raised his voice in anger. With the a loud booming voice, he finally invoked his role as the head engineer and ordered everyone to return back to their rooms, and that the conversation would continue when they leave port in the morning. However, in the morning, <b>Caspian</b> and <b>Milo</b> were nowhere to be found. And <i>The Odysseus</i> was left in the hands of those bastard Frenchmen.</p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box">
 							<div class="callout-title"> <div class="callout-title-inner">  Sea of Monsters</div> </div>
@@ -53,7 +52,6 @@ Home:
 							<p>Fish</p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box char-note ">
 							<div class="callout-title"> <div class="callout-title-inner">  Milo  </div> </div>
@@ -71,7 +69,6 @@ Home:
 							<p>The <i>Star Gazer</i>  was an aircraft of legends. The voyager was commanded by the legendary <b>Captain Nyarai Laforeze </b>and her trusty first mate, <b>Cadenza Milore</b>. The ship was massive, nearing 1000 ft long. And the size of the crew was nothing to sneeze at. Hundreds of crew members were on that ship, but to the general public, only about 20 were named. The <i>Star Gazer</i> braved many a storm, monsters, and foes alike. But, nothing could ever destroy her. The stories of her adventures reached every corner of the globe. However, one day, <i>The Star Gazer</i> mysteriously went down over the <b>Sea of Monsters</b>, and vanished from the known world. No wreckage or survivors were reportedly ever found.</p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Moodboard + Gallery </div> </div>

@@ -25,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
                 "mode": "preview",
                 "source": true
               }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md"
+                "file": "README.md"
               }
             }
           },
@@ -208,11 +208,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "92f3f741dcfdea59",
+  "active": "5eadbe01391f34ba",
   "lastOpenFiles": [
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
-    "01 Dream Journal/Stage Files/themes.md",
+    "README.md",
+    "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
+    "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
+    "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
+    "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
+    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+    "01 Dream Journal/Dreams/08 Judas/Judas.md",
+    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
+    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/04 Nothing Left to Say/Nothing Left to Say.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Stage Files/themes.md",
     "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg",
     "01 Dream Journal/Stage Files/images/sleeping-deer.jpg",
@@ -221,16 +231,7 @@
     "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",
     "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/For Aeli.md",
-    "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
-    "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
-    "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
-    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
-    "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
-    "01 Dream Journal/Dreams/05 Milo & Caspian/Milo and Caspian.md",
     "Updates Prior.md",
-    "README.md",
-    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
-    "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
@@ -238,7 +239,6 @@
     "04 Others/Minecraft Summon Items.md",
     "04 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "03 These Lyrics Will Write Themselves/text message staging.md",

@@ -26,7 +26,6 @@ Home:
 							<p> ... </p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box">
 							<div class="callout-title"> <div class="callout-title-inner"> story arc </div> </div>
@@ -68,7 +67,6 @@ Home:
 							<p> ... </p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box char-note ">
 							<div class="callout-title">  <div class="callout-title-inner">  Great Stag Willow  </div> </div>
@@ -101,7 +99,6 @@ Home:
 							<p> ... </p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box def-note">
 							<div class="callout-title">  <div class="callout-title-inner">  note </div> </div>
