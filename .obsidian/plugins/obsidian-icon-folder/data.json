@@ -123,7 +123,6 @@
   "01 Dream Journal/Dreams/07 Atomize": "FasFolderTree",
   "01 Dream Journal/Dreams/07 Atomize/Atomize.md": "FasFilePen",
   "01 Dream Journal/Dreams/07 Atomize/Images": "FasFolderTree",
-  "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png": "FasFileImage",
   "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-1.jpg": "FasFileImage",
   "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-2.jpg": "FasFileImage",
   "01 Dream Journal/Dreams/06 Mary Jane/Images/mary-jane-3.jpg": "FasFileImage",
@@ -171,5 +170,6 @@
   "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md": "FasFilePen",
   "01 Dream Journal/Dreams/100 Others/NANOBEAM.md": "FasFilePen",
   "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md": "FasFileLines",
-  "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md": "FasFileLines"
+  "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md": "FasFileLines",
+  "01 Dream Journal/Dreams/07 Atomize/Images/ithe.png": "FasFileImage"
 }

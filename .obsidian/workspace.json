@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -68,21 +68,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "fdd3f1887961e66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,10 +208,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fdd3f1887961e66d",
+  "active": "92f3f741dcfdea59",
   "lastOpenFiles": [
-    "README.md",
+    "01 Dream Journal/Dreams/07 Atomize/Images/levana.jpg",
+    "01 Dream Journal/Dreams/07 Atomize/Images/xenos.jpg",
+    "01 Dream Journal/Dreams/07 Atomize/Images/ithe.png",
+    "01 Dream Journal/ZIALONA Home Page.md",
+    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
+    "README.md",
     "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
     "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
     "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
@@ -240,11 +233,8 @@
     "01 Dream Journal/Stage Files/images/sleeping-deer.jpg",
     "01 Dream Journal/Stage Files/images/atomize.png",
     "01 Dream Journal/Stage Files/images/space pirates.jpg",
-    "01 Dream Journal/Dreams/07 Atomize/Images/starborn-1.png",
     "01 Dream Journal/Dream Journal Home Page.md",
-    "01 Dream Journal/For Aeli.md",
     "Updates Prior.md",
-    "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Dreams/100 Others",
@@ -254,12 +244,9 @@
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "03 These Lyrics Will Write Themselves/00 - Table of Contents.md",
     "03 These Lyrics Will Write Themselves/text message staging.md",
-    "03 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md",
     "02 Pokemon/01 Pokemon/eevee.gif",
     "02 Pokemon/01 Pokemon/eevee 1.gif",
     "01 Dream Journal/Stage Files/images",
-    "00 _resources/Images/draculabase.png",
-    "02 Pokemon/03 Status/chikorita-status.png",
     "Jacks Corner",
     "02 Pokemon/03 Status",
     "02 Pokemon/04 Held Item",
