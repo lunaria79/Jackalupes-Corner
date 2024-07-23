@@ -72,7 +72,7 @@ Home:
 					<div class="grid right">
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">ithe (he/they) </div> </div>
-							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/starborn-1.png">
+							<img alt="starborn.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/ithe.png">
 							 <p><b>Ithe</b> is a <i>Starborn</i> that crash landed as a baby onto <I>Mire</I> after his matron star rejected him. He was taken in and raised by the previous <i>Royal Mage</i>, his <i>Starborn</i> status hidden from all.</p>
 							 <p><i>Ithe</i> grew up alongside the rest of our motley crew, constantly being dragged into schemes "against" his will. Due to his solemn nature and smooth talking abilities, he navigated the boys ways out of many lashings.</p>
 							 <p>As adults, he and the <b>Levana</b> are the most serious about their jobs, and it is a constant source of conflict with <b>Xenos</b>, due to him still wanting to goof off on the job.</p>
