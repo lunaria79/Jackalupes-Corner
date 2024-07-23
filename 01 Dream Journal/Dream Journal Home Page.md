@@ -11,14 +11,14 @@ tags:
 6. [Mary Jane](Dreams/06%20Mary%20Jane/Mary%20Jane.md)
 7.  [Judas](Dreams/08%20Judas/Judas.md)
 8. [Isle of the Gods](Dreams/100%20Others/Isle%20of%20the%20Gods.md)
+9. [Atomize](Dreams/07%20Atomize/Atomize.md)
+10. [Judas](Dreams/08%20Judas/Judas.md)
 ### Loose
 1. [A Court of Death and Desire](Dreams/100%20Others/A%20Court%20of%20Death%20and%20Desire.md)
-# In Progress
-1. [Atomize](Dreams/07%20Atomize/Atomize.md)
 2. [Gaia's Wrath](Dreams/100%20Others/Gaia's%20Wrath.md)
+3. [Trauma Accappella](Dreams/100%20Others/Trauma%20Accappella.md)
+# In Progress
 3. [NANOBEAM](Dreams/100%20Others/NANOBEAM.md)
-4. [Trauma Accappella](Dreams/100%20Others/Trauma%20Accappella.md)
-5. [Judas](Dreams/08%20Judas/Judas.md)
 # Others
 1. [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
 2. [For Aeli](For%20Aeli.md)
