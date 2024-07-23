@@ -80,7 +80,6 @@ Home:
 							<p> The reason <b>Anaia</b> eyes turned yellow, is because in drinking <i>golden ichor</i>, she slowly replaced all of the parasitic blood inside of her. The parasites could not fight back against <i>golden ichor</i>. She was a vampire, but is now simply an undead, cause she no longer is controlled by vampiric parasites.</p>
 						</div>
 					</div>
-					
 					<div class="grid right">
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner">  Toshi and Anaia </div> </div>
