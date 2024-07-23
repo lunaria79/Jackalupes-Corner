@@ -55,19 +55,17 @@ Home:
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">xenos (he/him) </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
-							 <p>....</p>
 							 <p><b>Xenos</b> is the pride and joy of the capital city. Known as the "people's champion", he rose from the status of street orphan to that of the revered captain of the royal guard. His kindness won over the palace servants, and his strength, physical and mental, earned him the tutelage of the  former captain of the guard.</p>
 							 <p>He spends his free time caring for his sister, causing mischeif with  the second prince<b>Amore</b>, and annoying his lover and <i>Royal Mage</i> <b>Ithe</b>.</p>
 						</div>
 						<div class="box char-note">
-							<div class="callout-title"> <div class="callout-title-inner">character note </div> </div>
+							<div class="callout-title"> <div class="callout-title-inner"> amore (he/him) </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
 							<p>A less than serious young man, with a big heart. While known as the ""people's" prince", he does not believe that he is suited for the throne. He only fights for the inheritance due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
-							<div class="callout-title"> <div class="callout-title-inner">character note </div> </div>
+							<div class="callout-title"> <div class="callout-title-inner">dameth</div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
-							 <p>....</p>
 							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
 						</div>
 					</div>
