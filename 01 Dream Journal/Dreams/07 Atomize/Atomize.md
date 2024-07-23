@@ -58,7 +58,7 @@ Home:
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> amore (he/him) </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
-							<p>A less than serious young man, with a big heart. While known as the ""people's" prince", he does not believe that he is suited for the throne. He only fights for the crown due to his older brother's less than stellar treatment of those who were not nobles. </p>
+							<p>A less than serious young man, with a big heart. While known as the "people's prince", he does not believe that he is suited for the throne. He only fights for the crown due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">dameth</div> </div>
@@ -75,7 +75,7 @@ Home:
 							 <p>As adults, he and the <b>Levana</b> are the most serious about their jobs, and it is a constant source of conflict with <b>Xenos</b>, due to him still wanting to goof off on the job.</p>
 						</div>
 						<div class="box char-note">
-							<div class="callout-title"> <div class="callout-title-inner">Levana (she/her) </div> </div>
+							<div class="callout-title"> <div class="callout-title-inner">levana (she/her) </div> </div>
 							<img alt="levana.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/levana.jpg">
 							 <p>Due to her visions impacting her more physically than her brother, <b>Levana</b> has always been a very sickly person. Due to this, the former king had her confined to her bed chambers where she could be well enough to be of use. Instead of just sitting around, when she was healthy she threw herself into research. <b>Xenos</b> and <b>Amore</b> would often sneak out of the castle to find books and trinkets of her request.</p>
 						</div>
