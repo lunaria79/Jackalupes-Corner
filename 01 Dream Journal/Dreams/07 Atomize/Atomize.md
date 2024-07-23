@@ -31,10 +31,10 @@ Home:
 						<div class="grid right">
 							<div class="box">
 								<div class="callout-title"> <div class="callout-title-inner"> Atomize, Downsize, Layoff </div> </div>
-								<p>So now we're on the run on foot. Any other form of transportation was either killed or destroyed. Fun fact about hellhounds, they have 4 legs and are very fast. We may be very fast, but we only have two legs. So the chase is long and harrowing. Not long after the beginning, we realize there something else with four legs following us. But it doesn't have the same demonic energy as the other beasts following us. And while we lose the hellhounds somehow, this animal is still making a beeline for us.</p>
-								<p>While we're hurriedly trying to make a boat. A headless dog bursts into the clearing. And we discover what the real purpose of that town was. The CP was attempting to create an army of unkillable creatures. And started experiments with small rodents. And had worked his way up to dogs. This pupper was the only success. Sensing no ill will coming from it, we allow it to climb up in our backpack, and we make haste across the water.</p>
-								<p>We arrive back in the capital, through not exactly legal means. Concerned about the headless nature of our new dog, we craft him a head, and with a little magic and a blue handkerchief, we have a totally completely normal Pyrenees dog.</p>
-								<p>On the way back up to the castle through the catacombs, we are stopped by the CP's men. Who attempt to arrest us under the pretense of us being the cause of the destruction of the village. And also tried to take our dog. Which is honestly bullshit and everyone there knew it. Lucky for us, we were then teleported into the RM's chamber, where the aforementioned mage, the TWO CP's and our sister were waiting.</p>
+								<p><b>Xeno</b> escapes on foot, all other forms of transportation either killed or destroyed. Admist the dark auras of hellhounds, <b>Xeno</b> senses something amiss. He soon realizes that he is being followed by a seperate entity as well.</p>
+								<p>While hurriedly trying to make a boat, a headless dog bursts into the clearing. We discover the true purpose of the town: the <b>Crown Prince</b> was attempting to create an army of unkillable creatures. This headless dog is the only living survivor. Sensing no ill will, we let it climb into our boat and cross the water.</p>
+								<p><b>Xenos</b> arrives back in the capital through less-than-legal means. Concerned about the dog's headless nature, <b>Xenos</b> crafts it a head, and with a little magic and a blue handkerchief, it becomes a completely normal Pyrenees dog.</p>
+								<p>On the way to the castle through the catacombs, the <b>Crown Prince's</b> men stop us, attempting to arrest us under the pretense of causing the village's destruction. In a massive stroke of luck, we are summoned to <b>Levana's</b> chambers by a very upset <b>Ithe</b>.</p>
 							</div>
 							<div class="box">
 								<div class="callout-title"> <div class="callout-title-inner">  Kill Yourself, Come On Do Us All a Favour  </div> </div>
@@ -61,7 +61,7 @@ Home:
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> amore (he/him) </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
-							<p>A less than serious young man, with a big heart. While known as the ""people's" prince", he does not believe that he is suited for the throne. He only fights for the inheritance due to his older brother's less than stellar treatment of those who were not nobles. </p>
+							<p>A less than serious young man, with a big heart. While known as the ""people's" prince", he does not believe that he is suited for the throne. He only fights for the crown due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">dameth</div> </div>
