@@ -46,7 +46,12 @@ Previous Chapter:
 + Gaia's Wrath Updated (Dream Journal)
 ~~~
 ~~~diff
-2024-07-21
+2024-07-22
 + SVGS Updated (Dream Journal)
 + Atomize Finalized (Dream Journal)
+~~~
+~~~diff
+2024-07-22
+- Removed Secret Garden (Dream Journal)
+- Removed Mary Jane (Dream Journal)
 ~~~
