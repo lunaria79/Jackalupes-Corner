@@ -36,3 +36,6 @@ Space pirates land on a tropical port town, pull off a heist and shepherd a rich
 ![](Stage%20Files/images/space%20pirates.jpg)
 ##### once  again i still characters from fanfiction
 you cannot stop me pbk or ctsy
+
+![](Dreams/07%20Atomize/Images/amore.jpg)
+![](Dreams/07%20Atomize/Images/damaeth.jpg)

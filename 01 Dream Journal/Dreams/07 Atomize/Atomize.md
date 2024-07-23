@@ -23,7 +23,7 @@ Home:
 								<div class="callout-title"> <div class="callout-title-inner"> Animals </div> </div>
 								<p>The story begins in a village at the edge of a vast empire composed of thousands of medium to small islands, each with unique magical abilities.</p>
 								<p>We find ourselves in the body of a young man, <b>Xenos</b>, who, despite his unassuming exterior, harbors a significant secret. He, and his twin sister, <b>Levana</b>, are the last two remaining <i>Oracles</i> in the isles. While he labors as the Captain of the Guards, his sister remains bedridden due to her visions ruining her body.</p>
-								<p><b>Xenos</b> have been sent to the village of <i>Maoria</i> to find credible evidence against the corrupt mayor colluding with <b>the crown prince</b>. We enter <b>Xeno’s</b> body as he ends a remote meeting between <b>Amore</b>, the second prince, and <b>Ithe</b>, the royal mage. <b>Amore</b> had left for his duties earlier, but <b>Xenos</b> and <b>Ithe</b> were still speaking—more accurately, having a relationship spat.</p>
+								<p><b>Xenos</b> have been sent to the village of <i>Maoria</i> to find credible evidence against the corrupt mayor colluding with <b>Damaeth</b>. We enter <b>Xeno’s</b> body as he ends a remote meeting between <b>Amore</b>, the second prince, and <b>Ithe</b>, the royal mage. <b>Amore</b> had left for his duties earlier, but <b>Xenos</b> and <b>Ithe</b> were still speaking—more accurately, having a relationship spat.</p>
 								<p>While <b>Ithe’s</b> powers of intuition aren’t as strong or as accurate as <b>Levana’s</b> or <b>Xenos</b>, his instincts are next to none. His gut has been churning since sunset, and he's afraid of his partner being on the other side of the kingdom alone in a place he cannot get to. <b>Xenos</b> is too stubborn to listen to <b>Ithe's</b> pleads for him to leave, and it has caused a massive argument.</p>
 								<p>Of course, <b>Ithe</b>, as usual, right. Minutes after ending communication, the village is attacked by a mysterious demon army with an unending hoard of hellhounds. <b>Xenos</b> barely manages to escape with his life, sending out a distress call right before he shut down communications in order not to be magiaclly traced.</p>
 							</div>
@@ -32,9 +32,9 @@ Home:
 							<div class="box">
 								<div class="callout-title"> <div class="callout-title-inner"> Atomize, Downsize, Layoff </div> </div>
 								<p><b>Xeno</b> escapes on foot, all other forms of transportation either killed or destroyed. Admist the dark auras of hellhounds, <b>Xeno</b> senses something amiss. He soon realizes that he is being followed by a seperate entity as well.</p>
-								<p>While hurriedly trying to make a boat, a headless dog bursts into the clearing. We discover the true purpose of the town: the <b>Crown Prince</b> was attempting to create an army of unkillable creatures. This headless dog is the only living survivor. Sensing no ill will, we let it climb into our boat and cross the water.</p>
+								<p>While hurriedly trying to make a boat, a headless dog bursts into the clearing. <b>Xeno's</b> discovers the true purpose of the town.  <b>Damaeth</b> was attempting to create an army of unkillable creatures. This headless dog is the only living survivor. Sensing no ill will, we let it climb into our boat and cross the water.</p>
 								<p><b>Xenos</b> arrives back in the capital through less-than-legal means. Concerned about the dog's headless nature, <b>Xenos</b> crafts it a head, and with a little magic and a blue handkerchief, it becomes a completely normal Pyrenees dog.</p>
-								<p>On the way to the castle through the catacombs, the <b>Crown Prince's</b> men stop us, attempting to arrest us under the pretense of causing the village's destruction. In a massive stroke of luck, we are summoned to <b>Levana's</b> chambers by a very upset <b>Ithe</b>.</p>
+								<p>On the way to the castle through the catacombs, the <b>Damaeth's</b> men stop us, attempting to arrest us under the pretense of causing the village's destruction. In a massive stroke of luck, we are summoned to <b>Levana's</b> chambers by a very upset <b>Ithe</b>.</p>
 							</div>
 							<div class="box">
 								<div class="callout-title"> <div class="callout-title-inner">  Kill Yourself, Come On Do Us All a Favour  </div> </div>
@@ -61,7 +61,7 @@ Home:
 							<p>A less than serious young man, with a big heart. While known as the "people's prince", he does not believe that he is suited for the throne. He only fights for the crown due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
-							<div class="callout-title"> <div class="callout-title-inner">dameth</div> </div>
+							<div class="callout-title"> <div class="callout-title-inner">damaeth</div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
 							<p>A few years older than <b>Amore</b>, <b>Dameth</b> is a wiry secretive man. Always caught up in one illegal business or another, yet never able to find concrete evidence against him. It is an open secret that he has sent numerous assassins for <b>Amore</b> and <b>Levana</b>.</p>
 						</div>
