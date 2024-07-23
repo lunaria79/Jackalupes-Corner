@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSwatchbook",
       "FasImage",
       "FasFolderOpen",
       "FasFileLines",
-      "FasFileImage",
-      "FasFolderTree"
+      "FasFileImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -164,7 +164,7 @@
   "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg": "FasFileImage",
   "01 Dream Journal/Stage Files/images/Milo & Caspian.jpg": "FasFileImage",
-  "01 Dream Journal/Stage Files/themes.md": "FasPaintRoller",
+  "01 Dream Journal/Stage Files/themes.md": "FasSwatchbook",
   "01 Dream Journal/Dreams/100 Others": "FasFolderTree",
   "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md": "FasFileLines",
   "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md": "FasFilePen",

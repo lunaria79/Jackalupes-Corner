@@ -45,3 +45,8 @@ Previous Chapter:
 + Trauma Accappella Updated (Dream Journal)
 + Gaia's Wrath Updated (Dream Journal)
 ~~~
+~~~diff
+2024-07-21
++ SVGS Updated (Dream Journal)
++ Atomize Finalized (Dream Journal)
+~~~
