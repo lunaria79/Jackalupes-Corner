@@ -38,12 +38,9 @@ Home:
 							</div>
 							<div class="box">
 								<div class="callout-title"> <div class="callout-title-inner">  Kill Yourself, Come On Do Us All a Favour  </div> </div>
-								<p> The CP was there, cause he had known that I had been sent to investigate the village. And was also concerned when the village was destroyed. He himself knew that it wasn't me. So barged into our going to be reunion with discussions of politics. He's kind of a dick. </p>
-								<p> It turns out, at the start of the empire, the original oracle predicted the destruction of the kingdom as we know it to be done by demons. And it'll start with the dogs. Which was very concerning, so it became a royal secret passed down through first crown princes. Imagine how upset everyone else in the room was when they found this out. A lot of arguing happened and nothing got done. </p>
-								<p> But more importantly, or loyal doggo betrayed us. He instantly took a liking to our sister. And she was as equally taken by him. She didn't even care that he was headless! So the bitch dog laid there getting belly rubs. We want belly rubs and head scritches too!   </p>
-								<p> A few days past, and one day we wake up with the largest bout of brain fog and nausea we've ever experienced. And we only knew one thing. "I got to get the docks".  So our clearly horrendously sick self managed to get down through the city to the docks. And upon arrival, we have the most powerful vision we've ever received. So powerful the vision gets shared between our sister, so to not kill us. We see the destruction and burning of the capital. And we see that the demon ships are but barely over the horizon. We have less than half a day. </p>
-								<p> While our sister is up at the castle, working through her half of the sickness, while informing everyone, we start our way back up to the castle. However, half way, our mind clears a little, and we make a decision. We’re staying. And only us.   </p>
-								<p> We manage to flag down two soldiers that can read and write, and send up a letter to our loved ones. And we return the docks, sword and armor on hand. And we wait. </p>
+								<p>After a tearful reunion, the conversation quickly shifts to that of the fate of <i>Maoria</i>. <b>Levana</b> had dreamed of the end of the kingdom, starting with <i>Maoria's</i> destruction by the hands of demons. </p>
+								<p> A few days later, <b>Xenos</b> awakes with the worst brain fog and nausea he's ever experienced. The only thought in his mind is that he needs to get to the warf as quickly as possible. He stumbles through the city, just before dawn. Upon reaching the end of an dock, <b>Xenos</b> falls to his knees, experiencing the most powerful vision he had ever received. It is so powerful, that vision is shared with <b>Levana</b>, as to not destroy either twin's mind.They see the capital's destruction and burning, with demon ships barely over the horizon. They have less than half a day to evacuate the city.</p>
+								<p>As <b>Levana</b> rushes to inform <b>Amore</b> and <b>Ithe</b>, <b>Xenos</b> flags down two soldiers to send a letter to his loved ones as he perpares himself to die alone to portect his family.</p>
 							</div>
 						</div>
 					</div>
@@ -66,7 +63,7 @@ Home:
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">dameth</div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
-							<p>CP - (Crown Prince) An older version of SCP with black hair and frown lines.</p>
+							<p>A few years older than <b>Amore</b>, <b>Dameth</b> is a wiry secretive man. Always caught up in one illegal business or another, yet never able to find concrete evidence against him. It is an open secret that he has sent numerous assassins for <b>Amore</b> and <b>Levana</b>.</p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -81,7 +78,6 @@ Home:
 							<div class="callout-title"> <div class="callout-title-inner">Levana (she/her) </div> </div>
 							<img alt="levana.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/levana.jpg">
 							 <p>Due to her visions impacting her more physically than her brother, <b>Levana</b> has always been a very sickly person. Due to this, the former king had her confined to her bed chambers where she could be well enough to be of use. Instead of just sitting around, when she was healthy she threw herself into research. <b>Xenos</b> and <b>Second Prince</b> would often sneak out of the castle to find books and trinkets of her request.</p>
-							 <p>OS - (Oracle Saint) Zelda but with longer blonde hair and slightly softer features (we don't have to be identical, but we are twins)</p>
 						</div>
 					</div>
 				</div>
