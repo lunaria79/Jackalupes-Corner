@@ -21,12 +21,11 @@ Home:
 						<div class="grid left">
 							<div class="box">
 								<div class="callout-title"> <div class="callout-title-inner"> Animals </div> </div>
-								<p>The story begins in a village at the edge of a vast empire composed of thousands of medium to small islands, each with unique magical abilities. </p>
-								<p> We find ourselves in the body of a young man, <b>Xenos</b>, who, despite his unassuming exterior, harbors a significant secret. He, and his twin sister, <b>Levana</b>, are the last two remaining <i>Oracles</i> in the isles. While he labors as the Captain of the Guards, his sister remains bedridden due to her visions ruining her body.
-<b>Xenos</b> have been sent to the village of <i>Maoria</i> to find credible evidence against the corrupt mayor. We enter <b>Xeno’s</b> body as he ends a remote meeting between <b>Amore</b>, the second prince, and <b>Ithe</b>, the royal mage. <b>Amore</b> had left for his duties earlier, but <b>Xenos</b> and <b>Ithe</b> were still speaking—more accurately, having a relationship spat. 
-While <b>Ithe’s</b> powers of intuition aren’t as strong or as accurate as <b>Levana’s</b> or <b>Xenos</b>, his instincts are next to none. His gut has been churning since sunset, and he's afraid of his partner being on the other side of the kingdom alone in a place he cannot get to. <b>Xenos</b> is too stubborn to listen to <b>Ithe's</b> pleads for him to leave, and it has caused a massive argument.
-
-Of course, <b>Ithe</b>, as usual, right. Minutes after ending communication, the village is attacked by a mysterious demon army with an unending hoard of hellhounds. <b>Xenos</b> barely manages to escape with his life, sending out a distress call right before he shut down communications in order not to be magiaclly traced.</p>
+								<p>The story begins in a village at the edge of a vast empire composed of thousands of medium to small islands, each with unique magical abilities.</p>
+								<p>We find ourselves in the body of a young man, <b>Xenos</b>, who, despite his unassuming exterior, harbors a significant secret. He, and his twin sister, <b>Levana</b>, are the last two remaining <i>Oracles</i> in the isles. While he labors as the Captain of the Guards, his sister remains bedridden due to her visions ruining her body.</p>
+								<p><b>Xenos</b> have been sent to the village of <i>Maoria</i> to find credible evidence against the corrupt mayor colluding with <b>the crown prince</b>. We enter <b>Xeno’s</b> body as he ends a remote meeting between <b>Amore</b>, the second prince, and <b>Ithe</b>, the royal mage. <b>Amore</b> had left for his duties earlier, but <b>Xenos</b> and <b>Ithe</b> were still speaking—more accurately, having a relationship spat.</p>
+								<p>While <b>Ithe’s</b> powers of intuition aren’t as strong or as accurate as <b>Levana’s</b> or <b>Xenos</b>, his instincts are next to none. His gut has been churning since sunset, and he's afraid of his partner being on the other side of the kingdom alone in a place he cannot get to. <b>Xenos</b> is too stubborn to listen to <b>Ithe's</b> pleads for him to leave, and it has caused a massive argument.</p>
+								<p>Of course, <b>Ithe</b>, as usual, right. Minutes after ending communication, the village is attacked by a mysterious demon army with an unending hoard of hellhounds. <b>Xenos</b> barely manages to escape with his life, sending out a distress call right before he shut down communications in order not to be magiaclly traced.</p>
 							</div>
 						</div>
 						<div class="grid right">
@@ -57,13 +56,13 @@ Of course, <b>Ithe</b>, as usual, right. Minutes after ending communication, the
 							<div class="callout-title"> <div class="callout-title-inner">xenos (he/him) </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
 							 <p>....</p>
-							 <p>OK - (Oracle Knight) We never really saw ourselves, up to whatever you want.  </p>
+							 <p><b>Xenos</b> is the pride and joy of the capital city. Known as the "people's champion", he rose from the status of street orphan to that of the revered captain of the royal guard. His kindness won over the palace servants, and his strength, physical and mental, earned him the tutelage of the  former captain of the guard.</p>
+							 <p>He spends his free time caring for his sister, causing mischeif with  the second prince<b>Amore</b>, and annoying his lover and <i>Royal Mage</i> <b>Ithe</b>.</p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">character note </div> </div>
 							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/07%20Atomize/Images/placeholder-1.png">
-							 <p>....</p>
-							<p>SCP - (Second Crown Prince) Kind of looks like my Laurence Sim </p>
+							<p>A less than serious young man, with a big heart. While known as the ""people's" prince", he does not believe that he is suited for the throne. He only fights for the inheritance due to his older brother's less than stellar treatment of those who were not nobles. </p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner">character note </div> </div>
