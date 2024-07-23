@@ -51,19 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2b31860524562544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,13 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/ZIALONA Home Page.md",
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Dream Journal/Stage Files/Code Testing Ground.md"
+              }
             }
           },
           {
@@ -226,28 +219,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8c3531ef92142984",
+  "active": "45b849001d24992b",
   "lastOpenFiles": [
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/ZIALONA Home Page.md",
+    "README.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/07 Atomize/Images/ithe.png",
     "01 Dream Journal/Dreams/07 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dreams/07 Atomize/Images/damaeth.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/xenos.jpg",
     "01 Dream Journal/Dreams/07 Atomize/Images/levana.jpg",
-    "01 Dream Journal/Dreams/07 Atomize/Images/ithe.png",
     "01 Dream Journal/Dreams/07 Atomize/Images/amore.jpg",
     "01 Dream Journal/Stage Files/Code Testing Ground.md",
     "01 Dream Journal/Dreams/07 Atomize/Images/damaeth.jpg.~tmp",
     "01 Dream Journal/Dreams/07 Atomize/Images/amore.jpg.~tmp",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
-    "README.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/08 Judas/Judas.md",
     "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
     "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
-    "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Stage Files/themes.md",
     "01 Dream Journal/Dreams/07 Atomize/Images/levana.jpg.~tmp",
     "01 Dream Journal/Dreams/07 Atomize/Images/xenos.jpg.~tmp",
@@ -262,7 +256,6 @@
     "01 Dream Journal/Stage Files/images/atomize.png",
     "01 Dream Journal/Stage Files/images/space pirates.jpg",
     "Updates Prior.md",
-    "01 Dream Journal/Stage Files/Potential Redesign.md",
     "01 Dream Journal/Dreams/100 Others",
     "04 Others/Minecraft Summon Items.md",
     "04 Others/Markdown Cheat Sheet.md",
