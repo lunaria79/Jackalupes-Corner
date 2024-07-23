@@ -114,6 +114,10 @@ div.markdown-reading-view {
 	box-shadow: none;
 }
 
+blockquote {
+	margin-bottom: 10px;
+}
+
 /* author: damikiller37 | Icon Only Pinned Tabs Snippet */
 /* You don't need this if you you want the pin icons removed */
 .workspace

@@ -318,6 +318,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	/* Tile body text margins */
 	margin-top: 0;
 	margin-bottom: 12px;
+	text-align: justify;
 }
 
 .dream-journal-base .callout strong,
