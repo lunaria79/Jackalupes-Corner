@@ -1,5 +1,15 @@
 .sims-4 .markdown-preview-section {
-	background: rgb(38, 38, 51);
-	border-radius: 50px;
+	background: rgba(38, 38, 51, .75);
+	backdrop-filter: blur(10px);
+	border-radius: 25px;
 	padding: 25px;
+}
+
+.sims-4 .metadata-container {
+	display: none !important;
+}
+
+.sims-4 h1, h2, h3 {
+	margin-top: 10px !important;
+	margin-bottom: -5px !important;
 }
