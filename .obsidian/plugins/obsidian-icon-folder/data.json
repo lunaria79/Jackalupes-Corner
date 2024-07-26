@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasNoteSticky",
       "FasSwatchbook",
       "FasImage",
       "FasFolderOpen",
-      "FasFileLines",
-      "FasFileImage"
+      "FasFileLines"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -121,5 +121,6 @@
   "01 Dream Journal/Dreams/05 Atomize/Images/ithe.png": "FasImage",
   "01 Dream Journal/Dreams/06 Judas": "FasFolderTree",
   "01 Dream Journal/Dreams/06 Judas/Judas.md": "FasFileLines",
-  "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg": "FasImage"
+  "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg": "FasImage",
+  "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md": "FasNoteSticky"
 }

@@ -3,7 +3,6 @@ cssclasses:
   - dream-journal-base
   - arcane-school
 tags:
-  - dream
   - home
   - in-progress
 Completed: false

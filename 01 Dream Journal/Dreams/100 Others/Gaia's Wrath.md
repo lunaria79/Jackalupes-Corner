@@ -2,7 +2,7 @@
 cssclasses:
   - dream-journal-base
 tags:
-  - Stage
+  - dream
 Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
