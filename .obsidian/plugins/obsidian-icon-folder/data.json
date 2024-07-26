@@ -82,9 +82,6 @@
   "03 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
   "03 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md": "FasFileLines",
   "03 These Lyrics Will Write Themselves/text message staging.md": "FasCode",
-  "04 Others": "FasFolderOpen",
-  "04 Others/Markdown Cheat Sheet.md": "FasFileCode",
-  "04 Others/Minecraft Summon Items.md": "FasFileCode",
   "02 Pokemon": "FasFolderOpen",
   "02 Pokemon/01 Pokemon/vulpix.gif": "FasImage",
   "02 Pokemon/01 Pokemon/eevee.gif": "FasImage",
@@ -122,5 +119,9 @@
   "01 Dream Journal/Dreams/06 Judas": "FasFolderTree",
   "01 Dream Journal/Dreams/06 Judas/Judas.md": "FasFileLines",
   "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg": "FasImage",
-  "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md": "FasNoteSticky"
+  "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md": "FasNoteSticky",
+  "100 Others": "FasFolderOpen",
+  "100 Others/Markdown Cheat Sheet.md": "FasFileCode",
+  "100 Others/Minecraft Summon Items.md": "FasFileCode",
+  "04 Sims 4": "FasFolderOpen"
 }

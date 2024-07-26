@@ -56,9 +56,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "26f39aa70ed301c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Sims 4/Child Birth Mod Instructions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md",
+                "file": "04 Sims 4/Child Birth Mod Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md",
+                "file": "04 Sims 4/Child Birth Mod Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md"
+                "file": "04 Sims 4/Child Birth Mod Instructions.md"
               }
             }
           },
@@ -195,10 +208,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d4a023ac27a473b0",
+  "active": "26f39aa70ed301c9",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/03 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md",
+    "04 Sims 4/Child Birth Mod Instructions.md",
+    "Untitled",
+    "04 Sims 4",
+    "01 Dream Journal/Dreams/03 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
@@ -237,12 +253,9 @@
     "01 Dream Journal/Stage Files/images/space pirates.jpg",
     "Updates Prior.md",
     "01 Dream Journal/Dreams/100 Others",
-    "04 Others/Minecraft Summon Items.md",
     "01 Dream Journal/Stage Files/images",
     "Jacks Corner",
     "02 Pokemon/03 Status",
-    "02 Pokemon/04 Held Item",
-    "02 Pokemon/02 Egg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
