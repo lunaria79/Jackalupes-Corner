@@ -123,5 +123,8 @@
   "100 Others": "FasFolderOpen",
   "100 Others/Markdown Cheat Sheet.md": "FasFileCode",
   "100 Others/Minecraft Summon Items.md": "FasFileCode",
-  "04 Sims 4": "FasFolderOpen"
+  "04 Sims 4": "FasFolderOpen",
+  "04 Sims 4/Child Birth Mod Instructions.md": "FasFileLines",
+  "04 Sims 4/Images/12.webp": "FasImage",
+  "04 Sims 4/Images": "FasFolderOpen"
 }

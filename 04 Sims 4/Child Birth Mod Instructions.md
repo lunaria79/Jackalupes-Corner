@@ -29,6 +29,17 @@ You can find the **Childbirth Settings** menu by **shift clicking** on your 
 14. You can show the ultrasound scan to a friend(30+ friendship), the interaction can be found under "friendly" and you must have the scan in your sim's inventory.
 15. You can nap with a **friend** or a **romantic partner** by clicking on the couch and select "**Nap Together**".
 16. Pregnant sims can do pregnancy cuddles with their romantic partner.
+## Gender Reveal
+1. Sims can now host gender reveal parties.
+2. It works like a regular social event with the main goal being revealing the gender of the baby.
+3. You can find all the objects related to the gender reveal by searching "gender reveal" or "pandasama".
+4. After purchasing the balloon arch, you can click on it and select "Get Gender Reveal Supplies" to get the gender reveal cake or the gender reveal balloon, your sim must be in the **1st to 3rd trimester**.
+5. It is recommended that you use the "Gather" interaction to get sims to gather around the balloon or the cake, it will take them around 5-10 sim minutes to react to the interaction so please be patient and **don't spam the interaction** to avoid lagging.
+6. After sims at your party have gathered around the gender reveal balloon/cake you can then pop/cut it with a romantic partner (30+ romance required) or pop/cut it by yourself.
+7. If you place down the gender reveal glasses, nearby sims will automatically wear the pink or blue glasses to show which gender they think the baby will be. after picking up a pair of glasses you can also click on the buck again to "switch sides" if you want your sim to wear the other color. Sims who guessed the gender correctly will get a happy moodlet after the gender reveal.
+8. Your sim can make fruit punch with the fruit punch bowl
+9. If your sim hosts a gold gender reveal they will get a milestone like so.
+![](Images/12.webp)
 # Types of Birth
 ## Hospital Birth
 1. You should see sparkles around your sims feet, if you don't see it or if it ever disappears when your sim is in labor, click on your sims and select "Have Baby at Hospital" "Join" again to get it back.
@@ -46,7 +57,7 @@ You can find the **Childbirth Settings** menu by **shift clicking** on your 
 3. There are several ways to speed up your sim's dilation. Such as exercising on the yoga ball, asking the birth partner for a back massage, swaying with a birth partner, going for a walk, taking a bath or shower or doing the breathing exercise. Performing these activities can also help your sim ease their contractions.
 4. Purchase a **birth pillow** if you are doing a bed birth(requires a birth partner) or a **birth pool** (requires a midwife) if you are doing a water birth. You may use the "give birth" interaction once your sim is fully dilated.
 5. Birth emergencies could happen during home birth, there's a 10% chance this will happen to a sim pregnant with 1 baby, and a 30% to a sim pregnant with multiples, you will see this notification and moodlet to let you know your sim might be experiencing a stalled birth. their dilation will slow down during stalled birth, but there is a chance it will return to normal after an hour.
-6. You will get this notification if your sim requires an emergency C-section. ![](Instructions_Ultrasound-14.jpg)
+6. You will get this notification if your sim requires an emergency C-section. ![](Images/Instructions_Ultrasound-14.jpg)
 7. If you have a midwife, asking them to check on the baby will speed things up, and they will let you know whether or not an emergency C-section is needed.
 8. If you do not want to go to the hospital, just click on the **close button** on the top right corner, and things will return to normal, there is no penalty for doing so.
 9. Emergency C-section works like a normal C-section, you must get a working epidural before you sim can give birth.

@@ -4,7 +4,7 @@ cssclasses:
 tags:
   - minecraft
 ---
-# Weapons
+## Weapons
 > [!infobox ]+   Sword
 > Code
 > ```css
@@ -60,7 +60,7 @@ tags:
 > "my heart and soul are going home"
 >```
 
-# Tools
+## Tools
 > [!infobox ]+   Pickaxes
 > Silk Touch
 > ```css
@@ -71,7 +71,7 @@ tags:
 > /give @p netherite_pickaxe{display:{Name:"\"Fortuna\""},Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
 >```
 
-# Mobs
+## Mobs
 > [!infobox ]+   Aether
 > Code
 > ```css
@@ -81,7 +81,7 @@ tags:
 >```css
 >/give @p minecraft:player_head{display:{Name:'{"text":"Technoblade","color":"gold","underlined":true,"bold":true,"italic":false}',Lore:['{"text":"Player Head ID: 31373","color":"gray","italic":false}','{"text":"www.minecraft-heads.com","color":"blue","italic":false}']},SkullOwner:"Technoblade"} 1
 >```
-# Armour
+## Armor
 >[!infobox]+ Helm
 >```css
 > /give @p crystalcraft_unlimited_java:neon_meteorite_armor_helmet{Enchantments:[{id:protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
