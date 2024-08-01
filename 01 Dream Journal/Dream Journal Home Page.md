@@ -33,3 +33,10 @@ Space pirates land on a tropical port town, pull off a heist and shepherd a rich
 ![](Stage%20Files/images/space%20pirates.jpg)
 ##### once  again i still characters from fanfiction
 you cannot stop me pbk or ctsy
+##### ice dragon king
+1. a village protected by a water dragon is sieged by an artificial eternal winter,  and attacked by an enemy faction.
+2. they are lead to safety by the village warrior (big buff guy) and their weaking water dragon in human form (blue haired twink).
+3. Shit happens, romantic tension, people die.
+4. When the reach their final destination, the water dragon slinks off into the wilderness and freezes to death. The warrior finds him and kisses his corpse, bringing him back to life with the firey passion of love or whatever.
+5. it's not necrophilia, he wasn't technically dead. water dragons are like vampires in the cold.
+6. the water dragon is reborn as an ice dragon and they live happily ever after or wahatever.

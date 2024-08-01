@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "mode": "preview",
                 "source": true
               }
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Pokemon/Original.md",
+                "file": "01 Dream Journal/Dream Journal Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Pokemon/Original.md"
+                "file": "01 Dream Journal/Dream Journal Home Page.md"
               }
             }
           },
@@ -198,6 +197,7 @@
   },
   "active": "26f39aa70ed301c9",
   "lastOpenFiles": [
+    "02 Pokemon/Original.md",
     "100 Others/Markdown Cheat Sheet.md",
     "100 Others/Minecraft Summon Items.md",
     "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md",
@@ -224,7 +224,6 @@
     "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/For Aeli.md",
-    "02 Pokemon/Original.md",
     "01 Dream Journal/Dreams/04 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/05 Atomize/Images/amore.jpg",
     "01 Dream Journal/Dreams/05 Atomize/Images/levana.jpg",
