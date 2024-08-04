@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "9c78cdb57b98b66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "8ef6539c33be3c36",
             "type": "leaf",
             "state": {
@@ -70,6 +82,18 @@
             }
           },
           {
+            "id": "dcc00782924b81c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Sims 4/Child Birth Mod Instructions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e7057c2f957a9cc3",
             "type": "leaf",
             "state": {
@@ -82,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -148,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 Writing Prompts/Brood Dragon.md",
+                "file": "04 Sims 4/Child Birth Mod Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 Writing Prompts/Brood Dragon.md",
+                "file": "04 Sims 4/Child Birth Mod Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 Writing Prompts/Brood Dragon.md"
+                "file": "04 Sims 4/Child Birth Mod Instructions.md"
               }
             }
           },
@@ -219,20 +244,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5eb14824a9e4a08a",
+  "active": "dcc00782924b81c0",
   "lastOpenFiles": [
     "Updates Prior.md",
+    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+    "99 Writing Prompts/Brood Dragon.md",
+    "04 Sims 4/Child Birth Mod Instructions.md",
+    "100 Others/Minecraft Summon Items.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "02 Pokemon/Original.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "README.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
-    "99 Writing Prompts/Brood Dragon.md",
-    "100 Others/Minecraft Summon Items.md",
-    "04 Sims 4/Child Birth Mod Instructions.md",
     "100 Others/Markdown Cheat Sheet.md",
     "99 Writing Prompts",
     "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md",

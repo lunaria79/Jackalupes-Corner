@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - code
+  - code no-properties
 tags:
   - minecraft
 ---

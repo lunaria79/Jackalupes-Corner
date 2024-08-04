@@ -76,8 +76,9 @@ div.markdown-reading-view {
 }
 
  .markdown-preview-section {
-	background: rgba(38, 38, 51, .75);
+	background: RGBA(40, 42, 54,  .5);
 	backdrop-filter: blur(10px);
+	box-shadow: 0 0 5px 5px RGBA(40, 42, 54,  .5);
 	border-radius: 25px;
 	padding: 25px;
 }
@@ -107,11 +108,6 @@ div.markdown-reading-view {
 }
 
 /* ------------------------------------------- Text Setup ------------------------------------------- */
-.token.bold {
-	color: #ce7d44;
-	font-weight: normal;
-}
-
 .markdown-preview-view pre {
 	/*Position */
 	transform: unset;
@@ -125,18 +121,14 @@ div.markdown-reading-view {
 	box-shadow: none;
 }
 
-blockquote {
-	margin-bottom: 10px;
-}
-
  h1, h2, h3 {
 	margin-top: 10px !important;
 	margin-bottom: -5px !important;
 }
 
- a {
-	text-decoration: none;
-}
+p { text-align: justify; }
+a { text-decoration: none; }
+blockquote { margin-bottom: 10px; }
 
 /* ------------------------------------------- Hides Pinned Text ------------------------------------------- */
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {  display: none; }

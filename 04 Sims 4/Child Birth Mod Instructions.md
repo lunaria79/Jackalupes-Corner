@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - sims-4
+  - no-properties
 ---
 https://www.pandasama.com/child-birth-mod/
 ## The Basics
