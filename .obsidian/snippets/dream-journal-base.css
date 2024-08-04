@@ -70,26 +70,14 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	}
 
 	.metadata-property .multi-select-container:focus,
-	.metadata-property .multi-select-container:focus-within {
-		/* Focus Highlight */
-		background-color: rgb(var(--background-highlight));
-	}
+	.metadata-property .multi-select-container:focus-within {  /* Focus Highlight */  background-color: rgb(var(--background-highlight));  }
 
 	.dream-journal-base .metadata-add-button.text-icon-button,
-	.dream-journal-base .multi-select-pill-remove-button {
-		/* Hides Add and Remove Property */
-		display: none;
-	}
+	.dream-journal-base .multi-select-pill-remove-button { /* Hides Add and Remove Property */  display: none; 	}
 
-	.dream-journal-base div.metadata-properties-heading.is-collapsed {
-		/* Properties Collapsed Behavior */
-		padding: 0;
-	}
+	.dream-journal-base div.metadata-properties-heading.is-collapsed {	/* Properties Collapsed Behavior */  padding: 0; 	}
 
-	.dream-journal-base div.metadata-container.is-collapsed {
-		/* Properties Collapsed Behavior */
-		height: 45px;
-	}
+	.dream-journal-base div.metadata-container.is-collapsed { 	/* Properties Collapsed Behavior */  height: 45px; }
 
 	/* -------------------- Classes + Tags -------------------- */
 	.dream-journal-base .metadata-property .multi-select-pill {
@@ -100,9 +88,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 		font-weight: 700;
 	}
 
-	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill {
-		cursor: default;
-	}
+	.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill { cursor: default; }
 
 	.dream-journal-base .metadata-property:not(.metadata-property[data-property-key="cssclasses"]) .multi-select-pill:hover {
 		transition: 200ms;
@@ -110,13 +96,9 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	}
 
 	.dream-journal-base .metadata-property-icon svg.svg-icon,
-	.dream-journal-base .metadata-property {
-		font-weight: 700;
-	}
+	.dream-journal-base .metadata-property { 	font-weight: 700; }
 
-	.dream-journal-base .multi-select-pill-content {
-		margin: 0;
-	}
+	.dream-journal-base .multi-select-pill-content { 	margin: 0; }
 
 	.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
 	.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input,
@@ -188,9 +170,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 		height: 30px;
 	}
 
-	.dream-journal-base div.html-tab:hover {
-		color: rgb(var(--primary-color));
-	}
+	.dream-journal-base div.html-tab:hover { color: rgb(var(--primary-color)); }
 
 	.dream-journal-base .html-tab-active {
 		color: rgb(var(--text));
@@ -230,18 +210,11 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	box-shadow: none;
 }
 
-.dream-journal-base .char-note {
-	border-left-color: rgb(var(--secondary-tint));
-}
+.dream-journal-base .char-note { border-left-color: rgb(var(--secondary-tint)); }
 
-.dream-journal-base .def-note {
-	border-left-color: rgb(var(--tertiary-tint));
-}
+.dream-journal-base .def-note { border-left-color: rgb(var(--tertiary-tint)); }
 
-.dream-journal-base div.metadata-container {
-	/* Size */
-	margin: 0;
-}
+.dream-journal-base div.metadata-container {	/* Size */ 	margin: 0; }
 
 .dream-journal-base div.html-tabs {
 	/* Size */

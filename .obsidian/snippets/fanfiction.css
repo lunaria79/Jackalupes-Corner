@@ -24,10 +24,13 @@
 }
 
 /* ------------------------------------------ Reading Mode ------------------------------------------ */
-
 .markdown-preview-view.fanfiction {
 	padding: 10px;
 	background: var(--bggray);
+}
+
+.fanfiction .markdown-preview-section {
+	background: transparent;
 }
 
 :is(.markdown-preview-view.fanfiction, .markdown-rendered).is-readable-line-width:not(.matrix) .markdown-preview-sizer {

@@ -28,7 +28,8 @@
 }
 
 /* - - - - - - - - - - Page Setup - - - - - - - - - - */
-.markdown-preview-view.markdown-rendered.pokemon {
+.markdown-preview-view.markdown-rendered.pokemon,
+.pokemon .markdown-preview-section {
 	background: var(--background);
 	overflow: hidden;
 }

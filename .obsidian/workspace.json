@@ -46,60 +46,12 @@
             }
           },
           {
-            "id": "62d72ae09acee017",
+            "id": "8ef6539c33be3c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "369c76e19f853acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5ead085166932235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5e7cca3efe1286f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Pokemon/Original.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30eb152169d1f9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+                "file": "Updates Prior.md",
                 "mode": "preview",
                 "source": true
               }
@@ -130,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "99 Writing Prompts/Brood Dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+                "file": "99 Writing Prompts/Brood Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -236,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md"
+                "file": "99 Writing Prompts/Brood Dragon.md"
               }
             }
           },
@@ -267,20 +219,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5ead085166932235",
+  "active": "5eb14824a9e4a08a",
   "lastOpenFiles": [
-    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
-    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
-    "02 Pokemon/Original.md",
+    "Updates Prior.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
+    "02 Pokemon/Original.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
+    "README.md",
+    "01 Dream Journal/Dream Journal Home Page.md",
+    "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
+    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "99 Writing Prompts/Brood Dragon.md",
     "100 Others/Minecraft Summon Items.md",
-    "01 Dream Journal/Dream Journal Home Page.md",
     "04 Sims 4/Child Birth Mod Instructions.md",
-    "README.md",
     "100 Others/Markdown Cheat Sheet.md",
-    "Updates Prior.md",
     "99 Writing Prompts",
     "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md",
     "04 Sims 4/Images/12.webp",
@@ -288,7 +241,6 @@
     "04 Sims 4/Images/Instructions_Ultrasound-14.jpg",
     "04 Sims 4",
     "01 Dream Journal/Dreams/03 Nothing Left to Say/Nothing Left to Say.md",
-    "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "01 Dream Journal/Dreams/05 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
     "01 Dream Journal/Dreams/04 Milo & Caspian/Milo and Caspian.md",

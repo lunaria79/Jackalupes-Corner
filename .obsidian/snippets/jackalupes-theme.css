@@ -75,6 +75,17 @@ div.markdown-reading-view {
 	padding-top: 15px;
 }
 
+ .markdown-preview-section {
+	background: rgba(38, 38, 51, .75);
+	backdrop-filter: blur(10px);
+	border-radius: 25px;
+	padding: 25px;
+}
+
+.no-properties .metadata-container {
+	display: none !important;
+}
+
 /* ---------- Source Mode ---------- */
 .cm-contentContainer {
 	background-color: rgb(28, 28, 44, 1);
@@ -116,6 +127,15 @@ div.markdown-reading-view {
 
 blockquote {
 	margin-bottom: 10px;
+}
+
+ h1, h2, h3 {
+	margin-top: 10px !important;
+	margin-bottom: -5px !important;
+}
+
+ a {
+	text-decoration: none;
 }
 
 /* ------------------------------------------- Hides Pinned Text ------------------------------------------- */
