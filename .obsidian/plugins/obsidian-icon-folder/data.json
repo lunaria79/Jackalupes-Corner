@@ -126,5 +126,7 @@
   "04 Sims 4": "FasFolderOpen",
   "04 Sims 4/Child Birth Mod Instructions.md": "FasFileLines",
   "04 Sims 4/Images/12.webp": "FasImage",
-  "04 Sims 4/Images": "FasFolderOpen"
+  "04 Sims 4/Images": "FasFolderOpen",
+  "99 Writing Prompts": "FasFolderOpen",
+  "99 Writing Prompts/Brood Dragon.md": "FasFileLines"
 }

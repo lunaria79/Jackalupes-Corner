@@ -118,22 +118,8 @@ blockquote {
 	margin-bottom: 10px;
 }
 
-/* author: damikiller37 | Icon Only Pinned Tabs Snippet */
-/* You don't need this if you you want the pin icons removed */
-.workspace
-  .mod-root
-  .workspace-tab-header[data-type="markdown"]:has(.mod-pinned)
-  .workspace-tab-header-inner-icon,
-.workspace
-  .mod-root
-  .workspace-tab-header[data-type="empty"]:has(.mod-pinned)
-  .workspace-tab-header-inner-icon {
-  display: flex;
-}
-
-.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {
-  display: none;
-}
+/* ------------------------------------------- Removes Pinned Tab Text ------------------------------------------- */
+.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {  display: none; }
 
 .workspace .mod-root .workspace-tab-header:has(.mod-pinned),
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner {
@@ -198,6 +184,16 @@ blockquote {
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
 
 /* Copyright (c) 2022 kneecaps */
 * {
@@ -387,27 +383,11 @@ div:has(> [data-callout="timeline"]) + div:not(> [data-callout="timeline"]) {
 }
 
 /* Timeline dot colors */
-[data-callout-metadata="red"] {
-  --timeline-dot-color: var(--color-red);
-}
-[data-callout-metadata="orange"] {
-  --timeline-dot-color: var(--color-orange);
-}
-[data-callout-metadata="yellow"] {
-  --timeline-dot-color: var(--color-yellow);
-}
-[data-callout-metadata="green"] {
-  --timeline-dot-color: var(--color-green);
-}
-[data-callout-metadata="cyan"] {
-  --timeline-dot-color: var(--color-cyan);
-}
-[data-callout-metadata="blue"] {
-  --timeline-dot-color: var(--color-blue);
-}
-[data-callout-metadata="purple"] {
-  --timeline-dot-color: var(--color-purple);
-}
-[data-callout-metadata="pink"] {
-  --timeline-dot-color: var(--color-pink);
-}
+[data-callout-metadata="red"] {  --timeline-dot-color: var(--color-red); }
+[data-callout-metadata="orange"] {  --timeline-dot-color: var(--color-orange); }
+[data-callout-metadata="yellow"] { --timeline-dot-color: var(--color-yellow); }
+[data-callout-metadata="green"] {   --timeline-dot-color: var(--color-green); }
+[data-callout-metadata="cyan"] {  --timeline-dot-color: var(--color-cyan); }
+[data-callout-metadata="blue"] {   --timeline-dot-color: var(--color-blue); }
+[data-callout-metadata="purple"] {   --timeline-dot-color: var(--color-purple); }
+[data-callout-metadata="pink"] {   --timeline-dot-color: var(--color-pink); }
