@@ -27,7 +27,8 @@
 }
 
 div.markdown-source-view.dream-journal-base.is-live-preview,
-.markdown-source-view.dream-journal-base {
+.markdown-source-view.dream-journal-base,
+.dream-journal-base .markdown-preview-section {
 	background-image: none;
 	background-color: transparent;
 }
@@ -38,13 +39,9 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	max-width: 75%;
 }
 
-.dream-journal-base .mod-header {
-	padding: 10px;
-}
+.dream-journal-base .mod-header { padding: 10px; }
 
-.dream-journal-base div.html-tab-content {
-	padding: 0;
-}
+.dream-journal-base div.html-tab-content {	padding: 0; }
 
 .dream-journal-base .inline-title,
 .dream-journal-base h1,
@@ -296,9 +293,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 /* -------------------- Text -------------------- */
-.dream-journal-base .inline-title {
-	color: rgb(var(--text));
-}
+.dream-journal-base .inline-title { color: rgb(var(--text)); }
 
 .dream-journal-base .callout-title {
 	/* Text Color */
@@ -308,9 +303,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .markdown-rendered.dream-journal-base h3,
-.markdown-rendered.dream-journal-base h4 {
-	margin: 0;
-}
+.markdown-rendered.dream-journal-base h4 { margin: 0; }
 
 .markdown-rendered.dream-journal-base p {
 	/* Text Color */
@@ -351,14 +344,6 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 }
 
 .dream-journal-base .char-note img {
-	box-shadow: 2px 2px rgb(var(--secondary-tint));
-}
-
-.dream-journal-base .def-note img {
-	box-shadow: 2px 2px rgb(var(--tertiary-tint));
-}
-
-.dream-journal-base .char-note img {
 	/* position */
 	object-fit: cover;
 	float: left;
@@ -368,10 +353,13 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	height: 200px;
 }
 
+.dream-journal-base .char-note img { box-shadow: 2px 2px rgb(var(--secondary-tint)); }
+
+.dream-journal-base .def-note img { 	box-shadow: 2px 2px rgb(var(--tertiary-tint)); }
+
+
 /* --------------------  Links -------------------- */
-.dream-journal-base a {
-	text-decoration: none !important;
-}
+.dream-journal-base a { 	text-decoration: none !important; }
 
 /* -------------------- Tile Grid -------------------- */
 /* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */

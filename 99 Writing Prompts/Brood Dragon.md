@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - sims-4
+---
 > Prompt: Just because one of your chicken eggs hatched a fire breathing dragon people think you’re evil. But you’re still just a regular farmer trying to make a living while dealing with an overprotective dragon, heroes that want to kill you and fanatics who want to worship you as the new Demon Lord.
 > @dycefic on Tumblr
 
