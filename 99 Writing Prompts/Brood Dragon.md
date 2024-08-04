@@ -33,11 +33,13 @@ I didn’t see the stoop – I was closing the gate behind the cows I’d moved 
 
 “Don’t do it inside the house,” I told her, and filled a couple of buckets to leave inside, just in case.
 
+--- 
+
 My farm is a remote one. Diver was two months old before anyone saw her but me and the father and son who acted as my farmhands. I couldn’t pay them much, but they were landless people and glad to find a farmer willing to let them build a snug cottage on my land, and pay coin for their work besides. They hoped I would leave them the farm, I think. I might have – I didn’t have any children, and they would take good care of the place. Anyway, they didn’t give me any trouble about Diver. They both said, and I agreed, that like any baby wild creature she would revert to wildness when she grew bigger. A fox cub or a young crow can be a pet for a season, but they go back to their own kind in the end.
 
-One of my neighbours, a sheep-farmer named Pegg, was the first. He came, as he does every now and then, to buy a couple of fat geese for his wife to cook. She’s scared to death of geese, so they don’t keep them, but now and then they’ll buy a gander or two for roasting. “What is _that_?” he demanded, staring at Diver, who was sitting up on the back of one of the cows. I’d brought her in to treat a scratched teat, and she was tethered in the yard.
+One of my neighbors, a sheep-farmer named Pegg, was the first. He came, as he does every now and then, to buy a couple of fat geese for his wife to cook. She’s scared to death of geese, so they don’t keep them, but now and then they’ll buy a gander or two for roasting. “What is _that_?” he demanded, staring at Diver, who was sitting up on the back of one of the cows. I’d brought her in to treat a scratched teat, and she was tethered in the yard.
 
-“A cow,” I said, unable to resist. I don’t talk to people often, so my sense of humour doesn’t get exercised as much as it would like.
+“A cow,” I said, unable to resist. I don’t talk to people often, so my sense of humor doesn’t get exercised as much as it would like.
 
 “No, what’s that on top of it?” He sounded nervous.
 
@@ -61,6 +63,8 @@ It wasn’t. Diver had had several encounters with hawks and falcons by then, an
 
 When I looked around, Pegg had taken to his heels.
 
+---
+
 Two days later, half the village showed up at my gate demanding that I get rid of the dragon. I told them to bugger off. On my farm, I told them, I could keep what animals I chose. Had I ever complained when other farmers raised orphaned creatures? Of course not. Even foxes, which might raid my chicken runs. The little dragon wasn’t hurting anything.
 
 They came back, though. Again and again. The last time, my own neighbours carried pitchforks against me, and lit torches.
@@ -70,6 +74,8 @@ But that was in the autumn, and Diver was as long in the body as a horse and as 
 I didn’t mind being alone. I’d always been a solitary soul. With Diver’s help, I managed the farm alone. She was clever – I already knew by then that she understood at least as many commands as the dogs did – and very strong.
 
 Keeping her fed through winter wasn’t the easiest matter, but not the hardest, either. She ate little for her size, but her size was that of a winged horse, with seven feet of long tail besides. I snared rabbits for her, sometimes, and there were always deer in the forest. Between that, and the product of the farm, we ate well enough. It wasn’t easy to fit her into the house any more, but I’d moved out some of the furniture and made a space for her to curl up in at night. Sometimes, while her body lay beside the fire, her long neck snaked up to the loft where I slept and she rested her head on the bed beside me. The scales on her face were fine and smooth, like a snake’s skin, and when I stroked her face she sighed and nuzzled me affectionately.
+
+---
 
 It was towards the end of winter when I heard a voice shouting outside. I went out, surprised, to find a man on horseback, all shining chain mail and glittering breastplate. “What do you want?” I demanded, annoyed. Rich and important he might be, but a freeholder had rights even the wealthy were supposed to respect. On my own land, provided that I’d broken no laws, the king himself must respect my rights.
 
@@ -84,6 +90,8 @@ Diver pranced a bit, not wanting to, then sighed and slammed her large bottom do
 “She’s a working animal, and she has lived here and obeyed my commands for almost a year. And I assure you, I will place the value of the only tame dragon in the world very high.” I leaned in. He was young, and his armour was shiny because it hadn’t seen much use, I could tell. “Are you sure you can pay it?”
 
 He huffed and puffed a little, but he left after that. The second and third did the same. The laws of restitution are ancient, far older than our current king’s lineage, one of the oldest laws we have. What is taken from the one who holds it must be paid for in kind or in coin. When it came to a sheep or a cow, well, that was easy. A child, less so. Replacing the only tame dragon in the world might strain a king’s purse, if the Moot saw it that way.
+
+---
 
 The fourth knight was different. He came riding a dark brown horse, almost black, and his trappings were black picked out in blue. He didn’t shout, but waited until I saw him. Then he slid off his horse, and knelt before me in the snow.
 
@@ -114,6 +122,8 @@ She snorted, as if in agreement, then wound her long neck around me possessively
 The dogs kept the horse in place while we hoisted the man over his saddle and tied him on. He had a dagger on his belt, and I used it to secure a message to his backside. “NOT A SORCERER. DRAGON NOT FOR SALE”
 
 After that, nobody bothered us for a while.
+
+---
 
 When spring was turning into summer, three knights came together. One was the first one who’d come to me, but this time he was leading two more, who were dressed in finer garb and with a bit of gold leaf here and there on their armour. When I went out to shoo them off, Diver trotting behind me, they both took off their helmets and stared.
 
@@ -156,6 +166,8 @@ The young one and the horse-lover backed away nervously. The scholarly one pulle
 “Really, anything?”
 
 I snorted. “You can put them on an egg shaped rock and they’ll keep it warm.”
+
+---
 
 About two years later, I heard that the king had a tame dragon, and one or two of his knights as well. My neighbours started talking to me again after that. Apparently if the king can do something, it isn’t dark sorcery. My workers asked if they could come back, but I had a different helper by then, and wouldn’t have taken them back even if I hadn’t. They’d known Diver since she was small enough to sleep in my boot, and they’d come for her with pitchforks.
 

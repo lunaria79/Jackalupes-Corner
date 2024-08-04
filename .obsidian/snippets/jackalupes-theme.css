@@ -78,7 +78,7 @@ div.markdown-reading-view {
  .markdown-preview-section {
 	background: RGBA(40, 42, 54,  .5);
 	backdrop-filter: blur(10px);
-	box-shadow: 0 0 5px 5px RGBA(40, 42, 54,  .5);
+	box-shadow: 0 0 2px 5px RGBA(40, 42, 54,  .5);
 	border-radius: 25px;
 	padding: 25px;
 }
@@ -127,8 +127,9 @@ div.markdown-reading-view {
 }
 
 p { text-align: justify; }
-a { text-decoration: none; }
+a { text-decoration: none !important; }
 blockquote { margin-bottom: 10px; }
+.markdown-rendered hr {border-color: RGBA(189, 147, 249, .5);}
 
 /* ------------------------------------------- Hides Pinned Text ------------------------------------------- */
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {  display: none; }
