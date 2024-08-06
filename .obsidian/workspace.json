@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Sims 4/Child Birth Mod Instructions.md",
+                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
                 "mode": "preview",
                 "source": true
               }
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Sims 4/Child Birth Mod Instructions.md",
+                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Sims 4/Child Birth Mod Instructions.md",
+                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Sims 4/Child Birth Mod Instructions.md"
+                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md"
               }
             }
           },
@@ -221,6 +222,11 @@
   },
   "active": "dcc00782924b81c0",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
+    "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
+    "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
+    "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
+    "04 Sims 4/Child Birth Mod Instructions.md",
     "01 Dream Journal/Dreams/03 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/04 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/02 Of Gods and Fiends/Of Gods and Fiends.md",
@@ -231,7 +237,6 @@
     "Updates Prior.md",
     "99 Writing Prompts/Brood Dragon.md",
     "100 Others/Minecraft Summon Items.md",
-    "04 Sims 4/Child Birth Mod Instructions.md",
     "100 Others/Markdown Cheat Sheet.md",
     "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
@@ -243,11 +248,7 @@
     "04 Sims 4/Images/Instructions_Ultrasound-14.jpg",
     "04 Sims 4",
     "01 Dream Journal/Dreams/05 Atomize/Atomize.md",
-    "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
     "01 Dream Journal/Dreams/06 Judas/Judas.md",
-    "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
-    "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
-    "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/For Aeli.md",
     "01 Dream Journal/Dreams/04 Milo & Caspian/Undersea Gallery.md",
