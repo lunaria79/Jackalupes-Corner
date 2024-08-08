@@ -52,3 +52,23 @@ He a big boy.
 **INTROVERTED**   57%       **EXTROVERTED**     43%
 
 **Advocates** may be the rarest personality type of all, but they certainly leave their mark on the world. Idealistic and principled, they aren’t content to coast through life – they want to stand up and make a difference. For Advocate personalities, success doesn’t come from money or status but from seeking fulfillment, helping others, and being a force for good in the world.
+### Jungian Theory
+**Class:**                 THE SAGE
+
+**CONFIDENCE**              75%
+**COMPETENCE**             100%
+**PROACTIVITY**             80%
+**DRIVE**                  100%
+**PASSION**                 90%
+**HONESTY**                 60%
+**AGGRESSION**              40%
+**DISOBEDIENCE**            70%
+**SYMPATHY**                95%
+
+As a character in stories and mythologies, the **Sage** plays the vital role of guidance in every hero’s journey. A ritual elder who imparts knowledge and wisdom to a young hero just starting on his adventure. The **sage** archetype is a seeker of truth, wisdom, and knowledge. The **sage** engages in meaningful introspection and self-reflection, and strives to understand the world and its mysteries. The **sage** is not satisfied with superficial answers or opinions, but rather wants to discover the underlying principles and facts behind everything.
+### Religion
+Does worshiping your goddess wife count?
+## Reputation
+He's quite literally the Angel of Death AND a terrorist, so lets say the general populace don't have the best view of him.
+## Residence
+Residing in *Azrael*'s Compound
