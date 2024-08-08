@@ -75,14 +75,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "00bf4a4dd79b51fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 MADNESS/Azrael Angerona.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766,
-    "collapsed": true
+    "width": 275.00418853759766
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -149,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+                "file": "05 MADNESS/Azrael Angerona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
+                "file": "05 MADNESS/Azrael Angerona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md"
+                "file": "05 MADNESS/Azrael Angerona.md"
               }
             }
           },
@@ -220,8 +231,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dcc00782924b81c0",
+  "active": "00bf4a4dd79b51fd",
   "lastOpenFiles": [
+    "05 MADNESS",
+    "README.md",
+    "05 MADNESS/Azrael Angerona.md",
+    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
     "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
     "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
@@ -233,12 +248,10 @@
     "01 Dream Journal/Dreams/01 The School of the Arcane/The School of the Arcane.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "02 Pokemon/Original.md",
-    "README.md",
     "Updates Prior.md",
     "99 Writing Prompts/Brood Dragon.md",
     "100 Others/Minecraft Summon Items.md",
     "100 Others/Markdown Cheat Sheet.md",
-    "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
     "03 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md",
     "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/Liu Fènghuáng.md",
     "99 Writing Prompts",
@@ -251,12 +264,10 @@
     "01 Dream Journal/Dreams/06 Judas/Judas.md",
     "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/For Aeli.md",
-    "01 Dream Journal/Dreams/04 Milo & Caspian/Undersea Gallery.md",
     "01 Dream Journal/Dreams/05 Atomize/Images/amore.jpg",
     "01 Dream Journal/Dreams/05 Atomize/Images/levana.jpg",
     "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
     "01 Dream Journal/Stage Files/images/kiki-farmhouse.jpg",
-    "01 Dream Journal/Dreams/06 Mary Jane/Mary Jane.md",
     "01 Dream Journal/Dreams/05 Atomize/Images/ithe.png",
     "01 Dream Journal/Dreams/05 Atomize/Images/damaeth.jpg",
     "01 Dream Journal/Dreams/05 Atomize/Images/xenos.jpg",
