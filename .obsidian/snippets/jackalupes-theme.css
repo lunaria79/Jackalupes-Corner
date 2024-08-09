@@ -79,8 +79,9 @@ div.markdown-reading-view {
 	background: RGBA(40, 42, 54,  .5);
 	backdrop-filter: blur(10px);
 	box-shadow: 0 0 2px 5px RGBA(40, 42, 54,  .5);
-	border-radius: 25px;
+	border-radius: 5px;
 	padding: 25px;
+	margin: 10px 0;
 }
 
 .no-properties .metadata-container {
