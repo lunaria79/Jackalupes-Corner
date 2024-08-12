@@ -39,4 +39,10 @@ you cannot stop me pbk or ctsy
 3. Shit happens, romantic tension, people die.
 4. When the reach their final destination, the water dragon slinks off into the wilderness and freezes to death. The warrior finds him and kisses his corpse, bringing him back to life with the firey passion of love or whatever.
 5. it's not necrophilia, he wasn't technically dead. water dragons are like vampires in the cold.
-6. the water dragon is reborn as an ice dragon and they live happily ever after or wahatever.
+6. the water dragon is reborn as an ice dragon and they live happily ever after or whatever.
+##### omg magical creatures again?
+1. there's a coven consisting of around 12 or so magical creatures and three werewolf kids (adopted, deaf, and emo)
+2. They are currently visiting another coven for a solstice party, while also discussing fraying tensions and a possible war. the focus of the dream was not on the war.
+3. On the fourth they, there's a massive game tournament of what appeared to be dodgeball soccer between the nights. Except they also take turns kicking the ball? Because magical creatures love danger, the game is played throughout the dining tables, and all fae can be hit for points.
+4. The story centers around three fae of our coven. An animal obsessed witch, whose in love with the fire sprite paladin captain, whose in love with the necromancer.
+5. 
