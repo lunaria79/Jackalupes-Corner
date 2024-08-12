@@ -45,4 +45,4 @@ you cannot stop me pbk or ctsy
 2. They are currently visiting another coven for a solstice party, while also discussing fraying tensions and a possible war. the focus of the dream was not on the war.
 3. On the fourth they, there's a massive game tournament of what appeared to be dodgeball soccer between the nights. Except they also take turns kicking the ball? Because magical creatures love danger, the game is played throughout the dining tables, and all fae can be hit for points.
 4. The story centers around three fae of our coven. An animal obsessed witch, whose in love with the fire sprite paladin captain, whose in love with the necromancer.
-5. 
+5. Our coven is not viewed as very important, so we're seated further away from the main event. And while the children are out playing/socializing, the adults stage a fancy show out of a costume trunk.
