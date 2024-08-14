@@ -39,8 +39,58 @@ Home:
 							<img alt="placeholder.png" src="">
 							<p>...</p>
 						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
 					</div>
 					<div class="grid right">
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
+						<div class="box char-note">
+							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<img alt="placeholder.png" src="">
+							<p>...</p>
+						</div>
 						<div class="box char-note">
 							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
 							<img alt="placeholder.png" src="">
