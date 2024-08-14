@@ -3,6 +3,7 @@ cssclasses:
   - dream-journal-base
 tags:
   - dream
+  - in-progress
 Completed: false
 Home:
   - "[[Dream Journal Home Page]]"
@@ -109,6 +110,7 @@ Home:
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> subversions </div> </div>
 							<p>In this coven, Adolescents and Protectors are viewed no differently from Coven members. There presence is valued and celibrarted.</p>
+							<p>This coven's adolescents are adopted, and are of Animilian origin.</p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -118,7 +120,7 @@ Home:
 						</div>
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> adolescents </div> </div>
-							<p>...</p>
+							<p>Adolescents are the young of a coven. They stay as this status for 500 years, until they've reached full maturity. If a adolescent meets their Coven Leader's expactations, they will be awared with fine education. Otherwise, they could be demoted to servant status or expelled.</p>
 						</div>
 					</div>
 				</div>
