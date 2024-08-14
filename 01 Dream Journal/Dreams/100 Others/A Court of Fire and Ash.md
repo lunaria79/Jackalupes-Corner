@@ -67,19 +67,19 @@ Home:
 					</div>
 					<div class="grid right">
 						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<div class="callout-title">  <div class="callout-title-inner"> protector </div> </div>
 							<img alt="placeholder.png" src="">
-							<p>...</p>
+							<p>head guard</p>
 						</div>
 						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<div class="callout-title">  <div class="callout-title-inner"> protector </div> </div>
 							<img alt="placeholder.png" src="">
-							<p>...</p>
+							<p>adolescents tutor and personal protector</p>
 						</div>
 						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<div class="callout-title">  <div class="callout-title-inner"> protector </div> </div>
 							<img alt="placeholder.png" src="">
-							<p>...</p>
+							<p>guard</p>
 						</div>
 						<div class="box char-note">
 							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
@@ -103,14 +103,21 @@ Home:
 				<div class="wrapper grid">
 					<div class="grid left">
 						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> image + note </div> </div>
-							<img alt="placeholder.png" src="">
-							<p>...</p>
+							<div class="callout-title"> <div class="callout-title-inner"> covens </div> </div>
+							<p>More community inclined powerful creatures live in small to medium size groups called Covens. The most popular kind of Coven is generational, supported by a long legacy.</p>
+						</div>
+						<div class="box def-note">
+							<div class="callout-title"> <div class="callout-title-inner"> subversions </div> </div>
+							<p>In this coven, Adolescents and Protectors are viewed no differently from Coven members. There presence is valued and celibrarted.</p>
 						</div>
 					</div>
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> note </div> </div>
+							<div class="callout-title"> <div class="callout-title-inner"> protectors </div> </div>
+							<p>Every coven has a group of knights, called Protectors, that are the first line of defense against attacks. Those who are deemed to be more itelligent can be elevated to emissary or advisor status. Protectors tend to be of Animilian races, and are bred like cattle by some Covens. Only the cream of the crop is allowed to serve as Protectors. The rest are delegated as servants.</p>
+						</div>
+						<div class="box def-note">
+							<div class="callout-title"> <div class="callout-title-inner"> adolescents </div> </div>
 							<p>...</p>
 						</div>
 					</div>
