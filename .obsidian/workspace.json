@@ -75,14 +75,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
-                "mode": "source",
+                "file": "01 Dream Journal/Dreams/100 Others/Unnamed.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "file": "Updates Prior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
+                "file": "Updates Prior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md"
+                "file": "Updates Prior.md"
               }
             }
           },
@@ -220,8 +220,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "73fc8b4a3fafee7d",
+  "active": "8ef6539c33be3c36",
   "lastOpenFiles": [
+    "01 Dream Journal/Dreams/100 Others/Unnamed.md",
     "01 Dream Journal/Dream Journal Home Page.md",
     "05 MADNESS/Azrael Angerona.md",
     "01 Dream Journal/Dreams/100 Others/A Court of Death and Desire.md",
