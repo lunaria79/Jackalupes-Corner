@@ -49,5 +49,13 @@ you cannot stop me pbk or ctsy
 5. Instead of networking, this coven decided to sit together to tell stories and play games. It eventually turns into an impromptu fashion show with the Harpy's magic trunk. While not participating, the Necromancer made sure to compliment everyone and clap excitedly when they found outfits they liked. Even the Protectors participated, caving to the jovial nature of the coven.
 6. Eventually, this coven's protectors are challenged to a game of dodge ball soccer. Due to it being by a much more powerful coven, they could not refuse. The say their goodbyes and leave. The chatting between the coven continues. At one point, the necromancer notices that the children are getting into a dispute with the coven that challenged hers, and started to get up to go rescue them. 
 7. This coven is the only one to announce that they will not be participating in the upcoming war.
-	
+
+
  Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
+ #### Superhero Split Timelines
+ 1. We got a gang of superheroes that all you electricity powers.
+	- Rowan, (michael reeves with tubbos died blonde hair) uses a katana to channel his electricity. He can also fly and has super athletics.
+	- ???, (tall ice prince from OHSHC), Electricity flows throw his rings. Increased intelligence, brains of the operations. has contingency plans for almost everything.
+	- ???, (mixture of yang and nora from RWBY) Channels electricity through her gauntlets, spunky and the mood setter. Dating ???.
+	- ??? (tall, wiry with brown hair), Mostly normal human, but with increased luck. Dating April.
+	- ??? (qtcinderlla), Normal human, social media manager and getaway driver. the millennial in the group of gen z
