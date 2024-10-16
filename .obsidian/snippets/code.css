@@ -35,9 +35,13 @@
 }
 
 .code .metadata-container {
-	background-color: rgb(var(--background-color), .75);
-	padding: 10px 25px 25px 25px;
-	border-radius: 2px;
+	background-color: rgb(var(--background-color), .25);
+	padding: 10px 25px;
+	border-radius: 10px;
+}
+
+.code .metadata-properties-heading.is-collapsed {
+	margin: 0;
 }
 
 /* ---------------------------------------- Headings ---------------------------------------- */

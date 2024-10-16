@@ -24,19 +24,40 @@ tags:
 # Themes
 1. [themes](Stage%20Files/themes.md)
 # To Write
-##### Prison for the Rich and Famous
+#### Prison for the Rich and Famous
 The A/B/O Prison one
-##### Gay Pirates
+#### Gay Pirates
 Two rival pirate captains get stuck in a death tower on a deserted(?) island and end up trauma bonding. The crews hate dad's side of the family (they are both dad's side of the family)
-##### Space Pirates
+#### Space Pirates
 Space pirates land on a tropical port town, pull off a heist and shepherd a rich girl back to daddy. The rich girl falls in love with the captain, but he only has eyes for his second mate. The second mate has her eyes on the prize.
 ![](Stage%20Files/images/space%20pirates.jpg)
-##### once  again i still characters from fanfiction
+#### once  again i still characters from fanfiction
 you cannot stop me pbk or ctsy
-##### ice dragon king
+#### ice dragon king
 1. a village protected by a water dragon is sieged by an artificial eternal winter,  and attacked by an enemy faction.
 2. they are lead to safety by the village warrior (big buff guy) and their weaking water dragon in human form (blue haired twink).
 3. Shit happens, romantic tension, people die.
 4. When the reach their final destination, the water dragon slinks off into the wilderness and freezes to death. The warrior finds him and kisses his corpse, bringing him back to life with the firey passion of love or whatever.
 5. it's not necrophilia, he wasn't technically dead. water dragons are like vampires in the cold.
-6. the water dragon is reborn as an ice dragon and they live happily ever after or wahatever.
+6. the water dragon is reborn as an ice dragon and they live happily ever after or whatever.
+#### omg magical creatures again?
+1. In this world,  magical creatures live in groups called covens. Prone to war, each coven has a coalition of guards called "protectors" that are the first line of defense against any  enemy attacks. This story focuses on a coven of outcasts, consisting of 6 core members, 3 adolescents and 3 protectors.
+2. The core members consist of a necromancer, an animal witch, an all-seeing sphinx, a harpy, a Xana (siren, spain) , an Echidna (snake woman, greek) and a **...** The protectors are a Phoenix, a Hippogriff and a Ki-Rin. The three children are were-beast siblings. The younger sister being 8 and mouthy, the older sister being 12 and deaf, and the older brother being 16 and emo. This story focus is between the love story between the Phoenix and the Necromancer. And the heartbreak of the Animal Witch.
+3. This coven is currently attending a Solstice Party, navigating interpersonal drama and the talks of war. While this coven is viewed as unimportant, they were invited as an example to other dissenting covens of what might happen to them if the oppose those who were more powerful.
+4. This all comes to ahead on the fourth day. A game tournament of dodge ball soccer is held between the Protectors of varying covens. The rules of the game is to score as many points as possible. Both the opposing teams nets and coven members give points for being hit. Adolescents are off limits.
+	
+ And while the children are out playing/socializing, the adults stage a fancy show out of a costume trunk.
+ Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
+At one point, the necromancer notices that the children are getting into a dispute with the coven that challenged hers, and started to get up to go rescue them. 
+
+#### Superhero Split Timelines
+1. We got a gang of superheroes that all you electricity powers. 
+	1. Ryan, (michael reeves with tubbos died blonde hair) uses a katana to channel his electricity.  He can also fly and has super athletics.
+	2. ???, (tall ice prince from OHSHC), Electricity flows throw his rings. Increased intelligence, brains of the operations. has contingency plans for almost everything.
+	3. ???, (mixture of yang and nora from RWBY) Channels electricity through her gauntlets, spunky and the mood setter.  Dating ???.
+	4. ??? (tall, wiry with brown hair), Mostly normal human, but with increased luck. Dating April.
+	5. ??? (qtcinderlla), Normal human, social 
+	
+|Timeline 1     | Timeline 2     |
+| --- | --- |
+|     |     |

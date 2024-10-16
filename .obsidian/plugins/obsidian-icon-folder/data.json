@@ -128,5 +128,7 @@
   "04 Sims 4/Images/12.webp": "FasImage",
   "04 Sims 4/Images": "FasFolderOpen",
   "99 Writing Prompts": "FasFolderOpen",
-  "99 Writing Prompts/Brood Dragon.md": "FasFileLines"
+  "99 Writing Prompts/Brood Dragon.md": "FasFileLines",
+  "05 MADNESS": "FasFolderOpen",
+  "05 MADNESS/Azrael Angerona.md": "FasFileLines"
 }
