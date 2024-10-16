@@ -53,9 +53,14 @@ you cannot stop me pbk or ctsy
 
  Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
  #### Superhero Split Timelines
- 1. We got a gang of superheroes that all you electricity powers.
-	- Rowan, (michael reeves with tubbos died blonde hair) uses a katana to channel his electricity. He can also fly and has super athletics.
-	- ???, (tall ice prince from OHSHC), Electricity flows throw his rings. Increased intelligence, brains of the operations. has contingency plans for almost everything.
-	- ???, (mixture of yang and nora from RWBY) Channels electricity through her gauntlets, spunky and the mood setter. Dating ???.
-	- ??? (tall, wiry with brown hair), Mostly normal human, but with increased luck. Dating April.
-	- ??? (qtcinderlla), Normal human, social media manager and getaway driver. the millennial in the group of gen z
+ We got a gang of superheroes that all use electricity powers.
+- Rowan, (michael reeves with tubbos died blonde hair, filipino) uses a katana to channel his electricity. He can also fly and has super athletics.
+- ???, (tall ice prince from OHSHC), Electricity flows throw his rings. Increased intelligence, brains of the operations. has contingency plans for almost everything.
+- ???, (mixture of yang and nora from RWBY, polish?) Channels electricity through her gauntlets, spunky and the mood setter. Dating ???.
+- ??? (tall, wiry with brown hair, norway), Mostly normal human, but with increased luck. Dating April.
+- ??? (qtcinderlla, LA), Normal human, social media manager and getaway driver. the millennial in the group of gen z
+And then the MC, Ryan who has the potential for awakening with powers.
+
+| Timeline A                                                                                                                                                                                                                                                                 | Timeline B                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Ryan has decided to follower her heart, and has got in to an art school. Her mom has enlisted her help, in her free time, to assist with designing the renovations for their bookstore. There is an EXPO at museum down a block from her apartment, and she decides to go. | Ryan has been tormented her entire life with nightmares and dreams of friends she's never had and events that have never occurred. |

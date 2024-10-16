@@ -46,31 +46,19 @@
             }
           },
           {
-            "id": "5114227702c85493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Dream Journal/Dream Journal Home Page.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "8ef6539c33be3c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 Dream Journal/Dream Journal Home Page.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
