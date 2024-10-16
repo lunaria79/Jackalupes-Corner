@@ -13,6 +13,7 @@ tags:
 1. [A Court of Death and Desire](Dreams/100%20Others/A%20Court%20of%20Death%20and%20Desire.md)
 2. [Gaia's Wrath](Dreams/100%20Others/Gaia's%20Wrath.md)
 3. [Trauma Accappella](Dreams/100%20Others/Trauma%20Accappella.md)
+4. [A Court of Fire and Ash](Dreams/100%20Others/A%20Court%20of%20Fire%20and%20Ash.md)
 # In Progress
 1. [NANOBEAM](Dreams/100%20Others/NANOBEAM.md)
 2. [Isle of the Gods](Dreams/100%20Others/Isle%20of%20the%20Gods.md)
@@ -45,19 +46,8 @@ you cannot stop me pbk or ctsy
 2. The core members consist of a necromancer, an animal witch, an all-seeing sphinx, a harpy, a Xana (siren, spain) , an Echidna (snake woman, greek) and a **...** The protectors are a Phoenix, a Hippogriff and a Ki-Rin. The three children are were-beast siblings. The younger sister being 8 and mouthy, the older sister being 12 and deaf, and the older brother being 16 and emo. This story focus is between the love story between the Phoenix and the Necromancer. And the heartbreak of the Animal Witch.
 3. This coven is currently attending a Solstice Party, navigating interpersonal drama and the talks of war. While this coven is viewed as unimportant, they were invited as an example to other dissenting covens of what might happen to them if the oppose those who were more powerful.
 4. This all comes to ahead on the fourth day. A game tournament of dodge ball soccer is held between the Protectors of varying covens. The rules of the game is to score as many points as possible. Both the opposing teams nets and coven members give points for being hit. Adolescents are off limits.
+5. Instead of networking, this coven decided to sit together to tell stories and play games. It eventually turns into an impromptu fashion show with the Harpy's magic trunk. While not participating, the Necromancer made sure to compliment everyone and clap excitedly when they found outfits they liked. Even the Protectors participated, caving to the jovial nature of the coven.
+6. Eventually, this coven's protectors are challenged to a game of dodge ball soccer. Due to it being by a much more powerful coven, they could not refuse. The say their goodbyes and leave. The chatting between the coven continues. At one point, the necromancer notices that the children are getting into a dispute with the coven that challenged hers, and started to get up to go rescue them. 
+7. This coven is the only one to announce that they will not be participating in the upcoming war.
 	
- And while the children are out playing/socializing, the adults stage a fancy show out of a costume trunk.
  Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
-At one point, the necromancer notices that the children are getting into a dispute with the coven that challenged hers, and started to get up to go rescue them. 
-
-#### Superhero Split Timelines
-1. We got a gang of superheroes that all you electricity powers. 
-	1. Ryan, (michael reeves with tubbos died blonde hair) uses a katana to channel his electricity.  He can also fly and has super athletics.
-	2. ???, (tall ice prince from OHSHC), Electricity flows throw his rings. Increased intelligence, brains of the operations. has contingency plans for almost everything.
-	3. ???, (mixture of yang and nora from RWBY) Channels electricity through her gauntlets, spunky and the mood setter.  Dating ???.
-	4. ??? (tall, wiry with brown hair), Mostly normal human, but with increased luck. Dating April.
-	5. ??? (qtcinderlla), Normal human, social 
-	
-|Timeline 1     | Timeline 2     |
-| --- | --- |
-|     |     |

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFilePen",
       "FasNoteSticky",
       "FasSwatchbook",
       "FasImage",
-      "FasFolderOpen",
-      "FasFileLines"
+      "FasFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -130,5 +130,6 @@
   "99 Writing Prompts": "FasFolderOpen",
   "99 Writing Prompts/Brood Dragon.md": "FasFileLines",
   "05 MADNESS": "FasFolderOpen",
-  "05 MADNESS/Azrael Angerona.md": "FasFileLines"
+  "05 MADNESS/Azrael Angerona.md": "FasFileLines",
+  "01 Dream Journal/Dreams/100 Others/A Court of Fire and Ash.md": "FasFilePen"
 }
