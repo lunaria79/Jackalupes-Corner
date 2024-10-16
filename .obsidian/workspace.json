@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.00418853759766
+    "width": 275.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "8050956e70062b4f",
@@ -175,13 +176,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2a177b9f8ad07f67",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +206,10 @@
   },
   "active": "8ef6539c33be3c36",
   "lastOpenFiles": [
-    "README.md",
+    "01 Dream Journal/For Aeli.md",
+    "01 Dream Journal/Dreams/04 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dream Journal Home Page.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "01 Dream Journal/Dreams/100 Others/A Court of Fire and Ash.md",
     "04 Sims 4/Child Birth Mod Instructions.md",
@@ -224,12 +235,10 @@
     "01 Dream Journal/Dreams/03 Nothing Left to Say/Nothing Left to Say.md",
     "01 Dream Journal/Dreams/05 Atomize/Atomize.md",
     "01 Dream Journal/Dreams/100 Others/NANOBEAM.md",
-    "01 Dream Journal/Dreams/04 Milo & Caspian/Milo and Caspian.md",
     "01 Dream Journal/Dreams/06 Judas/Judas.md",
     "01 Dream Journal/Dreams/100 Others/Trauma Accappella.md",
     "01 Dream Journal/Dreams/100 Others/Gaia's Wrath.md",
     "01 Dream Journal/Dreams/100 Others/Isle of the Gods.md",
-    "01 Dream Journal/ZIALONA Home Page.md",
     "01 Dream Journal/Dreams/05 Atomize/Images/amore.jpg",
     "01 Dream Journal/Dreams/05 Atomize/Images/levana.jpg",
     "01 Dream Journal/Stage Files/images/Crimson City - hereisbis twit.jpg",
