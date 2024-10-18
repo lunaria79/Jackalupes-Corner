@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - code no-properties
+---
 Opens Better Terminal
 ```
 xfce4-terminal
@@ -10,6 +14,7 @@ Check Storage
 ```
 ncdu
 ```
+- - -
 ### Installations
 Install from arch-linux
 ```
@@ -27,6 +32,7 @@ Update User Repositories
 ```
 yay -Syu
 ```
+- - -
 ### Errors
 Restart Bluetooth
 ```
@@ -37,5 +43,5 @@ Manually Mount Hard Drive
 sudo fdisk -l
 ```
 ```
-```
+sudo mount /dev/sda1 /mnt
 ```
