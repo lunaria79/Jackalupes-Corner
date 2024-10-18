@@ -1,67 +1,67 @@
 {
   "activePreset": "Default",
+  "activeFullscreenPreset": "Default",
+  "separateFullscreenPreset": false,
   "presets": {
     "Default": {
       "plugin-obsidian-grandfather;1": {
         "position": 1,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-obsidian-git-obsidian-git-statusbar-failed-init-obsidian-git-statusbar-idle-obsidian-git-statusbar-pull-obsidian-git-statusbar-message;1": {
         "position": 2,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-obsidian-git;1": {
         "position": 3,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-backlink;1": {
         "position": 4,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-editor-status;1": {
         "position": 5,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-word-count;1": {
         "position": 6,
-        "visible": true,
-        "exists": true
+        "visible": true
+      },
+      "plugin-obsidian-discordrpc;1": {
+        "position": 7,
+        "visible": true
+      },
+      "plugin-obsidian-git;2": {
+        "position": 8,
+        "visible": true
       }
     },
     "default": {
       "plugin-backlink;1": {
         "position": 0,
-        "visible": false,
-        "exists": true
+        "visible": false
       },
       "plugin-editor-status;1": {
         "position": 4,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-word-count;1": {
         "position": 2,
-        "visible": true,
-        "exists": true
+        "visible": true
       },
       "plugin-obsidian-discordrpc;1": {
         "position": 1,
-        "visible": false,
-        "exists": true
+        "visible": false
       },
       "plugin-obsidian-grandfather;1": {
         "position": 3,
-        "visible": true,
-        "exists": true
+        "visible": true
       }
     }
   },
   "presetsOrder": [
     "Default"
-  ]
+  ],
+  "version": "2.1.2"
 }

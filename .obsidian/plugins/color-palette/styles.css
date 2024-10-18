@@ -1,8 +1,20 @@
+/* Palette Container */
+
+.palette-container {
+    cursor: pointer;
+    position: relative;
+}
+
+.palette-container.palette-scroll {
+    overflow-x: auto;
+}
+
 /* Palette */
 
 .palette {
     /* fallback vars */
     --palette-height: 150px;
+    --palette-width: 100%;
     --palette-direction: row;
     --not-palette-direction: row;
     --palette-background-color: transparent;
@@ -13,24 +25,12 @@
     
     display: flex;
     flex-direction: var(--palette-direction);
-    width: 100%;
     border-radius: var(--palette-corners);
     overflow: hidden;
     cursor: pointer;
     height: var(--palette-height);
+    width: var(--palette-width);
     position: relative;
-}
-
-.palette-pulse {
-    animation: pulse var(--notice-duration) infinite;
-    transform: scale(1);
-    border: transparent 1px solid;
-}
-
-@keyframes pulse {
-    50% {
-        background-color: #FFFF0080;
-    }
 }
 
 /* Palette Item */
@@ -48,15 +48,57 @@
     gap: 3%;
 }
 
-.palette > canvas {
+/*
+Canvas
+(HTML Canvas, NOT Obsidian.md canvas) 
+*/
+
+.palette-canvas {
     position: relative;
+}
+
+.palette-canvas > canvas {
     transition: all 0.1s ease-in-out;
     object-fit: contain;
 }
 
-.palette > canvas.gradient {
+.palette-canvas > canvas.gradient {
     background: linear-gradient(to right, var(--palette-background-color));
 }
+
+.palette-canvas > image {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.palette-canvas > canvas.image:hover ~ .palette-tooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Canvas Tooltip */
+
+.palette-tooltip {
+    position: absolute;
+    display: none;
+    background: #000000C0;
+    width: max-content;
+    min-width: 100px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 100%;
+}
+
+.palette.palette-hover > canvas:hover ~ .palette-tooltip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Palette Direction & Hover */
 
 .palette.paletteColumn.palette-hover > div:hover {
     flex-basis: var(--palette-column-flex-basis);
@@ -81,30 +123,48 @@
     user-select: none;
 }
 
+/* Edit Mode */
+
+.palette.edit-mode {
+    overflow-x: auto;
+}
+
+.palette > div > .edit-container {
+    --edit-background-color: #000000;
+    --edit-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 16px 0;
+    gap: 16px;
+}
+
+.palette > div > .edit-container > span {
+    --edit-font-size: 16px;
+    color: var(--edit-color);
+    font-weight: bold;
+    font-size: var(--edit-font-size);
+    user-select: none;
+}
+
+.palette > div > .edit-container > .color-span-editable {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 20px -28px inset;
+    cursor: pointer;
+}
+
+/* Color Trash Button */
+.palette > div > .edit-container > button {
+    background-color: var(--edit-background-color);
+    color: var(--edit-color);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 20px -28px inset;
+    cursor: pointer;
+}
+
 /* Drag & Drop */
 
-.is-dragging {
+.palette > .is-dragging {
     opacity: 0;
-}
-
-/* Gradient Tooltip */
-
-.palette-tooltip {
-    position: absolute;
-    display: none;
-    background: #000000C0;
-    width: max-content;
-    min-width: 100px;
-    height: 40px;
-    text-align: center;
-    vertical-align: middle;
-    font-size: 100%;
-}
-
-.palette.palette-hover > canvas:hover ~ .palette-tooltip {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 /* Invalid Palette */
@@ -115,7 +175,7 @@
     justify-content: center;
     align-items: center;
     height: var(--palette-height);
-    width: 100%;
+    width: var(--palette-width);
     background-color: #000000C0;
     border-radius: var(--palette-corners);;
 }
@@ -132,8 +192,36 @@
     user-select: none;
 }
 
+/* Invalid Pulse */
+
+.palette-pulse {
+    animation: pulse var(--notice-duration) infinite;
+}
+
+.palette-pulse > .invalid {
+    animation: pulse-shadow var(--notice-duration) infinite;
+}
+
+.palette-pulse > .invalid > span {
+    /* 1px padding so that box-shadow can show in full on left / right */
+    margin: 0px 1px;
+}
+
+@keyframes pulse {
+    50% {
+        background-color: #FFFF0080;
+    }
+}
+
+@keyframes pulse-shadow {
+    50% {
+        box-shadow: inset 0px 0px 0px 1px #FFFF0080;
+    }
+}
+
 /* Tabs */
-.create-palette > section > .control-container {
+
+.palette-editor > section > .control-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -141,115 +229,86 @@
     padding: .75em 0;
 }
 
-.control-container > button {
+.palette-editor > section > .control-container > button {
     cursor: pointer;
 }
 
-.add-colors-container {
+.palette-editor > section > .colors-container {
     padding: .75em 0 0 0;
 }
 
 /* Color Picker Mode */
 
-.select-color-picker {
+.palette-editor > section > .select-color-picker > div > div {
 
 }
 
 /* Generate Mode */
 
-.select-generate > button {
+.palette-editor > section > .select-generate > div > div > button {
     cursor: pointer;
 }
 
 /* Image Mode Add Colors */
 
-.select-image > .add-colors > .setting-item-control > div {
+.palette-editor > section > .select-image > .add-colors > .setting-item-control > div {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
     justify-content: center;
 }
 
-.select-image > .add-colors > .setting-item-control > div > div {
+.palette-editor > section > .select-image > .add-colors > .setting-item-control > div > div {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 5px;
 }
 
-.select-image > .add-colors > .setting-item-control > div > div > button {
+.palette-editor > section > .select-image > .add-colors > .setting-item-control > div > div > button {
     cursor: pointer;
 }
 
-.select-image > .add-colors > .setting-item-control > div > div > input[type="file"] {
+.palette-editor > section > .select-image > .add-colors > .setting-item-control > div > div > input[type="file"] {
     display: none;
 }
 
-.select-image > .image-preview > .setting-item-info {
+.palette-editor> section > .select-image > .image-preview > .setting-item-info {
     display: none;
 }
 
 /* Image Mode Preview */
 
-.select-image > .image-preview > div {
+.palette-editor > section > .select-image > .image-preview > div {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.select-image > .image-preview > div > img {
-    width: 100%;
-    height: 100%;
-    border-radius: 5px;
-    object-fit: contain;
-}
-
-.select-image > .hide-image-preview {
+.palette-editor > section > .select-image > .hide-image-preview {
     display: none;
 }
 
 /* URL Mode */
 
-.select-url > button {
+.palette-editor > section > .select-url > div > div > button {
     cursor: pointer;
 }
 
 /* Palette Preview */
 
-.palette-preview {
-
+.palette-editor > section > .palette-preview {
+    
 }
 
-/* Edit Mode */
-
-.edit-container {
-    --edit-background-color: #000000;
-    --edit-color: #ffffff;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
-    margin: 16px 0;
-    gap: 16px;
+.color-palette-settings {
+    & > h2 {
+        font-size: 20px;
+    }
 }
 
-.edit-container > span {
-    --edit-font-size: 16px;
-    color: var(--edit-color);
-    font-weight: bold;
-    font-size: var(--edit-font-size);
-    user-select: none;
-}
-
-.edit-container > .color-span-editable {
-    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 20px -28px inset;
-    cursor: pointer;
-}
-
-/* Color Trash Button */
-.edit-container > button {
-    background-color: var(--edit-background-color);
-    color: var(--edit-color);
-    box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 20px -28px inset;
-    cursor: pointer;
+.color-palette-donate {
+    height: 100%;
+    padding: 0;
+    margin: 2%;
 }

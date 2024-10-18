@@ -49,7 +49,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false,
-    "iconInTitlePosition": "above"
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native"
   },
   "00 _resources": "FasFolderOpen",
   "00 _resources/Templates/Dream Journal Template.md": "FasFileCode",
