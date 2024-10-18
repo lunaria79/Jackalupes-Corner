@@ -50,7 +50,6 @@ you cannot stop me pbk or ctsy
 6. Eventually, this coven's protectors are challenged to a game of dodge ball soccer. Due to it being by a much more powerful coven, they could not refuse. The say their goodbyes and leave. The chatting between the coven continues. At one point, the necromancer notices that the children are getting into a dispute with the coven that challenged hers, and started to get up to go rescue them. 
 7. This coven is the only one to announce that they will not be participating in the upcoming war.
 
-dfdfdfd
  Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
  #### Superhero Split Timelines
  We got a gang of superheroes that all use electricity powers.
@@ -60,7 +59,6 @@ dfdfdfd
 - ??? (tall, wiry with brown hair, norway), Mostly normal human, but with increased luck. Dating April.
 - ??? (qtcinderlla, LA), Normal human, social media manager and getaway driver. the millennial in the group of gen z
 And then the MC, Ryan who has the potential for awakening with powers.
-osudispsss
 
 | Timeline A                                                                                                                                                                                                                                                                                          | Timeline B                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
