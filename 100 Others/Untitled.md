@@ -3,7 +3,7 @@
 |              | Nami | Robin | Usopp | Luffy | Sanji | Zoro |
 | ------------ | ---- | ----- | ----- | ----- | ----- | ---- |
 | Everyday     | x    | x     | x     | x     | -     | -    |
-| Formal       | x    | x     | -     | -     | -     | -     |
+| Formal       | x    | x     | x     | -     | -     | -     |
 | Athletic     | x    | x     | x     | -     | -     | -    |
 | Pajamas      | x    | x     | x     | -     | -     | -    |
 | Party        | x    | x     | -     | -     | -     | -    |
