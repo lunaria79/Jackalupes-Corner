@@ -5,8 +5,8 @@
 | Everyday     | x    | x     | x     | x     | -     | -    |
 | Formal       | x    | x     | -     | -     | -     | -     |
 | Athletic     | x    | x     | x     | -     | -     | -    |
-| Pajamas      | x    | x     | -     | -     | -     | -    |
+| Pajamas      | x    | x     | x     | -     | -     | -    |
 | Party        | x    | x     | -     | -     | -     | -    |
-| Swimwear     | x    | x     | -     | -     | -     | -    |
+| Swimwear     | x    | x     | x     | -     | -     | -    |
 | Hot Weather  | x    | x     | -     | -     | -     | -    |
 | Cold Weather | x    | x     | x     | -     | -     | -    |
