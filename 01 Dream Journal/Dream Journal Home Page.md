@@ -58,7 +58,7 @@ you cannot stop me pbk or ctsy
 - ???, (mixture of yang and nora from RWBY, polish?) Channels electricity through her gauntlets, spunky and the mood setter. Dating ???.
 - ??? (tall, wiry with brown hair, norway), Mostly normal human, but with increased luck. Dating April.
 - ??? (qtcinderlla, LA), Normal human, social media manager and getaway driver. the millennial in the group of gen z
-And then the MC, Ryan who has the potential for awakening with powers.
+- And then the MC, Ryan who has the potential for awakening with powers.
 
 | Timeline A                                                                                                                                                                                                                                                                                          | Timeline B                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
