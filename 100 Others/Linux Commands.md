@@ -36,12 +36,23 @@ yay -Syu
 ### Errors
 Restart Bluetooth
 ```
-systemctl restart bluetooth 
+sudo systemctl restart bluetooth 
 ```
-Manually Mount Hard Drive
+- - -
+### Manual Mount (deeznuts)
+List Drives
 ```
 sudo fdisk -l
 ```
+Mount Drive
 ```
-sudo mount /dev/sda1 /mnt
+sudo mount /dev/<drive_name> /<mount_location>
+```
+Mount **Catboy** to **Windows**
+```
+sudo mount /dev/nvme0n1p4 /mnt
+```
+Unmount Drive
+```
+sudo umount <mount_location/device name>
 ```
