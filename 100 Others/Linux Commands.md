@@ -57,8 +57,18 @@ Unmount Drive
 sudo umount <mount_location/device name>
 ```
 ---
+# Minecraft Project
 ### ZIP
 ZIP Catboy Override
 ```
 zip Catboy\ Override.zip pack.mcmeta pack.png -r assets
+```
+### Replace Text in File
+String
+```
+replace -a <original> <new> *<filetyple.
+```
+Example
+```
+replace -a diamond gold *.png
 ```
