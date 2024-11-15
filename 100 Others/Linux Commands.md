@@ -56,3 +56,9 @@ Unmount Drive
 ```
 sudo umount <mount_location/device name>
 ```
+---
+### ZIP
+ZIP Catboy Override
+```
+zip Catboy\ Override.zip pack.mcmeta pack.png -r assets
+```
