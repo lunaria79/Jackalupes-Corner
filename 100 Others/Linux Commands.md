@@ -59,16 +59,16 @@ sudo umount <mount_location/device name>
 ---
 # Minecraft Project
 ### ZIP
-ZIP Catboy Override
+Catboy Override
 ```
 zip Catboy\ Override.zip pack.mcmeta pack.png -r assets
 ```
-### Replace Text in File
+### Replace String in File Name
 String
 ```
-replace -a <original> <new> *<filetyple.
+rename -a <original> <new> *<filetyple.
 ```
 Example
 ```
-replace -a diamond gold *.png
+rename -a diamond gold *.png
 ```
