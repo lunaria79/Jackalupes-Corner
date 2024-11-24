@@ -1,3 +1,18 @@
-span.divider {
+.mhw p.disc {
+	text-align: center; font-weight: 800;
+	color:  rgb(var(--tertiary-tint));
+	font-style: italic;
+	margin-bottom: 0;
+}
+
+.mhw p.stats {
 	text-align: center;
+	color:  rgb(var(--tertiary-tint));
+	margin-bottom: 0;
+}
+
+.mhw p.divider {
+	text-align: center; font-weight: 800;
+	color:  rgb(var(--primary-tint));
+	margin-bottom: 0;
 }
