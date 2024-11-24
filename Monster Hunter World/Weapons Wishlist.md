@@ -2,6 +2,7 @@
 cssclasses:
   - dream-journal-base
   - gods-and-fiends
+  - mhw
   - no-properties
 ---
 <div class="block-language-tabs">
@@ -17,15 +18,22 @@ cssclasses:
 					<div class="grid left">
 						<div class="box char-note">
 							<div class="callout-title">  <div class="callout-title-inner"> Holy Swords </div> </div>
-							<img alt="placeholder.png" src="">
-							<p class="stats">
-							<b>Attack:</b> 252 <b>Element:</b> 💦 120
+							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/00%20_resources/02FkH0.png">
+							<p>
+							<b><i>Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental.</i></b>
+							<stats>
+							<br> <b>Attack:</b> 252 <b>Element:</b> 💦 120
 							<br> <b>Affinity:</b> 0%
 							<br> <b>Decorations:</b> 1 <i>Level 3</i> Slot
 							<br> <b>Sharpness:</b> 🔵
-							<br>
-							<br> <b><i>Dual Blades - Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental.</i></b>
-							</p>
+							</stats>
+							<craft>
+							<br> <b>High Commendation:</b> x3
+							<br> <b>Dragonvein Crystal:</b>  x6
+							<br> <b>Wyvern Gem:</b> x2 
+							<br> <b>Nova Crystal:</b>  x2
+							<br> <b>:</b> 
+							</craft>
 						</div>
 					</div>
 					<div class="grid right">
