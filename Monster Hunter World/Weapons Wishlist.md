@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - dream-journal-base
-  - arcane-school
+  - gods-and-fiends
   - mhw
   - no-properties
 ---
@@ -27,12 +27,17 @@ cssclasses:
 							<br> <b>Sharpness:</b> 🔵
 							</p>
 							<p class="divider"> -- -- -- -- -- </p>
+							<p></p>
+							<p class="disc">Materials List</p>
 							<p class="shopping">
 							<b>High Commendation:</b> x3
-							<br> <span>8★</span>
+							<br> <span>HR 8★ Optional Quests</span>
 							<br> <b>Dragonvein Crystal:</b>  x6
+							<br> <span>High Rank</span>
 							<br> <b>Wyvern Gem:</b> x2 
+							<br> <span>High Rank</span>
 							<br> <b>Nova Crystal:</b>  x2
+							<br> <span>High Rank Mining</span>
 							<br>32,000 🪙
 							</p>
 						</div>
