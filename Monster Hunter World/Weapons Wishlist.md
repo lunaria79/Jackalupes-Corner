@@ -1,17 +1,9 @@
 ---
 cssclasses:
   - dream-journal-base
-  - atomize
-  - mhw
+  - gods-and-fiends
+  - no-properties
 ---
-| Name             | Stats          |
-| ---------------- | -------------- |
-| Rarity           | 7              |
-| Attack           | 252            |
-| Affinity         | ![](../00%20_resources/mhw-water-elemental-damage_s.webp) 120      |
-| Decoration Slots | 1 Level 3 Slot |
-|                  |                |
-
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">
 		<div class="html-tabs">
@@ -26,13 +18,13 @@ cssclasses:
 						<div class="box char-note">
 							<div class="callout-title">  <div class="callout-title-inner"> Holy Swords </div> </div>
 							<img alt="placeholder.png" src="">
-							<p><b><i>Dual Blades - Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental.</i></b></p>
 							<p class="stats">
-							<h1>Stats</h1>
-							<b>Attack:</b> 252
-							<b>Rarity:</b> 7
-							<b>Rarity:</b> 7
-							<b>Rarity:</b> 7
+							<b>Attack:</b> 252 <b>Element:</b> 💦 120
+							<br> <b>Affinity:</b> 0%
+							<br> <b>Decorations:</b> 1 <i>Level 3</i> Slot
+							<br> <b>Sharpness:</b> 🔵
+							<br>
+							<br> <b><i>Dual Blades - Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental.</i></b>
 							</p>
 						</div>
 					</div>
