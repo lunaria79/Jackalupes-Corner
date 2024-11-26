@@ -7,29 +7,29 @@
 - [x] **Bookcase**
 - [x] **Crafting Table**
 ## Baobab
-- [ ] **Planks** (Slabs, Stairs, etc. )
-- [ ] **Logs & Wood**
-- [ ] **Stripped Logs & Wood**
-- [ ] **Sign**
-- [ ] **Hanging Sign**
-- [ ] **Bookcase**
-- [ ] **Crafting Table**
+- [x] **Planks** (Slabs, Stairs, etc. )
+- [x] **Logs & Wood**
+- [x] **Stripped Logs & Wood**
+- [x] **Sign**
+- [x] **Hanging Sign**
+- [x] **Bookcase**
+- [x] **Crafting Table**
 ## Blue Enchanted
-- [ ] **Planks** (Slabs, Stairs, etc. )
-- [ ] **Logs & Wood**
-- [ ] **Stripped Logs & Wood**
+- [x] **Planks** (Slabs, Stairs, etc. )
+- [x] **Logs & Wood**
+- [x] **Stripped Logs & Wood**
 - [ ] **Sign**
 - [ ] **Hanging Sign**
-- [ ] **Bookcase**
-- [ ] **Crafting Table**
+- [x] **Bookcase**
+- [x] **Crafting Table**
 ## Cika
-- [ ] **Planks** (Slabs, Stairs, etc. )
-- [ ] **Logs & Wood**
-- [ ] **Stripped Logs & Wood**
+- [x] **Planks** (Slabs, Stairs, etc. )
+- [x] **Logs & Wood**
+- [x] **Stripped Logs & Wood**
 - [ ] **Sign**
 - [ ] **Hanging Sign**
-- [ ] **Bookcase**
-- [ ] **Crafting Table**
+- [x] **Bookcase**
+- [x] **Crafting Table**
 ## Cypress
 - [ ] **Planks** (Slabs, Stairs, etc. )
 - [ ] **Logs & Wood**
