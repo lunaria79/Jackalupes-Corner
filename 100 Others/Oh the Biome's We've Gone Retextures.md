@@ -1,35 +1,39 @@
-## Aspen
-- [x] **Planks** (Slabs, Stairs, etc. )
-- [x] **Logs & Wood**
-- [x] **Stripped Logs & Wood**
-- [x] **Sign**
-- [x] **Hanging Sign**
-- [x] **Bookcase**
-- [x] **Crafting Table**
-## Baobab
-- [x] **Planks** (Slabs, Stairs, etc. )
-- [x] **Logs & Wood**
-- [x] **Stripped Logs & Wood**
-- [x] **Sign**
-- [x] **Hanging Sign**
-- [x] **Bookcase**
-- [x] **Crafting Table**
-## Blue Enchanted
-- [x] **Planks** (Slabs, Stairs, etc. )
-- [x] **Logs & Wood**
-- [x] **Stripped Logs & Wood**
-- [ ] **Sign**
-- [ ] **Hanging Sign**
-- [x] **Bookcase**
-- [x] **Crafting Table**
-## Cika
-- [x] **Planks** (Slabs, Stairs, etc. )
-- [x] **Logs & Wood**
-- [x] **Stripped Logs & Wood**
-- [ ] **Sign**
-- [ ] **Hanging Sign**
-- [x] **Bookcase**
-- [x] **Crafting Table**
+> [!NOTE]+ Aspen
+> - [x] **Planks** (Slabs, Stairs, etc. )
+> - [x] **Logs & Wood**
+> - [x] **Stripped Logs & Wood**
+> - [x] **Sign**
+> - [x] **Hanging Sign**
+> - [x] **Bookcase**
+> - [x] **Crafting Table**
+
+> [!NOTE]+ Baobab
+> - [x] **Planks** (Slabs, Stairs, etc. )
+> - [x] **Logs & Wood**
+> - [x] **Stripped Logs & Wood**
+> - [x] **Sign**
+> - [x] **Hanging Sign**
+> - [x] **Bookcase**
+> - [x] **Crafting Table**
+
+> [!NOTE]+ Blue Enchanted
+> - [x] **Planks** (Slabs, Stairs, etc. )
+> - [x] **Logs & Wood**
+> - [x] **Stripped Logs & Wood**
+> - [x] **Sign**
+> - [x] **Hanging Sign**
+> - [x] **Bookcase**
+> - [x] **Crafting Table**
+
+> [!NOTE]+ Cika
+> - [x] **Planks** (Slabs, Stairs, etc. )
+> - [x] **Logs & Wood**
+> - [x] **Stripped Logs & Wood**
+> - [x] **Sign**
+> - [x] **Hanging Sign**
+> - [x] **Bookcase**
+> - [x] **Crafting Table**
+
 ## Cypress
 - [ ] **Planks** (Slabs, Stairs, etc. )
 - [ ] **Logs & Wood**
@@ -38,6 +42,7 @@
 - [ ] **Hanging Sign**
 - [ ] **Bookcase**
 - [ ] **Crafting Table**
+
 ## Ebony
 - [ ] **Planks** (Slabs, Stairs, etc. )
 - [ ] **Logs & Wood**
@@ -46,6 +51,7 @@
 - [ ] **Hanging Sign**
 - [ ] **Bookcase**
 - [ ] **Crafting Table**
+
 ## Fir
 - [ ] **Planks** (Slabs, Stairs, etc. )
 - [ ] **Logs & Wood**
@@ -54,6 +60,7 @@
 - [ ] **Hanging Sign**
 - [ ] **Bookcase**
 - [ ] **Crafting Table**
+
 ## Florus
 - [ ] **Planks** (Slabs, Stairs, etc. )
 - [ ] **Logs & Wood**
