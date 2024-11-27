@@ -24,6 +24,7 @@
 > - [x] **Log**
 > - [x] **Planks** (Slabs, Stairs, etc. )
 > - [x] **Stripped Log**
+> - [ ] **Imbued Wood**
 > ---
 > - [ ] **Sign** + Item
 > - [ ] **Hanging Sign** + Item
