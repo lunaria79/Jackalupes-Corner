@@ -42,6 +42,7 @@ Usopp
 
 ```diff
 Luffy
+His lips are too dry....
 + Everyday
 + Formal
 + Athletic
