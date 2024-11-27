@@ -62,3 +62,27 @@ Luffy
 + Hot Weather
 + Cold Weather
 ```
+
+```diff
+Sanji
+- Everyday
+- Formal
+- Athletic
+- Pajamas
+- Party
+- Swimwear
+- Hot Weather
+- Cold Weather
+```
+
+```diff
+Zoro
+- Everyday
+- Formal
+- Athletic
+- Pajamas
+- Party
+- Swimwear
+- Hot Weather
+- Cold Weather
+```
