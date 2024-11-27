@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - code
+---
 ## One Piece
 
 |              | Nami | Robin | Usopp | Luffy | Sanji | Zoro |
@@ -10,3 +14,39 @@
 | Swimwear     | x    | x     | x     | -     | -     | -    |
 | Hot Weather  | x    | x     | -     | x     | -     | -    |
 | Cold Weather | x    | x     | x     | x     | -     | -    |
+
+```diff
+Nami
++ Everyday
++ Formal
++ Athletic
++ Pajamas
++ Party
++ Swimwear
++ Hot Weather
++ Cold Weather
+```
+
+```diff
+Robin
++ Everyday
++ Formal
++ Athletic
++ Pajamas
++ Party
++ Swimwear
++ Hot Weather
++ Cold Weather
+```
+
+```diff
+Usopp
++ Everyday
++ Formal
++ Athletic
++ Pajamas
+- Party
++ Swimwear
+- Hot Weather
++ Cold Weather
+```
