@@ -50,3 +50,15 @@ Usopp
 - Hot Weather
 + Cold Weather
 ```
+
+```diff
+Luffy
++ Everyday
++ Formal
++ Athletic
++ Pajamas
++ Party
+- Swimwear
++ Hot Weather
++ Cold Weather
+```
