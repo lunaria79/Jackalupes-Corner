@@ -1,0 +1,10 @@
+- [x] Aeli
+- [ ] Uns (PLANNED) (AELI HURRY UP)
+- [x] Dylan
+- [ ] Feral
+- [x] Kyra
+- [ ] Sydney
+- [ ] Gabe
+- [ ] Dess (PLANNED) (AELI HURRY UP)
+- [ ] Jenny
+- [ ] Sandra (LIKE 80% DONE)
