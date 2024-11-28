@@ -63,7 +63,9 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
     background: rgb(var(--primary-tint));
 }
 
-/* ------------------------------------------- Properties ------------------------------------------- */
+
+
+/* ---------- Properties ---------- */
 .dream-journal-base .metadata-properties-title {
 	/* Properties Title Apperance */
 	color: rgb(var(--primary-tint));
@@ -80,7 +82,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 
 .dream-journal-base div.metadata-container.is-collapsed { 	/* Properties Collapsed Behavior */  height: 45px; }
 
-/* -------------------- Classes + Tags -------------------- */
+/* ----- Classes + Tags ----- */
 .dream-journal-base .metadata-property .multi-select-pill {
 	border-radius: var(--small-radius);
 	padding: 3px 6px;
@@ -142,8 +144,12 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	color: rgb(var(--background-color));
 }
 
-/* -------------------- Checkboxes -------------------- */
-.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
+/* ----- Checkboxes ----- */
+
+
+
+
+.dream-journal-base input[type=checkbox]:not(:checked) {
 	color: rgb(var(--primary-tint));
 	background-color: transparent !important;
 	border: 2px solid rgb(var(--primary-tint));
@@ -151,7 +157,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	cursor: pointer !important;
 }
 
-.theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
+.dream-journal-base input[type=checkbox]:checked {
 	background: rgb(var(--secondary-tint));
 	border-radius: var(--small-radius);
 	border-color: rgb(var(--secondary-tint));
@@ -165,13 +171,19 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	cursor: pointer !important;
 }
 
+
+
 /* ---------------------------------------------- Tabs ---------------------------------------------- */
 .dream-journal-base div.html-tab {
 	padding: 0;
 	height: 30px;
-}
 
-.dream-journal-base div.html-tab:hover { color: rgb(var(--primary-color)); }
+  &:hover { color: rgb(var(--primary-color)); }
+  p {
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+}
 
 .dream-journal-base .html-tab-active {
 	color: rgb(var(--text));
@@ -180,10 +192,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	border-color: rgb(var(--primary-tint));
 }
 
-.markdown-rendered.dream-journal-base .html-tab p {
-	margin-top: 0;
-	margin-bottom: 12px;
-}
 
 /* ---------------------------------------------- Tile ---------------------------------------------- */
 .dream-journal-base * {
