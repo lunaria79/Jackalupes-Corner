@@ -1,7 +1,7 @@
 - [x] Aeli
 - [ ] Uns (PLANNED) (AELI HURRY UP)
 - [x] Dylan
-- [ ] Feral
+- [x] Feral
 - [x] Kyra
 - [ ] Sydney
 - [ ] Gabe
