@@ -1,48 +1,53 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap");
 /* ------------------------------------------- Page Setup ------------------------------------------- */
 .dream-journal-base {
-	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/kiki-farmhouse.jpg") center center / cover no-repeat;
-	background-blend-mode: soft-light;
-	background-color: rgb(var(--background-color), .5);
+  background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/kiki-farmhouse.jpg") center center/cover no-repeat;
+  background-blend-mode: soft-light;
+  background-color: rgb(var(--background-color), 0.5);
 }
 
 .dream-journal-base * {
-	/* Colors */
-	--background-color: 28, 28, 44;
-	--background-highlight: 32, 35, 53;
-	--primary-color: 243, 172, 208;
-	--text: 255, 255, 255;
-	/* Tints */
-	--primary-tint:  243, 172, 208;
-	--secondary-tint: 165, 214, 230;
-	--tertiary-tint: 213, 168, 233;
-	--yellow-tint: 222, 233, 165;
-	/* Sizes */
-	--large-radius: 20px;
-	--medium-radius: 10px;
-	--small-radius: 3px;
-	--file-line-width: 60%;
-	/* Fonts */
-	font-family: "Dosis", sans-serif;
+  /* Colors */
+  --background-color: 28, 28, 44;
+  --background-highlight: 32, 35, 53;
+  --primary-color: 243, 172, 208;
+  --text: 255, 255, 255;
+  /* Tints */
+  --primary-tint: 243, 172, 208;
+  --secondary-tint: 165, 214, 230;
+  --tertiary-tint: 213, 168, 233;
+  --yellow-tint: 222, 233, 165;
+  /* Sizes */
+  --large-radius: 20px;
+  --medium-radius: 10px;
+  --small-radius: 3px;
+  --file-line-width: 60%;
+  /* Fonts */
+  font-family: "Dosis", sans-serif;
 }
 
 div.markdown-source-view.dream-journal-base.is-live-preview,
 .markdown-source-view.dream-journal-base,
 .dream-journal-base .markdown-preview-section {
-	background-image: none;
-	background-color: transparent;
-	box-shadow: unset;
+  background-image: none;
+  background-color: transparent;
+  box-shadow: unset;
 }
 
 div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
-	backdrop-filter: blur(0px);
-	padding: 10px;
-	max-width: 75%;
+  -webkit-backdrop-filter: blur(0px);
+          backdrop-filter: blur(0px);
+  padding: 10px;
+  max-width: 75%;
 }
 
-.dream-journal-base .mod-header { padding: 10px; }
+.dream-journal-base .mod-header {
+  padding: 10px;
+}
 
-.dream-journal-base div.html-tab-content {	padding: 0; }
+.dream-journal-base div.html-tab-content {
+  padding: 0;
+}
 
 .dream-journal-base .inline-title,
 .dream-journal-base h1,
@@ -51,310 +56,348 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base h4,
 .dream-journal-base h5,
 .dream-journal-base h6 {
-	/* Removes Heading Gradient */
-	-webkit-text-fill-color: currentColor !important;
-	-webkit-background-clip: unset !important;
-	background-clip: unset !important;
-	background-image: none !important;
+  /* Removes Heading Gradient */
+  -webkit-text-fill-color: currentColor !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  background-image: none !important;
+}
+
+.dream-journal-base ::-moz-selection {
+  color: rgb(var(--background-color));
+  background: rgb(var(--primary-tint));
 }
 
 .dream-journal-base ::selection {
-    color: rgb(var(--background-color));
-    background: rgb(var(--primary-tint));
+  color: rgb(var(--background-color));
+  background: rgb(var(--primary-tint));
 }
 
 /* ------------------------------------------- Properties ------------------------------------------- */
 .dream-journal-base .metadata-properties-title {
-	/* Properties Title Apperance */
-	color: rgb(var(--primary-tint));
-	font-weight: 800;
+  /* Properties Title Apperance */
+  color: rgb(var(--primary-tint));
+  font-weight: 800;
 }
 
 .metadata-property .multi-select-container:focus,
-.metadata-property .multi-select-container:focus-within {  /* Focus Highlight */  background-color: rgb(var(--background-highlight));  }
+.metadata-property .multi-select-container:focus-within { /* Focus Highlight */
+  background-color: rgb(var(--background-highlight));
+}
 
 .dream-journal-base .metadata-add-button.text-icon-button,
-.dream-journal-base .multi-select-pill-remove-button { /* Hides Add and Remove Property */  display: none; 	}
+.dream-journal-base .multi-select-pill-remove-button { /* Hides Add and Remove Property */
+  display: none;
+}
 
-.dream-journal-base div.metadata-properties-heading.is-collapsed {	/* Properties Collapsed Behavior */  padding: 0; 	}
+.dream-journal-base div.metadata-properties-heading.is-collapsed { /* Properties Collapsed Behavior */
+  padding: 0;
+}
 
-.dream-journal-base div.metadata-container.is-collapsed { 	/* Properties Collapsed Behavior */  height: 45px; }
+.dream-journal-base div.metadata-container.is-collapsed { /* Properties Collapsed Behavior */
+  height: 45px;
+}
 
 /* -------------------- Classes + Tags -------------------- */
 .dream-journal-base .metadata-property .multi-select-pill {
-	border-radius: var(--small-radius);
-	padding: 3px 6px;
-	cursor: pointer;
-	text-decoration: none;
-	font-weight: 700;
+  border-radius: var(--small-radius);
+  padding: 3px 6px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 700;
 }
 
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill { cursor: default; }
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill {
+  cursor: default;
+}
 
-.dream-journal-base .metadata-property:not(.metadata-property[data-property-key="cssclasses"]) .multi-select-pill:hover {
-	transition: 200ms;
-	transform: scale(1.025);
+.dream-journal-base .metadata-property:not(.metadata-property[data-property-key=cssclasses]) .multi-select-pill:hover {
+  transition: 200ms;
+  transform: scale(1.025);
 }
 
 .dream-journal-base .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property { 	font-weight: 700; }
-
-.dream-journal-base .multi-select-pill-content { 	margin: 0; }
-
-.dream-journal-base .metadata-property[data-property-key="tags"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="tags"] input.metadata-property-key-input,
-.dream-journal-base .metadata-property[data-property-key="Home"] svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="Home"] input.metadata-property-key-input {
-	color: rgb(var(--primary-tint));
+.dream-journal-base .metadata-property {
+  font-weight: 700;
 }
 
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--primary-tint));
-	color: rgb(var(--background-color));
+.dream-journal-base .multi-select-pill-content {
+  margin: 0;
 }
 
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input {
-	color: rgb(var(--secondary-tint));
+.dream-journal-base .metadata-property[data-property-key=tags] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key=tags] input.metadata-property-key-input,
+.dream-journal-base .metadata-property[data-property-key=Home] svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key=Home] input.metadata-property-key-input {
+  color: rgb(var(--primary-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-	color: rgb(var(--background-color));
-	background-color: rgb(var(--secondary-tint));
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg,
+.dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
+  background-color: rgb(var(--primary-tint));
+  color: rgb(var(--background-color));
 }
 
-.dream-journal-base .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-	color: rgb(var(--secondary-tint));
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input {
+  color: rgb(var(--secondary-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg {
-	background-color: rgb(var(--primary-tint));
-	color: rgb(var(--background-color));
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg {
+  color: rgb(var(--background-color));
+  background-color: rgb(var(--secondary-tint));
+}
+
+.dream-journal-base .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon,
+.dream-journal-base .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
+  color: rgb(var(--secondary-tint));
+}
+
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill,
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content,
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg {
+  background-color: rgb(var(--primary-tint));
+  color: rgb(var(--background-color));
 }
 
 /* -------------------- Checkboxes -------------------- */
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:not(:checked) {
-	color: rgb(var(--primary-tint));
-	background-color: transparent !important;
-	border: 2px solid rgb(var(--primary-tint));
-	border-radius: var(--small-radius);
-	cursor: pointer !important;
+  color: rgb(var(--primary-tint));
+  background-color: transparent !important;
+  border: 2px solid rgb(var(--primary-tint));
+  border-radius: var(--small-radius);
+  cursor: pointer !important;
 }
 
 .theme-dark:not(.css-settings-manager) .dream-journal-base input[type=checkbox]:checked {
-	background: rgb(var(--secondary-tint));
-	border-radius: var(--small-radius);
-	border-color: rgb(var(--secondary-tint));
-	cursor: pointer !important;
+  background: rgb(var(--secondary-tint));
+  border-radius: var(--small-radius);
+  border-color: rgb(var(--secondary-tint));
+  cursor: pointer !important;
 }
 
 .dream-journal-base input[type=checkbox]:checked:after {
-	background: rgb(var(--secondary-tint));
-	border-radius: var(--small-radius);
-	-webkit-mask-image: none;
-	cursor: pointer !important;
+  background: rgb(var(--secondary-tint));
+  border-radius: var(--small-radius);
+  -webkit-mask-image: none;
+  cursor: pointer !important;
 }
 
 /* ---------------------------------------------- Tabs ---------------------------------------------- */
 .dream-journal-base div.html-tab {
-	padding: 0;
-	height: 30px;
+  padding: 0;
+  height: 30px;
 }
 
-.dream-journal-base div.html-tab:hover { color: rgb(var(--primary-color)); }
+.dream-journal-base div.html-tab:hover {
+  color: rgb(var(--primary-color));
+}
 
 .dream-journal-base .html-tab-active {
-	color: rgb(var(--text));
-	border-bottom-width: 2px;
-	border-bottom-style: solid;
-	border-color: rgb(var(--primary-tint));
+  color: rgb(var(--text));
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: rgb(var(--primary-tint));
 }
 
 .markdown-rendered.dream-journal-base .html-tab p {
-	margin-top: 0;
-	margin-bottom: 12px;
+  margin-top: 0;
+  margin-bottom: 12px;
 }
 
 /* ---------------------------------------------- Tile ---------------------------------------------- */
 .dream-journal-base * {
-	--tile-background: rgb(var(--background-color), .99);
-	--tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0;
-	--tile-border: 5px solid rgb(var(--primary-tint));
+  --tile-background: rgb(var(--background-color), .99);
+  --tile-border-radius: 0 var(--medium-radius) var(--medium-radius) 0;
+  --tile-border: 5px solid rgb(var(--primary-tint));
 }
 
 .markdown-preview-view.dream-journal-base div.inline-title,
 .dream-journal-base div.metadata-container,
 .dream-journal-base div.html-tabs,
 .dream-journal-base .box,
-.dream-journal-base .callout[data-callout="tabbed"] p label,
-div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
-	/*Position */
-	transform: unset;
-	/* Size */
-	padding: 10px 25px;
-	width: 100%;
-	/* Colors */
-	background-color: var(--tile-background);
-	/* Border */
-	border-left: var(--tile-border);
-	border-radius: var(--tile-border-radius);
-	box-shadow: none;
+.dream-journal-base .callout[data-callout=tabbed] p label,
+div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
+  /*Position */
+  transform: unset;
+  /* Size */
+  padding: 10px 25px;
+  width: 100%;
+  /* Colors */
+  background-color: var(--tile-background);
+  /* Border */
+  border-left: var(--tile-border);
+  border-radius: var(--tile-border-radius);
+  box-shadow: none;
 }
 
-.dream-journal-base .char-note { border-left-color: rgb(var(--secondary-tint)); }
+.dream-journal-base .char-note {
+  border-left-color: rgb(var(--secondary-tint));
+}
 
-.dream-journal-base .def-note { border-left-color: rgb(var(--tertiary-tint)); }
+.dream-journal-base .def-note {
+  border-left-color: rgb(var(--tertiary-tint));
+}
 
-.dream-journal-base div.metadata-container {	/* Size */ 	margin: 0; }
+.dream-journal-base div.metadata-container { /* Size */
+  margin: 0;
+}
 
 .dream-journal-base div.html-tabs {
-	/* Size */
-	padding: 5px 0 8px 20px;
-	margin: 0 10px;
-	width: unset;
-	/* Border */
-	border-bottom: none;
+  /* Size */
+  padding: 5px 0 8px 20px;
+  margin: 0 10px;
+  width: unset;
+  /* Border */
+  border-bottom: none;
 }
 
 .dream-journal-base .box {
-	max-height: 750px;
-	overflow: scroll;
-	scroll-behavior: smooth;
+  max-height: 750px;
+  overflow: scroll;
+  scroll-behavior: smooth;
 }
 
 .dream-journal-base .box:hover {
-	cursor: default;
-	transition: 200ms;
-	transform: scale(1.01);
+  cursor: default;
+  transition: 200ms;
+  transform: scale(1.01);
 }
 
 /* -------------------- Custom SVG -------------------- */
 .box .callout-title-inner::before {
-	/* Size + Position */
-	width: 18px;
-	height: 18px;
-	display: inline-block;
-	margin-bottom: -3px;
-	margin-right: 3px;
-	/* Content */
-	content: '';
-	mask-size: contain;
+  /* Size + Position */
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  margin-bottom: -3px;
+  margin-right: 3px;
+  /* Content */
+  content: "";
+  -webkit-mask-size: contain;
+          mask-size: contain;
 }
 
 .box .callout-title-inner::before {
-	background-color: rgb(var(--primary-tint));
-	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M96 0C43 0 0 43 0 96L0 416c0 53 43 96 96 96l288 0 32 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l0-64c17.7 0 32-14.3 32-32l0-320c0-17.7-14.3-32-32-32L384 0 96 0zm0 384l256 0 0 64L96 448c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16zm16 48l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+  background-color: rgb(var(--primary-tint));
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M96 0C43 0 0 43 0 96L0 416c0 53 43 96 96 96l288 0 32 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l0-64c17.7 0 32-14.3 32-32l0-320c0-17.7-14.3-32-32-32L384 0 96 0zm0 384l256 0 0 64L96 448c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16zm16 48l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
 }
 
 .box.char-note .callout-title-inner::before {
-	background-color: rgb(var(--secondary-tint)) !important;
-	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M399 384.2C376.9 345.8 335.4 320 288 320l-64 0c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+  background-color: rgb(var(--secondary-tint)) !important;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M399 384.2C376.9 345.8 335.4 320 288 320l-64 0c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z'/%3E%3C/svg%3E") no-repeat 50% 50%;
 }
 
 .box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--tertiary-tint)) !important;
-	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+  background-color: rgb(var(--tertiary-tint)) !important;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z'/%3E%3C/svg%3E") no-repeat 50% 50%;
 }
 
 /* -------------------- Text -------------------- */
-.dream-journal-base .inline-title { color: rgb(var(--text)); }
+.dream-journal-base .inline-title {
+  color: rgb(var(--text));
+}
 
 .dream-journal-base .callout-title {
-	/* Text Color */
-	color: rgb(var(--primary-tint));
-	/* Position */
-	margin-top: 5px;
+  /* Text Color */
+  color: rgb(var(--primary-tint));
+  /* Position */
+  margin-top: 5px;
 }
 
 .markdown-rendered.dream-journal-base h3,
-.markdown-rendered.dream-journal-base h4 { margin: 0; }
+.markdown-rendered.dream-journal-base h4 {
+  margin: 0;
+}
 
 .markdown-rendered.dream-journal-base p {
-	/* Text Color */
-	color: rgb(var(--text));
-	/* Tile body text margins */
-	margin-top: 0;
-	margin-bottom: 12px;
-	text-align: justify;
+  /* Text Color */
+  color: rgb(var(--text));
+  /* Tile body text margins */
+  margin-top: 0;
+  margin-bottom: 12px;
+  text-align: justify;
 }
 
 .dream-journal-base .callout strong,
 .dream-journal-base .box b,
 .char-note .callout-title {
-	/* blue accents */
-	color: rgb(var(--secondary-tint));
-	font-weight: 700;
+  /* blue accents */
+  color: rgb(var(--secondary-tint));
+  font-weight: 700;
 }
 
 .dream-journal-base .callout em,
 .dream-journal-base .box i,
 .def-note .callout-title {
-	/* purple accents */
-	color: rgb(var(--tertiary-tint));
-	font-weight: 600;
+  /* purple accents */
+  color: rgb(var(--tertiary-tint));
+  font-weight: 600;
 }
 
 .dream-journal-base .box img {
-	/* position */
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 3px;
-	/* sizing */
-	width: 65%;
-	/* other */
-	background-color: rgb(var(--background-highlight), .75);
-	box-shadow: 2px 2px rgb(var(--primary-tint));
+  /* position */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3px;
+  /* sizing */
+  width: 65%;
+  /* other */
+  background-color: rgb(var(--background-highlight), 0.75);
+  box-shadow: 2px 2px rgb(var(--primary-tint));
 }
 
 .dream-journal-base .char-note img {
-	/* position */
-	object-fit: cover;
-	float: left;
-	margin-right: 10px;
-	/* sizing */
-	width: 200px;
-	height: 200px;
+  /* position */
+  -o-object-fit: cover;
+     object-fit: cover;
+  float: left;
+  margin-right: 10px;
+  /* sizing */
+  width: 200px;
+  height: 200px;
 }
 
-.dream-journal-base .char-note img { box-shadow: 2px 2px rgb(var(--secondary-tint)); }
-.dream-journal-base .def-note img { 	box-shadow: 2px 2px rgb(var(--tertiary-tint)); }
+.dream-journal-base .char-note img {
+  box-shadow: 2px 2px rgb(var(--secondary-tint));
+}
+
+.dream-journal-base .def-note img {
+  box-shadow: 2px 2px rgb(var(--tertiary-tint));
+}
 
 /* --------------------  Links -------------------- */
-.dream-journal-base a {	text-decoration: none !important; }
+.dream-journal-base a {
+  text-decoration: none !important;
+}
 
 /* -------------------- Tile Grid -------------------- */
 /* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
 .dream-journal-base .wrapper {
-	grid-template-columns: 1fr 1fr;
-	background-color: transparent;
-	padding: 10px;
-	width: 100%;
-	margin: 10px auto;
-	margin-top: 0;
+  grid-template-columns: 1fr 1fr;
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+  margin: 10px auto;
+  margin-top: 0;
 }
 
 .dream-journal-base .grid {
-	display: grid;
-	grid-gap: 10px;
+  display: grid;
+  grid-gap: 10px;
 }
-
 .dream-journal-base .grid.left {
-	grid-column: 1 / span 1;
-	grid-auto-rows: min-content;
+  grid-column: 1/span 1;
+  grid-auto-rows: min-content;
 }
-
 .dream-journal-base .grid.right {
-	grid-column: span 1 / -1;
-	grid-auto-rows: min-content;
-}
+  grid-column: span 1/-1;
+  grid-auto-rows: min-content;
+}/*# sourceMappingURL=dream-journal-base.css.map */
