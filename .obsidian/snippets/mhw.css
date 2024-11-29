@@ -60,13 +60,13 @@ color:  #a933cc;
 margin-bottom: 0;
 }
 
-.column img {
+.mhw .column img {
 height: 150px !important;
 width: 150px !important;
 }
 
 /* Clear floats after the columns */
-.row:after {
+.mhw .row:after {
 content: "";
 display: table;
 clear: both;

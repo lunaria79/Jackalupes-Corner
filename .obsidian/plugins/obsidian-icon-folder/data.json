@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasListCheck",
+      "FasFolderOpen",
       "FasFileCode",
       "FasFilePen",
-      "FasNoteSticky",
-      "FasSwatchbook",
-      "FasImage"
+      "FasNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -133,5 +133,9 @@
   "05 MADNESS": "FasFolderOpen",
   "05 MADNESS/Azrael Angerona.md": "FasFileLines",
   "100 Others/Linux Commands.md": "FasFileCode",
-  "06 Monster Hunter World/Weapons Wishlist.md": "FasNoteSticky"
+  "06 Monster Hunter World/Weapons Wishlist.md": "FasNoteSticky",
+  "06 Monster Hunter World": "FasFolderOpen",
+  "100 Others/Oh the Biome's We've Gone Retextures.md": "FasListCheck",
+  "100 Others/Sims 4 Rigs.md": "FasListCheck",
+  "100 Others/chrismas 2024.md": "FasListCheck"
 }
