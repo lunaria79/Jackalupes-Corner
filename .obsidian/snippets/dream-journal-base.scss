@@ -188,9 +188,7 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	box-shadow: none;
 }
 
-.dream-journal-base .char-note { border-left-color: rgb(var(--secondary-tint)); }
 
-.dream-journal-base .def-note { border-left-color: rgb(var(--tertiary-tint)); }
 
 .dream-journal-base div.metadata-container {	/* Size */ 	margin: 0; }
 
@@ -203,45 +201,49 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	border-bottom: none;
 }
 
+/* ----- Tile Design ----- */
 .dream-journal-base .box {
 	max-height: 750px;
-	overflow: scroll;
-	scroll-behavior: smooth;
+	overflow: scroll; scroll-behavior: smooth;
 
 	&:hover {
 		cursor: default;
 		transition: 200ms;
 		transform: scale(1.01);
 	}
+
+	// SVG
+	.callout-title-inner::before {
+		// Size + Position
+		width: 18px; height: 18px;
+		display: inline-block;
+		margin-right: 3px; margin-bottom: -3px;
+		
+		//Content
+		content: '';
+		mask-size: contain;
+		background-color: rgb(var(--primary-tint));
+		-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M96 0C43 0 0 43 0 96L0 416c0 53 43 96 96 96l288 0 32 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l0-64c17.7 0 32-14.3 32-32l0-320c0-17.7-14.3-32-32-32L384 0 96 0zm0 384l256 0 0 64L96 448c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16zm16 48l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+	}
+	
+	//Note Type
+	&.char-note { 
+		border-left-color: rgb(var(--secondary-tint)); 
+		.callout-title-inner::before {
+			background-color: rgb(var(--secondary-tint)) !important;
+			-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M399 384.2C376.9 345.8 335.4 320 288 320l-64 0c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+		}
+	}
+
+	&.def-note { 
+		border-left-color: rgb(var(--tertiary-tint)); 
+		.callout-title-inner::before {
+			background-color: rgb(var(--tertiary-tint)) !important;
+			-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+		}
+	}
 }
 
-/* -------------------- Custom SVG -------------------- */
-.box .callout-title-inner::before {
-	/* Size + Position */
-	width: 18px;
-	height: 18px;
-	display: inline-block;
-	margin-bottom: -3px;
-	margin-right: 3px;
-	/* Content */
-	content: '';
-	mask-size: contain;
-}
-
-.box .callout-title-inner::before {
-	background-color: rgb(var(--primary-tint));
-	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath d='M96 0C43 0 0 43 0 96L0 416c0 53 43 96 96 96l288 0 32 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l0-64c17.7 0 32-14.3 32-32l0-320c0-17.7-14.3-32-32-32L384 0 96 0zm0 384l256 0 0 64L96 448c-17.7 0-32-14.3-32-32s14.3-32 32-32zm32-240c0-8.8 7.2-16 16-16l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16zm16 48l192 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-192 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-}
-
-.box.char-note .callout-title-inner::before {
-	background-color: rgb(var(--secondary-tint)) !important;
-	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M399 384.2C376.9 345.8 335.4 320 288 320l-64 0c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-}
-
-.box.def-note .callout-title-inner::before {
-	background-color: rgb(var(--tertiary-tint)) !important;
-	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-}
 
 /* -------------------- Text -------------------- */
 .dream-journal-base .inline-title { color: rgb(var(--text)); }
