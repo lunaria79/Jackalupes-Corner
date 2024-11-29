@@ -23,5 +23,25 @@
 .mhw img {
 	height: 150px !important;
 	width: 150px !important;
-	margin-bottom: 300px !important;
+}
+
+.mhw blockquote {
+	 float: left;
+  width: 48%;
+  
+	border: none;
+	
+	margin-inline-start: unset;
+	margin-inline-end: unset;
+	margin-bottom: 50px;
+}
+
+.mhw blockquote:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.mhw {
+  box-sizing: border-box;
 }

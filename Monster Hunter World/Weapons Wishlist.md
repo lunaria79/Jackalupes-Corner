@@ -2,87 +2,40 @@
 cssclasses:
   - mhw
 ---
-<div class="block-language-tabs">
-	<div data-x-data="{ tab: 0 }">
-		<div class="html-tabs">
-			<div class="html-tab html-tab-active" data-x-bind:class="{ 'html-tab-active': tab == 0 }" data-x-on:click="tab = 0"> <p>Dual Blades </p> </div>
-			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1"> <p>Katanas</p> </div>
-			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"> <p>Notes</p> </div>
-		</div>
-		<div class="html-tab-content">
-			<div data-x-show="tab == 0" style="">
-				<div class="wrapper grid">
-					<div class="grid left">
-						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> Holy Swords </div> </div>
-							<img alt="placeholder.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/00%20_resources/02FkH0.png">
-							<p class="disc"> Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental. </p>
-							<p class="stats">
-							<b>Attack:</b> 252 <b>Element:</b> 💦 120
-							<br> <b>Affinity:</b> 0%
-							<br> <b>Decorations:</b> 1 <i>Level 3</i> Slot
-							<br> <b>Sharpness:</b> 🔵
-							</p>
-							<p class="divider"> -- -- -- -- -- </p>
-							<p></p>
-							<p class="disc">Materials List</p>
-							<p class="shopping">
-							<b>High Commendation:</b> x3
-							<br> <span>HR 8★ Optional Quests</span>
-							<br> <b>Dragonvein Crystal:</b>  x6
-							<br> <span>High Rank</span>
-							<br> <b>Wyvern Gem:</b> x2 
-							<br> <span>High Rank</span>
-							<br> <b>Nova Crystal:</b>  x2
-							<br> <span>High Rank Mining</span>
-							<br>32,000 🪙
-							</p>
-						</div>
-					</div>
-					<div class="grid right">
-						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> ... </div> </div>
-							<img alt="placeholder.png" src="">
-							<p>...</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div data-x-show="tab == 1" style="display: none;">
-				<div class="wrapper grid">
-					<div class="grid left">
-						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
-							<img alt="placeholder.png" src="">
-							<p>...</p>
-						</div>
-					</div>
-					<div class="grid right">
-						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
-							<img alt="placeholder.png" src="">
-							<p>...</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div data-x-show="tab == 2" style="display: none;">
-				<div class="wrapper grid">
-					<div class="grid left">
-						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> image + note </div> </div>
-							<img alt="placeholder.png" src="">
-							<p>...</p>
-						</div>
-					</div>
-					<div class="grid right">
-						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> note </div> </div>
-							<p>...</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+>  Holy Swords
+>   ![placeholder.png](https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/00%20_resources/02FkH0.png)
+Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental.
+**Attack:** 252 **Element:** 💦 120  
+**Affinity:** 0%  
+**Decorations:** 1 _Level 3_ Slot  
+**Sharpness:** 🔵
+> -- -- -- -- --
+> ### Materials List
+**High Commendation:** x3  
+HR 8★ Optional Quests  
+**Dragonvein Crystal:** x6  
+High Rank  
+**Wyvern Gem:** x2  
+High Rank  
+**Nova Crystal:** x2  
+High Rank Mining  
+32,000 🪙
+
+>  Holy Swords
+>   ![placeholder.png](https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/00%20_resources/02FkH0.png)
+Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental.
+**Attack:** 252 **Element:** 💦 120  
+**Affinity:** 0%  
+**Decorations:** 1 _Level 3_ Slot  
+**Sharpness:** 🔵
+> -- -- -- -- --
+> ### Materials List
+**High Commendation:** x3  
+HR 8★ Optional Quests  
+**Dragonvein Crystal:** x6  
+High Rank  
+**Wyvern Gem:** x2  
+High Rank  
+**Nova Crystal:** x2  
+High Rank Mining  
+32,000 🪙
