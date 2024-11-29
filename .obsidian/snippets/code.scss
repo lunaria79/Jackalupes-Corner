@@ -25,16 +25,10 @@
 	--catboy-mantle: 24, 24, 37;
 	--catboy-crust: 17, 17, 27;
 
-	--small-radius: 5px;
+	--small-radius: 2px;
 	--code-normal: 245, 245, 245;
 	/* Font */
 	font-family: "Dosis", sans-serif;
-}
-
-.code .markdown-preview-section {
-	background: transparent;
-	box-shadow: none;
-	backdrop-filter: none;
 }
 
 .markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
@@ -87,11 +81,14 @@
 	border-radius: var(--medium-radius) var(--medium-radius) 0 0;
 }
 
-/* ------------------------- Callout ------------------------- 
+/* ------------------------- Callout ------------------------- */
 	.code .callout {
-		background-color: RGBA(40, 42, 54,  .5);
 		padding: 10px 25px 25px 25px;
-		border-radius: 2px;
+		margin-top: 0;
+		background: rgb(var(--catboy-crust), .25);
+		border-radius: var(--small-radius);
+		border: none;
+		border-left: 5px solid rgb(var(--catboy-purple));
 	}
 
 	.code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
@@ -102,23 +99,11 @@
 		background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);
 	}
 
-	.code .image-embed img {
-		border-radius: 2px;
-		width: 100%;
-		height: 125px;
-		object-fit: cover;
-	}
-
-	.code .palette {
-		height: 60px;
-		border-radius: 8px 8px 0 0;
-	}
-
 	.markdown-rendered.code p {
 		margin-top: var(--p-spacing) !important;
 	}
 
-/* ----------------------- Code Blocks ----------------------- */
+/* ---------- Code Blocks ---------- */
 .markdown-rendered.code pre[class*="language-"], .markdown-rendered.code pre {
 	margin-top: 0;
 	margin-bottom: -5px;
@@ -127,18 +112,15 @@
 	border-left: 5px solid rgb(var(--catboy-purple));
 }
 
-div.markdown-preview-view.code>div>div>pre>code {
-	color: rgb(var(--catboy-white)) !important;
-}
-
-.markdown-rendered.code div:has(> :is(p, pre, table, ul, ol))+div> :is(h1, h2, h3, h4, h5, h6) {
-	margin-top: 15px;
-}
-
 .code .cm-line {
 	.HyperMD-codeblock { color: rgb(var(--catboy-white)) !important; }
 	.HyperMD-codeblock-begin { border-radius: 0 var(--small-radius) 0 0 !important; }
 	.HyperMD-codeblock-end { border-radius: 0 0 var(--small-radius) var(--small-radius) !important; }
+}
+
+.code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {
+	color: rgb(var(--catboy-blue)) !important;
+	font-weight: 600;
 }
 
 /* --- Difference --- */
@@ -149,10 +131,6 @@ div.markdown-preview-view.code>div>div>pre>code {
 		&.inserted { color: rgb(var(--catboy-green)) !important; }
 		&.deleted { color: rgb(var(--catboy-red)) !important; }
 		&.bold { color: rgb(var(--catboy-yellow)); }
+		&.coord { color: rgb(var(--catboy-white)) !important; }
 	}
-}
-
-.code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {
-	color: rgb(var(--catboy-white)) !important;
-	font-weight: 700;
 }

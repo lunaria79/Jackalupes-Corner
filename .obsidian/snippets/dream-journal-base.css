@@ -30,7 +30,7 @@ div.markdown-source-view.dream-journal-base.is-live-preview,
 .markdown-source-view.dream-journal-base,
 .dream-journal-base .markdown-preview-section {
   background-image: none;
-  background-color: transparent;
+  background-color: transparent !important;
   box-shadow: unset;
 }
 
