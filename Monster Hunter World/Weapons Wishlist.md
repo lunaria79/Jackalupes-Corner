@@ -1,9 +1,6 @@
 ---
 cssclasses:
-  - dream-journal-base
-  - gods-and-fiends
   - mhw
-  - no-properties
 ---
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">
