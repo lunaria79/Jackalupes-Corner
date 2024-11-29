@@ -1,6 +1,6 @@
 {
   "accentColor": "#b94ce1",
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Catppuccin",
   "enabledCssSnippets": [
     "columns",
     "dream-journal",
@@ -15,7 +15,8 @@
     "testing grounds",
     "sims-4",
     "jackalupes-theme",
-    "dream-journal-base"
+    "dream-journal-base",
+    "dream-journal-pages"
   ],
   "showViewHeader": true
 }

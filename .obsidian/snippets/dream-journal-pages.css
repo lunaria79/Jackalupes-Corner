@@ -1,321 +1,386 @@
-@import url('https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap");
 /* 
 	Rokkit: Milo & Caspian
 	Barlow: Of Gods & Fiends, Nothing Left to Say
 	Aleo: Arcane School
 */
-
 /* ------------------------------------------ Milo & Caspian ----------------------------------------- */
-	.milo-caspian * {
-		/* Colors */
-		--background-color: 33, 29, 29;
-		--background-highlight: 209, 138, 152, .1;
-		--primary-color: 209, 138, 152;
-		--text: 204, 195, 197;
-		/* Tints */
-		--primary-tint: 209, 138, 152;
-		--secondary-tint: 166, 189, 238;
-		--tertiary-tint: 139, 114, 152;
-		/* Fonts */
-		font-family: "Rokkitt", serif;
-	}
+.milo-caspian * {
+  /* Colors */
+  --background-color: 33, 29, 29;
+  --background-highlight: 209, 138, 152, .1;
+  --primary-color: 209, 138, 152;
+  --text: 204, 195, 197;
+  /* Tints */
+  --primary-tint: 209, 138, 152;
+  --secondary-tint: 166, 189, 238;
+  --tertiary-tint: 139, 114, 152;
+  /* Fonts */
+  font-family: "Rokkitt", serif;
+}
 
-	.milo-caspian {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
-		background-blend-mode: soft-light;
-		background-color: rgb(var(--background-color), .5);
-	}
-	
-	.milo-caspian .metadata-property .multi-select-pill-content {
-		margin-bottom: -2px;
-	}
+.milo-caspian {
+  background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Milo%20%26%20Caspian.jpg") center center/cover no-repeat;
+  background-blend-mode: soft-light;
+  background-color: rgb(var(--background-color), 0.5);
+}
+
+.milo-caspian .metadata-property .multi-select-pill-content {
+  margin-bottom: -2px;
+}
 
 /* ------------------------------------------ Gods & Fiends ------------------------------------------ */
-	.gods-and-fiends * {
-		/* Colors */
-		--background-color: 21, 7, 29;
-		--background-highlight: 185, 51, 73, .1;
-		--primary-color: 185, 51, 73;
-		--text: 255, 230, 215;
-		/* Tints */
-		--primary-tint: 185, 51, 73;
-		--secondary-tint: 229, 36, 142;
-		--tertiary-tint: 96, 159, 230;
-		/* Fonts */
-		font-family: "Barlow", sans-serif;
-	}
+.gods-and-fiends * {
+  /* Colors */
+  --background-color: 21, 7, 29;
+  --background-highlight: 185, 51, 73, .1;
+  --primary-color: 185, 51, 73;
+  --text: 255, 230, 215;
+  /* Tints */
+  --primary-tint: 185, 51, 73;
+  --secondary-tint: 229, 36, 142;
+  --tertiary-tint: 96, 159, 230;
+  /* Fonts */
+  font-family: "Barlow", sans-serif;
+}
 
-	.gods-and-fiends {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
-		background-blend-mode: soft-light;
-		background-color: rgb(var(--background-color), .15) !important;
-	}
-	
-	/* -------------------- Changes -------------------- */
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
-	.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input	{
-		color: rgb(var(--text)) !important;
-	}
+.gods-and-fiends {
+  background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/cover no-repeat;
+  background-blend-mode: soft-light;
+  background-color: rgb(var(--background-color), 0.15) !important;
+}
 
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg,
-	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked,
-	.gods-and-fiends input[type=checkbox]:checked:after {
-		background-color: rgb(var(--text)) !important;
-	}
+/* -------------------- Changes -------------------- */
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon,
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input,
+.gods-and-fiends .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon,
+.gods-and-fiends .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
+  color: rgb(var(--text)) !important;
+}
 
-	.gods-and-fiends h3 { color: rgb(var(--yellow-tint)) !important; }
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill,
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill-content,
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg,
+.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked,
+.gods-and-fiends input[type=checkbox]:checked:after {
+  background-color: rgb(var(--text)) !important;
+}
 
-	/* -------------------- CRT -------------------- */
-	/* https://aleclownes.com/2017/02/01/crt-display.html */
-	.markdown-reading-view div.crt div.markdown-preview-sizer::before {
-		content: " ";
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		right: 0;
-		background: linear-gradient(90deg, rgba(21, 7, 29, 0.15) 0%, rgba(185, 51, 73, 0.10247426607361698) 50%, rgba(21, 7, 29, 0.15) 100%);
-		z-index: 2;
-		background-size: 100% 2px, 3px 100%;
-		pointer-events: none;
-	}
+.gods-and-fiends h3 {
+  color: rgb(var(--yellow-tint)) !important;
+}
 
-	@keyframes flicker {
-		0% { opacity: 0.27861; }
-		5% { opacity: 0.34769; }
-		10% { opacity: 0.23604; }
-		15% { opacity: 0.90626; }
-		20% { opacity: 0.18128; }
-		25% { opacity: 0.83891; }
-		30% { opacity: 0.65583; }
-		35% { opacity: 0.67807;	}
-		40% { opacity: 0.26559;	}
-		45% { opacity: 0.84693;	}
-		50% { opacity: 0.96019;	}
-		55% { opacity: 0.08594;	}
-		60% { opacity: 0.20313;	}
-		65% { opacity: 0.71988;	}
-		70% { opacity: 0.53455;	}
-		75% { opacity: 0.37288;	}
-		80% { opacity: 0.71428;	}
-		85% { opacity: 0.70419;	}
-		90% { opacity: 0.70030;	}
-		95% { opacity: 0.36108;	}
-		100% { opacity: 0.24387; }
-	}
+/* -------------------- CRT -------------------- */
+/* https://aleclownes.com/2017/02/01/crt-display.html */
+.markdown-reading-view div.crt div.markdown-preview-sizer::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(90deg, rgba(21, 7, 29, 0.15) 0%, rgba(185, 51, 73, 0.1024742661) 50%, rgba(21, 7, 29, 0.15) 100%);
+  z-index: 2;
+  background-size: 100% 2px, 3px 100%;
+  pointer-events: none;
+}
 
-	.markdown-reading-view div.crt div.markdown-preview-sizer::after {
-		content: " ";
-		display: block;
-		position: absolute;
-		top: 0;
-		left: 0;
-		bottom: 0;
-		right: 0;
-		background: rgba(21, 7, 29, .1);
-		opacity: 0;
-		z-index: 2;
-		pointer-events: none;
-		animation: flicker 1s infinite;
-	}
+@keyframes flicker {
+  0% {
+    opacity: 0.27861;
+  }
+  5% {
+    opacity: 0.34769;
+  }
+  10% {
+    opacity: 0.23604;
+  }
+  15% {
+    opacity: 0.90626;
+  }
+  20% {
+    opacity: 0.18128;
+  }
+  25% {
+    opacity: 0.83891;
+  }
+  30% {
+    opacity: 0.65583;
+  }
+  35% {
+    opacity: 0.67807;
+  }
+  40% {
+    opacity: 0.26559;
+  }
+  45% {
+    opacity: 0.84693;
+  }
+  50% {
+    opacity: 0.96019;
+  }
+  55% {
+    opacity: 0.08594;
+  }
+  60% {
+    opacity: 0.20313;
+  }
+  65% {
+    opacity: 0.71988;
+  }
+  70% {
+    opacity: 0.53455;
+  }
+  75% {
+    opacity: 0.37288;
+  }
+  80% {
+    opacity: 0.71428;
+  }
+  85% {
+    opacity: 0.70419;
+  }
+  90% {
+    opacity: 0.7003;
+  }
+  95% {
+    opacity: 0.36108;
+  }
+  100% {
+    opacity: 0.24387;
+  }
+}
+.markdown-reading-view div.crt div.markdown-preview-sizer::after {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(21, 7, 29, 0.1);
+  opacity: 0;
+  z-index: 2;
+  pointer-events: none;
+  animation: flicker 1s infinite;
+}
 
 /* --------------------------------------- Nothing Left to Say --------------------------------------- */
-	.nothing-left-to-say * {
-		/* Colors */
-		--background-color: 18, 14, 11;
-		--background-highlight: 143, 134, 117, .1;
-		--primary-color: 143, 134, 117;
-		--text: 199, 195, 186;
-		/* Tints */
-		--primary-tint: 143 , 134, 117;
-		--secondary-tint: 62, 74, 77;
-		--tertiary-tint:  81, 88, 70;
-		/* Fonts */
-		font-family: "Barlow", sans-serif;
-	}
+.nothing-left-to-say * {
+  /* Colors */
+  --background-color: 18, 14, 11;
+  --background-highlight: 143, 134, 117, .1;
+  --primary-color: 143, 134, 117;
+  --text: 199, 195, 186;
+  /* Tints */
+  --primary-tint: 143 , 134, 117;
+  --secondary-tint: 62, 74, 77;
+  --tertiary-tint: 81, 88, 70;
+  /* Fonts */
+  font-family: "Barlow", sans-serif;
+}
 
-	.nothing-left-to-say {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/sleeping-deer.jpg") center center / cover no-repeat;
-		background-size: 100%;
-	}
+.nothing-left-to-say {
+  background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/sleeping-deer.jpg") center center/cover no-repeat;
+  background-size: 100%;
+}
 
-	/* -------------------- Font Changes -------------------- */
-	.nothing-left-to-say h4 { color: rgb(var(--primary-tint)) !important; 	}
+/* -------------------- Font Changes -------------------- */
+.nothing-left-to-say h4 {
+  color: rgb(var(--primary-tint)) !important;
+}
 
-	/* -------------------- Properties -------------------- */
-	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
-	.nothing-left-to-say .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-	.nothing-left-to-say .metadata-property[data-property-key="Completed"] input.metadata-property-key-input {
-		color: rgb(var(--tertiary-tint));
-	}
+/* -------------------- Properties -------------------- */
+.nothing-left-to-say .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input,
+.nothing-left-to-say .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon,
+.nothing-left-to-say .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
+  color: rgb(var(--tertiary-tint));
+}
 
-	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-	.nothing-left-to-say .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg {
-		background-color: rgb(var(--text));
-	}
+.nothing-left-to-say .metadata-property[data-property-key=cssclasses] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key=cssclasses] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg {
+  background-color: rgb(var(--text));
+}
 
-	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill,
-	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-content,
-	.nothing-left-to-say .metadata-property[data-property-key="tags"] .multi-select-pill-remove-button svg,
-	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill,
-	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-content,
-	.nothing-left-to-say .metadata-property[data-property-key="Home"] .multi-select-pill-remove-button svg {
-		color: rgb(var(--text));
-		background-color: rgb(var(--tertiary-tint));
-	}
+.nothing-left-to-say .metadata-property[data-property-key=tags] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key=tags] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg,
+.nothing-left-to-say .metadata-property[data-property-key=Home] .multi-select-pill,
+.nothing-left-to-say .metadata-property[data-property-key=Home] .multi-select-pill-content,
+.nothing-left-to-say .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
+  color: rgb(var(--text));
+  background-color: rgb(var(--tertiary-tint));
+}
 
-	/* ---------- Checkboxes ---------- */
-	.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked { background: rgb(var(--text)) !important; }
+/* ---------- Checkboxes ---------- */
+.theme-dark:not(.css-settings-manager) .nothing-left-to-say input[type=checkbox]:checked {
+  background: rgb(var(--text)) !important;
+}
 
-	.nothing-left-to-say input[type=checkbox]:checked:after { background: rgb(var(--text)) !important; }
+.nothing-left-to-say input[type=checkbox]:checked:after {
+  background: rgb(var(--text)) !important;
+}
 
 /* --------------------------------------------- Atomize --------------------------------------------- */
-	.atomize * {
-		/* Colors */
-		--background-color: 6,26,36;
-		--text: 221,244,241;
-		/* Tints */
-		--primary-tint: 13,82,110;
-		--secondary-tint: 202,88,88;
-		--tertiary-tint:  202, 138, 88;
-		/* Fonts */
-		font-family: "Barlow", sans-serif;
-	}
+.atomize * {
+  /* Colors */
+  --background-color: 6,26,36;
+  --text: 221,244,241;
+  /* Tints */
+  --primary-tint: 13,82,110;
+  --secondary-tint: 202,88,88;
+  --tertiary-tint: 202, 138, 88;
+  /* Fonts */
+  font-family: "Barlow", sans-serif;
+}
 
-	.atomize {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/atomize.png") center center / cover no-repeat;
-	}
+.atomize {
+  background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/atomize.png") center center/cover no-repeat;
+}
 
 /* ----------------------------------------- Arcane School ------------------------------------------- */
-	.app-container .arcane-school * {
-		/* Colors */
-		--background-color: 255, 255, 255;
-		--background-highlight: 0, 0, 0, 0.1;
-		--text: 0, 0, 0;
-		/* Tints */
-		--primary-tint: 0, 0, 0;
-		--secondary-tint: 0,0,0;
-		--tertiary-tint: 0,0,0;
-		
-		--medium-radius: 0;
-		font-family: "Aleo", serif !important;
-		--newsletter-box-shadow: 2px 2px 5px rgb(var(--primary-tint), 0.15);
-	}
+.app-container .arcane-school * {
+  /* Colors */
+  --background-color: 255, 255, 255;
+  --background-highlight: 0, 0, 0, 0.1;
+  --text: 0, 0, 0;
+  /* Tints */
+  --primary-tint: 0, 0, 0;
+  --secondary-tint: 0,0,0;
+  --tertiary-tint: 0,0,0;
+  --medium-radius: 0;
+  font-family: "Aleo", serif !important;
+  --newsletter-box-shadow: 2px 2px 5px rgb(var(--primary-tint), 0.15);
+}
 
-	/* ----- Background and Padding ----- */
-	.arcane-school.markdown-preview-view {
-	    background: rgba(255, 255, 255);
-	}
+/* ----- Background and Padding ----- */
+.arcane-school.markdown-preview-view {
+  background: rgb(255, 255, 255);
+}
 
-	div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
-	    backdrop-filter: blur(0px);
-	    padding: 20px;
-	    max-width: 65% !important;
-	}
+div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
+  -webkit-backdrop-filter: blur(0px);
+          backdrop-filter: blur(0px);
+  padding: 20px;
+  max-width: 65% !important;
+}
 
-	/* ----- Box Shadow ----- */
-	.arcane-school.markdown-preview-view div.inline-title,
-	.arcane-school div.metadata-container,
-	.arcane-school div.html-tabs,
-	.arcane-school .box,
-	.arcane-school .box img {
-	    box-shadow: var(--newsletter-box-shadow);
-	}
+/* ----- Box Shadow ----- */
+.arcane-school.markdown-preview-view div.inline-title,
+.arcane-school div.metadata-container,
+.arcane-school div.html-tabs,
+.arcane-school .box,
+.arcane-school .box img {
+  box-shadow: var(--newsletter-box-shadow);
+}
 
-	/* -------------------- Metadata Properties -------------------- */
-	.arcane-school .metadata-property .multi-select-pill {   padding-bottom: 1px; }
-	.arcane-school .metadata-property[data-property-key="tags"] .multi-select-pill { 	padding-bottom: 2px; }
+/* -------------------- Metadata Properties -------------------- */
+.arcane-school .metadata-property .multi-select-pill {
+  padding-bottom: 1px;
+}
 
-	/* ---------------------------------------- Information Grid ---------------------------------------- */
-	.arcane-school .wrapper { grid-template-columns: 1fr .65fr; }
-	.arcane-school .wrapper.interview-articles { grid-template-columns: 1.5fr 1fr; }
+.arcane-school .metadata-property[data-property-key=tags] .multi-select-pill {
+  padding-bottom: 2px;
+}
 
-	/* -------------------- Custom SVG -------------------- */
-	.arcane-school .interview .box.char-note .callout-title-inner::before {
-	    background-color: transparent !important;
-	    content: unset;
-	    -webkit-mask: unset;
-	}
+/* ---------------------------------------- Information Grid ---------------------------------------- */
+.arcane-school .wrapper {
+  grid-template-columns: 1fr 0.65fr;
+}
 
-	.arcane-school .box.char-note .callout-title-inner::before {
-	    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H80c-44.2 0-80-35.8-80-80V128c0-17.7 14.3-32 32-32s32 14.3 32 32V400c0 8.8 7.2 16 16 16s16-7.2 16-16V96zm64 24v80c0 13.3 10.7 24 24 24H296c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24H184c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-	}
+.arcane-school .wrapper.interview-articles {
+  grid-template-columns: 1.5fr 1fr;
+}
 
-	.arcane-school .box.author-note .callout-title-inner::before {
-	    background-color: rgb(var(--background-color)) !important;
-	    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M512 240c0 114.9-114.6 208-256 208c-37.1 0-72.3-6.4-104.1-17.9c-11.9 8.7-31.3 20.6-54.3 30.6C73.6 471.1 44.7 480 16 480c-6.5 0-12.3-3.9-14.8-9.9c-2.5-6-1.1-12.8 3.4-17.4l0 0 0 0 0 0 0 0 .3-.3c.3-.3 .7-.7 1.3-1.4c1.1-1.2 2.8-3.1 4.9-5.7c4.1-5 9.6-12.4 15.2-21.6c10-16.6 19.5-38.4 21.4-62.9C17.7 326.8 0 285.1 0 240C0 125.1 114.6 32 256 32s256 93.1 256 208z'/%3E%3C/svg%3E") no-repeat 50% 50%;
-	}
+/* -------------------- Custom SVG -------------------- */
+.arcane-school .interview .box.char-note .callout-title-inner::before {
+  background-color: transparent !important;
+  content: unset;
+  -webkit-mask: unset;
+}
 
-	/* ----- Article Links ----- */
-	.arcane-school a.internal-link:hover div.callout-title-inner {
-		-webkit-text-fill-color: rgb(var(--background-color));
-		background: rgb(var(--primary-tint));
-		box-shadow: 0 0 0 5px rgb(var(--primary-tint));
-	}
+.arcane-school .box.char-note .callout-title-inner::before {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M96 96c0-35.3 28.7-64 64-64H448c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H80c-44.2 0-80-35.8-80-80V128c0-17.7 14.3-32 32-32s32 14.3 32 32V400c0 8.8 7.2 16 16 16s16-7.2 16-16V96zm64 24v80c0 13.3 10.7 24 24 24H296c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24H184c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16H384c-8.8 0-16 7.2-16 16zM160 304c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16H432c8.8 0 16-7.2 16-16s-7.2-16-16-16H176c-8.8 0-16 7.2-16 16z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+}
 
-	.arcane-school a.internal-link { -webkit-text-fill-color: rgb(var(--primary-tint)) !important; }
-	.arcane-school a.internal-link:hover div.callout-title-inner::before { background-color: rgb(var(--background-color)) !important; }
-	.arcane-school a.internal-link .box:hover { cursor: pointer !important; }
+.arcane-school .box.author-note .callout-title-inner::before {
+  background-color: rgb(var(--background-color)) !important;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M512 240c0 114.9-114.6 208-256 208c-37.1 0-72.3-6.4-104.1-17.9c-11.9 8.7-31.3 20.6-54.3 30.6C73.6 471.1 44.7 480 16 480c-6.5 0-12.3-3.9-14.8-9.9c-2.5-6-1.1-12.8 3.4-17.4l0 0 0 0 0 0 0 0 .3-.3c.3-.3 .7-.7 1.3-1.4c1.1-1.2 2.8-3.1 4.9-5.7c4.1-5 9.6-12.4 15.2-21.6c10-16.6 19.5-38.4 21.4-62.9C17.7 326.8 0 285.1 0 240C0 125.1 114.6 32 256 32s256 93.1 256 208z'/%3E%3C/svg%3E") no-repeat 50% 50%;
+}
 
-	/* ----- Description Panel ----- */
-	.arcane-school .description-tile img {
-		width: 80%;
-		height: unset;
-		float: unset;
-		margin: 10px auto;
-	}
+/* ----- Article Links ----- */
+.arcane-school a.internal-link:hover div.callout-title-inner {
+  -webkit-text-fill-color: rgb(var(--background-color));
+  background: rgb(var(--primary-tint));
+  box-shadow: 0 0 0 5px rgb(var(--primary-tint));
+}
 
-	.arcane-school .description-tile h3 {
-		color: rgb(var(--primary-tint)) !important;
-		font-weight: 800;
-		font-size: 14px !important;
-	}
+.arcane-school a.internal-link {
+  -webkit-text-fill-color: rgb(var(--primary-tint)) !important;
+}
 
-	.arcane-school .description-tile p {
-		font-weight: 400;
-		font-size: 16px !important;
-	}
+.arcane-school a.internal-link:hover div.callout-title-inner::before {
+  background-color: rgb(var(--background-color)) !important;
+}
 
-	/* ----- Interview Questions ----- */
-	.arcane-school .reporter {
-		margin-top: 10px !important;
-		margin-bottom: 0px;
-		font-weight: 600;
-	}
+.arcane-school a.internal-link .box:hover {
+  cursor: pointer !important;
+}
 
-	.arcane-school .reporter::before {
-		content: 'Reporter: ';
-		font-weight: 800;
-	}
+/* ----- Description Panel ----- */
+.arcane-school .description-tile img {
+  width: 80%;
+  height: unset;
+  float: unset;
+  margin: 10px auto;
+}
 
-	.arcane-school p {
-		margin-top: 5px !important;
-		text-align: justify;
-	}
+.arcane-school .description-tile h3 {
+  color: rgb(var(--primary-tint)) !important;
+  font-weight: 800;
+  font-size: 14px !important;
+}
 
-	.arcane-school i {
-		font-weight: 550 !important;
-		color: rgb(var(--primary-tint)) !important;
-	}
+.arcane-school .description-tile p {
+  font-weight: 400;
+  font-size: 16px !important;
+}
 
-	/* ----- Author's Note ----- */
-	.arcane-school .author-note.box .callout-title-inner,
-	.arcane-school .author-note.box {
-		color: rgb(var(--background-color)) !important;
-		background: rgb(var(--primary-tint)) !important;
-	}
+/* ----- Interview Questions ----- */
+.arcane-school .reporter {
+  margin-top: 10px !important;
+  margin-bottom: 0px;
+  font-weight: 600;
+}
 
-	.arcane-school .author-note.box p {
-		color: rgb(var(--background-color)) !important;
-		margin-bottom: 10px !important;
-	}
+.arcane-school .reporter::before {
+  content: "Reporter: ";
+  font-weight: 800;
+}
+
+.arcane-school p {
+  margin-top: 5px !important;
+  text-align: justify;
+}
+
+.arcane-school i {
+  font-weight: 550 !important;
+  color: rgb(var(--primary-tint)) !important;
+}
+
+/* ----- Author's Note ----- */
+.arcane-school .author-note.box .callout-title-inner,
+.arcane-school .author-note.box {
+  color: rgb(var(--background-color)) !important;
+  background: rgb(var(--primary-tint)) !important;
+}
+
+.arcane-school .author-note.box p {
+  color: rgb(var(--background-color)) !important;
+  margin-bottom: 10px !important;
+}/*# sourceMappingURL=dream-journal-pages.css.map */

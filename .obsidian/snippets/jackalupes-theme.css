@@ -47,6 +47,10 @@ font-family: "Englebert", cursive;
 	padding: 10px;
 }
 
+.markdown-preview-sizer.markdown-preview-section {
+	padding-bottom: 5px !important;
+}
+
 body {
 	/* Indentation */
 	--indentation-guide-color: rgba(var(--purple-tint), .75);
@@ -57,6 +61,7 @@ body {
 .theme-dark {
 	--ctp-surface2: 88, 91, 112;
 }
+
 
 /* ---------- Reading Mode ---------- */
 div.markdown-reading-view {
@@ -132,6 +137,14 @@ a { text-decoration: none !important; }
 blockquote { margin-bottom: 10px; }
 .markdown-rendered hr {border-color: RGBA(189, 147, 249, .5);}
 
+
+
+/* ------------------------------------------- Hides CHeckbox ------------------------------------------- */
+.theme-dark:not(.css-settings-manager) input[type=checkbox]:not([data-task=">"], [data-task="!"], [data-task="-"], [data-task="<"], [data-task=l], [data-task="*"], [data-task=I], [data-task=p], [data-task=f], [data-task=k], [data-task=u], [data-task=w], [data-task=c], [data-task=d], [data-task=b]):checked {
+	background-color: unset;
+	box-shadow: none;
+}
+
 /* ------------------------------------------- Hides Pinned Text ------------------------------------------- */
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {  display: none; }
 
@@ -142,12 +155,12 @@ blockquote { margin-bottom: 10px; }
   min-width: unset;
 }
 
-/* ------------------------------------------- Hides Pinned Status ------------------------------------------- */
+/* ------------------------------------------- Hides Pinned Status ----------------------------------------- */
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-status-container {   display: none; }
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-icon {   padding-right: unset; }
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner {   padding: 0 var(--size-4-2); }
 
-/* ------------------------------------------- Fade Ribbon Menu ------------------------------------------- */
+/* ------------------------------------------- Fade Ribbon Menu -------------------------------------------- */
 /* author: matekusu */
 /* Immersive Ribbon Menu */
 .workspace-ribbon.mod-left {
