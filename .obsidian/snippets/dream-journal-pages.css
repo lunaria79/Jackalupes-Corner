@@ -65,6 +65,9 @@
 .gods-and-fiends input[type=checkbox]:checked, .gods-and-fiends input[type=checkbox]:checked:after {
   background-color: rgb(var(--text)) !important;
 }
+.gods-and-fiends input[type=checkbox]:not(:checked) {
+  border-color: rgb(var(--text)) !important;
+}
 
 /* ---------- Nothing Left to Say ---------- */
 .nothing-left-to-say * {
@@ -103,6 +106,9 @@
 }
 .nothing-left-to-say input[type=checkbox]:checked, .nothing-left-to-say input[type=checkbox]:checked:after {
   background-color: rgb(var(--text)) !important;
+}
+.nothing-left-to-say input[type=checkbox]:not(:checked) {
+  border-color: rgb(var(--text)) !important;
 }
 
 /* ---------- Atomize ---------- */

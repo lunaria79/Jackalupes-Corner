@@ -63,6 +63,7 @@
 	}
 
 	input[type=checkbox]:checked, input[type=checkbox]:checked:after { background-color: rgb(var(--text)) !important; }
+	input[type=checkbox]:not(:checked) { border-color: rgb(var(--text)) !important; }
 }
 
 /* ---------- Nothing Left to Say ---------- */
@@ -102,6 +103,7 @@
 	}
 
 	input[type=checkbox]:checked, input[type=checkbox]:checked:after { background-color: rgb(var(--text)) !important; }
+	input[type=checkbox]:not(:checked) { border-color: rgb(var(--text)) !important; }
 }
 
 /* ---------- Atomize ---------- */

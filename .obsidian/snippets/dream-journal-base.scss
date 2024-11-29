@@ -53,6 +53,8 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 		background-image: none !important;
 	}
 
+	.inline-title { color: rgb(var(--text)); }
+
 	//Select Color
 	::selection {
 		color: rgb(var(--background-color));
@@ -154,7 +156,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	padding: 0;
 	height: 30px;
 	&:hover { color: rgb(var(--primary-color)); }
-	p { margin-top: 0; margin-bottom: 12px; }
+	p { margin-top: 0; margin-bottom: 12px; color: rgb(var(--text)); }
 }
 
 .dream-journal-base .html-tab-active {
@@ -259,7 +261,6 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	}
 
 	//Text
-	.inline-title { color: rgb(var(--text)); }
 	h3, h4 { margin: 0; }
 	
 	p {
