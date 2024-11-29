@@ -32,35 +32,51 @@
   color: rgb(var(--catboy-white)) !important;
 }
 
-/* --------------------------------------- Properties --------------------------------------- 
-.code .mod-header {
-	padding: 0;
-	padding-top: 10px;
-	position: relative;
-	left: 5px;
+/* --------------------------------------- Properties --------------------------------------- */
+/* ---------- Properties ---------- */
+.code div.metadata-container .metadata-properties-title {
+  color: rgb(var(--primary-tint));
+  font-weight: 800;
+}
+.code div.metadata-container .metadata-properties-heading {
+  cursor: pointer;
+}
+.code div.metadata-container.is-collapsed {
+  height: 45px;
+}
+.code div.metadata-container div.metadata-properties-heading.is-collapsed {
+  padding: 0;
+}
+.code div.metadata-container .metadata-add-button {
+  display: none;
 }
 
-.code .metadata-container {
-	background-color: rgb(var(--background-color), .25);
-	padding: 10px 25px;
-	border-radius: 10px;
+/* ----- Class Design ----- */
+.metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
+  background-color: rgb(var(--background-highlight));
+}
+.metadata-property .multi-select-container .multi-select-pill-remove-button { /* Hides Add and Remove Property */
+  display: none;
 }
 
-.code .metadata-properties-heading.is-collapsed {
-	margin: 0;
+.code .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input, .code .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
+  color: rgb(var(--secondary-tint));
+}
+.code .metadata-property[data-property-key=cssclasses] .multi-select-pill, .code .metadata-property[data-property-key=cssclasses] .multi-select-pill-content, .code .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg, .code .metadata-property[data-property-key=Completed] .multi-select-pill, .code .metadata-property[data-property-key=Completed] .multi-select-pill-content, .code .metadata-property[data-property-key=Completed] .multi-select-pill-remove-button svg {
+  color: rgb(var(--background-color));
+  background-color: rgb(var(--secondary-tint));
 }
 
-/* ---------------------------------------- Headings ---------------------------------------- */
-.code span.cm-header-1, .code h1 {
-  margin-top: 5px;
-  margin-block-end: 0;
-  padding: 5px 25px !important;
-  width: -moz-fit-content;
-  width: fit-content;
-  border-radius: var(--small-radius);
+.code .metadata-property[data-property-key=tags] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=tags] input.metadata-property-key-input, .code .metadata-property[data-property-key=Home] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=Home] input.metadata-property-key-input {
+  color: rgb(var(--primary-tint));
+}
+.code .metadata-property[data-property-key=tags] .multi-select-pill, .code .metadata-property[data-property-key=tags] .multi-select-pill-content, .code .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg, .code .metadata-property[data-property-key=Home] .multi-select-pill, .code .metadata-property[data-property-key=Home] .multi-select-pill-content, .code .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
+  background-color: rgb(var(--primary-tint));
+  color: rgb(var(--background-color));
 }
 
-.code span.cm-header-2, .code h2 {
+/* ---------- Headings ---------- */
+.code span.cm-header-2 {
   margin-top: 0px !important;
   padding: 5px 0 !important;
 }
@@ -76,13 +92,21 @@
   border-left: 5px solid rgb(var(--catboy-purple));
   border-radius: var(--small-radius);
 }
+.code .callout .callout-title {
+  margin-bottom: -10px;
+}
 .code .callout .callout-title-inner {
-  color: red;
+  color: rgb(var(--catboy-pink)) !important;
+  margin-bottom: 0;
+}
+.code .callout hr {
+  margin: 2px;
+  opacity: 100%;
+  border-color: rgb(var(--catboy-purple));
 }
 
 .code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
   color: var(--pink);
-  -webkit-text-fill-color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
   background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);

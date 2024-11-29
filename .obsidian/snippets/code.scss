@@ -36,38 +36,54 @@
 }
 
 
-/* --------------------------------------- Properties --------------------------------------- 
-.code .mod-header {
-	padding: 0;
-	padding-top: 10px;
-	position: relative;
-	left: 5px;
-}
+/* --------------------------------------- Properties --------------------------------------- */
+/* ---------- Properties ---------- */
+.code div.metadata-container {
+	//Title Appearance
+	.metadata-properties-title { color: rgb(var(--primary-tint)); font-weight: 800; }
+	.metadata-properties-heading { cursor: pointer; }
+ 
+	//Collapsed Behavior
+	&.is-collapsed { height: 45px; }
+	div.metadata-properties-heading.is-collapsed { padding: 0; }
+ 
+	//Hides Add Button
+	.metadata-add-button { display: none; }
+ }
+ 
+ /* ----- Class Design ----- */
+ .metadata-property .multi-select-container {
+	 //Focus Highlight
+	 &:focus, &:focus-within { background-color: rgb(var(--background-highlight)); }
+	 //Hides Add & Remove Property Symbols
+	 .multi-select-pill-remove-button { /* Hides Add and Remove Property */ display: none; }
+ }
+ 
+ .code .metadata-property[data-property-key="cssclasses"], .code .metadata-property[data-property-key="Completed"] {
+	 //Section Color
+	 .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--secondary-tint)); }
+	 //Tag Color
+	 .multi-select-pill, .multi-select-pill-content, .multi-select-pill-remove-button svg {
+		 color: rgb(var(--background-color));
+		 background-color: rgb(var(--secondary-tint));
+	 }
+ }
+ 
+ .code .metadata-property[data-property-key="tags"], .code .metadata-property[data-property-key="Home"] {
+	 //Section Color
+	 .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--primary-tint)); }
+	 //Tag Color
+	 .multi-select-pill,.multi-select-pill-content, .multi-select-pill-remove-button svg {
+		 background-color: rgb(var(--primary-tint));
+		 color: rgb(var(--background-color));
+	 }
+ }
 
-.code .metadata-container {
-	background-color: rgb(var(--background-color), .25);
-	padding: 10px 25px;
-	border-radius: 10px;
-}
-
-.code .metadata-properties-heading.is-collapsed {
-	margin: 0;
-}
-
-/* ---------------------------------------- Headings ---------------------------------------- */
-.code span.cm-header-1, .code h1 {
-	margin-top: 5px;
-	margin-block-end: 0;
-	padding: 5px 25px !important;
-	width: fit-content;
-	border-radius: var(--small-radius);
-}
-
-.code span.cm-header-2, .code h2 {
+/* ---------- Headings ---------- */
+.code span.cm-header-2 {
 	margin-top: 0px !important;
 	padding: 5px 0 !important;
 }
-
 
 /* ---------- Callout ---------- */
 .code .callout {
@@ -76,12 +92,25 @@
 	background: rgb(var(--catboy-crust), .25); backdrop-filter: blur(5px);
 	border: none; border-left: 5px solid rgb(var(--catboy-purple)); border-radius: var(--small-radius);
 
-	.callout-title-inner { color: red;}
+	.callout-title {
+		margin-bottom: -10px;
+	}
+
+	.callout-title-inner { 
+		color: rgb(var(--catboy-pink)) !important;
+		margin-bottom: 0;
+	}
+
+	hr { 
+		margin: 2px;
+		opacity: 100%;
+		border-color: rgb(var(--catboy-purple));
+	}
 }
 
 .code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
 	color: var(--pink);
-	-webkit-text-fill-color: transparent;
+
 	background-clip: text;
 	-webkit-background-clip: text;
 	background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);
