@@ -47,9 +47,9 @@ font-family: "Englebert", cursive;
 
 .markdown-preview-sizer.markdown-preview-section {
   padding-bottom: 5px !important;
-  background-color: rgba(17, 17, 27, 0.25);
-  -webkit-backdrop-filter: none;
-          backdrop-filter: none;
+  background-color: rgba(17, 17, 27, 0.4);
+  -webkit-backdrop-filter: blur(2px);
+          backdrop-filter: blur(2px);
   box-shadow: none;
 }
 
@@ -129,8 +129,8 @@ div.markdown-reading-view {
 }
 
 h1, h2, h3, h4, h5 {
-  margin-top: 10px !important;
-  margin-bottom: -5px !important;
+  margin: 0 !important;
+  padding: 5px 0;
 }
 
 p {

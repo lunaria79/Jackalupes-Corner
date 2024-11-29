@@ -49,8 +49,8 @@ font-family: "Englebert", cursive;
 
 .markdown-preview-sizer.markdown-preview-section {
 	padding-bottom: 5px !important;
-	background-color: rgba(17, 17, 27, 0.25);
-	backdrop-filter: none;
+	background-color: rgba(17, 17, 27, 0.40);
+	backdrop-filter: blur(2px);
 	box-shadow: none;
 }
 
@@ -130,17 +130,11 @@ div.markdown-reading-view {
 	box-shadow: none;
 }
 
- h1, h2, h3, h4, h5 {
-	margin-top: 10px !important;
-	margin-bottom: -5px !important;
-}
-
+ h1, h2, h3, h4, h5 { margin: 0 !important; padding: 5px 0; }
 p { text-align: justify; }
 a { text-decoration: none !important; }
 blockquote { margin-bottom: 10px; }
 .markdown-rendered hr {border-color: RGBA(189, 147, 249, .5);}
-
-
 
 /* ------------------------------------------- Hides Cattpuccin Additions ------------------------------------------- */
 .theme-dark:not(.css-settings-manager) input[type=checkbox]:not([data-task=">"], [data-task="!"], [data-task="-"], [data-task="<"], [data-task=l], [data-task="*"], [data-task=I], [data-task=p], [data-task=f], [data-task=k], [data-task=u], [data-task=w], [data-task=c], [data-task=d], [data-task=b]):checked {
