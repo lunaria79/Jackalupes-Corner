@@ -1,172 +1,189 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Redacted+Script:wght@300;400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Englebert&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Redacted+Script:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Englebert&display=swap");
 /*
 font-family: "Redacted Script", cursive;
 font-family: "Barlow", sans-serif;
 font-family: "Patrick Hand", cursive;
 font-family: "Englebert", cursive;
 */
-
 /* ---------------------------------------- Global Variables ---------------------------------------- */
 .iconize-title-icon {
-	display: none !important;
+  display: none !important;
 }
 
 .nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before, .nav-folder .nav-folder-title .nav-folder-title-content::before {
-	display: none;
+  display: none;
 }
 
 .tree-item-self {
-	color: whitesmoke;
+  color: whitesmoke;
 }
 
 .nav-file-title.is-active, body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
-	color: rgb(var(--purple-tint)) !important;
-	background-color: rgba(var(--purple-tint), .1) !important;
-	font-weight: 700;
+  color: rgb(var(--purple-tint)) !important;
+  background-color: rgba(var(--purple-tint), 0.1) !important;
+  font-weight: 700;
 }
 
 ::-webkit-scrollbar {
-	display: none;
+  display: none;
 }
 
 * {
-	--purple-tint: 213, 168, 233;
-	--medium-radius: 6px;
-	--small-radius: 4px;
-	--file-line-width: 60%;
-	font-family: "Dosis", sans-serif;
+  --purple-tint: 213, 168, 233;
+  --medium-radius: 6px;
+  --small-radius: 4px;
+  --file-line-width: 60%;
+  font-family: "Dosis", sans-serif;
 }
 
 /* ------------------------------------------- Page Setup ------------------------------------------- */
 /* All Pages */
 .markdown-preview-view {
-	padding: 10px;
+  padding: 10px;
 }
 
 .markdown-preview-sizer.markdown-preview-section {
-	padding-bottom: 5px !important;
-	background-color: rgba(17, 17, 27, 0.25);
-	backdrop-filter: none;
-	box-shadow: none;
+  padding-bottom: 5px !important;
+  background-color: rgba(17, 17, 27, 0.25);
+  -webkit-backdrop-filter: none;
+          backdrop-filter: none;
+  box-shadow: none;
 }
 
 body {
-	/* Indentation */
-	--indentation-guide-color: rgba(var(--purple-tint), .75);
-	--indentation-guide-color-active: rgb(var(--ctp-accent), 70%);
-	--indentation-guide-width: 2px;
+  /* Indentation */
+  --indentation-guide-color: rgba(var(--purple-tint), .75);
+  --indentation-guide-color-active: rgb(var(--ctp-accent), 70%);
+  --indentation-guide-width: 2px;
 }
 
 .theme-dark {
-	--ctp-surface2: 88, 91, 112;
+  --ctp-surface2: 88, 91, 112;
 }
-
 
 /* ---------- Reading Mode ---------- */
 div.markdown-reading-view {
-	height: 100%;
+  height: 100%;
 }
 
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-	max-width: var(--file-line-width);
-	margin-left: auto;
-	margin-right: auto;
+  max-width: var(--file-line-width);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line {
-	/* https://www.10bestdesign.com/dirtymarkup/ */
-	padding-bottom: 15px;
-	padding-top: 15px;
+  /* https://www.10bestdesign.com/dirtymarkup/ */
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
 
- .markdown-preview-section {
-	background: RGBA(40, 42, 54,  .5);
-	backdrop-filter: blur(10px);
-	box-shadow: 0 0 2px 5px RGBA(40, 42, 54,  .5);
-	border-radius: 5px;
-	padding: 25px;
-	margin: 10px 0;
+.markdown-preview-section {
+  background: RGBA(40, 42, 54, 0.5);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  box-shadow: 0 0 2px 5px RGBA(40, 42, 54, 0.5);
+  border-radius: 5px;
+  padding: 25px;
+  margin: 10px 0;
 }
 
 .no-properties .metadata-container {
-	display: none !important;
+  display: none !important;
 }
 
 /* ---------- Source Mode ---------- */
 .cm-contentContainer {
-	background-color: rgb(28, 28, 44, 1);
-	padding: 25px;
-	width: 125%;
-	transform: translateX(-10%);
+  background-color: rgb(28, 28, 44);
+  padding: 25px;
+  width: 125%;
+  transform: translateX(-10%);
 }
 
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line, .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
-	max-width: none;
+  max-width: none;
 }
 
 .cm-content.cm-lineWrapping {
-	padding-bottom: 15px !important;
+  padding-bottom: 15px !important;
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg, .cm-s-obsidian div.HyperMD-codeblock-bg, .cm-s-obsidian div.HyperMD-codeblock-end-bg, .markdown-preview-view pre, .cm-s-obsidian .HyperMD-codeblock {
-	background: #202335;
+  background: #202335;
 }
 
 /* ------------------------------------------- Text Setup ------------------------------------------- */
 .markdown-preview-view pre {
-	/*Position */
-	transform: unset;
-	/* Size */
-	padding: 10px 25px;
-	width: 100%;
-	/* Colors */
-	/* Border */
-	border-left: 5px solid var(--code-normal) ;
-
-	box-shadow: none;
+  /*Position */
+  transform: unset;
+  /* Size */
+  padding: 10px 25px;
+  width: 100%;
+  /* Colors */
+  /* Border */
+  border-left: 5px solid var(--code-normal);
+  box-shadow: none;
 }
 
- h1, h2, h3 {
-	margin-top: 10px !important;
-	margin-bottom: -5px !important;
+h1, h2, h3, h4, h5 {
+  margin-top: 10px !important;
+  margin-bottom: -5px !important;
 }
 
-p { text-align: justify; }
-a { text-decoration: none !important; }
-blockquote { margin-bottom: 10px; }
-.markdown-rendered hr {border-color: RGBA(189, 147, 249, .5);}
+p {
+  text-align: justify;
+}
 
+a {
+  text-decoration: none !important;
+}
 
+blockquote {
+  margin-bottom: 10px;
+}
+
+.markdown-rendered hr {
+  border-color: RGBA(189, 147, 249, 0.5);
+}
 
 /* ------------------------------------------- Hides Cattpuccin Additions ------------------------------------------- */
 .theme-dark:not(.css-settings-manager) input[type=checkbox]:not([data-task=">"], [data-task="!"], [data-task="-"], [data-task="<"], [data-task=l], [data-task="*"], [data-task=I], [data-task=p], [data-task=f], [data-task=k], [data-task=u], [data-task=w], [data-task=c], [data-task=d], [data-task=b]):checked {
-	background-color: unset;
-	box-shadow: none;
+  background-color: unset;
+  box-shadow: none;
 }
 
 .metadata-property .multi-select-container:focus-within {
-	box-shadow: none;
-
+  box-shadow: none;
 }
 
 /* ------------------------------------------- Hides Pinned Text ------------------------------------------- */
-.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {  display: none; }
+.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-title {
+  display: none;
+}
 
 .workspace .mod-root .workspace-tab-header:has(.mod-pinned),
 .workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner {
   flex: unset;
+  width: -moz-fit-content;
   width: fit-content;
   min-width: unset;
 }
 
 /* ------------------------------------------- Hides Pinned Status ----------------------------------------- */
-.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-status-container {   display: none; }
-.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-icon {   padding-right: unset; }
-.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner {   padding: 0 var(--size-4-2); }
+.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-status-container {
+  display: none;
+}
+
+.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner-icon {
+  padding-right: unset;
+}
+
+.workspace-tab-header:has(.mod-pinned) .workspace-tab-header-inner {
+  padding: 0 var(--size-4-2);
+}
 
 /* ------------------------------------------- Fade Ribbon Menu -------------------------------------------- */
 /* author: matekusu */
@@ -174,40 +191,36 @@ blockquote { margin-bottom: 10px; }
 .workspace-ribbon.mod-left {
   background-color: transparent; /*c myn: hides weird flashing in default theme when opening */
   transition: all 0.2s ease-in-out;
-  &::before {
-    border-bottom-color: transparent;
-    transition: all 0.2s ease-in-out;
-  }
-  &.is-collapsed {
-    border-right-color: transparent;
-    transition: all 0.2s ease-in-out;
-    &::before {
-      border-bottom-color: var(--tab-outline-color);
-      transition: all 0.2s ease-in-out;
-    }
-    &:hover > :nth-child(n + 2) {
-      opacity: 1;
-      transition: all 0.2s ease-in-out;
-    }
-    &:not(:hover) > :nth-child(n + 2) {
-      opacity: 0;
-      transition: all 0.2s ease-in-out;
-    }
-  }
+}
+.workspace-ribbon.mod-left::before {
+  border-bottom-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+.workspace-ribbon.mod-left.is-collapsed {
+  border-right-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+.workspace-ribbon.mod-left.is-collapsed::before {
+  border-bottom-color: var(--tab-outline-color);
+  transition: all 0.2s ease-in-out;
+}
+.workspace-ribbon.mod-left.is-collapsed:hover > :nth-child(n+2) {
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+}
+.workspace-ribbon.mod-left.is-collapsed:not(:hover) > :nth-child(n+2) {
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
 }
 
 /* Immersive Sidebar Collapse */
-.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split) {
-  &.is-sidedock-collapsed {
-    .workspace-tabs .workspace-tab-header-container,
-    .workspace-tabs .workspace-tab-container,
-    .workspace-tabs .workspace-leaf-resize-handle,
-    .workspace-tabs.mod-top .workspace-tab-header-inner {
-      opacity: 0;
-      transition: all 0.2s ease-in-out;
-    }
-    .workspace-tabs.mod-top .workspace-tab-header-container {
-      opacity: 1;
-    }
-  }
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed .workspace-tabs .workspace-tab-header-container,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed .workspace-tabs .workspace-tab-container,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed .workspace-tabs .workspace-leaf-resize-handle,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed .workspace-tabs.mod-top .workspace-tab-header-inner {
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
 }
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed .workspace-tabs.mod-top .workspace-tab-header-container {
+  opacity: 1;
+}/*# sourceMappingURL=jackalupes-theme.css.map */

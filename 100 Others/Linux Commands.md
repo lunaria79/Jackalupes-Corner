@@ -38,6 +38,10 @@ Restart Bluetooth
 ```
 sudo systemctl restart bluetooth 
 ```
+Restart Wifi Manager
+```
+sudo systemctl restart NetworkManager
+```
 - - -
 ### Manual Mount (deeznuts)
 List Drives
