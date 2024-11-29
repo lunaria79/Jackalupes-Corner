@@ -1,164 +1,160 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap");
 /* <weight>: Use a value from 400 to 0700 */
-
 /* ----------------------- Page Setup ----------------------- */
 .code {
-	font-family: "Dosis", sans-serif;
+  font-family: "Dosis", sans-serif;
 }
 
 .code * {
-	/* Colors */
-	--background-color: 28, 28, 44;
-	--primary-color: 243, 172, 208;
-	--text: 255, 255, 255;
-	--red-tint: 247, 151, 130;
-	--orange-tint: 247, 202, 130;
-	--yellow-tint: 222, 233, 165;
-	--green-tint: 165, 233, 176;
-	--blue-tint: 165, 214, 230;
-	--purple-tint: 213, 168, 233;
-	/* Sizes */ 
-	--medium-radius: 6px;
-	--small-radius: 4px;
-	--file-line-width: 60%;
-	/* Font */
-	font-family: "Dosis", sans-serif;
+  /* Colors */
+  --background-color: 28, 28, 44;
+  --primary-color: 243, 172, 208;
+  --text: 255, 255, 255;
+  --red-tint: 247, 151, 130;
+  --orange-tint: 247, 202, 130;
+  --yellow-tint: 222, 233, 165;
+  --green-tint: 165, 233, 176;
+  --blue-tint: 165, 214, 230;
+  --purple-tint: 213, 168, 233;
+  /* Sizes */
+  --medium-radius: 6px;
+  --small-radius: 4px;
+  --file-line-width: 60%;
+  /* Font */
+  font-family: "Dosis", sans-serif;
 }
 
 /* --------------------------------------- Properties --------------------------------------- */
 .code .mod-header {
-	padding: 0;
-	padding-top: 10px;
-	position: relative;
-	left: 5px;
+  padding: 0;
+  padding-top: 10px;
+  position: relative;
+  left: 5px;
 }
 
 .code .metadata-container {
-	background-color: rgb(var(--background-color), .25);
-	padding: 10px 25px;
-	border-radius: 10px;
+  background-color: rgb(var(--background-color), 0.25);
+  padding: 10px 25px;
+  border-radius: 10px;
 }
 
 .code .metadata-properties-heading.is-collapsed {
-	margin: 0;
+  margin: 0;
 }
 
 /* ---------------------------------------- Headings ---------------------------------------- */
 .code span.cm-header-1, .code h1 {
-	margin-top: 5px;
-	margin-block-end: 0;
-	padding: 5px 25px !important;
-	width: fit-content;
-	border-radius: var(--small-radius);
+  margin-top: 5px;
+  margin-block-end: 0;
+  padding: 5px 25px !important;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: var(--small-radius);
 }
 
 .code span.cm-header-2, .code h2 {
-	margin-top: 5px;
-	margin-block-end: 0;
-	padding: 2px 25px !important;
-	border-radius: var(--medium-radius);
+  margin-top: 5px;
+  margin-block-end: 0;
+  padding: 2px 25px !important;
+  border-radius: var(--medium-radius);
 }
 
 .code span.cm-header-6, .code h6 {
-	margin-top: 5px;
-	margin-block-end: 0;
-	padding: 5px 25px !important;
-	font-family: "Ubuntu Sans Mono", monospace;
-	-webkit-text-fill-color: rgb(var(--text));
-	background-clip: unset;
-	-webkit-background-clip: unset;
-	border-radius: var(--medium-radius) var(--medium-radius) 0 0;
+  margin-top: 5px;
+  margin-block-end: 0;
+  padding: 5px 25px !important;
+  font-family: "Ubuntu Sans Mono", monospace;
+  -webkit-text-fill-color: rgb(var(--text));
+  background-clip: unset;
+  -webkit-background-clip: unset;
+  border-radius: var(--medium-radius) var(--medium-radius) 0 0;
 }
 
 /* ------------------------- Callout ------------------------- */
-	.code .callout {
-		background-color: RGBA(40, 42, 54,  .5);
-		padding: 10px 25px 25px 25px;
-		border-radius: 2px;
-	}
+.code .callout {
+  background-color: RGBA(40, 42, 54, 0.5);
+  padding: 10px 25px 25px 25px;
+  border-radius: 2px;
+}
 
-	.code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
-		color: var(--pink);
-		-webkit-text-fill-color: transparent;
-		background-clip: text;
-		-webkit-background-clip: text;
-		background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);
-	}
+.code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
+  color: var(--pink);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);
+}
 
-	.code .image-embed img {
-		border-radius: 2px;
-		width: 100%;
-		height: 125px;
-		object-fit: cover;
-	}
+.code .image-embed img {
+  border-radius: 2px;
+  width: 100%;
+  height: 125px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
 
-	.code .palette {
-		height: 60px;
-		border-radius: 8px 8px 0 0;
-	}
+.code .palette {
+  height: 60px;
+  border-radius: 8px 8px 0 0;
+}
 
-	.markdown-rendered.code p {
-		margin-top: var(--p-spacing) !important;
-	}
+.markdown-rendered.code p {
+  margin-top: var(--p-spacing) !important;
+}
 
 /* ----------------------- Code Blocks ----------------------- */
-	.markdown-rendered.code pre[class*="language-"], .markdown-rendered.code pre {
-		margin-top: 0;
-		margin-bottom: -5px;
-		background: RGBA(40, 42, 54,  .5);
-		border-radius: 0;
-	}
+.markdown-rendered.code pre[class*=language-], .markdown-rendered.code pre {
+  margin-top: 0;
+  margin-bottom: -5px;
+  background: RGBA(40, 42, 54, 0.5);
+  border-radius: 0;
+}
 
-	div.markdown-preview-view.code>div>div>pre>code {
-		color: var(--text) !important;
-	}
+div.markdown-preview-view.code > div > div > pre > code {
+  color: var(--text) !important;
+}
 
-	.markdown-rendered.code div:has(> :is(p, pre, table, ul, ol))+div> :is(h1, h2, h3, h4, h5, h6) {
-		margin-top: 15px;
-	}
+.markdown-rendered.code div:has(> :is(p, pre, table, ul, ol)) + div > :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 15px;
+}
 
-	.code .cm-line.HyperMD-codeblock {
-		color: var(--text);
-		font-family: "Ubuntu Sans Mono", monospace;
-	}
+.code .cm-line.HyperMD-codeblock {
+  color: var(--text);
+  font-family: "Ubuntu Sans Mono", monospace;
+}
 
-	.code .cm-line.HyperMD-codeblock-begin {
-		border-radius: 0 var(--small-radius) 0 0 !important;
-	}
+.code .cm-line.HyperMD-codeblock-begin {
+  border-radius: 0 var(--small-radius) 0 0 !important;
+}
 
-	.code .cm-line.HyperMD-codeblock-end {
-		border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
-	}
+.code .cm-line.HyperMD-codeblock-end {
+  border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
+}
 
 /* ----------------------- Difference ----------------------- */
-	.code pre.language-diff {
-		margin-bottom: 10px !important;
-	}
+.code pre.language-diff {
+  margin-bottom: 10px !important;
+}
 
-	.code .language-diff .token {
-		font-weight: 700;
-	}
+.code .language-diff .token {
+  font-weight: 700;
+}
 
-	.code .language-diff .token.inserted,
-	.code .cm-positive {
-		color: #21f47f !important;
-	}
+.code {
+  /*
+  .cm-positive, .language-diff .token.inserted { color: #21f47f !important; }
+  .cm-negative, .language-diff .token.deleted { color: #ff0031 !important; }
+  */
+}
+.code .cm-hmd-codeblock {
+  color: #fbecff;
+}
+.code .language-diff .token.bold {
+  color: #fe9fd8;
+}
 
-	.code .language-diff .token.deleted,
-	.code .cm-negative {
-		color: #ff0031 !important;
-	}
-
-	.code .language-diff .token.bold {
-		color: #fe9fd8;
-	}
-
-	.code .cm-hmd-codeblock {
-		color: #fbecff;
-	}
-	
-	.code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {
-		color: #3e435b !important;
-		font-weight: 700;
-	}
+.code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {
+  color: #3e435b !important;
+  font-weight: 700;
+}/*# sourceMappingURL=code.css.map */

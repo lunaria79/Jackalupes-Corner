@@ -3,7 +3,6 @@ cssclasses:
   - code
 ---
 ## One Piece
--
 ```diff
 Nami
 + Everyday
