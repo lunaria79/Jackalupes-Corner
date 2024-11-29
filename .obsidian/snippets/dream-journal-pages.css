@@ -51,25 +51,20 @@
   background-blend-mode: soft-light;
   background-color: rgb(var(--background-color), 0.15) !important;
 }
-
-/* -------------------- Changes -------------------- */
-.gods-and-fiends .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input,
-.gods-and-fiends .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon,
-.gods-and-fiends .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
-  color: rgb(var(--text)) !important;
-}
-
-.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill,
-.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill-content,
-.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg,
-.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked,
-.gods-and-fiends input[type=checkbox]:checked:after {
-  background-color: rgb(var(--text)) !important;
-}
-
 .gods-and-fiends h3 {
   color: rgb(var(--yellow-tint)) !important;
+}
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input {
+  color: rgb(var(--text)) !important;
+}
+.gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill, .gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill-content, .gods-and-fiends .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg {
+  background-color: rgb(var(--text)) !important;
+}
+.gods-and-fiends .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon, .gods-and-fiends .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
+  color: rgb(var(--text)) !important;
+}
+.gods-and-fiends input[type=checkbox]:checked, .gods-and-fiends input[type=checkbox]:checked:after {
+  background-color: rgb(var(--text)) !important;
 }
 
 /* -------------------- CRT -------------------- */
@@ -226,7 +221,7 @@
   background: rgb(var(--text)) !important;
 }
 
-/* --------------------------------------------- Atomize --------------------------------------------- */
+/* ---------- Atomize ---------- */
 .atomize * {
   /* Colors */
   --background-color: 6,26,36;

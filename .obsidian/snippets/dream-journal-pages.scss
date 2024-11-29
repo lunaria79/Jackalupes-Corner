@@ -52,25 +52,30 @@
 		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
 		background-blend-mode: soft-light;
 		background-color: rgb(var(--background-color), .15) !important;
-	}
-	
-	/* -------------------- Changes -------------------- */
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] input.metadata-property-key-input,
-	.gods-and-fiends .metadata-property[data-property-key="Completed"] .metadata-property-icon svg.svg-icon,
-	.gods-and-fiends .metadata-property[data-property-key="Completed"] input.metadata-property-key-input	{
-		color: rgb(var(--text)) !important;
-	}
 
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-content,
-	.gods-and-fiends .metadata-property[data-property-key="cssclasses"] .multi-select-pill-remove-button svg,
-	.theme-dark:not(.css-settings-manager) .gods-and-fiends input[type=checkbox]:checked,
-	.gods-and-fiends input[type=checkbox]:checked:after {
-		background-color: rgb(var(--text)) !important;
-	}
+    h3 { color: rgb(var(--yellow-tint)) !important; }
 
-	.gods-and-fiends h3 { color: rgb(var(--yellow-tint)) !important; }
+    .metadata-property[data-property-key="cssclasses"] {
+      .metadata-property-icon svg.svg-icon, input.metadata-property-key-input {
+        color: rgb(var(--text)) !important;
+      }
+
+      .multi-select-pill,.multi-select-pill-content,.multi-select-pill-remove-button svg {
+        background-color: rgb(var(--text)) !important;
+      }
+    }
+
+    .metadata-property[data-property-key="Completed"] {
+      .metadata-property-icon svg.svg-icon, input.metadata-property-key-input {
+        color: rgb(var(--text)) !important;
+      }
+    }
+
+    input[type=checkbox]:checked, input[type=checkbox]:checked:after {
+      background-color: rgb(var(--text)) !important;
+    }
+
+	}
 
 	/* -------------------- CRT -------------------- */
 	/* https://aleclownes.com/2017/02/01/crt-display.html */
@@ -179,7 +184,7 @@
 
 	.nothing-left-to-say input[type=checkbox]:checked:after { background: rgb(var(--text)) !important; }
 
-/* --------------------------------------------- Atomize --------------------------------------------- */
+/* ---------- Atomize ---------- */
 	.atomize * {
 		/* Colors */
 		--background-color: 6,26,36;
@@ -191,7 +196,6 @@
 		/* Fonts */
 		font-family: "Barlow", sans-serif;
 	}
-
 	.atomize {
 		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/atomize.png") center center / cover no-repeat;
 	}

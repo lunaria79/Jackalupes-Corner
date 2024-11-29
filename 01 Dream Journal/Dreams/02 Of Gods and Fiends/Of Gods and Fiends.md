@@ -2,7 +2,6 @@
 cssclasses:
   - dream-journal-base
   - gods-and-fiends
-  - crt
 tags:
   - dream
 Completed: true
