@@ -35,7 +35,7 @@
 /* --------------------------------------- Properties --------------------------------------- */
 /* ---------- Properties ---------- */
 .code div.metadata-container .metadata-properties-title {
-  color: rgb(var(--primary-tint));
+  color: rgb(var(--catboy-purple));
   font-weight: 800;
 }
 .code div.metadata-container .metadata-properties-heading {
@@ -53,26 +53,45 @@
 
 /* ----- Class Design ----- */
 .metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
-  background-color: rgb(var(--background-highlight));
+  background-color: rgb(var(--catboy-surface));
 }
 .metadata-property .multi-select-container .multi-select-pill-remove-button { /* Hides Add and Remove Property */
   display: none;
 }
 
-.code .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input, .code .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
-  color: rgb(var(--secondary-tint));
+.code .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input {
+  color: rgb(var(--catboy-pink));
 }
-.code .metadata-property[data-property-key=cssclasses] .multi-select-pill, .code .metadata-property[data-property-key=cssclasses] .multi-select-pill-content, .code .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg, .code .metadata-property[data-property-key=Completed] .multi-select-pill, .code .metadata-property[data-property-key=Completed] .multi-select-pill-content, .code .metadata-property[data-property-key=Completed] .multi-select-pill-remove-button svg {
-  color: rgb(var(--background-color));
-  background-color: rgb(var(--secondary-tint));
+.code .metadata-property[data-property-key=cssclasses] .multi-select-pill, .code .metadata-property[data-property-key=cssclasses] .multi-select-pill-content, .code .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg {
+  color: rgb(var(--catboy-surface));
+  background-color: rgb(var(--catboy-pink));
 }
 
-.code .metadata-property[data-property-key=tags] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=tags] input.metadata-property-key-input, .code .metadata-property[data-property-key=Home] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key=Home] input.metadata-property-key-input {
-  color: rgb(var(--primary-tint));
+.code .metadata-property[data-property-key="Previous Chapter"] .metadata-property-icon svg.svg-icon, .code .metadata-property[data-property-key="Previous Chapter"] input.metadata-property-key-input {
+  color: rgb(var(--catboy-blue));
 }
-.code .metadata-property[data-property-key=tags] .multi-select-pill, .code .metadata-property[data-property-key=tags] .multi-select-pill-content, .code .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg, .code .metadata-property[data-property-key=Home] .multi-select-pill, .code .metadata-property[data-property-key=Home] .multi-select-pill-content, .code .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
-  background-color: rgb(var(--primary-tint));
-  color: rgb(var(--background-color));
+.code .metadata-property[data-property-key="Previous Chapter"] .multi-select-pill, .code .metadata-property[data-property-key="Previous Chapter"] .multi-select-pill-content, .code .metadata-property[data-property-key="Previous Chapter"] .multi-select-pill-remove-button svg {
+  background-color: rgb(var(--catboy-blue));
+  color: rgb(var(--catboy-base));
+}
+
+/* ----- Tag Design ----- */
+.code .metadata-property {
+  font-weight: 700;
+}
+.code .metadata-property .multi-select-pill {
+  border-radius: var(--small-radius);
+  padding: 3px 6px;
+  text-decoration: none;
+  font-weight: 700;
+}
+.code .metadata-property .multi-select-pill .multi-select-pill-content {
+  margin: 0;
+}
+.code .metadata-property:not(.metadata-property[data-property-key=cssclasses]) .multi-select-pill:hover {
+  cursor: pointer;
+  transition: 200ms;
+  transform: scale(1.025);
 }
 
 /* ---------- Headings ---------- */

@@ -40,7 +40,7 @@
 /* ---------- Properties ---------- */
 .code div.metadata-container {
 	//Title Appearance
-	.metadata-properties-title { color: rgb(var(--primary-tint)); font-weight: 800; }
+	.metadata-properties-title { color: rgb(var(--catboy-purple)); font-weight: 800; }
 	.metadata-properties-heading { cursor: pointer; }
  
 	//Collapsed Behavior
@@ -54,30 +54,48 @@
  /* ----- Class Design ----- */
  .metadata-property .multi-select-container {
 	 //Focus Highlight
-	 &:focus, &:focus-within { background-color: rgb(var(--background-highlight)); }
+	 &:focus, &:focus-within { background-color: rgb(var(--catboy-surface)); }
 	 //Hides Add & Remove Property Symbols
 	 .multi-select-pill-remove-button { /* Hides Add and Remove Property */ display: none; }
  }
  
- .code .metadata-property[data-property-key="cssclasses"], .code .metadata-property[data-property-key="Completed"] {
+ .code .metadata-property[data-property-key="cssclasses"] {
 	 //Section Color
-	 .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--secondary-tint)); }
+	 .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--catboy-pink)); }
 	 //Tag Color
 	 .multi-select-pill, .multi-select-pill-content, .multi-select-pill-remove-button svg {
-		 color: rgb(var(--background-color));
-		 background-color: rgb(var(--secondary-tint));
+		 color: rgb(var(--catboy-surface));
+		 background-color: rgb(var(--catboy-pink));
 	 }
  }
  
- .code .metadata-property[data-property-key="tags"], .code .metadata-property[data-property-key="Home"] {
+ .code .metadata-property[data-property-key="Previous Chapter"] {
 	 //Section Color
-	 .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--primary-tint)); }
+	 .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--catboy-blue)); }
 	 //Tag Color
 	 .multi-select-pill,.multi-select-pill-content, .multi-select-pill-remove-button svg {
-		 background-color: rgb(var(--primary-tint));
-		 color: rgb(var(--background-color));
+		 background-color: rgb(var(--catboy-blue));
+		 color: rgb(var(--catboy-base));
 	 }
  }
+
+ /* ----- Tag Design ----- */
+.code .metadata-property {
+	font-weight: 700; 
+
+	.multi-select-pill {
+		border-radius: var(--small-radius);
+		padding: 3px 6px;
+		text-decoration: none; font-weight: 700;
+
+	.multi-select-pill-content { 	margin: 0; }
+	}
+
+	&:not(.metadata-property[data-property-key="cssclasses"]) .multi-select-pill:hover {
+		cursor: pointer;
+		transition: 200ms; transform: scale(1.025);
+	}
+}
 
 /* ---------- Headings ---------- */
 .code span.cm-header-2 {
