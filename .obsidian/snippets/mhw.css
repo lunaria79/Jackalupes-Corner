@@ -20,44 +20,34 @@
 	font-size: 14px; font-style: italic;
 }
 
-.mhw img {
+.column img {
 	height: 150px !important;
 	width: 150px !important;
 }
 
-.mhw blockquote {
-	 float: left;
-  width: 48%;
-  
-	border: none;
-	
-	margin-inline-start: unset;
-	margin-inline-end: unset;
-	margin-bottom: 50px;
-}
+	.mhw blockquote {
+		 float: left;
+		width: 48%;
+		
+		border: none;
+		
+		margin-inline-start: unset;
+		margin-inline-end: unset;
+		margin-bottom: 50px;
+	}
 
-.mhw blockquote:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
-.mhw {
-  box-sizing: border-box;
-}
-
-* {
-  box-sizing: border-box;
-}
 
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
   padding: 10px;
+	
+	color: rgb(var(--tertiary-tint));
 }
 .column b { color: pink; }
-.column span { color: orange; font-size: 14px; font-style: italic; }
+.column span, .column i { color: var(--blue); font-size: 14px; font-style: italic; }
 
 /* Clear floats after the columns */
 .row:after {
