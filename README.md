@@ -9,8 +9,10 @@ Previous Chapter:
 + New idea. (Dream Journal)
 
 2024-11-28
-+ Conversion to SCSS
-+ Switch to Cattpuccin Theme
+! Conversion to SCSS
+! Switch to Cattpuccin Theme
 - Removed Pokemon
 - Removed Writing Prompts
+- Removed Maddness
++ Updated Folder Organization
 ~~~

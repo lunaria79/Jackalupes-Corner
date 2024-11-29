@@ -141,17 +141,17 @@ div.markdown-preview-view.code > div > div > pre > code {
   font-weight: 700;
 }
 
-.code {
-  /*
-  .cm-positive, .language-diff .token.inserted { color: #21f47f !important; }
-  .cm-negative, .language-diff .token.deleted { color: #ff0031 !important; }
-  */
-}
 .code .cm-hmd-codeblock {
   color: #fbecff;
 }
 .code .language-diff .token.bold {
-  color: #fe9fd8;
+  color: var(--color-orange);
+}
+.code .cm-positive, .code .language-diff .token.inserted {
+  color: var(--color-green) !important;
+}
+.code .cm-negative, .code .language-diff .token.deleted {
+  color: var(--color-red) !important;
 }
 
 .code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {

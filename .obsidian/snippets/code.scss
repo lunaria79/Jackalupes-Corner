@@ -142,11 +142,11 @@
 
 	.code {
 		.cm-hmd-codeblock { color: #fbecff; }
-		.language-diff .token.bold { color: #fe9fd8; }
-		/*
-		.cm-positive, .language-diff .token.inserted { color: #21f47f !important; }
-		.cm-negative, .language-diff .token.deleted { color: #ff0031 !important; }
-		*/
+		.language-diff .token.bold { color: var(--color-orange); }
+
+		.cm-positive, .language-diff .token.inserted { color: var(--color-green) !important; }
+		.cm-negative, .language-diff .token.deleted { color: var(--color-red) !important; }
+	
 	}
 	
 	.code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {
