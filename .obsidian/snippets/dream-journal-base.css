@@ -98,32 +98,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   height: 45px;
 }
 
-/* ----- Classes + Tags ----- */
-.dream-journal-base .metadata-property .multi-select-pill {
-  border-radius: var(--small-radius);
-  padding: 3px 6px;
-  cursor: pointer;
-  text-decoration: none;
-  font-weight: 700;
-}
-.dream-journal-base .metadata-property:not(.metadata-property[data-property-key=cssclasses]) .multi-select-pill:hover {
-  transition: 200ms;
-  transform: scale(1.025);
-}
-
-.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill {
-  cursor: default;
-}
-
-.dream-journal-base .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property {
-  font-weight: 700;
-}
-
-.dream-journal-base .multi-select-pill-content {
-  margin: 0;
-}
-
+/* ----- Class Design ----- */
 .dream-journal-base .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input, .dream-journal-base .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
   color: rgb(var(--secondary-tint));
 }
@@ -138,6 +113,25 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg, .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
   background-color: rgb(var(--primary-tint));
   color: rgb(var(--background-color));
+}
+
+/* ----- Tag Design ----- */
+.dream-journal-base .metadata-property {
+  font-weight: 700;
+}
+.dream-journal-base .metadata-property .multi-select-pill {
+  border-radius: var(--small-radius);
+  padding: 3px 6px;
+  text-decoration: none;
+  font-weight: 700;
+}
+.dream-journal-base .metadata-property .multi-select-pill .multi-select-pill-content {
+  margin: 0;
+}
+.dream-journal-base .metadata-property:not(.metadata-property[data-property-key=cssclasses]) .multi-select-pill:hover {
+  cursor: pointer;
+  transition: 200ms;
+  transform: scale(1.025);
 }
 
 /* ----- Checkboxes ----- */
@@ -176,9 +170,9 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 
 .dream-journal-base .html-tab-active {
   color: rgb(var(--text));
+  border-color: rgb(var(--primary-tint));
   border-bottom-width: 2px;
   border-bottom-style: solid;
-  border-color: rgb(var(--primary-tint));
 }
 
 /* ---------------------------------------------- Tile ---------------------------------------------- */

@@ -82,35 +82,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 
 .dream-journal-base div.metadata-container.is-collapsed { 	/* Properties Collapsed Behavior */  height: 45px; }
 
-/* ----- Classes + Tags ----- */
-.dream-journal-base .metadata-property {
-  //Tag Design
-  .multi-select-pill {
-    border-radius: var(--small-radius);
-    padding: 3px 6px;
-    cursor: pointer;
-    text-decoration: none;
-    font-weight: 700;
-  }
-
-  //Tag Hover Design
-  &:not(.metadata-property[data-property-key="cssclasses"]) .multi-select-pill:hover {
-    transition: 200ms;
-    transform: scale(1.025);
-  }
-}
-
-
-.dream-journal-base .metadata-property[data-property-key="cssclasses"] .multi-select-pill { cursor: default; }
-
-
-
-.dream-journal-base .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property { 	font-weight: 700; }
-
-.dream-journal-base .multi-select-pill-content { 	margin: 0; }
-
-
+/* ----- Class Design ----- */
 .dream-journal-base .metadata-property[data-property-key="cssclasses"], .dream-journal-base .metadata-property[data-property-key="Completed"] {
   // Section Color
   .metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--secondary-tint)); }
@@ -128,6 +100,25 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   .multi-select-pill,.multi-select-pill-content, .multi-select-pill-remove-button svg {
     background-color: rgb(var(--primary-tint));
     color: rgb(var(--background-color));
+  }
+}
+
+/* ----- Tag Design ----- */
+.dream-journal-base .metadata-property {
+  font-weight: 700; 
+
+  .multi-select-pill {
+    border-radius: var(--small-radius);
+    padding: 3px 6px;
+    text-decoration: none;
+    font-weight: 700;
+    .multi-select-pill-content { 	margin: 0; }
+  }
+
+  &:not(.metadata-property[data-property-key="cssclasses"]) .multi-select-pill:hover {
+    cursor: pointer;
+    transition: 200ms;
+    transform: scale(1.025);
   }
 }
 
@@ -162,19 +153,14 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	height: 30px;
 
   &:hover { color: rgb(var(--primary-color)); }
-  p {
-    margin-top: 0;
-    margin-bottom: 12px;
-  }
+  p { margin-top: 0; margin-bottom: 12px; }
 }
 
 .dream-journal-base .html-tab-active {
 	color: rgb(var(--text));
-	border-bottom-width: 2px;
-	border-bottom-style: solid;
-	border-color: rgb(var(--primary-tint));
+  border-color: rgb(var(--primary-tint));
+	border-bottom-width: 2px; border-bottom-style: solid;
 }
-
 
 /* ---------------------------------------------- Tile ---------------------------------------------- */
 .dream-journal-base * {
