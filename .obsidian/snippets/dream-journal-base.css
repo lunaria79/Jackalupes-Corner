@@ -106,14 +106,13 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   text-decoration: none;
   font-weight: 700;
 }
-
-.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill {
-  cursor: default;
-}
-
 .dream-journal-base .metadata-property:not(.metadata-property[data-property-key=cssclasses]) .multi-select-pill:hover {
   transition: 200ms;
   transform: scale(1.025);
+}
+
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill {
+  cursor: default;
 }
 
 .dream-journal-base .metadata-property-icon svg.svg-icon,
@@ -125,38 +124,18 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   margin: 0;
 }
 
-.dream-journal-base .metadata-property[data-property-key=tags] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key=tags] input.metadata-property-key-input,
-.dream-journal-base .metadata-property[data-property-key=Home] svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key=Home] input.metadata-property-key-input {
-  color: rgb(var(--primary-tint));
-}
-
-.dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
-  background-color: rgb(var(--primary-tint));
-  color: rgb(var(--background-color));
-}
-
-.dream-journal-base .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input {
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input, .dream-journal-base .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
   color: rgb(var(--secondary-tint));
 }
-
-.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=cssclasses] .multi-select-pill-remove-button svg, .dream-journal-base .metadata-property[data-property-key=Completed] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=Completed] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=Completed] .multi-select-pill-remove-button svg {
   color: rgb(var(--background-color));
   background-color: rgb(var(--secondary-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon,
-.dream-journal-base .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
-  color: rgb(var(--secondary-tint));
+.dream-journal-base .metadata-property[data-property-key=tags] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=tags] input.metadata-property-key-input, .dream-journal-base .metadata-property[data-property-key=Home] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=Home] input.metadata-property-key-input {
+  color: rgb(var(--primary-tint));
 }
-
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg, .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
   background-color: rgb(var(--primary-tint));
   color: rgb(var(--background-color));
 }
