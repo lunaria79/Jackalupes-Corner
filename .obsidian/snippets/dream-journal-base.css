@@ -74,31 +74,28 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 }
 
 /* ---------- Properties ---------- */
-.dream-journal-base .metadata-properties-title {
-  /* Properties Title Apperance */
+.dream-journal-base div.metadata-container .metadata-properties-title {
   color: rgb(var(--primary-tint));
   font-weight: 800;
 }
-
-.metadata-property .multi-select-container:focus,
-.metadata-property .multi-select-container:focus-within { /* Focus Highlight */
-  background-color: rgb(var(--background-highlight));
+.dream-journal-base div.metadata-container .metadata-properties-heading {
+  cursor: pointer;
 }
-
-.dream-journal-base .metadata-add-button.text-icon-button,
-.dream-journal-base .multi-select-pill-remove-button { /* Hides Add and Remove Property */
-  display: none;
+.dream-journal-base div.metadata-container.is-collapsed {
+  height: 45px;
 }
-
-.dream-journal-base div.metadata-properties-heading.is-collapsed { /* Properties Collapsed Behavior */
+.dream-journal-base div.metadata-container div.metadata-properties-heading.is-collapsed {
   padding: 0;
 }
 
-.dream-journal-base div.metadata-container.is-collapsed { /* Properties Collapsed Behavior */
-  height: 45px;
+/* ----- Class Design ----- */
+.metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
+  background-color: rgb(var(--background-highlight));
+}
+.metadata-property .multi-select-container .metadata-add-button.text-icon-button, .metadata-property .multi-select-container .multi-select-pill-remove-button { /* Hides Add and Remove Property */
+  display: none;
 }
 
-/* ----- Class Design ----- */
 .dream-journal-base .metadata-property[data-property-key=cssclasses] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=cssclasses] input.metadata-property-key-input, .dream-journal-base .metadata-property[data-property-key=Completed] .metadata-property-icon svg.svg-icon, .dream-journal-base .metadata-property[data-property-key=Completed] input.metadata-property-key-input {
   color: rgb(var(--secondary-tint));
 }
@@ -337,7 +334,7 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
   box-shadow: 2px 2px rgb(var(--tertiary-tint));
 }
 
-/* --------------------  Links -------------------- */
+/* -------------------- Links -------------------- */
 .dream-journal-base a {
   text-decoration: none !important;
 }
