@@ -25,83 +25,81 @@
   font-family: "Dosis", sans-serif;
 }
 
-/* --------------------------------------- Properties --------------------------------------- */
+/* --------------------------------------- Properties --------------------------------------- 
 .code .mod-header {
-  padding: 0;
-  padding-top: 10px;
-  position: relative;
-  left: 5px;
+	padding: 0;
+	padding-top: 10px;
+	position: relative;
+	left: 5px;
 }
 
 .code .metadata-container {
-  background-color: rgb(var(--background-color), 0.25);
-  padding: 10px 25px;
-  border-radius: 10px;
+	background-color: rgb(var(--background-color), .25);
+	padding: 10px 25px;
+	border-radius: 10px;
 }
 
 .code .metadata-properties-heading.is-collapsed {
-  margin: 0;
+	margin: 0;
 }
 
-/* ---------------------------------------- Headings ---------------------------------------- */
+/* ---------------------------------------- Headings ---------------------------------------- 
 .code span.cm-header-1, .code h1 {
-  margin-top: 5px;
-  margin-block-end: 0;
-  padding: 5px 25px !important;
-  width: -moz-fit-content;
-  width: fit-content;
-  border-radius: var(--small-radius);
+	margin-top: 5px;
+	margin-block-end: 0;
+	padding: 5px 25px !important;
+	width: fit-content;
+	border-radius: var(--small-radius);
 }
 
 .code span.cm-header-2, .code h2 {
-  margin-top: 5px;
-  margin-block-end: 0;
-  padding: 2px 25px !important;
-  border-radius: var(--medium-radius);
+	margin-top: 5px;
+	margin-block-end: 0;
+	padding: 2px 25px !important;
+	border-radius: var(--medium-radius);
 }
 
 .code span.cm-header-6, .code h6 {
-  margin-top: 5px;
-  margin-block-end: 0;
-  padding: 5px 25px !important;
-  font-family: "Ubuntu Sans Mono", monospace;
-  -webkit-text-fill-color: rgb(var(--text));
-  background-clip: unset;
-  -webkit-background-clip: unset;
-  border-radius: var(--medium-radius) var(--medium-radius) 0 0;
+	margin-top: 5px;
+	margin-block-end: 0;
+	padding: 5px 25px !important;
+	font-family: "Ubuntu Sans Mono", monospace;
+	-webkit-text-fill-color: rgb(var(--text));
+	background-clip: unset;
+	-webkit-background-clip: unset;
+	border-radius: var(--medium-radius) var(--medium-radius) 0 0;
 }
 
-/* ------------------------- Callout ------------------------- */
-.code .callout {
-  background-color: RGBA(40, 42, 54, 0.5);
-  padding: 10px 25px 25px 25px;
-  border-radius: 2px;
-}
+/* ------------------------- Callout ------------------------- 
+	.code .callout {
+		background-color: RGBA(40, 42, 54,  .5);
+		padding: 10px 25px 25px 25px;
+		border-radius: 2px;
+	}
 
-.code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
-  color: var(--pink);
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  -webkit-background-clip: text;
-  background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);
-}
+	.code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
+		color: var(--pink);
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
+		-webkit-background-clip: text;
+		background-image: linear-gradient(var(--gradientDegree), var(--pink) 0, var(--orange) 100%);
+	}
 
-.code .image-embed img {
-  border-radius: 2px;
-  width: 100%;
-  height: 125px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
+	.code .image-embed img {
+		border-radius: 2px;
+		width: 100%;
+		height: 125px;
+		object-fit: cover;
+	}
 
-.code .palette {
-  height: 60px;
-  border-radius: 8px 8px 0 0;
-}
+	.code .palette {
+		height: 60px;
+		border-radius: 8px 8px 0 0;
+	}
 
-.markdown-rendered.code p {
-  margin-top: var(--p-spacing) !important;
-}
+	.markdown-rendered.code p {
+		margin-top: var(--p-spacing) !important;
+	}
 
 /* ----------------------- Code Blocks ----------------------- */
 .markdown-rendered.code pre[class*=language-], .markdown-rendered.code pre {
@@ -121,7 +119,6 @@ div.markdown-preview-view.code > div > div > pre > code {
 
 .code .cm-line.HyperMD-codeblock {
   color: var(--text);
-  font-family: "Ubuntu Sans Mono", monospace;
 }
 
 .code .cm-line.HyperMD-codeblock-begin {
@@ -132,7 +129,7 @@ div.markdown-preview-view.code > div > div > pre > code {
   border-radius: 0 0 var(--small-radius) var(--small-radius) !important;
 }
 
-/* ----------------------- Difference ----------------------- */
+/* --- Difference --- */
 .code pre.language-diff {
   margin-bottom: 10px !important;
 }
@@ -144,14 +141,14 @@ div.markdown-preview-view.code > div > div > pre > code {
 .code .cm-hmd-codeblock {
   color: #fbecff;
 }
-.code .language-diff .token.bold {
-  color: var(--color-orange);
-}
 .code .cm-positive, .code .language-diff .token.inserted {
   color: var(--color-green) !important;
 }
 .code .cm-negative, .code .language-diff .token.deleted {
   color: var(--color-red) !important;
+}
+.code .language-diff .token.bold {
+  color: var(--color-orange);
 }
 
 .code .HyperMD-codeblock-end-bg span, .code .HyperMD-codeblock-begin-bg span {

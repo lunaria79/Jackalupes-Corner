@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasImage",
       "FasListCheck",
       "FasFolderOpen",
       "FasFileCode",
-      "FasFilePen",
-      "FasNoteSticky"
+      "FasFilePen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -73,7 +73,7 @@
   "00 _resources/Images": "FasFolderTree",
   "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/peppe notes.md": "FasNoteSticky",
   "01 Dream Journal/For Aeli.md": "FasFileLines",
-  "00 _resources/Images/draculabase.png": "FasFileImage",
+  "00 _resources/Images/draculabase.png": "FasImage",
   "README.md": "FasClipboardList",
   "Updates Prior.md": "FasClipboardCheck",
   "01 Dream Journal/Stage Files/images": "FasFolderTree",
@@ -119,5 +119,6 @@
   "03 Sims 4/Images/12.webp": "FasImage",
   "03 Sims 4/Sims 4 Rigs.md": "FasListCheck",
   "04 Monster Hunter World": "FasFolderOpen",
-  "04 Monster Hunter World/Weapons Wishlist.md": "FasListCheck"
+  "04 Monster Hunter World/Weapons Wishlist.md": "FasListCheck",
+  "00 _resources/Images/midnight.png": "FasImage"
 }
