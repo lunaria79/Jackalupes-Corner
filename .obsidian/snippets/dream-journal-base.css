@@ -133,7 +133,8 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base input[type=checkbox]:not(:checked) {
   color: rgb(var(--primary-tint));
   background-color: transparent !important;
-  border: 2px solid rgb(var(--primary-tint));
+  box-shadow: none !important;
+  border: 2px solid rgb(var(--secondary-tint)) !important;
   border-radius: var(--small-radius);
   cursor: pointer !important;
 }
@@ -142,6 +143,10 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   border-radius: var(--small-radius);
   -webkit-mask-image: none;
   cursor: pointer !important;
+}
+.dream-journal-base input[type=checkbox]:hover {
+  box-shadow: none !important;
+  background-color: transparent !important;
 }
 
 /* ---------- Tabs ---------- */

@@ -9,106 +9,100 @@
 */
 
 /* ---------- Milo & Caspian ---------- */
-	.milo-caspian * {
-		/* Colors */
-		--background-color: 33, 29, 29;
-		--background-highlight: 209, 138, 152, .1;
-		--primary-color: 209, 138, 152;
-		--text: 204, 195, 197;
-		/* Tints */
-		--primary-tint: 209, 138, 152;
-		--secondary-tint: 166, 189, 238;
-		--tertiary-tint: 139, 114, 152;
-		/* Fonts */
-		font-family: "Rokkitt", serif;
-	}
-
-	.milo-caspian {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
-		background-blend-mode: soft-light;
-		background-color: rgb(var(--background-color), .5);
-
-		.metadata-property .multi-select-pill-content {
-			margin-bottom: -2px;
-		}
-	}
-
-/* ---------- Gods & Fiends ---------- */
-	.gods-and-fiends * {
-		/* Colors */
-		--background-color: 21, 7, 29;
-		--background-highlight: 185, 51, 73, .1;
-		--primary-color: 185, 51, 73;
-		--text: 255, 230, 215;
-		/* Tints */
-		--primary-tint: 185, 51, 73;
-		--secondary-tint: 229, 36, 142;
-		--tertiary-tint: 96, 159, 230;
-		/* Fonts */
-		font-family: "Barlow", sans-serif;
-	}
-
-	.gods-and-fiends {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
-		background-blend-mode: soft-light;
-		background-color: rgb(var(--background-color), .15) !important;
-
-		h3 { color: rgb(var(--yellow-tint)) !important; }
-
-		.metadata-property[data-property-key="cssclasses"] {
-			.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--text)) !important; }
-			.multi-select-pill,.multi-select-pill-content,.multi-select-pill-remove-button svg { background-color: rgb(var(--text)) !important; }
-		}
-
-		.metadata-property[data-property-key="Completed"] {
-			.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--text)) !important; }
-		}
-
-		input[type=checkbox]:checked, input[type=checkbox]:checked:after {
-		background-color: rgb(var(--text)) !important;
-		}
+.milo-caspian * {
+	/* Colors */
+	--background-color: 33, 29, 29;
+	--background-highlight: 209, 138, 152, .1;
+	--primary-color: 209, 138, 152;
+	--text: 204, 195, 197;
+	/* Tints */
+	--primary-tint: 209, 138, 152;
+	--secondary-tint: 166, 189, 238;
+	--tertiary-tint: 139, 114, 152;
+	/* Fonts */
+	font-family: "Rokkitt", serif;
 }
 
-/* --------------------------------------- Nothing Left to Say --------------------------------------- */
-	.nothing-left-to-say * {
-		/* Colors */
-		--background-color: 18, 14, 11;
-		--background-highlight: 143, 134, 117, .1;
-		--primary-color: 143, 134, 117;
-		--text: 199, 195, 186;
-		/* Tints */
-		--primary-tint: 143 , 134, 117;
-		--secondary-tint: 62, 74, 77;
-		--tertiary-tint:  81, 88, 70;
-		/* Fonts */
-		font-family: "Barlow", sans-serif;
+.milo-caspian {
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Milo%20%26%20Caspian.jpg") center center / cover no-repeat;
+	background-blend-mode: soft-light;
+	background-color: rgb(var(--background-color), .5);
+
+	.metadata-property .multi-select-pill-content { margin-bottom: -2px; }
+}
+
+/* ---------- Gods & Fiends ---------- */
+.gods-and-fiends * {
+	/* Colors */
+	--background-color: 21, 7, 29;
+	--background-highlight: 185, 51, 73, .1;
+	--primary-color: 185, 51, 73;
+	--text: 255, 230, 215;
+	/* Tints */
+	--primary-tint: 185, 51, 73;
+	--secondary-tint: 229, 36, 142;
+	--tertiary-tint: 96, 159, 230;
+	/* Fonts */
+	font-family: "Barlow", sans-serif;
+}
+
+.gods-and-fiends {
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/Crimson%20City%20-%20hereisbis%20twit.jpg") center center/ cover no-repeat;
+	background-blend-mode: soft-light;
+	background-color: rgb(var(--background-color), .15) !important;
+
+	h3 { color: rgb(var(--yellow-tint)) !important; }
+
+	.metadata-property[data-property-key="cssclasses"] {
+		.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--text)) !important; }
+		.multi-select-pill,.multi-select-pill-content,.multi-select-pill-remove-button svg { background-color: rgb(var(--text)) !important; }
 	}
 
-	.nothing-left-to-say {
-		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/sleeping-deer.jpg") center center / cover no-repeat;
-		background-size: 100%;
+	.metadata-property[data-property-key="Completed"] {
+		.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--text)) !important; }
+	}
 
-		h4 { color: rgb(var(--primary-tint)) !important; }
+	input[type=checkbox]:checked, input[type=checkbox]:checked:after { background-color: rgb(var(--text)) !important; }
+}
 
-    .metadata-property[data-property-key="cssclasses"], .metadata-property[data-property-key="Completed"] {
-			.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--text)) !important; }
-			.multi-select-pill,.multi-select-pill-content,.multi-select-pill-remove-button svg { background-color: rgb(var(--text)) !important; }
-    }
+/* ---------- Nothing Left to Say ---------- */
+.nothing-left-to-say * {
+	/* Colors */
+	--background-color: 18, 14, 11;
+	--background-highlight: 143, 134, 117, .1;
+	--primary-color: 143, 134, 117;
+	--text: 199, 195, 186;
+	/* Tints */
+	--primary-tint: 143 , 134, 117;
+	--secondary-tint: 62, 74, 77;
+	--tertiary-tint:  81, 88, 70;
+	/* Fonts */
+	font-family: "Barlow", sans-serif;
+}
 
-		.metadata-property[data-property-key="tags"], .metadata-property[data-property-key="Home"] {
-			//Section Color
-			.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--primary-tint)); }
-			//Tag Color
-			.multi-select-pill,.multi-select-pill-content, .multi-select-pill-remove-button svg {
-				color: rgb(var(--text));
-				background-color: rgb(var(--tertiary-tint));
-			}
+.nothing-left-to-say {
+	background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/sleeping-deer.jpg") center center / cover no-repeat;
+	background-size: 100%;
+
+	h4 { color: rgb(var(--primary-tint)) !important; }
+
+	.metadata-property[data-property-key="cssclasses"], .metadata-property[data-property-key="Completed"] {
+		.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--text)) !important; }
+		.multi-select-pill,.multi-select-pill-content,.multi-select-pill-remove-button svg { background-color: rgb(var(--text)) !important; }
+	}
+
+	.metadata-property[data-property-key="tags"], .metadata-property[data-property-key="Home"] {
+		//Section Color
+		.metadata-property-icon svg.svg-icon, input.metadata-property-key-input { color: rgb(var(--primary-tint)); }
+		//Tag Color
+		.multi-select-pill,.multi-select-pill-content, .multi-select-pill-remove-button svg {
+			color: rgb(var(--text));
+			background-color: rgb(var(--tertiary-tint));
 		}
-
-		input[type=checkbox]:checked, input[type=checkbox]:checked:after {
-			background-color: rgb(var(--text)) !important;
 	}
 
+	input[type=checkbox]:checked, input[type=checkbox]:checked:after { background-color: rgb(var(--text)) !important; }
+}
 
 /* ---------- Atomize ---------- */
 	.atomize * {
@@ -125,6 +119,11 @@
 	.atomize {
 		background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/atomize.png") center center / cover no-repeat;
 	}
+
+
+
+
+
 
 /* ----------------------------------------- Arcane School ------------------------------------------- */
 	.app-container .arcane-school * {
