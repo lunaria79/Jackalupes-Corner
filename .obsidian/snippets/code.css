@@ -23,8 +23,20 @@
   --catboy-mantle: 24, 24, 37;
   --catboy-crust: 17, 17, 27;
   --small-radius: 5px;
+  --code-normal: 245, 245, 245;
   /* Font */
   font-family: "Dosis", sans-serif;
+}
+
+.code .markdown-preview-section {
+  background: transparent;
+  box-shadow: none;
+  -webkit-backdrop-filter: none;
+          backdrop-filter: none;
+}
+
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+  color: rgb(var(--catboy-white)) !important;
 }
 
 /* --------------------------------------- Properties --------------------------------------- 
@@ -108,7 +120,8 @@
   margin-top: 0;
   margin-bottom: -5px;
   background: rgb(var(--catboy-base));
-  border-radius: 0;
+  border-radius: var(--small-radius);
+  border-left: 5px solid rgb(var(--catboy-purple));
 }
 
 div.markdown-preview-view.code > div > div > pre > code {

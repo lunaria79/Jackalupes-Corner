@@ -49,6 +49,9 @@ font-family: "Englebert", cursive;
 
 .markdown-preview-sizer.markdown-preview-section {
 	padding-bottom: 5px !important;
+	background-color: rgba(17, 17, 27, 0.25);
+	backdrop-filter: none;
+	box-shadow: none;
 }
 
 body {
@@ -147,7 +150,7 @@ blockquote { margin-bottom: 10px; }
 
 .metadata-property .multi-select-container:focus-within {
 	box-shadow: none;
-	
+
 }
 
 /* ------------------------------------------- Hides Pinned Text ------------------------------------------- */
