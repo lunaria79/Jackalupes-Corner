@@ -41,6 +41,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 }
 
 .dream-journal-base {
+	//Don't Remember What These Do
 	.mod-header { padding: 10px; }
 	div.html-tab-content { padding: 0; }
 
@@ -58,7 +59,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 		background: rgb(var(--primary-tint));
 	}
 }
-
 
 /* ---------- Properties ---------- */
 .dream-journal-base div.metadata-container {
@@ -147,21 +147,18 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	}
 }
 
-
-
-
-/* ---------------------------------------------- Tabs ---------------------------------------------- */
+/* ---------- Tabs ---------- */
 .dream-journal-base div.html-tab {
 	padding: 0;
 	height: 30px;
 
- &:hover { color: rgb(var(--primary-color)); }
- p { margin-top: 0; margin-bottom: 12px; }
+	&:hover { color: rgb(var(--primary-color)); }
+	p { margin-top: 0; margin-bottom: 12px; }
 }
 
 .dream-journal-base .html-tab-active {
 	color: rgb(var(--text));
- border-color: rgb(var(--primary-tint));
+	border-color: rgb(var(--primary-tint));
 	border-bottom-width: 2px; border-bottom-style: solid;
 }
 
@@ -210,12 +207,12 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 	max-height: 750px;
 	overflow: scroll;
 	scroll-behavior: smooth;
-}
 
-.dream-journal-base .box:hover {
-	cursor: default;
-	transition: 200ms;
-	transform: scale(1.01);
+	&:hover {
+		cursor: default;
+		transition: 200ms;
+		transform: scale(1.01);
+	}
 }
 
 /* -------------------- Custom SVG -------------------- */

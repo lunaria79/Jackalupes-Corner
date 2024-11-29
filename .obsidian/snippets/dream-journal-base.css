@@ -144,7 +144,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   cursor: pointer !important;
 }
 
-/* ---------------------------------------------- Tabs ---------------------------------------------- */
+/* ---------- Tabs ---------- */
 .dream-journal-base div.html-tab {
   padding: 0;
   height: 30px;
@@ -216,7 +216,6 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
   overflow: scroll;
   scroll-behavior: smooth;
 }
-
 .dream-journal-base .box:hover {
   cursor: default;
   transition: 200ms;
