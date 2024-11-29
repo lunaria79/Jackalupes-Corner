@@ -1,29 +1,24 @@
-.mhw p.disc {
-	text-align: left; font-weight: 800;
-	color:  rgb(var(--tertiary-tint));
-	font-style: italic;
-	margin-bottom: 0;
-}
-
 .mhw p.stats {
 	text-align: left;
 	margin-bottom: 0;
 }
 
-.mhw p.divider {
-	text-align: center; font-weight: 800;
-	color:  rgb(var(--primary-tint));
-	margin-bottom: 0;
-}
 
-.mhw p.shopping span {
-	font-size: 14px; font-style: italic;
-}
 
-.column img {
-	height: 150px !important;
-	width: 150px !important;
-}
+	.mhw * {
+		/* Colors */
+		--background-color: 21, 7, 29;
+		--background-highlight: 185, 51, 73, .1;
+		--primary-color: 185, 51, 73;
+		--text: 255, 230, 215;
+		/* Tints */
+		--primary-tint: 185, 51, 73;
+		--secondary-tint: 229, 36, 142;
+		--tertiary-tint: 96, 159, 230;
+		/* Fonts */
+		font-family: "Barlow", sans-serif;
+	}
+
 
 	.mhw blockquote {
 		 float: left;
@@ -39,15 +34,46 @@
 
 
 /* Create two equal columns that floats next to each other */
-.column {
+	.mhw .column {
   float: left;
-  width: 50%;
-  padding: 10px;
+  width: 49%;
+  padding: 15px;
 	
-	color: rgb(var(--tertiary-tint));
+	color: rgb(var(--text));
+	background: rgb(var(--background-color));
 }
-.column b { color: pink; }
-.column span, .column i { color: var(--blue); font-size: 14px; font-style: italic; }
+
+	.mhw .column:nth-child(2) {
+		float: right;
+		background-color: rgb(var(--background-color));
+	}
+.mhw .column h3 { color:  #a933cc;  -webkit-text-fill-color: unset; background-image: none; }	
+	.mhw .column b { color: rgb(var(--primary-tint)); }
+	.mhw .column span, .column i { color: rgb(var(--tertiary-tint)); font-size: 14px; font-style: italic; }
+
+	.mhw .column .disc { 
+text-align: left; font-weight: 800;
+	color:  rgb(var(--secondary-tint));
+	font-style: italic;
+	margin-bottom: 0; 
+	}
+	
+	.mhw .column p.stats {
+	text-align: left;
+	margin-bottom: 0;
+}
+
+.mhw .column p.divider {
+	text-align: center; font-weight: 800;
+	color:  #a933cc;
+	margin-bottom: 0;
+}
+
+.column img {
+	height: 150px !important;
+	width: 150px !important;
+}
+
 
 /* Clear floats after the columns */
 .row:after {

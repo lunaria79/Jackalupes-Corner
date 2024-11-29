@@ -13,7 +13,7 @@ cssclasses:
 	<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
 	<br> <b>Sharpness:</b> 🔵
     </p>
-    <p class="divider">----</p>
+    <p class="divider">-- -- -- -- --</p>
     <p class="shopping">
     <b>High Commendation:</b> x3 
 	<br><span>HR 8★ Optional Quests </span>
@@ -27,8 +27,8 @@ cssclasses:
 </p>
   </div>
   
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
+  <div class="column">
+    <h3>Column 2</h3>
     <p>Some text..</p>
   </div>
   
