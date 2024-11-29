@@ -162,6 +162,32 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 	border-bottom-width: 2px; border-bottom-style: solid;
 }
 
+/* ---------- Tile Grid ---------- */
+/* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
+.dream-journal-base .wrapper {
+	grid-template-columns: 1fr 1fr;
+	background-color: transparent;
+	padding: 10px;
+	width: 100%;
+	margin: 10px auto;
+	margin-top: 0;
+}
+
+.dream-journal-base .grid {
+	display: grid;
+	grid-gap: 10px;
+
+	&.left {
+		grid-column: 1 / span 1;
+		grid-auto-rows: min-content;
+	}
+
+	&.right {
+		grid-column: span 1 / -1;
+		grid-auto-rows: min-content;
+	}
+}
+
 /* ---------- Designs ---------- */
 /* ----- Basic Design ----- */
 .dream-journal-base * {
@@ -248,7 +274,10 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 		}
 	}
 
-	//Text Design
+	//Text
+	.inline-title { color: rgb(var(--text)); }
+	h3, h4 { margin: 0; }
+	
 	p {
 		color: rgb(var(--text));
 		margin-top: 0; margin-bottom: 12px;
@@ -258,7 +287,9 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 		em, i { color: rgb(var(--tertiary-tint));	font-weight: 600; }
 	}
 
-	//Image Design
+	a {	text-decoration: none !important; }
+
+	//Images
 	img {
 		display: block;
 		margin-left: auto; margin-right: auto; margin-bottom: 3px;
@@ -273,42 +304,8 @@ div[data-callout="multi-column"].callout:not(.is-collapsed) .callout {
 		width: 200px; height: 200px;
 		box-shadow: 2px 2px rgb(var(--secondary-tint));
 	}
-
+	
 	&.def-note img {
 		box-shadow: 2px 2px rgb(var(--tertiary-tint));
-}
-
-/* -------------------- Text -------------------- */
-.dream-journal-base .inline-title { color: rgb(var(--text)); }
-
-.markdown-rendered.dream-journal-base h3,
-.markdown-rendered.dream-journal-base h4 { margin: 0; }
-
-/* -------------------- Links -------------------- */
-.dream-journal-base a {	text-decoration: none !important; }
-
-/* ---------- Tile Grid ---------- */
-/* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
-.dream-journal-base .wrapper {
-	grid-template-columns: 1fr 1fr;
-	background-color: transparent;
-	padding: 10px;
-	width: 100%;
-	margin: 10px auto;
-	margin-top: 0;
-}
-
-.dream-journal-base .grid {
-	display: grid;
-	grid-gap: 10px;
-
-	&.left {
-		grid-column: 1 / span 1;
-		grid-auto-rows: min-content;
-	}
-
-	&.right {
-		grid-column: span 1 / -1;
-		grid-auto-rows: min-content;
 	}
 }

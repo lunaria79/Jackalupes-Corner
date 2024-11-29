@@ -164,6 +164,30 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   border-bottom-style: solid;
 }
 
+/* ---------- Tile Grid ---------- */
+/* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
+.dream-journal-base .wrapper {
+  grid-template-columns: 1fr 1fr;
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+  margin: 10px auto;
+  margin-top: 0;
+}
+
+.dream-journal-base .grid {
+  display: grid;
+  grid-gap: 10px;
+}
+.dream-journal-base .grid.left {
+  grid-column: 1/span 1;
+  grid-auto-rows: min-content;
+}
+.dream-journal-base .grid.right {
+  grid-column: span 1/-1;
+  grid-auto-rows: min-content;
+}
+
 /* ---------- Designs ---------- */
 /* ----- Basic Design ----- */
 .dream-journal-base * {
@@ -254,6 +278,12 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
   background-color: rgb(var(--tertiary-tint)) !important;
   -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--%3E%3Cpath d='M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H288V368c0-26.5 21.5-48 48-48H448V96c0-35.3-28.7-64-64-64H64zM448 352H402.7 336c-8.8 0-16 7.2-16 16v66.7V480l32-32 64-64 32-32z'/%3E%3C/svg%3E") no-repeat 50% 50%;
 }
+.dream-journal-base .box .inline-title {
+  color: rgb(var(--text));
+}
+.dream-journal-base .box h3, .dream-journal-base .box h4 {
+  margin: 0;
+}
 .dream-journal-base .box p {
   color: rgb(var(--text));
   margin-top: 0;
@@ -268,6 +298,9 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
   color: rgb(var(--tertiary-tint));
   font-weight: 600;
 }
+.dream-journal-base .box a {
+  text-decoration: none !important;
+}
 .dream-journal-base .box img {
   display: block;
   margin-left: auto;
@@ -278,59 +311,14 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
   box-shadow: 2px 2px rgb(var(--primary-tint));
 }
 .dream-journal-base .box.char-note img {
-  /* position */
   -o-object-fit: cover;
      object-fit: cover;
   float: left;
   margin-right: 10px;
-  /* sizing */
   width: 200px;
   height: 200px;
-}
-
-/* -------------------- Text -------------------- */
-.dream-journal-base .inline-title {
-  color: rgb(var(--text));
-}
-
-.markdown-rendered.dream-journal-base h3,
-.markdown-rendered.dream-journal-base h4 {
-  margin: 0;
-}
-
-.dream-journal-base .char-note img {
   box-shadow: 2px 2px rgb(var(--secondary-tint));
 }
-
-.dream-journal-base .def-note img {
+.dream-journal-base .box.def-note img {
   box-shadow: 2px 2px rgb(var(--tertiary-tint));
-}
-
-/* -------------------- Links -------------------- */
-.dream-journal-base a {
-  text-decoration: none !important;
-}
-
-/* ---------- Tile Grid ---------- */
-/* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
-.dream-journal-base .wrapper {
-  grid-template-columns: 1fr 1fr;
-  background-color: transparent;
-  padding: 10px;
-  width: 100%;
-  margin: 10px auto;
-  margin-top: 0;
-}
-
-.dream-journal-base .grid {
-  display: grid;
-  grid-gap: 10px;
-}
-.dream-journal-base .grid.left {
-  grid-column: 1/span 1;
-  grid-auto-rows: min-content;
-}
-.dream-journal-base .grid.right {
-  grid-column: span 1/-1;
-  grid-auto-rows: min-content;
 }/*# sourceMappingURL=dream-journal-base.css.map */

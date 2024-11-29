@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - code
+---
 > [!NOTE]+ Aspen
 > - [x] **Bookshelf**
 > - [x] **Crafting Table**
