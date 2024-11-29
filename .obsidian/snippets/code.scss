@@ -85,10 +85,8 @@
 	.code .callout {
 		padding: 10px 25px 25px 25px;
 		margin-top: 0;
-		background: rgb(var(--catboy-crust), .25);
-		border-radius: var(--small-radius);
-		border: none;
-		border-left: 5px solid rgb(var(--catboy-purple));
+		background: rgb(var(--catboy-crust), .25); backdrop-filter: 5px;
+		border: none; border-left: 5px solid rgb(var(--catboy-purple)); border-radius: var(--small-radius);
 	}
 
 	.code .callout-title, .code .callout-icon .svg-icon, .callout-fold svg {
