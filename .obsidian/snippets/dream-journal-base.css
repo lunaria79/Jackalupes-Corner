@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap");
-/* ------------------------------------------- Page Setup ------------------------------------------- */
+/* ---------- Page Setup ---------- */
 .dream-journal-base {
   background: url("https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Stage%20Files/images/kiki-farmhouse.jpg") center center/cover no-repeat;
   background-blend-mode: soft-light;
@@ -44,30 +44,19 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base .mod-header {
   padding: 10px;
 }
-
 .dream-journal-base div.html-tab-content {
   padding: 0;
 }
-
-.dream-journal-base .inline-title,
-.dream-journal-base h1,
-.dream-journal-base h2,
-.dream-journal-base h3,
-.dream-journal-base h4,
-.dream-journal-base h5,
-.dream-journal-base h6 {
-  /* Removes Heading Gradient */
+.dream-journal-base .inline-title, .dream-journal-base h1, .dream-journal-base h2, .dream-journal-base h3, .dream-journal-base h4, .dream-journal-base h5, .dream-journal-base h6 {
   -webkit-text-fill-color: currentColor !important;
   -webkit-background-clip: unset !important;
   background-clip: unset !important;
   background-image: none !important;
 }
-
 .dream-journal-base ::-moz-selection {
   color: rgb(var(--background-color));
   background: rgb(var(--primary-tint));
 }
-
 .dream-journal-base ::selection {
   color: rgb(var(--background-color));
   background: rgb(var(--primary-tint));
@@ -87,12 +76,15 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base div.metadata-container div.metadata-properties-heading.is-collapsed {
   padding: 0;
 }
+.dream-journal-base div.metadata-container .metadata-add-button {
+  display: none;
+}
 
 /* ----- Class Design ----- */
 .metadata-property .multi-select-container:focus, .metadata-property .multi-select-container:focus-within {
   background-color: rgb(var(--background-highlight));
 }
-.metadata-property .multi-select-container .metadata-add-button.text-icon-button, .metadata-property .multi-select-container .multi-select-pill-remove-button { /* Hides Add and Remove Property */
+.metadata-property .multi-select-container .multi-select-pill-remove-button { /* Hides Add and Remove Property */
   display: none;
 }
 
@@ -339,7 +331,7 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
   text-decoration: none !important;
 }
 
-/* -------------------- Tile Grid -------------------- */
+/* ---------- Tile Grid ---------- */
 /* ----- https://codepen.io/Fraasi/pen/aKBbmw ----- */
 .dream-journal-base .wrapper {
   grid-template-columns: 1fr 1fr;
