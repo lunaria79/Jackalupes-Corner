@@ -132,9 +132,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   color: rgb(var(--primary-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg,
 .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill,
 .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-content,
 .dream-journal-base .metadata-property[data-property-key=Home] .multi-select-pill-remove-button svg {
@@ -159,14 +156,18 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   color: rgb(var(--secondary-tint));
 }
 
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill,
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content,
-.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg {
+.dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-content, .dream-journal-base .metadata-property[data-property-key=tags] .multi-select-pill-remove-button svg {
   background-color: rgb(var(--primary-tint));
   color: rgb(var(--background-color));
 }
 
 /* ----- Checkboxes ----- */
+.dream-journal-base input[type=checkbox]:checked {
+  background: rgb(var(--secondary-tint));
+  border-radius: var(--small-radius);
+  border-color: rgb(var(--secondary-tint));
+  cursor: pointer !important;
+}
 .dream-journal-base input[type=checkbox]:not(:checked) {
   color: rgb(var(--primary-tint));
   background-color: transparent !important;
@@ -174,14 +175,6 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   border-radius: var(--small-radius);
   cursor: pointer !important;
 }
-
-.dream-journal-base input[type=checkbox]:checked {
-  background: rgb(var(--secondary-tint));
-  border-radius: var(--small-radius);
-  border-color: rgb(var(--secondary-tint));
-  cursor: pointer !important;
-}
-
 .dream-journal-base input[type=checkbox]:checked:after {
   background: rgb(var(--secondary-tint));
   border-radius: var(--small-radius);
