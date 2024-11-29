@@ -202,17 +202,13 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
 .dream-journal-base .box,
 .dream-journal-base .callout[data-callout=tabbed] p label,
 div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
-  /*Position */
   transform: unset;
-  /* Size */
   padding: 10px 25px;
   width: 100%;
-  /* Colors */
   background-color: var(--tile-background);
-  /* Border */
+  box-shadow: none;
   border-left: var(--tile-border);
   border-radius: var(--tile-border-radius);
-  box-shadow: none;
 }
 
 .dream-journal-base div.metadata-container { /* Size */
@@ -221,11 +217,9 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
 
 /* ----- Tab Design ----- */
 .dream-journal-base div.html-tabs {
-  /* Size */
   padding: 5px 0 8px 20px;
   margin: 0 10px;
   width: unset;
-  /* Border */
   border-bottom: none;
 }
 
