@@ -32,7 +32,7 @@ Usopp
 + Everyday
 + Formal
 + Athletic
-! Pajamas
++ Pajamas
 - Party
 + Swimwear
 - Hot Weather
@@ -41,15 +41,14 @@ Usopp
 
 ```diff
 Luffy
-His lips are too dry....
-! Everyday
-! Formal
-! Athletic
-! Pajamas
-! Party
++ Everyday
++ Formal
++ Athletic
++ Pajamas
++ Party
 - Swimwear
-! Hot Weather
-! Cold Weather
++ Hot Weather
++ Cold Weather
 ```
 
 ```diff
