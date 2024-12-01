@@ -46,7 +46,7 @@ Luffy
 + Athletic
 + Pajamas
 + Party
-- Swimwear
+! Swimwear
 + Hot Weather
 + Cold Weather
 ```
