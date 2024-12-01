@@ -42,12 +42,12 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>Velkhana Crownhorn:</b> x3 
-			<br><span>HR 8★ Optional Quests </span>
-			<br><b>Velkhana Hardclaw:</b> x6  
-			<br><span>High Rank  </span>
-			<br><b>Velkhana Cr:</b> x2  
-			<br><span>High Rank  </span>
+			<b>Velkhana Crownhorn:</b> x4
+			<br><span><b>HR 5★</b> Very rare Velkhana material. Obtained by breaking its head. </span>
+			<br><b>Velkhana Hardclaw:</b> x4
+			<br><span><b>HR 5★</b> Obtained by collecting rare drops. Sharp, used in many weapons. </span>
+			<br><b>Velkhana Crystal:</b> x1
+			<br><span><b>HR 5★</b> Very rare Velkhana material. Obtained by breaking its head. </span>
 			<br><b>Nova Crystal:</b> x2  
 			<br><span>High Rank Mining  </span>
 			<br>32,000 🪙

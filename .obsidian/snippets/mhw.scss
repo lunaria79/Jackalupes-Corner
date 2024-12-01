@@ -24,7 +24,10 @@
 
 	h3 { color:  #a933cc;  -webkit-text-fill-color: unset; background-image: none; }	
 	b { color: rgb(var(--primary-tint)); }
-	span, i { color: rgb(var(--tertiary-tint)); font-size: 14px; font-style: italic; }
+	span, i { 
+		color: rgb(var(--tertiary-tint)); font-size: 13px; font-style: italic; 
+		b { color: rgb(var(--secondary-tint)); }
+	}
 
 	img { height: 150px !important; width: 150px !important; }
 
@@ -34,15 +37,11 @@
 		border-radius: 10px; border: 1px solid transparent !important;
 	}
 
-	.stats {
-		text-align: left;
-    margin-bottom: 0;
-	}
+	.stats { margin: 5px 0; }
 
 	.disc { 
-		text-align: left; font-weight: 800;
 		color:  rgb(var(--secondary-tint));
-		font-style: italic;
+		font-weight: 800; font-style: italic;
 		margin-bottom: 0; 
 	}
 
@@ -52,8 +51,8 @@
 		margin: 0;
 	}
 
+	.shopping { margin: 4px 0; }
 }
-
 
 /* Clear floats after the columns */
 .mhw .row:after {

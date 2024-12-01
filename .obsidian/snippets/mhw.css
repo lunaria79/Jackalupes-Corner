@@ -33,8 +33,11 @@
 }
 .mhw .column span, .mhw .column i {
   color: rgb(var(--tertiary-tint));
-  font-size: 14px;
+  font-size: 13px;
   font-style: italic;
+}
+.mhw .column span b, .mhw .column i b {
+  color: rgb(var(--secondary-tint));
 }
 .mhw .column img {
   height: 150px !important;
@@ -47,13 +50,11 @@
   border: 1px solid transparent !important;
 }
 .mhw .column .stats {
-  text-align: left;
-  margin-bottom: 0;
+  margin: 5px 0;
 }
 .mhw .column .disc {
-  text-align: left;
-  font-weight: 800;
   color: rgb(var(--secondary-tint));
+  font-weight: 800;
   font-style: italic;
   margin-bottom: 0;
 }
@@ -62,6 +63,9 @@
   font-weight: 800;
   color: #a933cc;
   margin: 0;
+}
+.mhw .column .shopping {
+  margin: 4px 0;
 }
 
 /* Clear floats after the columns */
