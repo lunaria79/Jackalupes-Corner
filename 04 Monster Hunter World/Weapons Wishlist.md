@@ -35,7 +35,7 @@ cssclasses:
 			<img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/swo/Koux5Tqx.png">
 			<p class="disc"> The icy edge of this Velkhana long sword freezes the final cries of prey in their throat. </p>
 			<p class="stats">
-			<b>Attack:</b> 891 <b>Element:</b> 🧊 120  
+			<b>Attack:</b> 891 <b>Element:</b> 🧊 270  
 			<br> <b>Affinity:</b> 0%  
 			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
 			<br> <b>Sharpness:</b> 🟣
@@ -43,13 +43,13 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
 			<b>Velkhana Crownhorn:</b> x4
-			<br><span><b>HR 5★</b> Very rare Velkhana material. Obtained by breaking its head. </span>
+			<br><span><b>M★5</b> Very rare Velkhana material. Obtained by breaking its head. </span>
 			<br><b>Velkhana Hardclaw:</b> x4
-			<br><span><b>HR 5★</b> Obtained by collecting rare drops. Sharp, used in many weapons. </span>
+			<br><span><b>M★6</b> Obtained by collecting rare drops. Sharp, used in many weapons. </span>
 			<br><b>Velkhana Crystal:</b> x1
-			<br><span><b>HR 5★</b> Very rare Velkhana material. Obtained by breaking its head. </span>
-			<br><b>Nova Crystal:</b> x2  
-			<br><span>High Rank Mining  </span>
+			<br><span><b>M★6</b> Used to craft weapons powerful enough to take over the world. </span>
+			<br><b>Shara Ishvalda Tenderclaw:</b> x2  
+			<br><span><b>M★6</b> Obtained by breaking its wing arms. Used in many weapons. </span>
 			<br>32,000 🪙
 			</p>
 		</div>

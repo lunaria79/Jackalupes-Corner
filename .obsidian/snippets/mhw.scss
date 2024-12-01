@@ -4,14 +4,14 @@
 
 .mhw * {
 	/* Colors */
-	--background-color: 21, 7, 29;
-	--background-highlight: 185, 51, 73, .1;
-	--primary-color: 185, 51, 73;
-	--text: 255, 230, 215;
+	--background-color: 30, 32, 48;
+	--background-highlight: 30, 32, 48, .1;
+	--primary-color: 198, 160, 246;
+	--text: 202, 211, 245;
 	/* Tints */
-	--primary-tint: 185, 51, 73;
-	--secondary-tint: 229, 36, 142;
-	--tertiary-tint: 96, 159, 230;
+	--primary-tint: 198, 160, 246;
+	--secondary-tint: 245, 189, 230;
+	--tertiary-tint: 138, 173, 244;
 	/* Fonts */
 	font-family: "Barlow", sans-serif;
 }
@@ -37,13 +37,13 @@
 		border-radius: 10px; border: 1px solid transparent !important;
 	}
 
-	.stats { margin: 5px 0; }
-
 	.disc { 
 		color:  rgb(var(--secondary-tint));
 		font-weight: 800; font-style: italic;
 		margin-bottom: 0; 
 	}
+
+	.stats { margin: 5px 0; }
 
 	.divider {
 		text-align: center; font-weight: 800;
@@ -51,7 +51,7 @@
 		margin: 0;
 	}
 
-	.shopping { margin: 4px 0; }
+	.shopping { margin: 4px 0; text-align: left; }
 }
 
 /* Clear floats after the columns */
