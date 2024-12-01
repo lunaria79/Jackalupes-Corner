@@ -1,3 +1,7 @@
+.mhw .markdown-preview-sizer.markdown-preview-section {
+  padding-bottom: 5px !important;
+}
+
 .mhw * {
   /* Colors */
   --background-color: 21, 7, 29;
@@ -12,21 +16,11 @@
   font-family: "Barlow", sans-serif;
 }
 
-.mhw p.stats {
-  text-align: left;
-  margin-bottom: 0;
-}
-
-.mhw .markdown-preview-sizer.markdown-preview-section {
-  padding-bottom: 5px !important;
-}
-
 .mhw .column {
   float: left;
   width: 50%;
-  padding: 15px;
 }
-.mhw .column.column:nth-child(2) {
+.mhw .column:nth-child(2) {
   float: right;
 }
 .mhw .column h3 {
@@ -42,10 +36,19 @@
   font-size: 14px;
   font-style: italic;
 }
+.mhw .column img {
+  height: 150px !important;
+  width: 150px !important;
+}
 .mhw .column .card {
   color: rgb(var(--text));
   background: rgb(var(--background-color));
   border-radius: 10px;
+  border: 1px solid transparent !important;
+}
+.mhw .column .stats {
+  text-align: left;
+  margin-bottom: 0;
 }
 .mhw .column .disc {
   text-align: left;
@@ -54,30 +57,11 @@
   font-style: italic;
   margin-bottom: 0;
 }
-
-.mhw .column .disc {
-  text-align: left;
-  font-weight: 800;
-  color: rgb(var(--secondary-tint));
-  font-style: italic;
-  margin-bottom: 0;
-}
-
-.mhw .column p.stats {
-  text-align: left;
-  margin-bottom: 0;
-}
-
-.mhw .column p.divider {
+.mhw .column .divider {
   text-align: center;
   font-weight: 800;
   color: #a933cc;
-  margin-bottom: 0;
-}
-
-.mhw .column img {
-  height: 150px !important;
-  width: 150px !important;
+  margin: 0;
 }
 
 /* Clear floats after the columns */
