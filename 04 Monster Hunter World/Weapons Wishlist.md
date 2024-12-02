@@ -30,9 +30,9 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Matched Slicers I</b> 
-			<br> <b>Matched Slicers II</b> 
-			<br> <b>Rending Beaks I</b> 
+			<b>Matched Slicers I
+			<br> <b>Matched Slicers II
+			<br> <b>Rending Beaks I
 			<br> <b>Sworn Rapiers</b> 
 			<br> Sworn Rapiers +
 			<br>Holy Sabers
@@ -63,9 +63,9 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			Matched Slicers I
-			<br>Matched Slicers II
+			<br><b>Matched Slicers II
 			<br>Matched Slicers III
-			<br>Luminous Daggers |
+			<br>Luminous Daggers |</b>
 			<br>Freeze Daggers I
 			<br>Freeze Daggers II
 			<br>Freeze Chain I
@@ -103,9 +103,9 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I</b> 
-			<br> <b>Bone Hatchet II</b> 
-			<br> <b>Madness Pangas I</b> 
+			<b>Bone Hatchet I
+			<br> <b>Bone Hatchet II
+			<br> <b>Madness Pangas I
 			<br> <b>Madness Pangas II</b> 
 			<br> Madness Pangas III
 			<br> Jyura Hatchets I
@@ -142,9 +142,9 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I</b> 
-			<br> <b>Bone Hatchet II</b> 
-			<br> <b>Madness Pangas I</b> 
+			<b>Bone Hatchet I
+			<br> <b>Bone Hatchet II
+			<br> <b>Madness Pangas I
 			<br> <b>Madness Pangas II</b> 
 			<br> Madness Pangas III
 			<br> Jyura Hatchets I
@@ -184,8 +184,8 @@ cssclasses:
 			<p class="prereqs">
 			<b>Bone Hatchet I</b> 
 			<br> <b>Bone Hatchet II</b> 
-			<br> <b>Pulsar Hatchets I</b> 
-			<br> <b>Pulsar Hatchets II</b> 
+			<br> <b>Pulsar Hatchets I</b
+			<br> <b>Pulsar Hatchets II
 			<br> <b>Garon Hatchets I</b>
 			<br> Garon Hatchets II
 			<br> Blood-drinker Chainblade
