@@ -3,7 +3,7 @@ cssclasses:
   - mhw
   - code
 ---
-![](Images/Wunderkirins.webp)
+![](Images/Smoldering%20Kingdoms.png)
 <div class="row">
 	<div class="column" >
 		<div class="card">
@@ -27,6 +27,45 @@ cssclasses:
 			<br><b>Nova Crystal:</b> x2  
 			<br><span>High Rank Mining  </span>
 			<br>32,000 🪙
+			</p>
+		</div>
+		<div class="card" style="margin-top: 15px;">
+			<h3>Smoldering Kingdoms</h3>
+			<p class="img">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png">
+			</p>
+			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
+			<p class="stats">
+			<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  
+			<br> <b>Affinity:</b> 20%  
+			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
+			<br> <b>Sharpness:</b> 🟣
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="shopping">
+			<b>Large Wyvern Gem:</b> x1
+			<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
+			<br><b>Fancy Beak:</b> x3
+			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
+			<br><b>Garuga Fellwing:</b> x2
+			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
+			<br><b>Scratched Shell:</b> x3  
+			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
+			<br>56,000 🪙
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="prereqs">
+			<b>Bone Hatchet I</b>
+			<br> <b>Bone Hatchet II</b>
+			<br> <b>Madness Pangas I</b>
+			<br> <b>Madness Pangas II</b>
+			<br> Madness Pangas III
+			<br> Jyura Hatchets I
+			<br> Jyura Hatchets II
+			<br> Jyura Hatchets III
+			<br> Jyura Keenblades I
+			<br>Raven Tessen
+			<br> Wolf Tessen
 			</p>
 		</div>
 	</div>
@@ -78,7 +117,7 @@ cssclasses:
 			</p>
 			<p class="disc"> Kirin dual blades worthy of the king of beasts, flashing like a bolt bridging land and sky. </p>
 			<p class="stats">
-			<b>Attack:</b> 336 <b>Element:</b> ⚡ 450  
+			<b>Attack:</b> 336 <b>Element:</b> ⚡450  
 			<br> <b>Affinity:</b> 0%  
 			<br> <b>Decorations:</b> None 
 			<br> <b>Sharpness:</b> ⚪
@@ -86,28 +125,22 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
 			<b>Pure Crystal:</b> x1
-			<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
-			<br><b>Kirin Finehide:</b> x3
-			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
-			<br><b>Kirin Silvermane:</b> x2
-			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
+			<br><span><b>M★6</b> Very rare lightcrystal. Used by the forge workers to craft their tools due to its incredible hardness.</span>
+			<br><b>Kirin Finehide:</b> x4
+			<br><span><b>M★6</b> Very rare Kirin material. Mostly obtained by carving. Broadly used for many purposes. </span>
+			<br><b>Kirin Silvermane:</b> x3
+			<br><span><b>M★6</b> Very rare Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear. </span>
 			<br><b>Kirin Azure Horn+:</b> x3  
-			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
+			<br><span><b>M★5</b> Very rare Kirin material. Obtained by breaking its horn. Grants thunder element properties. </span>
 			<br>56,000 🪙
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I</b>
-			<br> <b>Bone Hatchet II</b>
-			<br> <b>Madness Pangas I</b>
-			<br> <b>Madness Pangas II</b>
-			<br> Madness Pangas III
-			<br> Jyura Hatchets I
-			<br> Jyura Hatchets II
-			<br> Jyura Hatchets III
-			<br> Jyura Keenblades I
-			<br>Raven Tessen
-			<br> Wolf Tessen
+			<b>Dragon Twinblades</b>
+			<br> Kirin Bolts
+			<br> Kirin Bolts+ 
+			<br> Monarch
+			<br> Wunderkirins
 			</p>
 		</div>
 	</div>
