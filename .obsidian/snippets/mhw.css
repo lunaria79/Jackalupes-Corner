@@ -15,6 +15,7 @@
   --red-tint: 243, 139, 168;
   /* Fonts */
   font-family: "Barlow", sans-serif;
+  --file-line-width: 75%;
 }
 
 .mhw .column {
