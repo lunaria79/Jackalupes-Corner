@@ -64,8 +64,8 @@ cssclasses:
 			<b> Matched Slicers I
 			<br>Matched Slicers II
 			<br>Matched Slicers III
-			<br>Luminous Daggers |</b>
-			<br>Freeze Daggers I
+			<br>Luminous Daggers |
+			<br>Freeze Daggers I</b>
 			<br>Freeze Daggers II
 			<br>Freeze Chain I
 			<br>Freeze Chain II
