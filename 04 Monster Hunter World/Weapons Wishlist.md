@@ -3,7 +3,7 @@ cssclasses:
   - mhw
   - code
 ---
-![](Images/wolf-tessenmhw-wiki-guide.png)
+![](Images/Wolf%20Tessen.png)
 <div class="row">
 	<div class="column" >
 		<div class="card">
@@ -34,7 +34,7 @@ cssclasses:
 	<div class="column" >
 		<div class="card">
 			<h3>Wolf Tessen</h3>
-			<img src="https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wolf-tessenmhw-wiki-guide.png">
+			<img src="https://github.com/lunaria79/Jackalupes-Corner/blob/main/04%20Monster%20Hunter%20World/Images/wolf-tessenmhw-wiki-guide.png?raw=true">
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">
 			<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  
@@ -54,29 +54,6 @@ cssclasses:
 			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
 			<br>32,000 🪙
 				<p class="divider">-- -- -- -- --</p>
-			</p>
-		</div>
-		<div class="card" style="margin-top: 15px;" >
-			<h3> Ruinous Extermination</h3>
-			<img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/swo/WOurhNb.png">
-			<p class="disc"> Bow low, condemned one. This Ruiner Nergigante long sword serves as an executioner's blade. </p>
-			<p class="stats">
-			<b>Attack:</b> 957 <b>Element:</b> 🐲 180  
-			<br> <b>Affinity:</b> 0%  
-			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
-			<br> <b>Sharpness:</b> ⚪
-			</p>
-			<p class="divider">-- -- -- -- --</p>
-			<p class="shopping">
-			<b>Large Elder Dragon Gem:</b> x1
-			<br><span><b>M★5</b> A giant, ultra-rare stone that forms inside an Elder Dragon once in a millennium. </span>
-			<br><b>Annihilating Greathorn:</b> x3
-			<br><span><b>M★6</b> Very rare Ruiner Nergigante material. Obtained by breaking its horns. Stout, used in many weapons. </span>
-			<br><b>Nergigante Hardclaw:</b> x4
-			<br><span><b>M★6</b> Very rare Ruiner Nergigante material. Mostly obtained by carving. Sharp, used in many weapons. </span>
-			<br><b>Eternal Regrowth Plate:</b> x5 
-			<br><span><b>M★6</b> Very rare Ruiner Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear. </span>
-			<br>32,000 🪙
 			</p>
 		</div>
 	</div>
