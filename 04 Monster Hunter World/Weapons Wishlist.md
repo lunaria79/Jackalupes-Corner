@@ -3,7 +3,7 @@ cssclasses:
   - mhw
   - code
 ---
-![](Images/Smoldering%20Kingdoms.png)
+![](Images/Death%20Row.png)
 <div class="row">
 	<div class="column" >
 		<div class="card">
@@ -37,20 +37,20 @@ cssclasses:
 			<p class="disc"> Dance, engulfed in relentless red-hot flames. </p>
 			<p class="stats">
 			<b>Attack:</b> 364 <b>Element:</b> 🔥 240  
-			<br> <b>Affinity:</b> 20%  
+			<br> <b>Affinity:</b> 0%  
 			<br> <b>Decorations:</b> 1  <i>Level 1</i>  Slot  
 			<br> <b>Sharpness:</b> 🟣
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>Pure Dragon Blood:</b> x1
-			<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
-			<br><b>Glavenus Hardfang:</b> x3
-			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
-			<br><b>Glavenus Hellshell:</b> x2
-			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
+			<b>Pure Dragon Blood:</b> x3
+			<br><span><b>M★5</b>Elder dragon blood that contains a more potent mix of its mysterious ingredient. </span>
+			<br><b>Glavenus Hardfang:</b> x5
+			<br><span><b>M★6</b> Very rare Glavenus material. Obtained by breaking its head. Sharp, used in many weapons. </span>
+			<br><b>Glavenus Hellshell:</b> x4
+			<br><span><b>M★3</b> Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear. </span>
 			<br><b>Fire Dragon Hardclaw:</b> x2
-			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
+			<br><span><b>M★6</b> Very rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons. </span>
 			<br>56,000 🪙
 			</p>
 			<p class="divider">-- -- -- -- --</p>
@@ -61,11 +61,51 @@ cssclasses:
 			<br> <b>Madness Pangas II</b>
 			<br> Madness Pangas III
 			<br> Jyura Hatchets I
-			<br> Jyura Hatchets II
-			<br> Jyura Hatchets III
-			<br> Jyura Keenblades I
-			<br>Raven Tessen
-			<br> Wolf Tessen
+			<br> Lava Cyclone I
+			<br> Lava Cyclone II
+			<br> Smoldering Cities
+			<br> Smoldering Cities +
+			<br> Smoldering Kingdoms
+			</p>
+		</div>
+		<div class="card" style="margin-top: 15px;">
+			<h3>Death Row</h3>
+			<p class="img">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Death%20Row.png">
+			</p>
+			<p class="disc"> Like the beast's twin fangs, these Ebony Odogaron dual blades drive their prey to despair. </p>
+			<p class="stats">
+			<b>Attack:</b> 336 <b>Element:</b> 🐲 300  
+			<br> <b>Affinity:</b> 20%  
+			<br> <b>Decorations:</b> None
+			<br> <b>Sharpness:</b> ⚪
+			<br> <b>Elderseal:</b> High
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="shopping">
+			<b>Ebony Odogaron Hardclaw:</b> x4
+			<br><span><b>M★5</b>Elder dragon blood that contains a more potent mix of its mysterious ingredient. </span>
+			<br><b>Ebony Odogaron Lash:</b> x2
+			<br><span><b>M★6</b> Very rare Glavenus material. Obtained by breaking its head. Sharp, used in many weapons. </span>
+			<br><b>Ebony Odogaron Mantle:</b> x1
+			<br><span><b>M★3</b> Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear. </span>
+			<br><b>Namielle Hardclaw:</b> x2
+			<br><span><b>M★6</b> Very rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons. </span>
+			<br>56,000 🪙
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="prereqs">
+			<b>Bone Hatchet I</b>
+			<br> <b>Bone Hatchet II</b>
+			<br> <b>Madness Pangas I</b>
+			<br> <b>Madness Pangas II</b>
+			<br> Madness Pangas III
+			<br> Jyura Hatchets I
+			<br> Lava Cyclone I
+			<br> Lava Cyclone II
+			<br> Smoldering Cities
+			<br> Smoldering Cities +
+			<br> Smoldering Kingdoms
 			</p>
 		</div>
 	</div>
