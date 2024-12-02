@@ -18,14 +18,14 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>High Commendation:</b> x3 
-			<br><span>HR 8★ Optional Quests </span>
 			<br><b>Dragonvein Crystal:</b> x6  
-			<br><span>High Rank  </span>
-			<br><b>Wyvern Gem:</b> x2  
-			<br><span>High Rank  </span>
+			<br><span><b>M★1</b> Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork. </span>
 			<br><b>Nova Crystal:</b> x2  
-			<br><span>High Rank Mining  </span>
+			<br><span><b>M★4 Trailraider</b> High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking. </span>
+			<br><b>Wyvern Gem:</b> x2  
+			<br><span><b>M★7</b> Throughout a wyvern's life, impurities gather and form this peculiar gem. </span>
+			<b>High Commendation:</b> x3 
+			<br><span><b>M★8</b> A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen </span>
 			<br>32,000 🪙
 			</p>
 			<p class="divider">-- -- -- -- --</p>
@@ -34,7 +34,7 @@ cssclasses:
 			<br> <b>Matched Slicers II</b> 
 			<br> <b>Rending Beaks I</b> 
 			<br> <b>Sworn Rapiers</b> 
-			<br> Xworn Rapiers +
+			<br> Sworn Rapiers +
 			<br>Holy Sabers
 			</p>
 		</div>
