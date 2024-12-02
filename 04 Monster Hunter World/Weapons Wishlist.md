@@ -34,7 +34,9 @@ cssclasses:
 	<div class="column" >
 		<div class="card">
 			<h3>Wolf Tessen</h3>
+			<p class="img">
 			<img src="https://github.com/lunaria79/Jackalupes-Corner/blob/main/04%20Monster%20Hunter%20World/Images/wolf-tessenmhw-wiki-guide.png?raw=true">
+			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">
 			<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  

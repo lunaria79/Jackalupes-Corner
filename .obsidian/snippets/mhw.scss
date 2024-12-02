@@ -29,7 +29,10 @@
 		b { color: rgb(var(--secondary-tint)); }
 	}
 
-	img { height: 150px !important; width: 150px !important; }
+	p.img {
+		text-align: center;
+		img { height: 150px !important; width: 150px !important; }
+	}
 
 	.card {
 		color: rgb(var(--text));

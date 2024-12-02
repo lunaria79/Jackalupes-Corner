@@ -39,7 +39,10 @@
 .mhw .column span b, .mhw .column i b {
   color: rgb(var(--secondary-tint));
 }
-.mhw .column img {
+.mhw .column p.img {
+  text-align: center;
+}
+.mhw .column p.img img {
   height: 150px !important;
   width: 150px !important;
 }
