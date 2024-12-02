@@ -32,24 +32,24 @@ cssclasses:
 		<div class="card" style="margin-top: 15px;">
 			<h3>Smoldering Kingdoms</h3>
 			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Smoldering%20Kingdoms.png">
 			</p>
-			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
+			<p class="disc"> Dance, engulfed in relentless red-hot flames. </p>
 			<p class="stats">
-			<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  
+			<b>Attack:</b> 364 <b>Element:</b> 🔥 240  
 			<br> <b>Affinity:</b> 20%  
-			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
+			<br> <b>Decorations:</b> 1  <i>Level 1</i>  Slot  
 			<br> <b>Sharpness:</b> 🟣
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>Large Wyvern Gem:</b> x1
+			<b>Pure Dragon Blood:</b> x1
 			<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
-			<br><b>Fancy Beak:</b> x3
+			<br><b>Glavenus Hardfang:</b> x3
 			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
-			<br><b>Garuga Fellwing:</b> x2
+			<br><b>Glavenus Hellshell:</b> x2
 			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
-			<br><b>Scratched Shell:</b> x3  
+			<br><b>Fire Dragon Hardclaw:</b> x2
 			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
 			<br>56,000 🪙
 			</p>
