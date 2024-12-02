@@ -186,7 +186,7 @@ cssclasses:
 			<br> <b>Bone Hatchet II</b> 
 			<br> <b>Pulsar Hatchets I</b> 
 			<br> <b>Pulsar Hatchets II</b> 
-			<br> Garon Hatchets I
+			<br> <b>Garon Hatchets I</b>
 			<br> Garon Hatchets II
 			<br> Blood-drinker Chainblade
 			<br> Sin
