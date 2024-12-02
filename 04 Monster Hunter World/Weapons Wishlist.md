@@ -3,6 +3,7 @@ cssclasses:
   - mhw
   - code
 ---
+![](Images/wolf-tessenmhw-wiki-guide.png)
 <div class="row">
 	<div class="column" >
 		<div class="card">
@@ -32,26 +33,27 @@ cssclasses:
 	
 	<div class="column" >
 		<div class="card">
-			<h3>Reverent Elusarca</h3>
-			<img src="https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/swo/Koux5Tqx.png">
-			<p class="disc"> The icy edge of this Velkhana long sword freezes the final cries of prey in their throat. </p>
+			<h3>Wolf Tessen</h3>
+			<img src="https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wolf-tessenmhw-wiki-guide.png">
+			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">
-			<b>Attack:</b> 891 <b>Element:</b> 🧊 270  
-			<br> <b>Affinity:</b> 0%  
+			<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  
+			<br> <b>Affinity:</b> 20%  
 			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
 			<br> <b>Sharpness:</b> 🟣
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>Velkhana Crownhorn:</b> x4
-			<br><span><b>M★5</b> Very rare Velkhana material. Obtained by breaking its head. </span>
-			<br><b>Velkhana Hardclaw:</b> x4
-			<br><span><b>M★6</b> Obtained by collecting rare drops. Sharp, used in many weapons. </span>
-			<br><b>Velkhana Crystal:</b> x1
-			<br><span><b>M★6</b> Used to craft weapons powerful enough to take over the world. </span>
-			<br><b>Shara Ishvalda Tenderclaw:</b> x2  
-			<br><span><b>M★6</b> Obtained by breaking its wing arms. Used in many weapons. </span>
+			<b>Large Wyvern Gem:</b> x1
+			<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
+			<br><b>Fancy Beak:</b> x3
+			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
+			<br><b>Garuga Fellwing:</b> x2
+			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
+			<br><b>Scratched Shell:</b> x3  
+			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
 			<br>32,000 🪙
+				<p class="divider">-- -- -- -- --</p>
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;" >

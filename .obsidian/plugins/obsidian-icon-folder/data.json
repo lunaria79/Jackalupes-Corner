@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiList",
-      "FasListCheck",
       "FasFolderOpen",
-      "FasFileCode",
-      "FasFilePen"
+      "FasImage",
+      "FasFileLines",
+      "FasFile",
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -109,5 +109,10 @@
   "04 Monster Hunter World/Weapons Wishlist.md": "LiList",
   "04 Monster Hunter World": "FasFolderOpen",
   "03 Sims 4": "FasFolderOpen",
-  "02 These Lyrics Will Write Themselves": "FasFolderOpen"
+  "02 These Lyrics Will Write Themselves": "FasFolderOpen",
+  "03 Sims 4/Sims 4 Rigs.md": "FasListCheck",
+  "03 Sims 4/Child Birth Mod Instructions.md": "FasFileLines",
+  "03 Sims 4/Images": "FasFolderOpen",
+  "03 Sims 4/Images/12.webp": "FasImage",
+  "04 Monster Hunter World/Images": "FasFolderOpen"
 }
