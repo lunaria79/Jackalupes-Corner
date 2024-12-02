@@ -17,65 +17,65 @@
   font-family: "Barlow", sans-serif;
 }
 
-.mhw .column {
+div.callout, .mhw .column {
   float: left;
   width: 50%;
 }
-.mhw .column:nth-child(2) {
+div.callout:nth-child(2), .mhw .column:nth-child(2) {
   float: right;
 }
-.mhw .column h3 {
+div.callout h3, .mhw .column h3 {
   color: rgb(var(--purple-tint));
   -webkit-text-fill-color: unset;
   background-image: none;
 }
-.mhw .column b {
+div.callout b, .mhw .column b {
   color: rgb(var(--purple-tint));
 }
-.mhw .column span, .mhw .column i {
+div.callout span, div.callout i, .mhw .column span, .mhw .column i {
   color: rgb(var(--blue-tint));
   font-size: 13px;
   font-style: italic;
 }
-.mhw .column span b, .mhw .column i b {
+div.callout span b, div.callout i b, .mhw .column span b, .mhw .column i b {
   color: rgb(var(--pink-tint));
 }
-.mhw .column p.img {
+div.callout p.img, .mhw .column p.img {
   text-align: center;
 }
-.mhw .column p.img img {
+div.callout p.img img, .mhw .column p.img img {
   height: 150px !important;
   width: 150px !important;
 }
-.mhw .column .card {
+div.callout .card, .mhw .column .card {
   color: rgb(var(--text));
   background: rgb(var(--background-color));
   border-radius: 10px;
   border: 1px solid transparent !important;
 }
-.mhw .column .disc {
+div.callout .disc, .mhw .column .disc {
   color: rgb(var(--pink-tint));
   font-weight: 800;
   font-style: italic;
   margin-bottom: 0;
 }
-.mhw .column .stats {
+div.callout .stats, .mhw .column .stats {
   margin: 5px 0;
 }
-.mhw .column .divider {
+div.callout .divider, .mhw .column .divider {
   text-align: center;
   font-weight: 800;
   color: #a933cc;
   margin: 0;
 }
-.mhw .column .shopping {
+div.callout .shopping, .mhw .column .shopping {
   margin: 4px 0;
   text-align: left;
 }
-.mhw .column .prereqs {
+div.callout .prereqs, .mhw .column .prereqs {
   color: rgb(var(--red-tint));
 }
-.mhw .column .prereqs b {
+div.callout .prereqs b, .mhw .column .prereqs b {
   color: rgb(var(--green-tint));
 }
 
