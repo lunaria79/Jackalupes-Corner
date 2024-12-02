@@ -3,6 +3,14 @@ cssclasses:
   - mhw
   - code
 ---
+> [!infobox ]+   Wolf Tessen
+> _A single flutter shreds prey in the blink of an eye._
+> !()
+**Attack:** 378 **Element:** ☠️ 210  
+**Affinity:** 20%  
+**Decorations:** 1  _Level 3_  Slot  
+**Sharpness:** 🟣_
+
 <div class="row">
 	<div class="column" >
 		<div class="card">
@@ -34,7 +42,7 @@ cssclasses:
 		<div class="card">
 			<h3>Wolf Tessen</h3>
 			<p class="img">
-			<img src="https://github.com/lunaria79/Jackalupes-Corner/blob/main/04%20Monster%20Hunter%20World/Images/wolf-tessenmhw-wiki-guide.png?raw=true">
+			<img src="https://github.com/lunaria79/Jackalupes-Corner/blob/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png">
 			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">

@@ -11,6 +11,8 @@
   --purple-tint: 198, 160, 246;
   --pink-tint: 245, 189, 230;
   --blue-tint: 138, 173, 244;
+  --green-tint: 166, 227, 161;
+  --red-tint: 243, 139, 168;
   /* Fonts */
   font-family: "Barlow", sans-serif;
 }
@@ -23,7 +25,7 @@
   float: right;
 }
 .mhw .column h3 {
-  color: #a933cc;
+  color: rgb(var(--purple-tint));
   -webkit-text-fill-color: unset;
   background-image: none;
 }
@@ -69,6 +71,12 @@
 .mhw .column .shopping {
   margin: 4px 0;
   text-align: left;
+}
+.mhw .column .prereqs {
+  color: rgb(var(--red-tint));
+}
+.mhw .column .prereqs b {
+  color: rgb(var(--green-tint));
 }
 
 /* Clear floats after the columns */
