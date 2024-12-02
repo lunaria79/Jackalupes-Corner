@@ -3,7 +3,6 @@ cssclasses:
   - mhw
   - code
 ---
-
 <div class="row">
 	<div class="column" >
 		<div class="card">
@@ -31,9 +30,9 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			<b>Matched Slicers I
-			<br> <b>Matched Slicers II
-			<br> <b>Rending Beaks I
-			<br> <b>Sworn Rapiers</b> 
+			<br> Matched Slicers II
+			<br> Rending Beaks I
+			<br> Sworn Rapiers</b> 
 			<br> Sworn Rapiers +
 			<br>Holy Sabers
 			</p>
@@ -62,8 +61,8 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			Matched Slicers I
-			<br><b>Matched Slicers II
+			<b> Matched Slicers I
+			<br>Matched Slicers II
 			<br>Matched Slicers III
 			<br>Luminous Daggers |</b>
 			<br>Freeze Daggers I
@@ -104,9 +103,9 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			<b>Bone Hatchet I
-			<br> <b>Bone Hatchet II
-			<br> <b>Madness Pangas I
-			<br> <b>Madness Pangas II</b> 
+			<br> Bone Hatchet II
+			<br> Madness Pangas I
+			<br> Madness Pangas II</b> 
 			<br> Madness Pangas III
 			<br> Jyura Hatchets I
 			<br> Jyura Hatchets II
@@ -143,9 +142,9 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			<b>Bone Hatchet I
-			<br> <b>Bone Hatchet II
-			<br> <b>Madness Pangas I
-			<br> <b>Madness Pangas II</b> 
+			<br> Bone Hatchet II
+			<br> Madness Pangas I
+			<br> Madness Pangas II</b> 
 			<br> Madness Pangas III
 			<br> Jyura Hatchets I
 			<br> Lava Cyclone I
@@ -182,11 +181,11 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I</b> 
-			<br> <b>Bone Hatchet II</b> 
-			<br> <b>Pulsar Hatchets I</b
-			<br> <b>Pulsar Hatchets II
-			<br> <b>Garon Hatchets I</b>
+			<b>Bone Hatchet I
+			<br> <b>Bone Hatchet II
+			<br> Pulsar Hatchets I
+			<br> Pulsar Hatchets II
+			<br> Garon Hatchets I</b>
 			<br> Garon Hatchets II
 			<br> Blood-drinker Chainblade
 			<br> Sin
