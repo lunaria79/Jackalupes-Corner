@@ -17,65 +17,66 @@
   font-family: "Barlow", sans-serif;
 }
 
-div.callout, .mhw .column {
+.mhw .column {
   float: left;
   width: 50%;
 }
-div.callout:nth-child(2), .mhw .column:nth-child(2) {
+.mhw .column:nth-child(2) {
   float: right;
 }
-div.callout h3, .mhw .column h3 {
+.mhw .column h3 {
   color: rgb(var(--purple-tint));
   -webkit-text-fill-color: unset;
   background-image: none;
 }
-div.callout b, .mhw .column b {
+.mhw .column b {
   color: rgb(var(--purple-tint));
 }
-div.callout span, div.callout i, .mhw .column span, .mhw .column i {
+.mhw .column span, .mhw .column i {
   color: rgb(var(--blue-tint));
   font-size: 13px;
   font-style: italic;
 }
-div.callout span b, div.callout i b, .mhw .column span b, .mhw .column i b {
+.mhw .column span b, .mhw .column i b {
   color: rgb(var(--pink-tint));
 }
-div.callout p.img, .mhw .column p.img {
+.mhw .column p.img {
   text-align: center;
 }
-div.callout p.img img, .mhw .column p.img img {
+.mhw .column p.img img {
   height: 150px !important;
   width: 150px !important;
+  scale: 1.25;
 }
-div.callout .card, .mhw .column .card {
+.mhw .column .card {
   color: rgb(var(--text));
   background: rgb(var(--background-color));
   border-radius: 10px;
   border: 1px solid transparent !important;
 }
-div.callout .disc, .mhw .column .disc {
+.mhw .column .disc {
   color: rgb(var(--pink-tint));
   font-weight: 800;
   font-style: italic;
   margin-bottom: 0;
 }
-div.callout .stats, .mhw .column .stats {
+.mhw .column .stats {
   margin: 5px 0;
 }
-div.callout .divider, .mhw .column .divider {
+.mhw .column .divider {
   text-align: center;
   font-weight: 800;
-  color: #a933cc;
-  margin: 0;
+  color: rgb(var(--purple-tint));
+  margin: 0 !important;
 }
-div.callout .shopping, .mhw .column .shopping {
+.mhw .column .shopping {
   margin: 4px 0;
   text-align: left;
 }
-div.callout .prereqs, .mhw .column .prereqs {
+.mhw .column .prereqs {
   color: rgb(var(--red-tint));
 }
-div.callout .prereqs b, .mhw .column .prereqs b {
+.mhw .column .prereqs b {
   color: rgb(var(--green-tint));
 }
 

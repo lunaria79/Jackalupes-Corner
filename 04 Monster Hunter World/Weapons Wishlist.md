@@ -3,18 +3,17 @@ cssclasses:
   - mhw
   - code
 ---
-![](Images/Death%20Row.png)
 <div class="row">
 	<div class="column" >
 		<div class="card">
 			<h3>Holy Swords</h3>
-			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/00%20_resources/02FkH0.png"></p>
+			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Holy%20Sabers.png"></p>
 			<p class="disc"> Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental. </p>
 			<p class="stats">
 			<b>Attack:</b> 252 <b>Element:</b> 💦 120  
 			<br> <b>Affinity:</b> 0%  
 			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
-			<br> <b>Sharpness:</b> 🔵
+			<br> <b>Sharpness:</b> ⚪
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
@@ -27,6 +26,15 @@ cssclasses:
 			<br><b>Nova Crystal:</b> x2  
 			<br><span>High Rank Mining  </span>
 			<br>32,000 🪙
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="prereqs">
+			<b>Matched Slicers I</b>
+			<br> <b>Matched Slicers II</b>
+			<br> <b>Rending Beaks I</b>
+			<br> <b>Sworn Rapiers</b>
+			<br> Xworn Rapiers +
+			<br>Holy Sabers
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
@@ -71,7 +79,7 @@ cssclasses:
 		<div class="card" style="margin-top: 15px;">
 			<h3>Death Row</h3>
 			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Death%20Row.png">
+			<img src="https://static.wikia.nocookie.net/monsterhunter/images/f/f2/MHWI-Dual_Blades_Render_030.png/revision/latest?cb=20220106014823">
 			</p>
 			<p class="disc"> Like the beast's twin fangs, these Ebony Odogaron dual blades drive their prey to despair. </p>
 			<p class="stats">
@@ -84,28 +92,28 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
 			<b>Ebony Odogaron Hardclaw:</b> x4
-			<br><span><b>M★5</b>Elder dragon blood that contains a more potent mix of its mysterious ingredient. </span>
+			<br><span><b>M★4</b>Very rare Ebony Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons. </span>
 			<br><b>Ebony Odogaron Lash:</b> x2
-			<br><span><b>M★6</b> Very rare Glavenus material. Obtained by breaking its head. Sharp, used in many weapons. </span>
+			<br><span><b>M★4</b> Very rare Ebony Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear. </span>
 			<br><b>Ebony Odogaron Mantle:</b> x1
-			<br><span><b>M★3</b> Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear. </span>
+			<br><span><b>M★4</b> Very rare Ebony Odogaron material. Used to craft weapons powerful enough to take over the world. </span>
 			<br><b>Namielle Hardclaw:</b> x2
-			<br><span><b>M★6</b> Very rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons. </span>
+			<br><span><b>M★6</b> Very rare Namielle material. Obtained by breaking its forelegs. Sharp, used in many weapons. </span>
 			<br>56,000 🪙
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			<b>Bone Hatchet I</b>
 			<br> <b>Bone Hatchet II</b>
-			<br> <b>Madness Pangas I</b>
-			<br> <b>Madness Pangas II</b>
-			<br> Madness Pangas III
-			<br> Jyura Hatchets I
-			<br> Lava Cyclone I
-			<br> Lava Cyclone II
-			<br> Smoldering Cities
-			<br> Smoldering Cities +
-			<br> Smoldering Kingdoms
+			<br> <b>Pulsar Hatchets I</b>
+			<br> <b>Pulsar Hatchets II</b>
+			<br> Garon Hatchets I
+			<br> Garon Hatchets II
+			<br> Blood-drinker Chainblade
+			<br> Sin
+			<br> Sin+
+			<br> Nether Chainblades
+			<br> Death Row
 			</p>
 		</div>
 	</div>

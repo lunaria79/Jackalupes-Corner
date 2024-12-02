@@ -17,7 +17,7 @@
 	font-family: "Barlow", sans-serif;
 }
 
-div.callout , .mhw .column {
+.mhw .column {
 	float: left;
 	width: 50%;
 
@@ -32,7 +32,7 @@ div.callout , .mhw .column {
 
 	p.img {
 		text-align: center;
-		img { height: 150px !important; width: 150px !important; }
+		img { height: 150px !important; width: 150px !important; scale: 1.25; }
 	}
 
 	.card {
@@ -51,8 +51,8 @@ div.callout , .mhw .column {
 
 	.divider {
 		text-align: center; font-weight: 800;
-		color:  #a933cc;
-		margin: 0;
+		color:  rgb(var(--purple-tint));
+		margin: 0 !important;
 	}
 
 	.shopping { margin: 4px 0; text-align: left; }
