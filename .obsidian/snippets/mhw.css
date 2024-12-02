@@ -6,12 +6,11 @@
   /* Colors */
   --background-color: 30, 32, 48;
   --background-highlight: 30, 32, 48, .1;
-  --primary-color: 198, 160, 246;
   --text: 202, 211, 245;
   /* Tints */
-  --primary-tint: 198, 160, 246;
-  --secondary-tint: 245, 189, 230;
-  --tertiary-tint: 138, 173, 244;
+  --purple-tint: 198, 160, 246;
+  --pink-tint: 245, 189, 230;
+  --blue-tint: 138, 173, 244;
   /* Fonts */
   font-family: "Barlow", sans-serif;
 }
@@ -29,15 +28,15 @@
   background-image: none;
 }
 .mhw .column b {
-  color: rgb(var(--primary-tint));
+  color: rgb(var(--purple-tint));
 }
 .mhw .column span, .mhw .column i {
-  color: rgb(var(--tertiary-tint));
+  color: rgb(var(--blue-tint));
   font-size: 13px;
   font-style: italic;
 }
 .mhw .column span b, .mhw .column i b {
-  color: rgb(var(--secondary-tint));
+  color: rgb(var(--pink-tint));
 }
 .mhw .column p.img {
   text-align: center;
@@ -53,7 +52,7 @@
   border: 1px solid transparent !important;
 }
 .mhw .column .disc {
-  color: rgb(var(--secondary-tint));
+  color: rgb(var(--pink-tint));
   font-weight: 800;
   font-style: italic;
   margin-bottom: 0;

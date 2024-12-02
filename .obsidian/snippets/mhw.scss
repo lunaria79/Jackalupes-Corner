@@ -6,12 +6,11 @@
 	/* Colors */
 	--background-color: 30, 32, 48;
 	--background-highlight: 30, 32, 48, .1;
-	--primary-color: 198, 160, 246;
 	--text: 202, 211, 245;
 	/* Tints */
-	--primary-tint: 198, 160, 246;
-	--secondary-tint: 245, 189, 230;
-	--tertiary-tint: 138, 173, 244;
+	--purple-tint: 198, 160, 246;
+	--pink-tint: 245, 189, 230;
+	--blue-tint: 138, 173, 244;
 	/* Fonts */
 	font-family: "Barlow", sans-serif;
 }
@@ -23,10 +22,10 @@
 	&:nth-child(2) { float: right; }
 
 	h3 { color:  #a933cc;  -webkit-text-fill-color: unset; background-image: none; }	
-	b { color: rgb(var(--primary-tint)); }
+	b { color: rgb(var(--purple-tint)); }
 	span, i { 
-		color: rgb(var(--tertiary-tint)); font-size: 13px; font-style: italic; 
-		b { color: rgb(var(--secondary-tint)); }
+		color: rgb(var(--blue-tint)); font-size: 13px; font-style: italic; 
+		b { color: rgb(var(--pink-tint)); }
 	}
 
 	p.img {
@@ -41,7 +40,7 @@
 	}
 
 	.disc { 
-		color:  rgb(var(--secondary-tint));
+		color:  rgb(var(--pink-tint));
 		font-weight: 800; font-style: italic;
 		margin-bottom: 0; 
 	}
