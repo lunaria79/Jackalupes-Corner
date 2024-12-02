@@ -3,7 +3,7 @@ cssclasses:
   - mhw
   - code
 ---
-![](Images/MHWI-Dual_Blades_Render_025.webp)
+
 <div class="row">
 	<div class="column" >
 		<div class="card">
