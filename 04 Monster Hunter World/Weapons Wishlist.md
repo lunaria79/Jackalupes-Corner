@@ -117,6 +117,33 @@ cssclasses:
 			<br> Death Row
 			</p>
 		</div>
+		<div class="card" style="margin-top: 15px;">
+			<h3>Bergel Vetra</h3>
+			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Bergel%20Vetra.png"></p>
+			<p class="disc"> Proof of the hoarfrost's keeper. </p>
+			<p class="stats">
+			<b>Attack:</b> 378 <b>Element:</b> ❄️ 360  
+			<br> <b>Affinity:</b> 15%  
+			<br> <b>Decorations:</b> None 
+			<br> <b>Sharpness:</b> 🟣
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="shopping">
+			<br> <b>Frostfang Ticket:</b> x2
+			<br><span><b>M★6</b>Proof that you've hunted a tempered Frostfang Barioth. Bring it to the Smithy for a nice surprise! </span>
+			<br> <b>Silverwhite Frostfang:</b> x3
+			<br><span><b>M★5</b> Very rare Frostfang Barioth material. Obtained by breaking its head. Sharp, used in many weapons. </span>
+			<b>Bergcrusher Claw:</b> x1
+			<br><span><b>M★5</b>Very rare Frostfang Barioth material. Obtained as a reward and by carving. Sharp, used in many weapons. </span>
+			<br> <b>Gracium:</b> x5
+			<br><span><b>M★1</b> Ore from the Hoarfrost Reach. When the light catches this rare and useful metal it takes on a pale blue shine. </span>
+			<br>40,000 🪙
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="prereqs">
+			Bergel Vetra
+			</p>
+		</div>
 	</div>
 	
 	<div class="column" >
