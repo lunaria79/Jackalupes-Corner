@@ -144,8 +144,8 @@ cssclasses:
 			<b>Bone Hatchet I
 			<br> Bone Hatchet II
 			<br> Madness Pangas I
-			<br> Madness Pangas II</b> 
-			<br> Madness Pangas III
+			<br> Madness Pangas II 
+			<br> Madness Pangas III</b>
 			<br> Jyura Hatchets I
 			<br> Lava Cyclone I
 			<br> Lava Cyclone II
