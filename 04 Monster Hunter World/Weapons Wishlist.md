@@ -83,30 +83,30 @@ cssclasses:
 			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">
-			<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  
-			<br> <b>Affinity:</b> 20%  
-			<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
-			<br> <b>Sharpness:</b> 🟣
+				<b>Attack:</b> 378 <b>Element:</b> ☠️ 210  
+				<br> <b>Affinity:</b> 20%  
+				<br> <b>Decorations:</b> 1  <i>Level 3</i>  Slot  
+				<br> <b>Sharpness:</b> 🟣
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>Large Wyvern Gem:</b> x1
-			<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
-			<br><b>Fancy Beak:</b> x3
-			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
-			<br><b>Garuga Fellwing:</b> x2
-			<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
-			<br><b>Scratched Shell:</b> x3  
-			<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
-			<br>56,000 🪙
+				<b>Large Wyvern Gem:</b> x1
+				<br><span><b>M★1</b> A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer. </span>
+				<br><b>Fancy Beak:</b> x3
+				<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons. </span>
+				<br><b>Garuga Fellwing:</b> x2
+				<br><span><b>M★6</b> Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear. </span>
+				<br><b>Scratched Shell:</b> x3  
+				<br><span><b>M★6</b> Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material. </span>
+				<br>56,000 🪙
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			<b>Bone Hatchet I
 			<br> Bone Hatchet II
 			<br> Madness Pangas I
-			<br> Madness Pangas II</b> 
-			<br> Madness Pangas III
+			<br> Madness Pangas II
+			<br> Madness Pangas III</b> 
 			<br> Jyura Hatchets I
 			<br> Jyura Hatchets II
 			<br> Jyura Hatchets III
@@ -122,22 +122,22 @@ cssclasses:
 			</p>
 			<p class="disc"> Dance, engulfed in relentless red-hot flames. </p>
 			<p class="stats">
-			<b>Attack:</b> 364 <b>Element:</b> 🔥 240  
-			<br> <b>Affinity:</b> 0%  
-			<br> <b>Decorations:</b> 1  <i>Level 1</i>  Slot  
-			<br> <b>Sharpness:</b> 🟣
+				<b>Attack:</b> 364 <b>Element:</b> 🔥 240  
+				<br> <b>Affinity:</b> 0%  
+				<br> <b>Decorations:</b> 1  <i>Level 1</i>  Slot  
+				<br> <b>Sharpness:</b> 🟣
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<b>Pure Dragon Blood:</b> x3
-			<br><span><b>M★5</b> Elder dragon blood that contains a more potent mix of its mysterious ingredient. </span>
-			<br><b>Glavenus Hardfang:</b> x5
-			<br><span><b>M★6</b> Very rare Glavenus material. Obtained by breaking its head. Sharp, used in many weapons. </span>
-			<br><b>Glavenus Hellshell:</b> x4
-			<br><span><b>M★3</b> Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear. </span>
-			<br><b>Fire Dragon Hardclaw:</b> x2
-			<br><span><b>M★6</b> Very rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons. </span>
-			<br>56,000 🪙
+				<b>Pure Dragon Blood:</b> x3
+				<br><span><b>M★5</b> Elder dragon blood that contains a more potent mix of its mysterious ingredient. </span>
+				<br><b>Glavenus Hardfang:</b> x5
+				<br><span><b>M★6</b> Very rare Glavenus material. Obtained by breaking its head. Sharp, used in many weapons. </span>
+				<br><b>Glavenus Hellshell:</b> x4
+				<br><span><b>M★3</b> Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear. </span>
+				<br><b>Fire Dragon Hardclaw:</b> x2
+				<br><span><b>M★6</b> Very rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons. </span>
+				<br>56,000 🪙
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
