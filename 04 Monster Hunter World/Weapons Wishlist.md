@@ -182,7 +182,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
 			<b>Bone Hatchet I
-			<br> <b>Bone Hatchet II
+			<br> Bone Hatchet II
 			<br> Pulsar Hatchets I
 			<br> Pulsar Hatchets II
 			<br> Garon Hatchets I</b>
