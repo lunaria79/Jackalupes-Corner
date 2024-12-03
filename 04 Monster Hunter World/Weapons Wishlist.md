@@ -220,10 +220,11 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Dragon Twinblades</b> 
+			<b>Dragonbone Twinblades I
+			<br> Monarch </b>
+			<br> BELOW IS BROKEN ??
 			<br> Kirin Bolts
 			<br> Kirin Bolts+ 
-			<br> Monarch
 			<br> Wunderkirins
 			</p>
 		</div>
