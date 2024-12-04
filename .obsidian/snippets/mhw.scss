@@ -34,7 +34,8 @@
 
 	p.img {
 		text-align: center;
-		img { height: 150px; width: 150px; scale: 1.25; }
+		img { height: 150px; width: 150px; scale: 1.5; }
+		&.smaller img { scale: 1.15; }
 	}
 
 	.card {
@@ -46,7 +47,6 @@
 	.disc { 
 		color:  rgb(var(--pink-tint));
 		font-weight: 800; font-style: italic;
-		margin-bottom: 0; 
 	}
 
 	.divider {
@@ -55,14 +55,11 @@
 		margin: 0 !important;
 	}
 
-	.shopping { margin: 5px 0 !important; text-align: left; }
+	.shopping { text-align: left; }
 
 	.prereqs {
-		margin: 5px 0 !important;
 		color: rgb(var(--red-tint)); 
-		b { 
-			color: rgb(var(--green-tint)); 
-		}
+		b {  color: rgb(var(--green-tint));  }
 	}	
 }
 

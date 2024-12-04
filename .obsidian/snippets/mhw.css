@@ -50,7 +50,10 @@
 .mhw .column p.img img {
   height: 150px;
   width: 150px;
-  scale: 1.25;
+  scale: 1.5;
+}
+.mhw .column p.img.smaller img {
+  scale: 1.15;
 }
 .mhw .column .card {
   color: rgb(var(--text));
@@ -62,7 +65,6 @@
   color: rgb(var(--pink-tint));
   font-weight: 800;
   font-style: italic;
-  margin-bottom: 0;
 }
 .mhw .column .divider {
   text-align: center;
@@ -71,11 +73,9 @@
   margin: 0 !important;
 }
 .mhw .column .shopping {
-  margin: 5px 0 !important;
   text-align: left;
 }
 .mhw .column .prereqs {
-  margin: 5px 0 !important;
   color: rgb(var(--red-tint));
 }
 .mhw .column .prereqs b {

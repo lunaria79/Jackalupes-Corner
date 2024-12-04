@@ -49,7 +49,7 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<br> <b>Frostfang Ticket:</b> x2
+			<b>Frostfang Ticket:</b> x2
 			<br><span><b>M★6</b> Proof that you've hunted a tempered Frostfang Barioth. Bring it to the Smithy for a nice surprise! </span>
 			<br> <b>Silverwhite Frostfang:</b> x3
 			<br><span><b>M★5</b> Very rare Frostfang Barioth material. Obtained by breaking its head. Sharp, used in many weapons. </span>
@@ -74,11 +74,10 @@ cssclasses:
 			</p>
 		</div>
 	</div>
-	
 	<div class="column" >
 		<div class="card">
 			<h3>Wolf Tessen</h3>
-			<p class="img">
+			<p class="img smaller">
 			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png"/>
 			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
