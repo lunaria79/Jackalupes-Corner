@@ -30,6 +30,9 @@
   -webkit-text-fill-color: unset;
   background-image: none;
 }
+.mhw .column p {
+  margin: 5px 0 !important;
+}
 .mhw .column b {
   color: rgb(var(--purple-tint));
 }
@@ -61,9 +64,6 @@
   font-style: italic;
   margin-bottom: 0;
 }
-.mhw .column .stats {
-  margin: 5px 0;
-}
 .mhw .column .divider {
   text-align: center;
   font-weight: 800;
@@ -71,10 +71,11 @@
   margin: 0 !important;
 }
 .mhw .column .shopping {
-  margin: 4px 0;
+  margin: 5px 0 !important;
   text-align: left;
 }
 .mhw .column .prereqs {
+  margin: 5px 0 !important;
   color: rgb(var(--red-tint));
 }
 .mhw .column .prereqs b {

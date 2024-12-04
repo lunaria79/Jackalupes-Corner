@@ -17,7 +17,7 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="shopping">
-			<br><b>Dragonvein Crystal:</b> x6  
+			<b>Dragonvein Crystal:</b> x6  
 			<br><span><b>M★1</b> Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork. </span>
 			<br><b>Nova Crystal:</b> x2  
 			<br><span><b>M★4 Trailraider</b> High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking. </span>
@@ -79,7 +79,7 @@ cssclasses:
 		<div class="card">
 			<h3>Wolf Tessen</h3>
 			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png" style="scale: 1.05;">
 			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">

@@ -24,7 +24,8 @@
 
 	&:nth-child(2) { float: right; }
 
-	h3 { color:  rgb(var(--purple-tint));  -webkit-text-fill-color: unset; background-image: none; }	
+	h3 { color:  rgb(var(--purple-tint));  -webkit-text-fill-color: unset; background-image: none; }
+	p { margin: 5px 0 !important; }
 	b { color: rgb(var(--purple-tint)); }
 	span, i { 
 		color: rgb(var(--blue-tint)); font-size: 13px; font-style: italic; 
@@ -48,17 +49,16 @@
 		margin-bottom: 0; 
 	}
 
-	.stats { margin: 5px 0; }
-
 	.divider {
 		text-align: center; font-weight: 800;
 		color:  rgb(var(--purple-tint));
 		margin: 0 !important;
 	}
 
-	.shopping { margin: 4px 0; text-align: left; }
+	.shopping { margin: 5px 0 !important; text-align: left; }
 
 	.prereqs {
+		margin: 5px 0 !important;
 		color: rgb(var(--red-tint)); 
 		b { 
 			color: rgb(var(--green-tint)); 
