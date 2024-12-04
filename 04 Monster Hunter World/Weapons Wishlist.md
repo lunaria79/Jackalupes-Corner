@@ -42,7 +42,7 @@ cssclasses:
 			Carbalite Ore x5
 			<br> Coral Crystal x8
 			<br> Dragonvein Crystal x4
-			<br> Commendation x2
+			<b><br> Commendation x2 </b>
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
