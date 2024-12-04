@@ -79,7 +79,7 @@ cssclasses:
 		<div class="card">
 			<h3>Wolf Tessen</h3>
 			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png" style="scale: 1.05;">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png"/>
 			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">
