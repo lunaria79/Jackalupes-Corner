@@ -73,6 +73,40 @@ cssclasses:
 			<br>Bergel Vetra
 			</p>
 		</div>
+		<div class="card" style="margin-top: 15px;">
+			<h3>Wunderkirins</h3>
+			<p class="img">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wunderkirins.png">
+			</p>
+			<p class="disc"> Kirin dual blades worthy of the king of beasts, flashing like a bolt bridging land and sky. </p>
+			<p class="stats">
+			<b>Attack:</b> 336 <b>Element:</b> ⚡450  
+			<br> <b>Affinity:</b> 0%  
+			<br> <b>Decorations:</b> None 
+			<br> <b>Sharpness:</b> ⚪
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="shopping">
+			<b>Pure Crystal:</b> x1
+			<br><span><b>M★6</b> Very rare lightcrystal. Used by the forge workers to craft their tools due to its incredible hardness.</span>
+			<br><b>Kirin Finehide:</b> x4
+			<br><span><b>M★6</b> Very rare Kirin material. Mostly obtained by carving. Broadly used for many purposes. </span>
+			<br><b>Kirin Silvermane:</b> x3
+			<br><span><b>M★6</b> Very rare Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear. </span>
+			<br><b>Kirin Azure Horn+:</b> x3  
+			<br><span><b>M★5</b> Very rare Kirin material. Obtained by breaking its horn. Grants thunder element properties. </span>
+			<br>56,000 🪙
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="prereqs">
+			<b>Dragonbone Twinblades I
+			<br> Monarch </b>
+			<br> BELOW IS BROKEN ??
+			<br> Kirin Bolts
+			<br> Kirin Bolts+ 
+			<br> Wunderkirins
+			</p>
+		</div>
 	</div>
 	<div class="column" >
 		<div class="card">
@@ -192,39 +226,12 @@ cssclasses:
 			<br> Nether Chainblades
 			<br> Death Row
 			</p>
-		</div>
-		<div class="card" style="margin-top: 15px;">
-			<h3>Wunderkirins</h3>
-			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wunderkirins.png">
-			</p>
-			<p class="disc"> Kirin dual blades worthy of the king of beasts, flashing like a bolt bridging land and sky. </p>
-			<p class="stats">
-			<b>Attack:</b> 336 <b>Element:</b> ⚡450  
-			<br> <b>Affinity:</b> 0%  
-			<br> <b>Decorations:</b> None 
-			<br> <b>Sharpness:</b> ⚪
-			</p>
-			<p class="divider">-- -- -- -- --</p>
-			<p class="shopping">
-			<b>Pure Crystal:</b> x1
-			<br><span><b>M★6</b> Very rare lightcrystal. Used by the forge workers to craft their tools due to its incredible hardness.</span>
-			<br><b>Kirin Finehide:</b> x4
-			<br><span><b>M★6</b> Very rare Kirin material. Mostly obtained by carving. Broadly used for many purposes. </span>
-			<br><b>Kirin Silvermane:</b> x3
-			<br><span><b>M★6</b> Very rare Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear. </span>
-			<br><b>Kirin Azure Horn+:</b> x3  
-			<br><span><b>M★5</b> Very rare Kirin material. Obtained by breaking its horn. Grants thunder element properties. </span>
-			<br>56,000 🪙
-			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Dragonbone Twinblades I
-			<br> Monarch </b>
-			<br> BELOW IS BROKEN ??
-			<br> Kirin Bolts
-			<br> Kirin Bolts+ 
-			<br> Wunderkirins
+			Bone Hatchet I
+			<b> <br> Odogaron Claw
+			<br> Odogaron Tail
+			<br> Odogaron Plate </b>
 			</p>
 		</div>
 	</div>

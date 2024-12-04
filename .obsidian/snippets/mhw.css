@@ -1,5 +1,5 @@
 .mhw .markdown-preview-sizer.markdown-preview-section {
-  padding-bottom: 5px !important;
+  padding-bottom: 25px !important;
 }
 
 .mhw * {
@@ -18,6 +18,11 @@
   --file-line-width: 75%;
 }
 
+.mhw div.inline-title {
+  color: rgb(var(--pink-tint)) !important;
+  margin: 0;
+}
+
 .mhw .column {
   float: left;
   width: 50%;
@@ -32,6 +37,7 @@
 }
 .mhw .column p {
   margin: 5px 0 !important;
+  text-align: left;
 }
 .mhw .column b {
   color: rgb(var(--purple-tint));
