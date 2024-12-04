@@ -40,7 +40,7 @@ cssclasses:
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
 			<b>Carbalite Ore x5
-			 <br> Coral Crystal x8 </b>
+			 <br> Coral Crystal x8 
 			<br> Dragonvein Crystal x4
 			<br> Commendation x2 </b>
 			</p>
@@ -171,7 +171,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Carbalite Ore x5
+			<b> Carbalite Ore x5 </b>
 			<br> Jyuratodus Scale + x5
 			<br> Jyuratodus Carapace x4
 			<br> Jyuratodus Fin + x1
@@ -266,8 +266,8 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Quality Bone x5
-			<b> <br> Odogaron Claw x2
+			<b> Quality Bone x5
+			<br> Odogaron Claw x2
 			<br> Odogaron Tail x2
 			<br> Odogaron Plate x1 </b>
 			</p>
