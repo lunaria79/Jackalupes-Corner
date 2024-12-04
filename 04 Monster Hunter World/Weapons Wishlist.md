@@ -36,6 +36,14 @@ cssclasses:
 			<br> Sworn Rapiers +
 			<br>Holy Sabers
 			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			Carbalite Ore x5
+			<br> Coral Crystal x8
+			<br> Dragonvein Crystal x4
+			<br> Commendation x2
+			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
 			<h3>Bergel Vetra</h3>
@@ -72,6 +80,22 @@ cssclasses:
 			<br>Blizzarioths
 			<br>Bergel Vetra
 			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			Carbalite Ore x5
+			<br> Coral Crystal x8
+			<br> Dragonvein Crystal x4
+			<br> Commendation x2
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			Carbalite Ore x5
+			<br> Shamos Scale+ x5
+			<br> <b> Legiana Webbing x3
+			<br> Legiana Tail Webbing x2 </b>
+			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
 			<h3>Wunderkirins</h3>
@@ -105,6 +129,14 @@ cssclasses:
 			<br> Kirin Bolts
 			<br> Kirin Bolts+ 
 			<br> Wunderkirins
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			Carbalite Ore x5
+			<br> Kirin
+			<br> Kirin Silvermane x3
+			<br> Commendation x2
 			</p>
 		</div>
 	</div>
@@ -227,11 +259,12 @@ cssclasses:
 			<br> Death Row
 			</p>
 			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Bone Hatchet I
-			<b> <br> Odogaron Claw
-			<br> Odogaron Tail
-			<br> Odogaron Plate </b>
+			Quality Bone x5
+			<b> <br> Odogaron Claw x2
+			<br> Odogaron Tail x2
+			<br> Odogaron Plate x1 </b>
 			</p>
 		</div>
 	</div>
