@@ -40,7 +40,7 @@ cssclasses:
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
 			Carbalite Ore x5
-			<br> Coral Crystal x8
+			<b> <br> Coral Crystal x8 </b>
 			<br> Dragonvein Crystal x4
 			<b><br> Commendation x2 </b>
 			</p>
