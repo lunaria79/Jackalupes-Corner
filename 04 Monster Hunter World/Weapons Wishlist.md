@@ -133,10 +133,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Carbalite Ore x5
-			<br> Kirin
-			<br> Kirin Silvermane x3
-			<br> Commendation x2
+			???
 			</p>
 		</div>
 	</div>
@@ -179,6 +176,14 @@ cssclasses:
 			<br>Raven Tessen
 			<br> Wolf Tessen
 			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			Carbalite Ore x5
+			<br> Jyuratodus Scale + x5
+			<br> Jyuratodus Carapace x4
+			<br> Jyuratodus Fin + x1
+			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
 			<h3>Smoldering Kingdoms</h3>
@@ -217,6 +222,14 @@ cssclasses:
 			<br> Smoldering Cities
 			<br> Smoldering Cities +
 			<br> Smoldering Kingdoms
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			Carbalite Ore x5
+			<br> Jyuratodus Scale + x5
+			<br> Jyuratodus Carapace x4
+			<br> Jyuratodus Fin + x1
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
