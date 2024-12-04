@@ -39,10 +39,10 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Carbalite Ore x5
-			<b> <br> Coral Crystal x8 </b>
+			<b>Carbalite Ore x5
+			 <br> Coral Crystal x8 </b>
 			<br> Dragonvein Crystal x4
-			<b><br> Commendation x2 </b>
+			<br> Commendation x2 </b>
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
@@ -83,15 +83,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Carbalite Ore x5
-			<br> Coral Crystal x8
-			<br> Dragonvein Crystal x4
-			<br> Commendation x2
-			</p>
-			<p class="divider">-- -- -- -- --</p>
-			<p class="disc"> Currently Needed </p>
-			<p class="prereqs">
-			Carbalite Ore x5
+			<b> Carbalite Ore x5 </b>
 			<br> Shamos Scale+ x5
 			<br> <b> Legiana Webbing x3
 			<br> Legiana Tail Webbing x2 </b>
