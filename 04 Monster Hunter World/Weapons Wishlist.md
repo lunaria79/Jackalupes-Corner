@@ -32,17 +32,9 @@ cssclasses:
 			<b>Matched Slicers I
 			<br> Matched Slicers II
 			<br> Rending Beaks I
-			<br> Sworn Rapiers</b> 
-			<br> Sworn Rapiers +
+			<br> Sworn Rapiers
+			<br> Sworn Rapiers + </b> 
 			<br>Holy Sabers
-			</p>
-			<p class="divider">-- -- -- -- --</p>
-			<p class="disc"> Currently Needed </p>
-			<p class="prereqs">
-			<b>Carbalite Ore x5
-			 <br> Coral Crystal x8 
-			<br> Dragonvein Crystal x4
-			<br> Commendation x2 </b>
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
@@ -255,21 +247,13 @@ cssclasses:
 			<br> Bone Hatchet II
 			<br> Pulsar Hatchets I
 			<br> Pulsar Hatchets II
-			<br> Garon Hatchets I</b>
-			<br> Garon Hatchets II
+			<br> Garon Hatchets I
+			<br> Garon Hatchets II</b>
 			<br> Blood-drinker Chainblade
 			<br> Sin
 			<br> Sin+
 			<br> Nether Chainblades
 			<br> Death Row
-			</p>
-			<p class="divider">-- -- -- -- --</p>
-			<p class="disc"> Currently Needed </p>
-			<p class="prereqs">
-			<b> Quality Bone x5
-			<br> Odogaron Claw x2
-			<br> Odogaron Tail x2
-			<br> Odogaron Plate x1 </b>
 			</p>
 		</div>
 	</div>
