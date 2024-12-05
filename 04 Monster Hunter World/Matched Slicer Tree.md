@@ -29,12 +29,12 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Matched Slicers I
-			<br> Matched Slicers II
-			<br> Rending Beaks I
-			<br> Sworn Rapiers
-			<br> Sworn Rapiers + </b> 
-			<br>Holy Sabers
+			<b> 🔘Matched Slicers I
+			<br>🔘 Matched Slicers II
+			<br> 🔘Rending Beaks I
+			<br> 💦 Sworn Rapiers
+			<br> 💦 Sworn Rapiers + </b> 
+			<br>💦 Holy Sabers
 			</p>
 		</div>
 	</div>
@@ -63,12 +63,12 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b> Matched Slicers I
-			<br>Matched Slicers II
-			<br>Matched Slicers III
+			<b>🔘Matched Slicers I
+			<br>🔘Matched Slicers II
+			<br>🔘Matched Slicers III
 			<br>Luminous Daggers |
-			<br>Freeze Daggers I</b>
-			<br>Freeze Daggers II
+			<br>Freeze Daggers I
+			<br>Freeze Daggers II</b>
 			<br>Freeze Chain I
 			<br>Freeze Chain II
 			<br>Blizzarioths
@@ -77,10 +77,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<b> Carbalite Ore x5 </b>
-			<br> Shamos Scale+ x5
-			<br> <b> Legiana Webbing x3
-			<br> Legiana Tail Webbing x2 </b>
+			
 			</p>
 		</div>
 	</div>
