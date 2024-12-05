@@ -133,7 +133,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<b>Carbalite Ore x5</b>
+			<b>Carbalite Ore x5
 			<br> Jyuratodus Scale + x5 </b>
 			<br> Jyuratodus Carapace x4
 			<br> Jyuratodus Fin + x1
