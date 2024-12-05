@@ -55,7 +55,7 @@ cssclasses:
 			<br><span><b>M★6</b> Proof that you've hunted a tempered Frostfang Barioth. Bring it to the Smithy for a nice surprise! </span>
 			<br> <b>Silverwhite Frostfang:</b> x3
 			<br><span><b>M★5</b> Very rare Frostfang Barioth material. Obtained by breaking its head. Sharp, used in many weapons. </span>
-			<b>Bergcrusher Claw:</b> x1
+			<br><b>Bergcrusher Claw:</b> x1
 			<br><span><b>M★5</b> Very rare Frostfang Barioth material. Obtained as a reward and by carving. Sharp, used in many weapons. </span>
 			<br> <b>Gracium:</b> x5
 			<br><span><b>M★1</b> Ore from the Hoarfrost Reach. When the light catches this rare and useful metal it takes on a pale blue shine. </span>

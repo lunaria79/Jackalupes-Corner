@@ -46,10 +46,10 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<b> Carbalite Ore x5 
-			<br> Jyuratodus Scale + x5 </b>
-			<br> Jyuratodus Carapace x4
-			<br> Jyuratodus Fin + x1
+			<b> Gajau Scale x5 
+			<br> Jyuratodus Scale + x3 </b>
+			<br> Jyuratodus Carapace x2
+			<br> Jyuratodus Fin + x2
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
@@ -122,8 +122,8 @@ cssclasses:
 			<br> 🔘Bone Hatchet II
 			<br>💦 Madness Pangas I
 			<br>💦 Madness Pangas II
-			<br>💦 Madness Pangas III</b> 
-			<br> 💦Jyura Hatchets I
+			<br>💦 Madness Pangas III
+			<br> 💦Jyura Hatchets I </b> 
 			<br> 🔥Lava Cyclone I
 			<br>🔥 Lava Cyclone II
 			<br> 🔥Smoldering Cities
@@ -133,11 +133,6 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<b>Carbalite Ore x5
-			<br> Jyuratodus Scale + x5 </b>
-			<br> Jyuratodus Carapace x4
-			<br> Jyuratodus Fin + x1
-			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
 			<h3>Death Row</h3>
