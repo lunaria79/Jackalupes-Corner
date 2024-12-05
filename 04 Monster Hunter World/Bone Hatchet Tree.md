@@ -35,8 +35,8 @@ cssclasses:
 			<br> 🔘Bone Hatchet II
 			<br>💦 Madness Pangas I
 			<br>💦 Madness Pangas II
-			<br>💦 Madness Pangas III</b> 
-			<br> 💦Jyura Hatchets I
+			<br>💦 Madness Pangas III
+			<br> 💦Jyura Hatchets I</b> 
 			<br>💦 Jyura Hatchets II
 			<br>💦 Jyura Hatchets III
 			<br> 💦Jyura Keenblades I
@@ -46,10 +46,6 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<b> Gajau Scale x5 
-			<br> Jyuratodus Scale + x3 </b>
-			<br> Jyuratodus Carapace x2
-			<br> Jyuratodus Fin + x2
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
