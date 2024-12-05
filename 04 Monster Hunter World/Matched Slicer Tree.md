@@ -66,13 +66,13 @@ cssclasses:
 			<b>🔘Matched Slicers I
 			<br>🔘Matched Slicers II
 			<br>🔘Matched Slicers III
-			<br>Luminous Daggers |
-			<br>Freeze Daggers I
-			<br>Freeze Daggers II</b>
-			<br>Freeze Chain I
-			<br>Freeze Chain II
-			<br>Blizzarioths
-			<br>Bergel Vetra
+			<br>🔘Luminous Daggers |
+			<br>❄️Freeze Daggers I
+			<br>❄️Freeze Daggers II</b>
+			<br>❄️Freeze Chain I
+			<br>❄️Freeze Chain II
+			<br>❄️Blizzarioths
+			<br>❄️Bergel Vetra
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>

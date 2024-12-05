@@ -31,17 +31,17 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I
-			<br> Bone Hatchet II
-			<br> Madness Pangas I
-			<br> Madness Pangas II
-			<br> Madness Pangas III</b> 
-			<br> Jyura Hatchets I
-			<br> Jyura Hatchets II
-			<br> Jyura Hatchets III
-			<br> Jyura Keenblades I
-			<br>Raven Tessen
-			<br> Wolf Tessen
+			<b>🔘Bone Hatchet I
+			<br> 🔘Bone Hatchet II
+			<br>💦 Madness Pangas I
+			<br>💦 Madness Pangas II
+			<br>💦 Madness Pangas III</b> 
+			<br> 💦Jyura Hatchets I
+			<br>💦 Jyura Hatchets II
+			<br>💦 Jyura Hatchets III
+			<br> 💦Jyura Keenblades I
+			<br>☠️Raven Tessen
+			<br> ☠️Wolf Tessen
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
@@ -78,17 +78,16 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Dragonbone Twinblades I
-			<br> Monarch </b>
+			<b>🐲Dragonbone Twinblades I
+			<br> ⚡Monarch </b>
 			<br> BELOW IS BROKEN ??
-			<br> Kirin Bolts
-			<br> Kirin Bolts+ 
-			<br> Wunderkirins
+			<br>⚡ Kirin Bolts
+			<br>⚡ Kirin Bolts+ 
+			<br> ⚡Wunderkirins
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			???
 			</p>
 		</div>
 	</div>
@@ -119,22 +118,22 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I
-			<br> Bone Hatchet II
-			<br> Madness Pangas I
-			<br> Madness Pangas II 
-			<br> Madness Pangas III</b>
-			<br> Jyura Hatchets I
-			<br> Lava Cyclone I
-			<br> Lava Cyclone II
-			<br> Smoldering Cities
-			<br> Smoldering Cities +
-			<br> Smoldering Kingdoms
+			<b>🔘Bone Hatchet I
+			<br> 🔘Bone Hatchet II
+			<br>💦 Madness Pangas I
+			<br>💦 Madness Pangas II
+			<br>💦 Madness Pangas III</b> 
+			<br> 💦Jyura Hatchets I
+			<br> 🔥Lava Cyclone I
+			<br>🔥 Lava Cyclone II
+			<br> 🔥Smoldering Cities
+			<br>🔥 Smoldering Cities +
+			<br> 🔥Smoldering Kingdoms
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			Carbalite Ore x5
+			<b>Carbalite Ore x5</b>
 			<br> Jyuratodus Scale + x5
 			<br> Jyuratodus Carapace x4
 			<br> Jyuratodus Fin + x1
@@ -167,17 +166,21 @@ cssclasses:
 			</p>
 			<p class="divider">-- -- -- -- --</p>
 			<p class="prereqs">
-			<b>Bone Hatchet I
-			<br> Bone Hatchet II
-			<br> Pulsar Hatchets I
-			<br> Pulsar Hatchets II
-			<br> Garon Hatchets I
-			<br> Garon Hatchets II</b>
+			<b>🔘Bone Hatchet I
+			<br>🔘 Bone Hatchet II
+			<br>⚡ Pulsar Hatchets I
+			<br>⚡ Pulsar Hatchets II
+			<br>🔘 Garon Hatchets I
+			<br>🔥 Garon Hatchets II</b>
 			<br> Blood-drinker Chainblade
 			<br> Sin
 			<br> Sin+
 			<br> Nether Chainblades
 			<br> Death Row
+			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
 			</p>
 		</div>
 	</div>
