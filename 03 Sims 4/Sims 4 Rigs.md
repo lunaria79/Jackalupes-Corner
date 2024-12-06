@@ -33,9 +33,9 @@ Usopp
 + Formal
 + Athletic
 + Pajamas
-- Party
+! Party
 + Swimwear
-- Hot Weather
+! Hot Weather
 + Cold Weather
 ```
 
