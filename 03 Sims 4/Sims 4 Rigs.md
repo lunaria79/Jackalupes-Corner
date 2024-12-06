@@ -53,9 +53,9 @@ Luffy
 
 ```diff
 Sanji
-- Everyday
-- Formal
-- Athletic
+! Everyday
+! Formal
+! Athletic
 - Pajamas
 - Party
 - Swimwear
