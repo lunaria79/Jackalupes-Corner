@@ -29,6 +29,7 @@ Robin
 
 ```diff
 Usopp
+Idiot you forgot the key
 + Everyday
 + Formal
 + Athletic
