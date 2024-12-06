@@ -56,11 +56,11 @@ Sanji
 ! Everyday
 ! Formal
 ! Athletic
-- Pajamas
+! Pajamas
 - Party
 - Swimwear
 - Hot Weather
-- Cold Weather
+! Cold Weather
 ```
 
 ```diff
