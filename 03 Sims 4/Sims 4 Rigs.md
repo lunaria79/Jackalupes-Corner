@@ -29,7 +29,7 @@ Robin
 
 ```diff
 Usopp
-Idiot you forgot the key
+Idiot you forgot the key...
 + Everyday
 + Formal
 + Athletic
@@ -42,6 +42,7 @@ Idiot you forgot the key
 
 ```diff
 Luffy
+his lips crusty....
 + Everyday
 + Formal
 + Athletic
