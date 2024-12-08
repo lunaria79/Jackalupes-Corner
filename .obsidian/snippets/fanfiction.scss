@@ -1,0 +1,337 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+:root {
+	--bggray: #2e2e2e;
+}
+
+.fanfiction * {
+	/* Colors */
+	--bggray: #2e2e2e;
+	--hlgray: #333;
+	--bxshdw: #26262663;
+	--lupawhite: #f7eefd;
+	--lupared: #b35454;
+	--lupaorange: #cb9767;
+	--lupayellow: #c6c083;
+	--lupagreen: #80b377;
+	--lupablue: #47516c;
+	--lupapurple: #9d6fbd;
+	--lupapink: #b06d90;
+	--sex: #b8357b;
+}
+
+.fanfiction * {
+	/* Colors */
+	--background-color: 28, 28, 44;
+	--background-highlight: 32, 35, 53;
+	--primary-color: 243, 172, 208;
+	--text: 255, 255, 255;
+	/* Tints */
+	--primary-tint: 243, 172, 208;
+	--secondary-tint: 165, 214, 230;
+	--tertiary-tint: 213, 168, 233;
+	--yellow-tint: 222, 233, 165;
+	/* Sizes */
+	--large-radius: 20px;
+	--medium-radius: 10px;
+	--small-radius: 3px;
+	--file-line-width: 50%;
+	/* Fonts */
+	font-family: "Dosis", sans-serif;
+}
+
+/* ------------------------------------------ Reading Mode ------------------------------------------ */
+.markdown-preview-view.fanfiction {
+	padding: 10px;
+	background: var(--bggray);
+}
+
+.fanfiction .markdown-preview-section {
+	background: transparent;
+}
+
+:is(.markdown-preview-view.fanfiction, .markdown-rendered).is-readable-line-width:not(.matrix) .markdown-preview-sizer {
+	min-width: 50%;
+	padding-bottom: 25px !important;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+	max-width: var(--file-line-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.markdown-preview-sizer.markdown-preview-section.fanfiction {
+	padding-bottom: 10px !important;
+}
+
+.fanfiction {
+	font-family: "Nunito Sans", sans-serif;
+}
+
+/* ------------------------------------------ Editing Mode ------------------------------------------ */
+.markdown-source-view.mod-cm6 .cm-indent:nth-child(6n+1):before {
+	display: none;
+}
+
+/* ---------------------------------------- Title + Metadata ---------------------------------------- */
+.fanfiction div.inline-title {
+	color: var(--lupawhite);
+	text-align: center;
+	font-weight: 700;
+	margin-top: 10px;
+}
+
+/* ---------- Metadata Container ---------- */
+.fanfiction div.metadata-container {
+	padding: 15px;
+	border: none !important;
+	border-radius: 3px;
+	background-color: var(--hlgray) !important;
+	box-shadow: 2px 2px 1px var(--bxshdw) !important;
+}
+
+.fanfiction .metadata-properties-heading .collapse-indicator {
+	position: absolute;
+	left: -16px;
+	padding: 0 6px;
+}
+
+.fanfiction div.metadata-container.is-collapsed {
+	padding-bottom: 5px;
+}
+
+/* ---------- Metadata Categories ---------- */
+.fanfiction .metadata-property-key {
+	width: 165px;
+}
+
+.fanfiction .metadata-property-icon, .fanfiction .metadata-property-key-input {
+	color: var(--lupawhite) !important;
+	font-weight: 600 !important;
+}
+
+.fanfiction input.metadata-property-key-input {
+	width: 130px;
+	overflow: visible;
+}
+
+.fanfiction .metadata-property .multi-select-container {
+	padding: var(--size-4-1) var(--size-4-2);
+	overflow-wrap: break-word;
+}
+
+/* ----- Information ---- */
+.fanfiction .multi-select-pill {
+	text-decoration: none;
+}
+
+.fanfiction .metadata-property .multi-select-pill {
+	color: var(--lupawhite);
+	background: #454545b8 !important;
+	font-weight: 600;
+	text-decoration: none;
+	padding: 5px;
+	margin: 5px 3px;
+	border-radius: 0 5px 5px;
+	display: inline-block;
+}
+
+.fanfiction .multi-select-pill:hover {
+	cursor: pointer;
+}
+
+.fanfiction svg.svg-icon[class="svg-icon lucide-x"] {
+	display: none;
+}
+
+.fanfiction .metadata-property[data-property-key="Rating"] .metadata-property-value .multi-select-container .multi-select-pill {
+	background-color: var(--lupared) !important;
+}
+
+.fanfiction .metadata-property[data-property-key="Relationships"] .metadata-property-value .multi-select-container .multi-select-pill {
+	background-color: var(--lupapink) !important;
+}
+
+.fanfiction .metadata-property:is([data-property-key="tags"]) .multi-select-pill-content {
+	margin-left: 0;
+}
+
+.fanfiction .metadata-property:is([data-property-key="tags"]) .multi-select-pill {
+	color: var(--bggray);
+	background-color: var(--lupagreen) !important;
+}
+
+/* --------------------------------------------- Fanfic --------------------------------------------- */
+.fanfiction .title {
+	color: var(--lupapurple);
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 1.2;
+	text-align: center;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	-webkit-background-clip: text;
+	background-image: linear-gradient( var(--gradientDegree), var(--pink) 0, var(--purple) 100%);
+}
+
+.fanfiction .text {
+	color: var(--lupawhite);
+	margin-top: 5px;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.fanfiction .text {
+	text-align: justify;
+	font-size: 18px;
+}
+
+.fanfiction .divide {
+	text-align: center;
+	font-weight: bold;
+	color: var(--lupawhite);
+	font-family: "Nunito Sans", sans-serif;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	-webkit-background-clip: text;
+	background-image: linear-gradient( var(--gradientDegree), var(--pink) 0, var(--purple) 100%);
+}
+
+.fanfiction .msg-box {
+	border: 1px var(--lupawhite) solid;
+	padding: 15px;
+	width: 50%;
+	margin: auto;
+}
+
+.fanfiction .msg-box b {
+	color: var(--lupapurple);
+}
+
+/* --------------- Text Messages --------------- */
+/* QuickReset */
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.fanfiction .chat {
+	--rad: 10px;
+	--rad-sm: 3px;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+	max-width: 500px;
+	margin: auto;
+}
+
+.fanfiction .msg {
+	position: relative;
+	max-width: 75%;
+	padding: 7px 15px;
+	margin-top: 3px;
+	margin-bottom: 2px !important;
+	color: var(--lupawhite);
+	font-family: "DM Mono", monospace;
+	font-size: 14px;
+	box-shadow: 2px 2px 2px #0000003d;
+}
+
+.fanfiction .msg.sent {
+	border-radius: var(--rad) var(--rad-sm) var(--rad-sm) var(--rad);
+	background: #6d6d6d30;
+	/* moves it to the right */
+	margin-left: auto;
+}
+
+.fanfiction .msg.rcvd {
+	border-radius: var(--rad-sm) var(--rad) var(--rad) var(--rad-sm);
+	background: #00000030;
+	/* moves it to the left */
+	margin-right: auto;
+}
+
+.fanfiction .msg.sent:first-child, .fanfiction .msg.rcvd+.msg.sent {
+	margin-top: 20px;
+}
+
+.fanfiction .msg.rcvd:first-child, .fanfiction .msg.sent+.msg.rcvd {
+	margin-top: 20px;
+}
+
+.fanfiction .msg-notice {
+	font-weight: 800;
+	font-size: .75rem;
+	font-style: italic;
+	text-align: center;
+	margin: 10px 0;
+}
+
+/* Name */
+.fanfiction .msg::before {
+	content: attr(data-time);
+	font-size: 0.8rem;
+	font-weight: 600;
+	position: absolute;
+	bottom: 100%;
+	color: #fff;
+	white-space: nowrap;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	-webkit-background-clip: text;
+	background-image: linear-gradient( var(--gradientDegree), var(--pink) 0, var(--purple) 100%);
+	/* Hidden by default */
+	display: none;
+}
+
+.fanfiction .msg.sent::before {
+	right: 5px;
+}
+
+.fanfiction .msg.rcvd::before {
+	left: 5px;
+}
+
+/* Show time only for first message in group */
+.fanfiction .msg:first-child::before, .fanfiction .msg.sent+.msg.rcvd::before, .fanfiction .msg.rcvd+.msg.sent::before {
+	/* Show only for first message in group */
+	display: block;
+}
+
+.fanfiction .press {
+  font-family: "Titillium Web";
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}
+
+.fanfiction .pressbox {
+ border: 1px solid;
+ padding-top: 15px;
+ padding-bottom: 15px;
+}
+
+.fanfiction .tweet {
+  font-family: "Titillium Web";
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}
+
+.fanfiction .twtdivide {
+  display: block;
+  text-align: center;
+  font-family: "NunitoSans";
+  margin: -10px;
+}
