@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
 :root {
-  --bggray: #2e2e2e;
+  --background-color: 28, 28, 44;
 }
 
 .fanfiction * {
@@ -25,7 +25,6 @@
   /* Colors */
   --background-color: 28, 28, 44;
   --background-highlight: 32, 35, 53;
-  --primary-color: 243, 172, 208;
   --text: 255, 255, 255;
   /* Tints */
   --primary-tint: 243, 172, 208;
@@ -42,41 +41,19 @@
 }
 
 /* ------------------------------------------ Reading Mode ------------------------------------------ */
-.markdown-preview-view.fanfiction {
-  padding: 10px;
-  background: var(--bggray);
-}
-
-.fanfiction .markdown-preview-section {
-  background: transparent;
-}
-
-:is(.markdown-preview-view.fanfiction, .markdown-rendered).is-readable-line-width:not(.matrix) .markdown-preview-sizer {
-  min-width: 50%;
-  padding-bottom: 25px !important;
-}
-
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-  max-width: var(--file-line-width);
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.markdown-preview-sizer.markdown-preview-section.fanfiction {
-  padding-bottom: 10px !important;
-}
-
 .fanfiction {
   font-family: "Nunito Sans", sans-serif;
 }
-
-.fanfiction .markdown-preview-sizer.markdown-preview-section {
+.fanfiction.markdown-preview-view {
+  background: rgb(var(--background-color));
+}
+.fanfiction .markdown-preview-section {
   background-color: unset !important;
 }
 
 /* ---------------------------------------- Title + Metadata ---------------------------------------- */
 .fanfiction div.inline-title {
-  color: var(--lupawhite);
+  color: rgb(var(--text));
   text-align: center;
   font-weight: 700;
   margin-top: 10px;
@@ -87,8 +64,8 @@
   padding: 15px;
   border: none !important;
   border-radius: 3px;
-  background-color: var(--hlgray) !important;
-  box-shadow: 2px 2px 1px var(--bxshdw) !important;
+  background-color: rgb(var(--background-highlight)) !important;
+  box-shadow: 2px 2px 1px rgb(var(--background-shadow)) !important;
 }
 .fanfiction div.metadata-container .metadata-properties-title {
   color: rgb(var(--text));
