@@ -34,9 +34,9 @@ Idiot you forgot the key...
 + Formal
 + Athletic
 + Pajamas
-! Party
++ Party
 + Swimwear
-! Hot Weather
++ Hot Weather
 + Cold Weather
 ```
 
@@ -56,14 +56,14 @@ his lips crusty....
 ```diff
 Sanji
 eyelashes....
-! Everyday
-! Formal
-! Athletic
-! Pajamas
++ Everyday
++ Formal
++ Athletic
++ Pajamas
 - Party
 - Swimwear
 - Hot Weather
-! Cold Weather
++ Cold Weather
 ```
 
 ```diff
