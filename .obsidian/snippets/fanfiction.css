@@ -7,22 +7,6 @@
 
 .fanfiction * {
   /* Colors */
-  --bggray: #2e2e2e;
-  --hlgray: #333;
-  --bxshdw: #26262663;
-  --lupawhite: #f7eefd;
-  --lupared: #b35454;
-  --lupaorange: #cb9767;
-  --lupayellow: #c6c083;
-  --lupagreen: #80b377;
-  --lupablue: #47516c;
-  --lupapurple: #9d6fbd;
-  --lupapink: #b06d90;
-  --sex: #b8357b;
-}
-
-.fanfiction * {
-  /* Colors */
   --background-color: 24, 24, 37;
   --background-highlight: 35, 35, 53;
   --background-shadow: 24, 24, 40;
@@ -225,6 +209,9 @@
   color: rgb(var(--pink-tint));
   right: 5px;
 }
+.fanfiction .msg.sent + .msg.rcvd {
+  margin-top: 20px;
+}
 .fanfiction .msg.rcvd {
   border-radius: 3px;
   background: rgb(var(--background-highlight), 0.5);
@@ -232,27 +219,14 @@
   margin-right: auto;
 }
 .fanfiction .msg.rcvd::before {
-  color: rgb(var(--blue-tint));
+  color: rgb(var(--green-tint));
   left: 5px;
 }
-
-.fanfiction .msg.sent:first-child, .fanfiction .msg.rcvd + .msg.sent {
+.fanfiction .msg.rcvd + .msg.sent {
   margin-top: 20px;
 }
 
-.fanfiction .msg.rcvd:first-child, .fanfiction .msg.sent + .msg.rcvd {
-  margin-top: 20px;
-}
-
-.fanfiction .msg-notice {
-  font-weight: 800;
-  font-size: 0.75rem;
-  font-style: italic;
-  text-align: center;
-  margin: 10px 0;
-}
-
-/* Show time only for first message in group */
+/* Show name only for first message in group */
 .fanfiction .msg:first-child::before, .fanfiction .msg.sent + .msg.rcvd::before, .fanfiction .msg.rcvd + .msg.sent::before {
   /* Show only for first message in group */
   display: block;
