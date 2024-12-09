@@ -122,5 +122,10 @@
   "04 Monster Hunter World/Images/Death Row.png": "FasImage",
   "04 Monster Hunter World/Images/Wolf Tessen.png": "FasImage",
   "04 Monster Hunter World/Images/Wunderkirins.png": "FasImage",
-  "03 Sims 4/Images/Instructions_Ultrasound-14.jpg": "FasImage"
+  "03 Sims 4/Images/Instructions_Ultrasound-14.jpg": "FasImage",
+  "02 These Lyrics Will Write Themselves/00 - Table of Contents.md": "FasFileLines",
+  "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
+  "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md": "FasFileLines",
+  "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
+  "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md": "FasFileLines"
 }
