@@ -24,8 +24,8 @@
 .fanfiction * {
   /* Colors */
   --background-color: 24, 24, 37;
-  --background-highlight: 37, 37, 58;
-  --background-shadow: 24, 24, 37;
+  --background-highlight: 35, 35, 53;
+  --background-shadow: 24, 24, 40;
   --text: 255, 255, 255;
   /* Tints */
   --red-tint: 243, 139, 168;
@@ -35,6 +35,7 @@
   --aqua-tint: 137, 220, 235;
   --blue-tint: 137, 180, 250;
   --purple-tint: 203, 166, 247;
+  --pink-tint: 245, 194, 231;
   /* Sizes */
   --large-radius: 20px;
   --medium-radius: 10px;
@@ -68,7 +69,7 @@
   padding: 15px;
   border: none !important;
   border-radius: 3px;
-  background-color: rgb(var(--background-highlight), 0.5) !important;
+  background-color: rgb(var(--background-highlight)) !important;
   box-shadow: 25px 25px rgb(var(--background-shadow)) !important;
 }
 .fanfiction div.metadata-container .metadata-properties-title {
@@ -77,8 +78,7 @@
 .fanfiction div.metadata-container.is-collapsed {
   padding-bottom: 5px;
 }
-
-.fanfiction .metadata-properties-heading .collapse-indicator {
+.fanfiction div.metadata-container .metadata-properties-heading .collapse-indicator {
   position: absolute;
   left: -16px;
   padding: 0 6px;
@@ -106,21 +106,18 @@
 
 /* ----- Information ---- */
 .fanfiction .multi-select-pill {
-  text-decoration: none;
-}
-
-.fanfiction .metadata-property .multi-select-pill {
   color: rgb(var(--text));
-  background: rgba(69, 69, 69, 0.7215686275) !important;
   font-weight: 600;
-  text-decoration: none;
+  background: rgb(var(--background-color), 0.4) !important;
+  text-decoration: none !important;
   padding: 5px;
   margin: 5px 3px;
   border-radius: 0 5px 5px;
   display: inline-block;
 }
-
 .fanfiction .multi-select-pill:hover {
+  color: rgb(var(--pink-tint));
+  background: rgb(var(--background-color), 0.4) !important;
   cursor: pointer;
 }
 
