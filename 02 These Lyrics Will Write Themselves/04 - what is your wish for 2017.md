@@ -4,6 +4,7 @@ cssclasses:
 Previous Chapter:
   - "[[03 - are you a girl or a boy]]"
 Next Chapter:
+  - "[[05 - a fandom is a reflection of the artist]]"
 ---
 <p class="title">what is your wish for 2017?</p>
 <p class="text">Jimin was wide eyed and bushy tailed the entire time they were in the car, and Jungkook was probably going slowly insane. "Why can't you tell me anything about him?" He pouted, holding onto his stuffed dog and wondering if he should call Taehyung. On the off chance that Yoongi was going to have him brutally tortured and killed back in his apartment, at least his best friend would know it was all his fault for setting up a profile for him on Seeking Arrangement.</p>
