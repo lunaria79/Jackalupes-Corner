@@ -160,6 +160,13 @@
 	flex-direction: column;
 	padding: 20px; margin: auto;
 	max-width: 500px;
+
+	.info {
+		margin: 10px 0 5px 0;
+		color: rgb(var(--blue-tint));
+		font-family: "DM Mono", monospace; font-size: 14px;
+		text-align: center; font-style: italic;
+	}
 }
 
 .fanfiction .msg {

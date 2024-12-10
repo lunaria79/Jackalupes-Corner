@@ -175,6 +175,14 @@
   margin: auto;
   max-width: 500px;
 }
+.fanfiction .chat .info {
+  margin: 10px 0 5px 0;
+  color: rgb(var(--blue-tint));
+  font-family: "DM Mono", monospace;
+  font-size: 14px;
+  text-align: center;
+  font-style: italic;
+}
 
 .fanfiction .msg {
   position: relative;

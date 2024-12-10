@@ -34,27 +34,40 @@ Next Chapter: []
 	<div data-time="PARK.J" class="msg rcvd"> and thats ok.  </div>
 	<div data-time="PARK.J" class="msg rcvd"> itll probably be a late night for you again...  </div>
 	<div data-time="MIN.Y" class="msg sent"> I was busy with the boys earlier. They're at an interview now. </div>
-	<div data-time="MIN.Y" class="msg sent">  MIN.Y is typing...</div>
+	<div  class="info">  MIN.Y is typing...</div>
 	<div data-time="MIN.Y" class="msg sent"> Are you upset?  </div>
 </div>
 <p class="text">He was, because Yoongi worked himself like a dog and Jimin never got to talk to him. For someone who was essentially being paid to talk to Yoongi, he wasn't really doing a very good job, and he felt guilty even looking at his account balance. That amount of money? Just to accompany the producer?</p>
 <p class="text">Mostly when he was dead asleep?</p>
 <p class="text">For someone who was surrounded by people, Yoongi was amazingly touch starved. It was all in the little things he did; the way he leaned into Jimin as they exchanged greetings in the morning, the way his hand lingered on Jimin's shoulder when he was leaving the house for work. There had even been one time where the producer had been so massively out of it by the time he was done at the office that he'd butted his head against Jimin's hand whenever it stilled, just so that Jimin would continue patting his head.</p>
 <p class="text">And sure, it was cute, but it was also very, very bizarre that Jimin was essentially earning a pay check just by putting Yoongi to bed.</p>
-<p class="msg"><b>PARK.J:</b> what makes you say that</p>
-<p class="msg"><b>MIN.Y:</b> You use fullstops when you're upset.</p>
-<i><p class="msg">MIN.Y is typing...</p></i>
-<p class="msg"><b>MIN.Y:</b> I'm sorry if I upset you.</p>
-<i><p class="msg">MIN.Y is typing...</p></i>
-<p class="msg"><b>MIN.Y:</b> Did I do something wrong?</p>
+<div class="chat">
+	<div data-time="PARK.J" class="msg rcvd">  what makes you say that </div>
+	<div data-time="MIN.Y" class="msg sent"> You use fullstops when you're upset.</div>
+	<div  class="info">  MIN.Y is typing...</div>
+	<div data-time="MIN.Y" class="msg sent"> I'm sorry if I upset you.</div>
+	<div  class="info">  MIN.Y is typing...</div>
+	<div data-time="MIN.Y" class="msg sent"> Did I do something wrong? </div>
+	<div  class="info">  MIN.Y is typing...</div>
+</div>
 <p class="text">Oh my god. Jimin couldn't even stay upset at this man in peace, it was fucking mind-blowing. In the first place, it was obvious how attentive Yoongi was, to figure out something like that even though they hadn't talked much. The producer paid Jimin a metric fuck ton of money--- Technically, even Jimin felt like the man didn't have to give a shit about him and how he felt. Yet, Yoongi had been nothing but considerate and generous with Jimin, who still felt like a stranger in someone else's home. Sinking down on the couch with his phone and his grapes, Jimin chewed his lip nervously.</p>
-<p class="msg"><b>PARK.J:</b> no no</p>
-<p class="msg"><b>PARK.J:</b> you didnt, I swear</p>
-<p class="msg"><b>PARK.J:</b> I just</p>
-<p class="msg"><b>PARK.J:</b> idk</p>
-<p class="msg"><b>PARK.J:</b> I wish we.. talked a little more??</p>
-<i><p class="msg">MIN.Y is typing...</p></i>
+<div class="chat">
+	<div data-time="PARK.J" class="msg rcvd">  no no </div>
+	<div data-time="PARK.J" class="msg rcvd">  you didnt, I swear </div>
+	<div data-time="PARK.J" class="msg rcvd"> I just </div>
+	<div data-time="PARK.J" class="msg rcvd">  idk </div>
+	<div data-time="PARK.J" class="msg rcvd">  I wish we.. talked a little more?? </div>
+	<div  class="info">  MIN.Y is typing...</div>
+</div>
 <p class="text">Jesus, he felt guilty even typing that. Especially knowing how busy Yoongi was and how much he cared about his boys. Most of the past 5 days, Yoongi had fallen asleep still talking about something Cheolmin had said to set Joon-ki off again, or how Seojun was a good leader and hyung for caring about Ki-ha and taking charge of the group when they got rowdy.</p>
+<div class="chat">
+	<div data-time="PARK.J" class="msg rcvd">  no no </div>
+	<div data-time="PARK.J" class="msg rcvd">  you didnt, I swear </div>
+	<div data-time="PARK.J" class="msg rcvd"> I just </div>
+	<div data-time="PARK.J" class="msg rcvd">  idk </div>
+	<div data-time="PARK.J" class="msg rcvd">  I wish we.. talked a little more?? </div>
+	<div  class="info">  MIN.Y is typing...</div>
+</div>
 <i><p class="msg">MIN.Y is typing...</p></i>
 <p class="msg"><b>PARK.J:</b> I didnt mean it</p>
 <p class="msg"><b>PARK.J:</b> I know you're busy and its hard work</p>
