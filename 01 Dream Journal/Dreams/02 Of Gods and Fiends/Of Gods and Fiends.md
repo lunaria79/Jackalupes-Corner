@@ -4,7 +4,7 @@ cssclasses:
   - gods-and-fiends
 tags:
   - dream
-Completed: false
+Completed: true
 Home:
   - "[[Dream Journal Home Page]]"
 ---
