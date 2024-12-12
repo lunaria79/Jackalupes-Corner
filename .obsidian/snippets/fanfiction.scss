@@ -220,3 +220,29 @@
 	/* Show only for first message in group */
 	display: block;
 } 
+
+.press {
+  font-family: "Titillium", monospace;
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}
+.pressbox {
+ border: 1px solid;
+ padding-top: 15px;
+ padding-bottom: 15px;
+}
+.tweet {
+  font-family: "Titillium", monospace;
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0.83em 0;
+  width: 85%;
+  margin: auto;
+}

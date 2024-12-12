@@ -61,20 +61,14 @@ Next Chapter: []
 </div>
 <p class="text">Jesus, he felt guilty even typing that. Especially knowing how busy Yoongi was and how much he cared about his boys. Most of the past 5 days, Yoongi had fallen asleep still talking about something Cheolmin had said to set Joon-ki off again, or how Seojun was a good leader and hyung for caring about Ki-ha and taking charge of the group when they got rowdy.</p>
 <div class="chat">
-	<div data-time="PARK.J" class="msg rcvd">  no no </div>
-	<div data-time="PARK.J" class="msg rcvd">  you didnt, I swear </div>
-	<div data-time="PARK.J" class="msg rcvd"> I just </div>
-	<div data-time="PARK.J" class="msg rcvd">  idk </div>
-	<div data-time="PARK.J" class="msg rcvd">  I wish we.. talked a little more?? </div>
+	<div  class="info">  MIN.Y is typing...</div>
+	<div data-time="PARK.J" class="msg rcvd">  I didnt mean it </div>
+	<div data-time="PARK.J" class="msg rcvd">  I know you're busy and its hard work </div>
+	<div data-time="PARK.J" class="msg rcvd"> and it must be really hard, so I didnt want to say anything or add to your stress </div>
+	<div data-time="PARK.J" class="msg rcvd"> i just thought itd be nice, if we could sit down together </div>
+	<div data-time="PARK.J" class="msg rcvd"> maybe have a meal together.. </div>
 	<div  class="info">  MIN.Y is typing...</div>
 </div>
-<i><p class="msg">MIN.Y is typing...</p></i>
-<p class="msg"><b>PARK.J:</b> I didnt mean it</p>
-<p class="msg"><b>PARK.J:</b> I know you're busy and its hard work</p>
-<p class="msg"><b>PARK.J:</b> and it must be really hard, so I didnt want to say anything or add to your stress</p>
-<p class="msg"><b>PARK.J:</b> i just thought itd be nice, if we could sit down together</p>
-<p class="msg"><b>PARK.J:</b> maybe have a meal together..</p>
-<i><p class="msg">MIN.Y is typing...</p></i>
 <p class="text">Groaning, Jimin tossed his phone on the couch and curled up on his side, the bowl set just beneath his head on soft, plush leather. Blinking wearily, he waited for Yoongi's response, and was surprised when his phone began to vibrate with a call. Picking it up, his eyes widened to see Yoongi's waiting face on the screen of his camera, his brows pinched into a worried frown. Sitting up abruptly, Jimin cleared his throat and checked his hair in the reflection of the television before he accepted the call.</p>
 <p class="text">"Yoongi," he smiled into the camera. "Is everything okay?"</p>
 <p class="text">"Everything's fine," Yoongi said quietly. It looked like he was in his studio; there were posters on the walls and a ton of equipment on a table behind him. In front of him, a boxed lunch was unopened, with chopsticks placed on top of it. The producer was dressed down in a hoodie; he hadn't had any appointments today--- Jimin remembered what he was told in the morning before Yoongi left. "I just wanted to see you," Yoongi said bluntly, making Jimin flush with a small grin. "I was worried when I read your texts..."</p>
