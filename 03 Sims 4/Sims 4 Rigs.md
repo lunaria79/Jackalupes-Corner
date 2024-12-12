@@ -3,8 +3,7 @@ cssclasses:
   - code
 ---
 ## One Piece
-```diff
-Nami
+```diff fold file:Nami
 + Everyday
 + Formal
 + Athletic
@@ -15,8 +14,7 @@ Nami
 + Cold Weather
 ```
 
-```diff
-Robin
+```diff fold file:Robin
 + Everyday
 + Formal
 + Athletic
@@ -27,8 +25,7 @@ Robin
 + Cold Weather
 ```
 
-```diff
-Usopp
+```diff fold file:Usopp
 Idiot you forgot the key...
 + Everyday
 + Formal
@@ -40,8 +37,7 @@ Idiot you forgot the key...
 + Cold Weather
 ```
 
-```diff
-Luffy
+```diff fold file:Luffy
 his lips crusty....
 + Everyday
 + Formal
@@ -53,8 +49,7 @@ his lips crusty....
 + Cold Weather
 ```
 
-```diff
-Sanji
+```diff fold file:Sanji
 eyelashes....
 + Everyday
 + Formal
@@ -66,8 +61,7 @@ eyelashes....
 + Cold Weather
 ```
 
-```diff
-Zoro
+```diff unfold file:Zoro
 - Everyday
 - Formal
 - Athletic

@@ -7,4 +7,4 @@
 - [ ] Gabe
 - [ ] Dess (PLANNED) (AELI HURRY UP)
 - [ ] Jenny
-- [ ] Sandra (LIKE 80% DONE)
+- [x] Sandra
