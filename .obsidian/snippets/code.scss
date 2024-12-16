@@ -138,8 +138,6 @@
 	margin-top: var(--p-spacing) !important;
 }
 
-
-
 /* ----- Checkboxes ----- */
 ul.contains-task-list {
 	li.is-checked input:after {
@@ -181,9 +179,10 @@ ul.contains-task-list {
 
 /* --- Markdown --- */
 .code .language-md {
-	background: red;
+	margin-bottom: 10px !important;
 	.token.punctuation { color: unset; }
 	.token.list.punctuation { color: var(--list-marker-color); }
+	.token.bold { color: var(--list-marker-color); }
 	.token.italic { color: rgb(var(--ctp-italic, var(--ctp-green))); }
 	.token.strike { color: rgb(var(--ctp-strikethrough, var(--ctp-maroon))); text-decoration: line-through; }
 }

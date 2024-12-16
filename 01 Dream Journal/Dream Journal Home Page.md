@@ -27,23 +27,23 @@ cssclasses:
 # Themes
 1. [themes](Stage%20Files/themes.md)
 # To Write
-#### Prison for the Rich and Famous
-The A/B/O Prison one
-#### Gay Pirates
-Two rival pirate captains get stuck in a death tower on a deserted(?) island and end up trauma bonding. The crews hate dad's side of the family (they are both dad's side of the family)
-#### Space Pirates
-Space pirates land on a tropical port town, pull off a heist and shepherd a rich girl back to daddy. The rich girl falls in love with the captain, but he only has eyes for his second mate. The second mate has her eyes on the prize.
-![](Stage%20Files/images/space%20pirates.jpg)
-#### once  again i still characters from fanfiction
-you cannot stop me pbk or ctsy
-#### ice dragon king
+```md unfold file:various-loose-ideas
+- The A/B/O Prison one
+- Two rival pirate captains get stuck in a death tower on a deserted(?) island and end up trauma bonding. The crews hate dad's side of the family (they are both dad's side of the family)
+- Space pirates land on a tropical port town, pull off a heist and shepherd a rich girl back to daddy. The rich girl falls in love with the captain, but he only has eyes for his second mate. The second mate has her eyes on the prize.
+- you cannot stop me pbk or ctsy
+```
+
+```md unfold file:unamed-dragons
 1. a village protected by a water dragon is sieged by an artificial eternal winter,  and attacked by an enemy faction.
 2. they are lead to safety by the village warrior (big buff guy) and their weaking water dragon in human form (blue haired twink).
 3. Shit happens, romantic tension, people die.
 4. When the reach their final destination, the water dragon slinks off into the wilderness and freezes to death. The warrior finds him and kisses his corpse, bringing him back to life with the firey passion of love or whatever.
 5. it's not necrophilia, he wasn't technically dead. water dragons are like vampires in the cold.
 6. the water dragon is reborn as an ice dragon and they live happily ever after or whatever.
-#### omg magical creatures again?
+```
+
+```md unfold file:Chrystanthamum
 1. In this world,  magical creatures live in groups called covens. Prone to war, each coven has a coalition of guards called "protectors" that are the first line of defense against any  enemy attacks. This story focuses on a coven of outcasts, consisting of 6 core members, 3 adolescents and 3 protectors.
 2. The core members consist of a necromancer, an animal witch, an all-seeing sphinx, a harpy, a Xana (siren, spain) , an Echidna (snake woman, greek) and a **...** The protectors are a Phoenix, a Hippogriff and a Ki-Rin. The three children are were-beast siblings. The younger sister being 8 and mouthy, the older sister being 12 and deaf, and the older brother being 16 and emo. This story focus is between the love story between the Phoenix and the Necromancer. And the heartbreak of the Animal Witch.
 3. This coven is currently attending a Solstice Party, navigating interpersonal drama and the talks of war. While this coven is viewed as unimportant, they were invited as an example to other dissenting covens of what might happen to them if the oppose those who were more powerful.
@@ -51,9 +51,10 @@ you cannot stop me pbk or ctsy
 5. Instead of networking, this coven decided to sit together to tell stories and play games. It eventually turns into an impromptu fashion show with the Harpy's magic trunk. While not participating, the Necromancer made sure to compliment everyone and clap excitedly when they found outfits they liked. Even the Protectors participated, caving to the jovial nature of the coven.
 6. Eventually, this coven's protectors are challenged to a game of dodge ball soccer. Due to it being by a much more powerful coven, they could not refuse. The say their goodbyes and leave. The chatting between the coven continues. At one point, the necromancer notices that the children are getting into a dispute with the coven that challenged hers, and started to get up to go rescue them. 
 7. This coven is the only one to announce that they will not be participating in the upcoming war.
-
- Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
+8. Our coven's guards are forced into a 8 v 3 by a more powerful coven to embarrass us. While the guards kick ass, the rest of the coven chats leisurely amongst themselves.
+```
  #### Superhero Split Timelines
+ ```md unfold file:various-loose-ideas
  We got a gang of superheroes that all use electricity powers.
 - Rowan, (michael reeves with tubbos died blonde hair, filipino) uses a katana to channel his electricity. He can also fly and has super athletics.
 - ???, (tall ice prince from OHSHC), Electricity flows throw his rings. Increased intelligence, brains of the operations. has contingency plans for almost everything.
@@ -61,6 +62,7 @@ you cannot stop me pbk or ctsy
 - ??? (tall, wiry with brown hair, norway), Mostly normal human, but with increased luck. Dating April.
 - ??? (qtcinderlla, LA), Normal human, social media manager and getaway driver. the millennial in the group of gen z
 - And then the MC, Ryan who has the potential for awakening with powers.
+```
 
 | Timeline A                                                                                                                                                                                                                                                                                          | Timeline B                                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,20 +71,14 @@ you cannot stop me pbk or ctsy
 | She bumps into a kind woman at the front steps, and ends up chatting with her. They end up chatting about her passion for art and go to view the gallery together.                                                                                                                                  | She bumps into a kind woman at the front steps, and ends up chatting with her. They end up chatting about her passion for architecture and go to view the gallery together.                                                                                                                                   |
 | The kind woman ends up knowing the runners of the EXPO, and goes to introduce her to them. They chat together happily for a while, about art and politics, and Ryan later excuses herself to go view the rest of the gallery.                                                                       | The kind woman ends up knowing the runners of the EXPO, and goes to introduce her to them. They are friendly, but react to her like they have seen a ghost. Due to the awkwardness,  Ryan ends up leaving to view the gallery alone.                                                                          |
 | Ryan runs in to two workers in the back hall, and helps the woman with gathering the chairs. She finds herself annoyed that the man is focusing on the computer, instead of helping the woman whose struggling with the stacking. He receives many dirty looks, until its time for Ryan to go home. | Ryan ends in the back hall where two workers, who are very surprised to see a guest appear, are struggling to stack chairs. She stops to assist them, at chats with them for a little while, learning their names. Realizing she is late to meet her mother at the bookstore, she excuses herself and leaves. |
+
 Remember:
 1. In the first timeline, Ryan meets Rowan, and gets swept up in a impromptu superhero mission. The two end up being separated from the rest of the group, and captured. They get tortured, and Ryan suffers the worst of it, (being human and all). Rowan eventually escapes with Ryan's help. And to get her out, has to turn himself in to the police, who was behind this whole mess. ??? Picks her up in her car, and Ryan ends up falling asleep. (Timeline ends.)
-#### reviving the failed coup
 ```md unfold file:reviving-the-failed-coup
-- the world is a mixture of european and chinese cultivation fantasy. (the bad guys are european)
+- the world is a mixture of european and chinese cultivation fantasy. **(the bad guys are european)**
 1. it was a fantasy world, where years before there was a fail coup, and for the prologue we follow the last imperial mage who worked for the coup and the princess that he ~~stole~~ rescued
 2. And he's raising her to use magic and to hate facism and is over all a really cool dude. And they live in this giant sentient tree whose also gotten in on the child rearing 
 3. and the prologue skips around to different stages of the MC's life, and when her magic settled in her specialty she was able to create powerful weapons without depleting her mana nearly at all 
-4. and when she turned 18, the royal army or whatever came to kill her, and the mage sacrificed himself by suicide bombing and killed like, half of the army (go dad!) and it was very sad and the background music fit the mood perfectly
+4. and when she turned 18, the royal army or whatever came to kill her, and the mage sacrificed himself by suicide bombing and killed like, half of the army **(go dad!)** and it was very sad and the background music fit the mood perfectly
 5. and then i fucking woke up right when the princess ran into the general of the army who killed her dad, as the said general was *wearing parts of his clothes like a trophy*
 ```
-- the world is a mixture of european and chinese cultivation fantasy. (the bad guys are european)
-1. it was a fantasy world, where years before there was a fail coup, and for the prologue we follow the last imperial mage who worked for the coup and the princess that he ~~stole~~ rescued
-2. And he's raising her to use magic and to hate facism and is over all a really cool dude. And they live in this giant sentient tree whose also gotten in on the child rearing 
-3. and the prologue skips around to different stages of the MC's life, and when her magic settled in her specialty she was able to create powerful weapons without depleting her mana nearly at all 
-4. and when she turned 18, the royal army or whatever came to kill her, and the mage sacrificed himself by suicide bombing and killed like, half of the army (go dad!) and it was very sad and the background music fit the mood perfectly
-5. and then i fucking woke up right when the princess ran into the general of the army who killed her dad, as the said general was *wearing parts of his clothes like a trophy*
