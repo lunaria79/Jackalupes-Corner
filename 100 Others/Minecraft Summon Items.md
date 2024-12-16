@@ -47,15 +47,14 @@ tags:
 
 
 ## Tools
-> [!infobox ]+   Pickaxes
-> Silk Touch
-> ```css
->/give @p netherite_pickaxe{display:{Name:"\"Silky\""},Enchantments:[{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
->```
->Fortune
-> ```css
-> /give @p netherite_pickaxe{display:{Name:"\"Fortuna\""},Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
->```
+```java unfold file:Silk-Touch-Pickaxe
+/give @p netherite_pickaxe{display:{Name:"\"Silky\""},Enchantments:[{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+```
+
+```java unfold file:Fortune-Pickaxe
+/give @p netherite_pickaxe{display:{Name:"\"Fortuna\""},Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
+```
+
 
 ## Mobs
 > [!infobox ]+   Aether
@@ -68,9 +67,10 @@ tags:
 >/give @p minecraft:player_head{display:{Name:'{"text":"Technoblade","color":"gold","underlined":true,"bold":true,"italic":false}',Lore:['{"text":"Player Head ID: 31373","color":"gray","italic":false}','{"text":"www.minecraft-heads.com","color":"blue","italic":false}']},SkullOwner:"Technoblade"} 1
 >```
 ## Armor
->[!infobox]+ Helm
->```css
-> /give @p crystalcraft_unlimited_java:neon_meteorite_armor_helmet{Enchantments:[{id:protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
-> Leggings
-> {Enchantments:[{id:soul_speed,lvl:3},{id:protection,lvl:4},{id:feather_falling,lvl:4},{id:depth_strider,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
-> ```
+```java unfold file:Helm
+{Enchantments:[{id:protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+```
+
+```java unfold file:Leggings
+{Enchantments:[{id:soul_speed,lvl:3},{id:protection,lvl:4},{id:feather_falling,lvl:4},{id:depth_strider,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+```
