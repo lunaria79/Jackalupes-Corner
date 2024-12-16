@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasFilePen",
       "FasFolderTree",
       "FasImage",
       "FasListCheck",
-      "FasFolderOpen"
+      "FasFolderOpen",
+      "FasFileCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -120,10 +120,5 @@
   "03 Sims 4/Sims 4 Rigs.md": "FasListCheck",
   "04 Monster Hunter World": "FasFolderOpen",
   "00 _resources/Images/midnight.png": "FasImage",
-  "01 Dream Journal/Dreams/02 Of Gods and Fiends/00 Images": "FasFolderTree",
-  "01 Dream Journal/Notes.md": "FasFileLines",
-  "01 Dream Journal/Dreams/100 Others/Chrysanthemum.md": "FasFilePen",
-  "04 Monster Hunter World/Images": "FasFolderTree",
-  "04 Monster Hunter World/Bone Hatchet Tree.md": "FasListCheck",
-  "04 Monster Hunter World/Matched Slicer Tree.md": "FasListCheck"
+  "01 Dream Journal/Dreams/02 Of Gods and Fiends/00 Images": "FasFolderTree"
 }
