@@ -15,7 +15,7 @@ cssclasses:
 1. [A Court of Death and Desire](Dreams/100%20Others/A%20Court%20of%20Death%20and%20Desire.md)
 2. [Gaia's Wrath](Dreams/100%20Others/Gaia's%20Wrath.md)
 3. [Trauma Accappella](Dreams/100%20Others/Trauma%20Accappella.md)
-4. [Chrystanthamum](Dreams/100%20Others/Chrystanthamum.md)
+4. [Chrysanthemum](Dreams/100%20Others/Chrysanthemum.md)
 # In Progress
 1. [NANOBEAM](Dreams/100%20Others/NANOBEAM.md)
 2. [Isle of the Gods](Dreams/100%20Others/Isle%20of%20the%20Gods.md)
@@ -43,7 +43,7 @@ cssclasses:
 6. the water dragon is reborn as an ice dragon and they live happily ever after or whatever.
 ```
 
-```md unfold file:Chrystanthamum
+```md unfold file:Chrysanthemum
 1. In this world,  magical creatures live in groups called covens. Prone to war, each coven has a coalition of guards called "protectors" that are the first line of defense against any  enemy attacks. This story focuses on a coven of outcasts, consisting of 6 core members, 3 adolescents and 3 protectors.
 2. The core members consist of a necromancer, an animal witch, an all-seeing sphinx, a harpy, a Xana (siren, spain) , an Echidna (snake woman, greek) and a **...** The protectors are a Phoenix, a Hippogriff and a Ki-Rin. The three children are were-beast siblings. The younger sister being 8 and mouthy, the older sister being 12 and deaf, and the older brother being 16 and emo. This story focus is between the love story between the Phoenix and the Necromancer. And the heartbreak of the Animal Witch.
 3. This coven is currently attending a Solstice Party, navigating interpersonal drama and the talks of war. While this coven is viewed as unimportant, they were invited as an example to other dissenting covens of what might happen to them if the oppose those who were more powerful.
