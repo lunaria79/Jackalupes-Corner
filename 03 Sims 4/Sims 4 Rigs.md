@@ -66,8 +66,8 @@ eyelashes....
 - Formal
 - Athletic
 - Pajamas
-- Party
-- Swimwear
-- Hot Weather
-- Cold Weather
+! Party
+! Swimwear
+! Hot Weather
+! Cold Weather
 ```

@@ -1,6 +1,8 @@
 ---
 tags:
   - Stage
+cssclasses:
+  - code
 ---
 # Current Pages
 1. [The School of the Arcane](Dreams/01%20The%20School%20of%20the%20Arcane/The%20School%20of%20the%20Arcane.md)
@@ -19,7 +21,7 @@ tags:
 2. [Isle of the Gods](Dreams/100%20Others/Isle%20of%20the%20Gods.md)
 # Others
 1. [ZIALONA Home Page](ZIALONA%20Home%20Page.md)
-2. [For Aeli](For%20Aeli.md)
+2. [Notes](Notes.md)
 4. [Dream Journal Template](../00%20_resources/Templates/Dream%20Journal%20Template.md)
 5. [README](../README.md)
 # Themes
@@ -70,6 +72,16 @@ you cannot stop me pbk or ctsy
 Remember:
 1. In the first timeline, Ryan meets Rowan, and gets swept up in a impromptu superhero mission. The two end up being separated from the rest of the group, and captured. They get tortured, and Ryan suffers the worst of it, (being human and all). Rowan eventually escapes with Ryan's help. And to get her out, has to turn himself in to the police, who was behind this whole mess. ??? Picks her up in her car, and Ryan ends up falling asleep. (Timeline ends.)
 #### reviving the failed coup
+```diff fold file: revivingthe failed coup
++ Everyday
++ Formal
++ Athletic
++ Pajamas
++ Party
++ Swimwear
++ Hot Weather
++ Cold Weather
+```
 - the world is a mixture of european and chinese cultivation fantasy. (the bad guys are european)
 1. it was a fantasy world, where years before there was a fail coup, and for the prologue we follow the last imperial mage who worked for the coup and the princess that he ~~stole~~ rescued
 2. And he's raising her to use magic and to hate facism and is over all a really cool dude. And they live in this giant sentient tree whose also gotten in on the child rearing 
