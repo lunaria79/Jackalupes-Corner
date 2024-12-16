@@ -142,7 +142,6 @@ ul.contains-task-list li.is-checked input:after {
 
 /* ---------- Tables ---------- */
 .code div.el-table table {
-  background: rgb(var(--catboy-base));
   border-radius: var(--small-radius);
 }
 .code div.el-table table th {
@@ -161,8 +160,18 @@ ul.contains-task-list li.is-checked input:after {
 .code div.el-table table th:nth-last-child(1) {
   border-top-right-radius: var(--small-radius);
 }
+.code div.el-table table th:nth-child(1), .code div.el-table table td:nth-child(1) {
+  border-left: 6px solid rgb(var(--catboy-purple));
+}
+.code div.el-table table tr:nth-last-child(1) td:nth-child(1) {
+  background: red;
+  border-bottom-left-radius: 50px;
+}
+.code div.el-table table tr + tr {
+  border-top: 2px dashed rgb(var(--catboy-surface), 0.25);
+}
 .code div.el-table table td {
-  background: rgb(var(--catboy-base));
+  background: rgb(var(--catboy-bae));
   border: none;
   padding: 12px;
 }
