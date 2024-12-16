@@ -208,10 +208,10 @@ ul.contains-task-list {
 }
 
 /* --- Markdown --- */
-.code .language-md {
-	.token.punctuation { color: unset; }
-	.token.list.punctuation { color: var(--list-marker-color); }
-	.token.bold { color: var(--list-marker-color); }
-	.token.italic { color: rgb(var(--ctp-italic, var(--ctp-green))); }
-	.token.strike { color: rgb(var(--ctp-strikethrough, var(--ctp-maroon))); text-decoration: line-through; }
+.code .language-md .token {
+	&.punctuation { color: unset; }
+	&.list.punctuation { color: var(--list-marker-color); }
+	&.bold { color: var(--list-marker-color); }
+	&.italic { color: rgb(var(--ctp-italic, var(--ctp-green))); }
+	&.strike { color: rgb(var(--ctp-strikethrough, var(--ctp-maroon))); text-decoration: line-through; }
 }

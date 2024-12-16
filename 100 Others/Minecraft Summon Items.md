@@ -5,6 +5,17 @@ tags:
   - minecraft
 ---
 ## Weapons
+```diff unfold file:Zoro
+- Everyday
+- Formal
+- Athletic
+- Pajamas
+! Party
+! Swimwear
+! Hot Weather
+! Cold Weather
+```
+
 > [!infobox ]+   Sword
 > Code
 > ```css
