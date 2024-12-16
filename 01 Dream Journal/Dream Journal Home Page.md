@@ -72,15 +72,13 @@ you cannot stop me pbk or ctsy
 Remember:
 1. In the first timeline, Ryan meets Rowan, and gets swept up in a impromptu superhero mission. The two end up being separated from the rest of the group, and captured. They get tortured, and Ryan suffers the worst of it, (being human and all). Rowan eventually escapes with Ryan's help. And to get her out, has to turn himself in to the police, who was behind this whole mess. ??? Picks her up in her car, and Ryan ends up falling asleep. (Timeline ends.)
 #### reviving the failed coup
-```diff fold file: revivingthe failed coup
-+ Everyday
-+ Formal
-+ Athletic
-+ Pajamas
-+ Party
-+ Swimwear
-+ Hot Weather
-+ Cold Weather
+```md unfold file:reviving-the-failed-coup
+- the world is a mixture of european and chinese cultivation fantasy. (the bad guys are european)
+1. it was a fantasy world, where years before there was a fail coup, and for the prologue we follow the last imperial mage who worked for the coup and the princess that he ~~stole~~ rescued
+2. And he's raising her to use magic and to hate facism and is over all a really cool dude. And they live in this giant sentient tree whose also gotten in on the child rearing 
+3. and the prologue skips around to different stages of the MC's life, and when her magic settled in her specialty she was able to create powerful weapons without depleting her mana nearly at all 
+4. and when she turned 18, the royal army or whatever came to kill her, and the mage sacrificed himself by suicide bombing and killed like, half of the army (go dad!) and it was very sad and the background music fit the mood perfectly
+5. and then i fucking woke up right when the princess ran into the general of the army who killed her dad, as the said general was *wearing parts of his clothes like a trophy*
 ```
 - the world is a mixture of european and chinese cultivation fantasy. (the bad guys are european)
 1. it was a fantasy world, where years before there was a fail coup, and for the prologue we follow the last imperial mage who worked for the coup and the princess that he ~~stole~~ rescued

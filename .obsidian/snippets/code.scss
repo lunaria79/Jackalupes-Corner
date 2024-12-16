@@ -178,3 +178,12 @@ ul.contains-task-list {
 		&.coord { color: rgb(var(--catboy-white)) !important; }
 	}
 }
+
+/* --- Markdown --- */
+.code .language-md {
+	background: red;
+	.token.punctuation { color: unset; }
+	.token.list.punctuation { color: var(--list-marker-color); }
+	.token.italic { color: rgb(var(--ctp-italic, var(--ctp-green))); }
+	.token.strike { color: rgb(var(--ctp-strikethrough, var(--ctp-maroon))); text-decoration: line-through; }
+}

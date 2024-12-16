@@ -182,4 +182,22 @@ ul.contains-task-list li.is-checked input:after {
 }
 .code pre.language-diff .token.coord {
   color: rgb(var(--catboy-white)) !important;
+}
+
+/* --- Markdown --- */
+.code .language-md {
+  background: red;
+}
+.code .language-md .token.punctuation {
+  color: unset;
+}
+.code .language-md .token.list.punctuation {
+  color: var(--list-marker-color);
+}
+.code .language-md .token.italic {
+  color: rgb(var(--ctp-italic, var(--ctp-green)));
+}
+.code .language-md .token.strike {
+  color: rgb(var(--ctp-strikethrough, var(--ctp-maroon)));
+  text-decoration: line-through;
 }/*# sourceMappingURL=code.css.map */
