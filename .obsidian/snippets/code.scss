@@ -25,7 +25,7 @@
 	--catboy-mantle: 24, 24, 37;
 	--catboy-crust: 17, 17, 27;
 
-	--small-radius: 2px;
+	--small-radius: 5px;
 	--code-normal: 245, 245, 245;
 	/* Font */
 	font-family: "Dosis", sans-serif;
@@ -145,10 +145,30 @@ ul.contains-task-list {
 	}
 }
 
+/* ---------- Tables ---------- */
+.code div.el-table table {
+	background: rgb(var(--catboy-base));
+	border-radius: var(--small-radius);
+	//Headers
+	th:nth-child(1) {background: red; border-top-left-radius: var(--small-radius); }
+	th:nth-last-child(1) {background: yellow; border-top-right-radius: var(--small-radius); }
+	//Columns
+
+	//Rows
+
+	//Cells
+	td {  
+		background: rgb(var(--catboy-base));
+	  }
+}
+
 /* ---------- Code Blocks ---------- */
+.code .el-pre {
+	margin-bottom: 15px !important;
+}
+
 .markdown-rendered.code pre[class*="language-"], .markdown-rendered.code pre {
 	margin-top: 0;
-	margin-bottom: -5px;
 	background: rgb(var(--catboy-base));
 	border-radius: var(--small-radius);
 	border-left: 5px solid rgb(var(--catboy-purple));
@@ -167,7 +187,6 @@ ul.contains-task-list {
 
 /* --- Difference --- */
 .code pre.language-diff {
-	margin-bottom: 10px !important;
 	.token {
 		font-weight: 600;
 		&.inserted { color: rgb(var(--catboy-green)) !important; }
@@ -179,7 +198,6 @@ ul.contains-task-list {
 
 /* --- Markdown --- */
 .code .language-md {
-	margin-bottom: 10px !important;
 	.token.punctuation { color: unset; }
 	.token.list.punctuation { color: var(--list-marker-color); }
 	.token.bold { color: var(--list-marker-color); }

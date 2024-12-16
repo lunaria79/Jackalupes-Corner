@@ -62,6 +62,9 @@ cssclasses:
 - ??? (tall, wiry with brown hair, norway), Mostly normal human, but with increased luck. Dating April.
 - ??? (qtcinderlla, LA), Normal human, social media manager and getaway driver. the millennial in the group of gen z
 - And then the MC, Ryan who has the potential for awakening with powers.
+
+Remember:
+1. In the first timeline, Ryan meets Rowan, and gets swept up in a impromptu superhero mission. The two end up being separated from the rest of the group, and captured. They get tortured, and Ryan suffers the worst of it, (being human and all). Rowan eventually escapes with Ryan's help. And to get her out, has to turn himself in to the police, who was behind this whole mess. ??? Picks her up in her car, and Ryan ends up falling asleep. (Timeline ends.)
 ```
 
 | Timeline A                                                                                                                                                                                                                                                                                          | Timeline B                                                                                                                                                                                                                                                                                                    |
@@ -72,8 +75,6 @@ cssclasses:
 | The kind woman ends up knowing the runners of the EXPO, and goes to introduce her to them. They chat together happily for a while, about art and politics, and Ryan later excuses herself to go view the rest of the gallery.                                                                       | The kind woman ends up knowing the runners of the EXPO, and goes to introduce her to them. They are friendly, but react to her like they have seen a ghost. Due to the awkwardness,  Ryan ends up leaving to view the gallery alone.                                                                          |
 | Ryan runs in to two workers in the back hall, and helps the woman with gathering the chairs. She finds herself annoyed that the man is focusing on the computer, instead of helping the woman whose struggling with the stacking. He receives many dirty looks, until its time for Ryan to go home. | Ryan ends in the back hall where two workers, who are very surprised to see a guest appear, are struggling to stack chairs. She stops to assist them, at chats with them for a little while, learning their names. Realizing she is late to meet her mother at the bookstore, she excuses herself and leaves. |
 
-Remember:
-1. In the first timeline, Ryan meets Rowan, and gets swept up in a impromptu superhero mission. The two end up being separated from the rest of the group, and captured. They get tortured, and Ryan suffers the worst of it, (being human and all). Rowan eventually escapes with Ryan's help. And to get her out, has to turn himself in to the police, who was behind this whole mess. ??? Picks her up in her car, and Ryan ends up falling asleep. (Timeline ends.)
 ```md unfold file:reviving-the-failed-coup
 - the world is a mixture of european and chinese cultivation fantasy. **(the bad guys are european)**
 1. it was a fantasy world, where years before there was a fail coup, and for the prologue we follow the last imperial mage who worked for the coup and the princess that he ~~stole~~ rescued
