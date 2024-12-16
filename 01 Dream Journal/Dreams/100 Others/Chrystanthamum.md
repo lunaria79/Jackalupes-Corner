@@ -36,7 +36,7 @@ Home:
 				<div class="wrapper grid">
 					<div class="grid left">
 						<div class="box char-note">
-							<div class="callout-title">  <div class="callout-title-inner"> character note </div> </div>
+							<div class="callout-title">  <div class="callout-title-inner"> Chrystanthamum </div> </div>
 							<img alt="placeholder.png" src="">
 							<p>...</p>
 						</div>

@@ -44,10 +44,12 @@ Home:
 			<p>  Thank you for cherishing me, even in the face of great opposition. Without you and your daughter's love, I would not be sitting here today. I am eternally greatful to you. </p>
 			<p class="reporter">If you could speak your mind freely to Aefir, what would you say?</p>
 			<p>  My soul rests in your hands.</p>
+			<p class="reporter">If you could speak your mind freely to Book, what would you say?</p>
+			<p>  You are *well* past the age of four, you should know not to eat shoes. </p>
 		</div>
 		<div class="box char-note">
 			<p class="reporter">What do you find yourself doing in your free time?</p>
-			<p> I've found that I find cleaning very relaxing. And I'm the chef of the household, seeing that Book is a cat and Aefir is helpless. Aefir is banned from my kitchen. In my pocket dimension, there's a perfect recreation of the Emperoress's Floating Gardens. I tend to flora and fauna there, while Book is napping. When alone at home, I tend to wander aimlessly through the rooms until someone comes home. Aefir and Book are so loud together, it's strange when it's quite.</p>
+			<p> I've found that I find cleaning very relaxing. And I'm the chef of the household, seeing that Book is a cat and Aefir is helpless. Aefir is banned from my kitchen. In my pocket dimension, there's a perfect recreation of the Emperoress's Floating Gardens. I tend to flora and fauna there, while Book is napping. When alone at home, I tend to wander aimlessly through the rooms until someone comes home. Aefir and Book are so loud together, it's strange when it's quiet.</p>
 		</div>
 		<div class="box author-note">
 			<div class="callout-title"> <div class="callout-title-inner">  author's note </div> </div>
