@@ -57,15 +57,14 @@ tags:
 
 
 ## Mobs
-> [!infobox ]+   Aether
-> Code
-> ```css
->/summon skeleton_horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Tame:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],CustomName:'{"text":"Aether","color":"black","bold":true}',Attributes:[{Name:generic.max_health,Base:30},{Name:generic.follow_range,Base:40},{Name:generic.movement_speed,Base:0.3375},{Name:generic.armor,Base:30},{Name:generic.armor_toughness,Base:30},{Name:horse.jump_strength,Base:1}],SaddleItem:{id:"minecraft:saddle",Count:1b}}
->```
-> Techno
->```css
->/give @p minecraft:player_head{display:{Name:'{"text":"Technoblade","color":"gold","underlined":true,"bold":true,"italic":false}',Lore:['{"text":"Player Head ID: 31373","color":"gray","italic":false}','{"text":"www.minecraft-heads.com","color":"blue","italic":false}']},SkullOwner:"Technoblade"} 1
->```
+```java unfold file:Aether
+/summon skeleton_horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Tame:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],CustomName:'{"text":"Aether","color":"black","bold":true}',Attributes:[{Name:generic.max_health,Base:30},{Name:generic.follow_range,Base:40},{Name:generic.movement_speed,Base:0.3375},{Name:generic.armor,Base:30},{Name:generic.armor_toughness,Base:30},{Name:horse.jump_strength,Base:1}],SaddleItem:{id:"minecraft:saddle",Count:1b}}
+```
+
+```java unfold file:Techno Head
+/give @p minecraft:player_head{display:{Name:'{"text":"Technoblade","color":"gold","underlined":true,"bold":true,"italic":false}',Lore:['{"text":"Player Head ID: 31373","color":"gray","italic":false}','{"text":"www.minecraft-heads.com","color":"blue","italic":false}']},SkullOwner:"Technoblade"} 1
+```
+
 ## Armor
 ```java unfold file:Helm
 {Enchantments:[{id:protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
