@@ -18,55 +18,55 @@ Next Chapter: []
 <p class="text">Frustrated, Jimin paced the length of the living room and ended up outside on the balcony, the breeze combing through the strands of his hair. He missed being busy--- At least, busier than he was just sending out resumes the whole fucking day. He missed his friends, and he missed feeling like he had the freedom to come and go as and when he pleased. Being cooped up in the house was boring as hell, but Jimin thought it was definitely safer for Yoongi's reputation. The producer hadn't specifically said anything about it, but Jimin was sure he'd be advised not to leave the apartment if he raised the question.</p>
 <p class="text">Slumping against the glass door, he stared out into the sights of Gangnam mid-day and pulled out his phone.</p>
 <div class="chat">
-	<div data-time="PARK.J" class="msg rcvd">  hey hey </div>
-	<div data-time="PARK.J" class="msg rcvd"> whatre you up to?  </div>
+	<div data-time="PARK.J" class="msg sent">  hey hey </div>
+	<div data-time="PARK.J" class="msg sent"> whatre you up to?  </div>
 </div>
 <p class="text">Yoongi usually took a while to respond, but this time a reply came quickly. Pleased that he hadn't had to wait, Jimin cocked his head and wondered if they could carry a conversation longer than a few minutes this time. He was seriously concerned about the state of affairs between them, even if Yoongi didn't seem affected by it at all.</p>
 <div class="chat">
-	<div data-time="MIN.Y" class="msg sent"> I'm finally having lunch. </div>
-	<div data-time="MIN.Y" class="msg sent"> [image attached]  </div>
-	<div data-time="MIN.Y" class="msg sent">  There's a good place across the street from the studio. </div>
-	<div data-time="MIN.Y" class="msg sent"> Want me to buy it for you tonight?  </div>
+	<div data-time="MIN.Y" class="msg rcvd"> I'm finally having lunch. </div>
+	<div data-time="MIN.Y" class="msg rcvd"> [image attached]  </div>
+	<div data-time="MIN.Y" class="msg rcvd">  There's a good place across the street from the studio. </div>
+	<div data-time="MIN.Y" class="msg rcvd"> Want me to buy it for you tonight?  </div>
 </div>
 <p class="text"><a id="p75"></a>Jimin sighed heavily as he walked back into the house, his feet taking him to the kitchen. Opening the fridge, he worriedly tapped out a response with one hand as he withdrew a bowl of grapes with the other. He set it on the counter and removed the cling wrap, popping one into his mouth.</p>
 <div class="chat">
-	<div data-time="PARK.J" class="msg rcvd"> it's already 4, youre only just eating right now?? </div>
-	<div data-time="PARK.J" class="msg rcvd"> and thats ok.  </div>
-	<div data-time="PARK.J" class="msg rcvd"> itll probably be a late night for you again...  </div>
-	<div data-time="MIN.Y" class="msg sent"> I was busy with the boys earlier. They're at an interview now. </div>
+	<div data-time="PARK.J" class="msg sent"> it's already 4, youre only just eating right now?? </div>
+	<div data-time="PARK.J" class="msg sent"> and thats ok.  </div>
+	<div data-time="PARK.J" class="msg sent"> itll probably be a late night for you again...  </div>
+	<div data-time="MIN.Y" class="msg rcvd"> I was busy with the boys earlier. They're at an interview now. </div>
 	<div  class="info">  MIN.Y is typing...</div>
-	<div data-time="MIN.Y" class="msg sent"> Are you upset?  </div>
+	<div data-time="MIN.Y" class="msg rcvd"> Are you upset?  </div>
 </div>
 <p class="text">He was, because Yoongi worked himself like a dog and Jimin never got to talk to him. For someone who was essentially being paid to talk to Yoongi, he wasn't really doing a very good job, and he felt guilty even looking at his account balance. That amount of money? Just to accompany the producer?</p>
 <p class="text">Mostly when he was dead asleep?</p>
 <p class="text">For someone who was surrounded by people, Yoongi was amazingly touch starved. It was all in the little things he did; the way he leaned into Jimin as they exchanged greetings in the morning, the way his hand lingered on Jimin's shoulder when he was leaving the house for work. There had even been one time where the producer had been so massively out of it by the time he was done at the office that he'd butted his head against Jimin's hand whenever it stilled, just so that Jimin would continue patting his head.</p>
 <p class="text">And sure, it was cute, but it was also very, very bizarre that Jimin was essentially earning a pay check just by putting Yoongi to bed.</p>
 <div class="chat">
-	<div data-time="PARK.J" class="msg rcvd">  what makes you say that </div>
-	<div data-time="MIN.Y" class="msg sent"> You use fullstops when you're upset.</div>
+	<div data-time="PARK.J" class="msg sent">  what makes you say that </div>
+	<div data-time="MIN.Y" class="msg rcvd"> You use fullstops when you're upset.</div>
 	<div  class="info">  MIN.Y is typing...</div>
-	<div data-time="MIN.Y" class="msg sent"> I'm sorry if I upset you.</div>
+	<div data-time="MIN.Y" class="msg rcvd"> I'm sorry if I upset you.</div>
 	<div  class="info">  MIN.Y is typing...</div>
-	<div data-time="MIN.Y" class="msg sent"> Did I do something wrong? </div>
+	<div data-time="MIN.Y" class="msg rcvd"> Did I do something wrong? </div>
 	<div  class="info">  MIN.Y is typing...</div>
 </div>
 <p class="text">Oh my god. Jimin couldn't even stay upset at this man in peace, it was fucking mind-blowing. In the first place, it was obvious how attentive Yoongi was, to figure out something like that even though they hadn't talked much. The producer paid Jimin a metric fuck ton of money--- Technically, even Jimin felt like the man didn't have to give a shit about him and how he felt. Yet, Yoongi had been nothing but considerate and generous with Jimin, who still felt like a stranger in someone else's home. Sinking down on the couch with his phone and his grapes, Jimin chewed his lip nervously.</p>
 <div class="chat">
-	<div data-time="PARK.J" class="msg rcvd">  no no </div>
-	<div data-time="PARK.J" class="msg rcvd">  you didnt, I swear </div>
-	<div data-time="PARK.J" class="msg rcvd"> I just </div>
-	<div data-time="PARK.J" class="msg rcvd">  idk </div>
-	<div data-time="PARK.J" class="msg rcvd">  I wish we.. talked a little more?? </div>
-	<div  class="info">  MIN.Y is typing...</div>
+	<div data-time="PARK.J" class="msg sent">  no no </div>
+	<div data-time="PARK.J" class="msg sent">  you didnt, I swear </div>
+	<div data-time="PARK.J" class="msg sent"> I just </div>
+	<div data-time="PARK.J" class="msg sent">  idk </div>
+	<div data-time="PARK.J" class="msg sent">  I wish we.. talked a little more?? </div>
+	<div   class="info">  MIN.Y is typing...</div>
 </div>
 <p class="text">Jesus, he felt guilty even typing that. Especially knowing how busy Yoongi was and how much he cared about his boys. Most of the past 5 days, Yoongi had fallen asleep still talking about something Cheolmin had said to set Joon-ki off again, or how Seojun was a good leader and hyung for caring about Ki-ha and taking charge of the group when they got rowdy.</p>
 <div class="chat">
 	<div  class="info">  MIN.Y is typing...</div>
-	<div data-time="PARK.J" class="msg rcvd">  I didnt mean it </div>
-	<div data-time="PARK.J" class="msg rcvd">  I know you're busy and its hard work </div>
-	<div data-time="PARK.J" class="msg rcvd"> and it must be really hard, so I didnt want to say anything or add to your stress </div>
-	<div data-time="PARK.J" class="msg rcvd"> i just thought itd be nice, if we could sit down together </div>
-	<div data-time="PARK.J" class="msg rcvd"> maybe have a meal together.. </div>
+	<div data-time="PARK.J" class="msg sent">  I didnt mean it </div>
+	<div data-time="PARK.J" class="msg sent">  I know you're busy and its hard work </div>
+	<div data-time="PARK.J" class="msg sent"> and it must be really hard, so I didnt want to say anything or add to your stress </div>
+	<div data-time="PARK.J" class="msg sent"> i just thought itd be nice, if we could sit down together </div>
+	<div data-time="PARK.J" class="msg sent"> maybe have a meal together.. </div>
 	<div  class="info">  MIN.Y is typing...</div>
 </div>
 <p class="text">Groaning, Jimin tossed his phone on the couch and curled up on his side, the bowl set just beneath his head on soft, plush leather. Blinking wearily, he waited for Yoongi's response, and was surprised when his phone began to vibrate with a call. Picking it up, his eyes widened to see Yoongi's waiting face on the screen of his camera, his brows pinched into a worried frown. Sitting up abruptly, Jimin cleared his throat and checked his hair in the reflection of the television before he accepted the call.</p>
