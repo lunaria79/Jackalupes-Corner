@@ -42,6 +42,10 @@ Restart Wifi Manager
 ```
 sudo systemctl restart NetworkManager
 ```
+Fix Audio
+```
+sudo pacman -S pipewire-pulse
+```
 - - -
 ### Manual Mount (deeznuts)
 List Drives
