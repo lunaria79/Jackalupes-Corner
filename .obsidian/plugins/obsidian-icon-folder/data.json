@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFileLines",
       "FasImage",
       "FasFolderTree",
       "FasFolderOpen",
-      "FasFolder",
-      "FasNoteSticky"
+      "FasFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -137,5 +137,15 @@
   "05 Writing/benali legacy/images": "FasFolderTree",
   "05 Writing/benali legacy/images/maggie-young-adult.png": "FasImage",
   "05 Writing/benali legacy/images/maggie-headshot.png": "FasImage",
-  "05 Writing/benali legacy/images/roxanne-yong-adult.png": "FasImage"
+  "05 Writing/benali legacy/images/roxanne-yong-adult.png": "FasImage",
+  "05 Writing/zialona.md": "FasFileLines",
+  "05 Writing/tlwwt": "FasFolderTree",
+  "05 Writing/tlwwt/tlwwt.md": "FasFileLines",
+  "05 Writing/tlwwt/images": "FasFolderTree",
+  "05 Writing/tlwwt/images/dae-sung.png": "FasImage",
+  "05 Writing/tlwwt/images/daehyun.jpg": "FasImage",
+  "05 Writing/tlwwt/images/seojun.jpg": "FasImage",
+  "05 Writing/tlwwt/images/joonki.jpg": "FasImage",
+  "05 Writing/tlwwt/images/cheolmin.png": "FasImage",
+  "05 Writing/tlwwt/images/kiha.jpg": "FasImage"
 }
