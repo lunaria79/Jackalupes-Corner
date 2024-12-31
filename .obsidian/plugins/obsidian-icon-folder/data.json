@@ -128,5 +128,7 @@
   "02 These Lyrics Will Write Themselves/05 - a fandom is a reflection of the artist.md": "FasFileLines",
   "01 Dream Journal/Notes.md": "FasNoteSticky",
   "05 Writing": "FasFolderOpen",
-  "05 Writing/Maddness": "FasFolderTree"
+  "05 Writing/Maddness": "FasFolderTree",
+  "05 Writing/Maddness/dnd alignments.md": "FasFileLines",
+  "05 Writing/Maddness/characters & alligences.md": "FasFileLines"
 }
