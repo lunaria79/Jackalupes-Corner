@@ -19,7 +19,7 @@ While he isn’t helping in overthrowing the fascist anti-hybrid government, he�
 - **Amaris Angerona**
 - **Maximas Angerona**
 - **Henrietta Rose**
----
+<p style="text-align:center; color:rgb(var(--ctp-teal));"><b><i>⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽⋅ ⋅☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅</i></b></p>
 ## Loneilli
 #### The Forest Which the Rasmus’ Reside In
 - **Malachi Rasmus**: Goat hybrid and childhood best friends with Maximas. He was a fun loving kind hearted child. But that all changed when his father died, and he was forced to return to his country to rule. At the age of 14. When he came back, he had severe trauma and anger issues. No one really knows what happened to him. He’s trying to pretend like nothing has changed, but everyone clearly knows something is incredibly wrong. Only one person outside of him knows where he got those scars.  
@@ -27,23 +27,24 @@ He refuses to see a therapist after the last one diagnosed him as clinically ins
 - **Janus Rasmus**: Janus is an enigma. Not much is known about their past, and even his present is filled with holes. However, I am the god of this world so I know everything. They’re a combination of two ancient beings, possibly older than even Azrael. The two beings were forcefully joined together by the Analin’s founders. And after centuries upon centuries of torture, the concious side of these dieties have completely forgotten about their past.The two deities are now dormant inside of the extremely traumatized, anxious teenager named Janus.  
 Janus was saved by Khrone and Azrael during one of their raids. Janus currently resides in LONEILLI with their husband and son. He is an active participant with the Syndicate, and is Khrone’s star (and only) pupil. He regularly visits Henrietta, who is currently living under Khrone’s house.
 - **Malachi & Janus’ Son**: No thought head empty toddler with gay dads omg he has gay dads they are so gay one is a clinically insane goat and one is two deities merged as one anxious son of a bitch omg two gay disaster dads
----
+<p style="text-align:center; color:rgb(var(--ctp-teal));"><b><i>⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽⋅ ⋅☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅</i></b></p>
 ## Aramore
 - **Mirai Stig**
 - **Elio**
 -   
----
+<p style="text-align:center; color:rgb(var(--ctp-teal));"><b><i>⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽⋅ ⋅☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅</i></b></p>
 ## El Perdido
 - **Diablo Cabrera**
 -   
----
+<p style="text-align:center; color:rgb(var(--ctp-teal));"><b><i>⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽⋅ ⋅☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅</i></b></p>
 ## Chimera
 - **Septhis**
 - **Almas**
 - **Elio**
----
+<p style="text-align:center; color:rgb(var(--ctp-teal));"><b><i>⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽⋅ ⋅☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅</i></b></p>
 ## Citadel
 - **Servio**
 - **Mercy**
 - **Oscar**
 - **Shannon**
+<p style="text-align:center; color:rgb(var(--ctp-teal));"><b><i>⋅•⋅⋅•⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅∙∘☽⋅ ⋅☾∘∙•⋅⋅⋅•⋅⋅⊰⋅•⋅⋅•⋅⋅•⋅⋅•⋅</i></b></p>

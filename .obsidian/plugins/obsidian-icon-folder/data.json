@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasImage",
       "FasFolderTree",
       "FasFolderOpen",
       "FasFolder",
-      "FasNoteSticky",
-      "FasFileLines"
+      "FasNoteSticky"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -130,5 +130,11 @@
   "05 Writing": "FasFolderOpen",
   "05 Writing/Maddness": "FasFolderTree",
   "05 Writing/Maddness/dnd alignments.md": "FasFileLines",
-  "05 Writing/Maddness/characters & alligences.md": "FasFileLines"
+  "05 Writing/Maddness/characters & alligences.md": "FasFileLines",
+  "05 Writing/the one where randy is mad at gingi.md": "FasFileLines",
+  "05 Writing/benali legacy/benali legacy.md": "FasFileLines",
+  "05 Writing/benali legacy": "FasFolderTree",
+  "05 Writing/benali legacy/images": "FasFolderTree",
+  "05 Writing/benali legacy/images/maggie-young-adult.png": "FasImage",
+  "05 Writing/benali legacy/images/maggie-headshot.png": "FasImage"
 }
