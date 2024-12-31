@@ -1,0 +1,4 @@
+*This year’s winter has been strangely warm. But the absence of frigid nightly temperatures that were commonplace was not at the forefront of Gingi’s mind. As they watched the swans idly swim by, they sat there and collected what few thoughts were rattling in their head.*
+
+Randy was mad and Gingi didn’t know what to do. Randy never gets mad. He’d much rather spiral down into a pit of self hatred in response to any negative stimuli than getting mad. But now Gingi has managed to piss him off and they don't know what to do.
+They haven’t gone back to the apartment since that night. At least not during the daytime.
