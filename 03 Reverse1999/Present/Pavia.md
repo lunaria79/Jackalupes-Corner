@@ -3,7 +3,7 @@ cssclasses:
   - reverse no-properties
 ---
 ![250](../Images/Characters/Pavia/Pavia.webp)
-![250](../Images/Characters/Pavia/Pavia.webp)
+![250](../Images/Characters/Pavia/Pavia_Insight.webp)
 *A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
  **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
@@ -15,8 +15,8 @@ cssclasses:
 		<th>Attribute</th>
 		<th>Default  <br><span>Base Lvl.</span></th>
 		<th>Default  <br><span>Max Lvl.</span></th>
-		<th>Inisight I  <br><span>Max Lvl.</span></th>
-		<th>Inisight II  <br><span>Max Lvl.</span></th>
+		<th>Insight I  <br><span>Max Lvl.</span></th>
+		<th>Insight II  <br><span>Max Lvl.</span></th>
 	</tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Attack.svg">Attack</th>
@@ -60,8 +60,8 @@ cssclasses:
 	<tr>
 		<th>Attribute</th>
 		<th>Default  </th>
-		<th>Inisight I</th>
-		<th>Inisight II </th>
+		<th>Insight I</th>
+		<th>Insight II </th>
 	</tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Crit%20Rate.svg">Crit. Rate</th>
