@@ -1,0 +1,19 @@
+.reverse table {
+  width: 75%;
+  margin: auto;
+  border: none;
+  border-collapse: collapse;
+  border-radius: 5px;
+}
+.reverse table th {
+  color: rgb(205, 214, 244);
+  background: rgb(24, 24, 37);
+  font-weight: 800;
+  text-align: center;
+}
+.reverse table td {
+  border: none;
+  border-left: 2px solid rgb(203, 166, 247);
+  border-right: 2px solid rgb(203, 166, 247);
+  background-color: rgb(30, 30, 46) !important;
+}/*# sourceMappingURL=reverse.css.map */

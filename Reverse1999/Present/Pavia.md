@@ -1,8 +1,12 @@
+---
+cssclasses:
+  - reverse no-properties
+---
 > ![left](https://static.wikia.nocookie.net/reverse1999/images/c/c5/Pavia_Icon.png/revision/latest/scale-to-width-down/75?cb=20230530220755) A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.
 
 **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
-<table style="width:50%; text-align: center;">
+<table>
 	<tr><th colspan="5">Basic Statistics</th></tr>
 	<tr>
 		<th>Attribute</th>
@@ -33,7 +37,7 @@
 		<td>376</td>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/1/1c/104_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013159">Mental DEF</td>
+		<th><img src="https://static.wikia.nocookie.net/reverse1999/images/1/1c/104_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013159">Mental DEF</th>
 		<td>83</td>
 		<td>125</td>
 		<td>210</td>
@@ -46,7 +50,7 @@
 		<td>283</td>
 		<td>316</td>
 	</tr>
-	<tr><th colspan="5">Special Statistics</th></tr>
+	<tr><th colspan="4">Special Statistics</th></tr>
 	<tr>
 		<th>Attribute</th>
 		<th>Default  </th>
