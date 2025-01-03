@@ -2,7 +2,8 @@
 cssclasses:
   - reverse no-properties
 ---
-![200](../Images/Characters/Pavia/Pavia.webp)
+![250](../Images/Characters/Pavia/Pavia.webp)
+![250](../Images/Characters/Pavia/Pavia.webp)
 *A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
  **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
@@ -76,30 +77,72 @@ cssclasses:
 	</tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
-<table style="width:80%;">
+<table style="margin-bottom: 15px;">
 	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp"></th>
 	<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
 	</tr>
 	<tr>
 		<th><b>★</b>☆☆</th>
 		<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets."</span>
-		<br> Mass attack. Deals <b>120%</b> Mental DMG to 2 enemies. If the caster's HP is above <b>50%</b>, this attack deals <b>50%</b> more Mental DMG.</td>
+		<br> Mass attack. Deals <b>120%</b> Mental DMG to 2 enemies. If the caster's HP is <i>above</i> <b>50%</b>, this attack deals <b>50%</b> more Mental DMG.</td>
 	</tr>
 	<tr><th>Attack</th></tr>
 	<tr>
 		<th><b>★★</b>☆</th>
 		<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets at places splattered with fresh blood."</span>
-		<br> Mass attack. Deals <b>180%</b> Mental DMG to 2 enemies. If the caster's HP is above <b>50%</b>, this attack deals <b>75%</b> more Mental DMG.</td>
+		<br> Mass attack. Deals <b>180%</b> Mental DMG to 2 enemies. If the caster's HP is <i>above</i> <b>50%</b>, this attack deals <b>75%</b> more Mental DMG.</td>
 	</tr>
 	<tr><th>Attack</th></tr>
 	<tr>
-		<td><b>★★★</b></td>
+		<th><b>★★★</b></th>
 		<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets with stick sugar at places splattered with fresh blood."</span>
-		<br> Mass attack. Deals <b>300%</b> Mental DMG to 2 enemies. If the caster's HP is above <b>50%</b>, this attack deals <b>125%</b> more Mental DMG.</td>
+		<br> Mass attack. Deals <b>300%</b> Mental DMG to 2 enemies. If the caster's HP is <i>above</i> <b>50%</b>, this attack deals <b>125%</b> more Mental DMG.</td>
 	</tr>
-	<tr><td>Attack</td></tr>
+	<tr><th>Attack</th></tr>
 </table>
-
-![](../Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp)
-![](../Images/Characters/Pavia/Pavia_Skill_Card_2-1.webp)
-![](../Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp)
+<table style="margin-bottom: 15px;">
+	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_2-1.webp"></th>
+	<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
+	</tr>
+	<tr>
+		<th><b>★</b>☆☆</th>
+		<td rowspan="2"> <span>"Ф A crude art."</span>
+		<br> Mass attack. Deals <b>135%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>40%</b> more Mental DMG.</td>
+	</tr>
+	<tr><th>Attack</th></tr>
+	<tr>
+		<th><b>★★</b>☆</th>
+		<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet."</span>
+		<br> Mass attack. Deals <b>200%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>60%</b> more Mental DMG.</td>
+	</tr>
+	<tr><th>Attack</th></tr>
+	<tr>
+		<th><b>★★★</b></th>
+		<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet. That's what we're guessing."</span>
+		<br> Mass attack. Deals <b>330%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>100%</b> more Mental DMG.</td>
+	</tr>
+	<tr><th>Attack</th></tr>
+</table>
+<table style="margin-bottom: 15px;">
+	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp"></th>
+	<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
+	</tr>
+	<tr>
+		<th><b>★</b>☆☆</th>
+		<td rowspan="2"> <span>"Ф A crude art."</span>
+		<br> Mass attack. Deals <b>135%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>40%</b> more Mental DMG.</td>
+	</tr>
+	<tr><th>Attack</th></tr>
+	<tr>
+		<th><b>★★</b>☆</th>
+		<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet."</span>
+		<br> Mass attack. Deals <b>200%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>60%</b> more Mental DMG.</td>
+	</tr>
+	<tr><th>Attack</th></tr>
+	<tr>
+		<th><b>★★★</b></th>
+		<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet. That's what we're guessing."</span>
+		<br> Mass attack. Deals <b>330%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>100%</b> more Mental DMG.</td>
+	</tr>
+	<tr><th>Attack</th></tr>
+</table>

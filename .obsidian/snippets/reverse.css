@@ -7,7 +7,7 @@
 .reverse table tr {
   height: 35px;
 }
-.reverse table tr:not(:nth-last-child(1)) {
+.reverse table tr:not(:nth-last-child(1)) td {
   border-bottom: 2px solid rgb(49, 50, 68);
 }
 .reverse table th {
@@ -22,6 +22,9 @@
 .reverse table th[colspan] {
   color: rgb(166, 227, 161);
 }
+.reverse table th b {
+  color: rgb(148, 226, 213);
+}
 .reverse table th span {
   font-size: 0.75em;
   color: rgb(245, 194, 231);
@@ -33,8 +36,11 @@
 .reverse table td:not(:nth-last-child(1)) {
   border-right: 2px solid rgb(49, 50, 68);
 }
+.reverse table td i {
+  color: rgb(243, 139, 168);
+}
 .reverse table td b {
-  color: rgb(250, 179, 135);
+  color: rgb(249, 226, 175);
 }
 .reverse table td span {
   color: rgb(137, 180, 250);

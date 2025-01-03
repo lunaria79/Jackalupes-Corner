@@ -4,7 +4,7 @@
 
 	tr { 
 		height: 35px; 
-		&:not(:nth-last-child(1)) {
+		&:not(:nth-last-child(1)) td {
 			border-bottom: 2px solid rgb(49, 50, 68);
 		}
 	}
@@ -14,6 +14,7 @@
 		color: rgb(205, 214, 244); background: rgb(24, 24, 37); border: none;
 		font-weight: 800; text-align: center;
 		&[colspan] { color: rgb(166, 227, 161); }
+		b { color: rgb(148, 226, 213); }
 		span { font-size: .75em; color: rgb(245, 194, 231); }
 	}
 
@@ -23,7 +24,8 @@
 			border-right: 2px solid rgb(49, 50, 68);
 		}
 		background-color: rgb(30, 30, 46) !important;
-		b { color: rgb(250, 179, 135); }
+		i { color: rgb(243, 139, 168) }
+		b { color: rgb(249, 226, 175) }
 		span { color: rgb(137, 180, 250); }
 	}
 }
