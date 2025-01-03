@@ -125,30 +125,30 @@ Current Lvl. **15**
 <div class="attacks">
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_1-1.webp"></th>
-		<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_1.webp"></th>
+		<th colspan="3">A Shiny Diamond <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
 			<th><b>★</b>☆☆</th>
-			<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets."</span>
-			<br> Mass attack. Deals <b>120%</b> Mental DMG to 2 enemies. If the caster's HP is <i>above</i> <b>50%</b>, this attack deals <b>50%</b> more Mental DMG.</td>
+			<td rowspan="2"> <span>"Ф It's glamorous."</span>
+			<br> 1-target attack. Deals <b>200%<</b> Reality DMG. </td>
 		</tr>
 		<tr><th>Attack</th></tr>
 		<tr>
 			<th><b>★★</b>☆</th>
-			<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets at places splattered with fresh blood."</span>
-			<br> Mass attack. Deals <b>180%</b> Mental DMG to 2 enemies. If the caster's HP is <i>above</i> <b>50%</b>, this attack deals <b>75%</b> more Mental DMG.</td>
+			<td rowspan="2"> <span>"Ф It used to be sand, or charcoal."</span>
+			<br> 1-target attack. Deals <b>300%<</b> Reality DMG. </td>
 		</tr>
 		<tr><th>Attack</th></tr>
 		<tr>
 			<th><b>★★★</b></th>
-			<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets with stick sugar at places splattered with fresh blood."</span>
-			<br> Mass attack. Deals <b>300%</b> Mental DMG to 2 enemies. If the caster's HP is <i>above</i> <b>50%</b>, this attack deals <b>125%</b> more Mental DMG.</td>
+			<td rowspan="2"> <span>"Ф It's just a lie known to everyone."</span>
+			<br> 1-target attack. Deals <b>500%<</b> Reality DMG. </td>
 		</tr>
 		<tr><th>Attack</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_2-1.webp"></th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_2.webp"></th>
 		<th colspan="3">Poor Sod <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ Current Lvl. **15**
 		<tr><th>Attack</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card-1.webp"></th>
+		<tr><th rowspan="4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
 		<th colspan="3">Nosier Than Me <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
