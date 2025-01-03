@@ -76,9 +76,22 @@ cssclasses:
 	</tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
-
-<table>
-<tr><td rowspan="3"></td></tr>
+<table style="width:80%;">
+	<tr><th rowspan="6"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp"></th>
+	<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
+	</tr>
+	<tr>
+		<td><b>★</b>☆☆</td>
+		<td rowspan="2"> <span>"Ф Sometimes, people can find iron-nickel bullets."</span>
+		<br> Mass attack. Deals <b>120%</b> Mental DMG to 2 enemies. If the caster's HP is above <b>50%</b>, this attack deals <b>50%</b> more Mental DMG.</td>
+	</tr>
+	<tr><td>Attack</td></tr>
+	<tr>
+		<td><b>★★</b>☆</td>
+		<td rowspan="2"> <span>_"Ф Sometimes, people can find iron-nickel bullets at places splattered with fresh blood."_</span>
+		<br> Mass attack. Deals <b>180%</b> Mental DMG to 2 enemies. If the caster's HP is above <b>50%</b>, this attack deals <b>50%</b> more Mental DMG.</td>
+	</tr>
+	<tr><td>Attack</td></tr>
 </table>
 
 ![](../Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp)
