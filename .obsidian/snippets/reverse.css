@@ -9,13 +9,16 @@
 .attacks {
   grid-area: attacks;
 }
+.attacks table th:nth-child(1):has(img) {
+  width: 70px;
+}
 
 .stats {
   grid-area: stats;
 }
 
 .reverse table {
-  max-width: 95%;
+  width: 95%;
   margin: auto;
   border: none;
   border-collapse: collapse;

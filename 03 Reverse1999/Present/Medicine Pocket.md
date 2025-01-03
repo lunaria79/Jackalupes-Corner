@@ -109,25 +109,19 @@ Are the research projects good for the society? All they care about is having fu
 </table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 <table>
-<tr><th colspan="2">Portrait</th></tr>
-<tr> <th>Lvl. 1</th> 
-<td><i>Bell of the Forest:</i> 
-HP +(Medicine Pocket's ATK x120%) for all allies.  </td> 
-</tr>
-<tr> <th>Lvl. 2</th> <td><i>[A Shiny Diamond]'s</i> effect changes to: at <b>1/2/3</b> stars, deals <b>220/280/450%</b> Reality DMG. </td> </tr>
-<tr> <th>Lvl. 3</th> <td> <i>[A Sincere Heart]'s</i> effect changes to: deals <b>650%</b> Reality DMG. </td> </tr>
-<tr> <th>Lvl. 4</th> <td><i>[A Bouquet of Galaxy]'s</i> effect changes to: at <b>1/2/3</b> stars, grants a <b>[Shield]</b> with (the caster's ATK <b>x90/135/225%</b>) HP on all allies.</td> </tr>
-<tr> <th>Lvl. 5</th> <td><i>[A Sincere Heart]'s</i> effect changes to: deals <b>700% Reality DMG.</b> </td> </tr>
-<tr>
-	<td colspan="2"><i>Shield:</i> Blocks certain DMG for a certain duration. </td>
-</tr>
+	<tr><th colspan="2">Portrait</th></tr>
+	<tr> <th>Lvl. 1</th> <td><i>Bell of the Forest:</i> HP +(Medicine Pocket's ATK x120%) for all allies. </td> </tr>
+	<tr> <th>Lvl. 2</th> <td><i>Alchemy Ware:</I> At Incantation rank <b>1/2/3</b>, HP +(the caster's ATK <b>x90/135/220%</b>) for all allies.  </td> </tr>
+	<tr> <th>Lvl. 3</th> <td> <i>Inherent Habit:</i> At Incantation rank <b>1/2/3</b>, Mental DMG increased to <i>170/280/500%</i>. </td> </tr>
+	<tr> <th>Lvl. 4</th> <td><i>26 Secondary Reactions:</i> Mental DMG increased to <b>500%.</b> </td> </tr>
+	<tr> <th>Lvl. 5</th> <td><i>Inherent Habit:</i> DMG Taken increased to <b>+30%</b> for the target.  </td> </tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
 </div>
 <div class="attacks">
 <p class="divide">•·······•·······•·······•·······•</p>
 <table style="margin-bottom: 15px;">
-	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_1.webp"></th>
+	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Skill_Card_1.webp"></th>
 	<th colspan="3">A Shiny Diamond <br> <span>Arcane Skill</span> </th>
 	</tr>
 	<tr>
@@ -150,7 +144,7 @@ HP +(Medicine Pocket's ATK x120%) for all allies.  </td>
 	<tr><th>Attack</th></tr>
 </table>
 <table style="margin-bottom: 15px;">
-	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_2.webp"></th>
+	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Skill_Card_2.webp"></th>
 	<th colspan="3">A Bouquet of Galaxy <br> <span>Arcane Skill</span> </th>
 	</tr>
 	<tr>
@@ -173,7 +167,7 @@ HP +(Medicine Pocket's ATK x120%) for all allies.  </td>
 	<tr><th>Buff</th></tr>
 </table>
 <table style="margin-bottom: 15px;">
-	<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
+	<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Ultimate_Card.webp"></th>
 	<th colspan="3"> A Sincere Heart <br> <span>Ultimate</span> </th>
 	</tr>
 	<tr>
