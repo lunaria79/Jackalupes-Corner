@@ -15,7 +15,7 @@
 }
 
 .reverse table {
-  width: 60%;
+  max-width: 95%;
   margin: auto;
   border: none;
   border-collapse: collapse;
