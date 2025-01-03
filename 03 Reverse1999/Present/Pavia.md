@@ -2,7 +2,7 @@
 cssclasses:
   - reverse no-properties
 ---
-Current Lvl. **30**
+**Insight I Lvl. 1**
 
 | Pavia | My Dear Good Friends | The Leap of a Wolf |
 | --- | --- | --- |

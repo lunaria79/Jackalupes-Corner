@@ -8,12 +8,12 @@
   "html-tabs",
   "statusbar-organizer",
   "obsidian-hider",
-  "obsidian-icon-folder",
   "obsidian42-brat",
   "enhanced-tables",
   "obsidian-discordrpc",
   "obsidian-git",
   "codeblock-customizer",
   "image-converter",
-  "obsidian-snippet-downloader"
+  "obsidian-snippet-downloader",
+  "obsidian-icon-folder"
 ]

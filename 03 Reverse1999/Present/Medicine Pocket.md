@@ -2,7 +2,7 @@
 cssclasses:
   - reverse no-properties
 ---
-Current Lvl. **30**
+**Insight I Lvl. 1**
 
 | Beware the Dog | The Cosmic Photographer |
 | --- | --- |
