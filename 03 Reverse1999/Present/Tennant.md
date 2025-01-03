@@ -149,37 +149,39 @@ Current Lvl. **15**
 	</table>
 	<table style="margin-bottom: 15px;">
 		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_2.webp"></th>
-		<th colspan="3">Poor Sod <br> <span>Arcane Skill</span> </th>
+		<th colspan="3">A Bouquet of Galaxy <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
 			<th><b>★</b>☆☆</th>
-			<td rowspan="2"> <span>"Ф A crude art."</span>
-			<br> Mass attack. Deals <b>135%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>40%</b> more Mental DMG.</td>
+			<td rowspan="2"> <span>"Ф People have always dreamed of such thing."</span>
+			<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x80%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
 		</tr>
-		<tr><th>Attack</th></tr>
+		<tr><th>Buff</th></tr>
 		<tr>
 			<th><b>★★</b>☆</th>
-			<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet."</span>
-			<br> Mass attack. Deals <b>200%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>60%</b> more Mental DMG.</td>
+			<td rowspan="2"> <span>"Ф People have always dreamed of such thing, but they can only gaze at it from the ground."</span>
+			<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x120%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
 		</tr>
-		<tr><th>Attack</th></tr>
+		<tr><th>Buff</th></tr>
 		<tr>
 			<th><b>★★★</b></th>
-			<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet. That's what we're guessing."</span>
-			<br> Mass attack. Deals <b>330%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>100%</b> more Mental DMG.</td>
+      <td rowspan="2"> <span> "Ф People have always dreamed of such thing, no matter it's in the distant universe, or right in front of them."</span>
+			<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x200%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
 		</tr>
-		<tr><th>Attack</th></tr>
+		<tr><th>Buff</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
-		<th colspan="3">Nosier Than Me <br> <span>Ultimate</span> </th>
+		<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
+		<th colspan="3"> A Sincere Heart <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
-			<th><b>★</b>☆☆</th>
-			<td rowspan="2"> <span>"Ф A crude art."</span>
-			<br> Mass attack. Deals <b>135%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>40%</b> more Mental DMG.</td>
+			<th rowspan="2">Attack</th>
+			<td> <span> "Ф Her heart is sincere. It's just split into many pieces. Don't blame her." </span>
+			<br> 1-target attack. Deals <b>550%</b> Reality DMG to the target and loads 2 rounds of <i>[Diamond Bullet]</i>. </td>
 		</tr>
-		<tr><th>Attack</th></tr>
+    <tr>
+			<td> <b>Diamond Bullet</b>: After the caster attacks, Reality DEF <i>-30%</i> to the target for 2 rounds (-1 stack after trigger). </td>
+		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 </div>

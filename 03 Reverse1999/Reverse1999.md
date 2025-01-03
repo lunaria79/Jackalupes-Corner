@@ -1,7 +1,5 @@
 # Wishlist
 ## BEAST (3/4 Collected)
-- [x] Tennant | Lvl. 5
-![300](Images/Characters/Tennant/Tennant.webp)
 - [x] Medicine Pocket | Lvl. 5
 ![300](Images/Characters/Medicine_Pocket.webp)
 - [ ] Shamane
@@ -21,7 +19,7 @@
 ![300](Images/Characters/Kaalaa_Baunaa.webp)
 - [ ] Pickles
 ![300](Images/Characters/Pickles.webp)
-- [ ] Ulu
+- [x] Ulu
 ![300](Images/Characters/Ulu.webp)
 - [ ] Fatutu
 ![300](Images/Characters/Fatutu.webp)

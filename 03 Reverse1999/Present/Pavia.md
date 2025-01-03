@@ -156,11 +156,10 @@ Current Lvl. **30**
 		<th colspan="3">Nosier Than Me <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
-			<th><b>★</b>☆☆</th>
+			<th>Attack</th>
 			<td rowspan="2"> <span>"Ф A crude art."</span>
 			<br> Mass attack. Deals <b>135%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>40%</b> more Mental DMG.</td>
 		</tr>
-		<tr><th>Attack</th></tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 </div>
