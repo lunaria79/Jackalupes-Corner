@@ -2,8 +2,14 @@
     width: 75%; margin: auto;
      border:none; border-collapse: collapse; border-radius: 5px;
     th {
+        height: 35px;
         color: rgb(205, 214, 244); background: rgb(24, 24, 37);
+        line-height: .75em; vertical-align: middle;
         font-weight: 800; text-align: center;
+        span {
+            font-size: .75em;
+            color: rgb(245, 194, 231);  
+        }
     }
 
     td {

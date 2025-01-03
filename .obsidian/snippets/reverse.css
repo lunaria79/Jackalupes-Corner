@@ -6,10 +6,17 @@
   border-radius: 5px;
 }
 .reverse table th {
+  height: 35px;
   color: rgb(205, 214, 244);
   background: rgb(24, 24, 37);
+  line-height: 0.75em;
+  vertical-align: middle;
   font-weight: 800;
   text-align: center;
+}
+.reverse table th span {
+  font-size: 0.75em;
+  color: rgb(245, 194, 231);
 }
 .reverse table td {
   border: none;

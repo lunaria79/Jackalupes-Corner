@@ -6,31 +6,33 @@ cssclasses:
 
 **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
+
+
 <table>
 	<tr><th colspan="5">Basic Statistics</th></tr>
 	<tr>
 		<th>Attribute</th>
-		<th>Default  <br>Base Lvl.</th>
-		<th>Default  <br>Max Lvl.</th>
-		<th>Inisight I  <br>Max Lvl.</th>
-		<th>Inisight II  <br>Max Lvl.</th>
+		<th>Default  <br><span>Base Lvl.</span></th>
+		<th>Default  <br><span>Max Lvl.</span></th>
+		<th>Inisight I  <br><span>Max Lvl.</span></th>
+		<th>Inisight II  <br><span>Max Lvl.</span></th>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/2/2c/102_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013102">Attack</td>
+		<th><img src="app://85f183aaee4e71348e992bcf95c338cc3897/C:/Users/regin/OneDrive/Jackalupes%20Corner/Reverse1999/Images/Attributes/Attack.svg?1735921139060">Attack</th>
 		<td>264</td>
 		<td>401</td>
 		<td>672</td>
 		<td>1002</td>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/9/93/101_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013120">Health</td>
+		<th><img src="https://static.wikia.nocookie.net/reverse1999/images/9/93/101_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013120">Health</th>
 		<td>1064</td>
 		<td>1615</td>
 		<td>2706</td>
 		<td>4035</td>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/b/b2/103_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013149">Real DEF</td>
+		<th><img src="https://static.wikia.nocookie.net/reverse1999/images/b/b2/103_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013149">Real DEF</th>
 		<td>99</td>
 		<td>150</td>
 		<td>252</td>
@@ -44,7 +46,7 @@ cssclasses:
 		<td>313</td>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/5/50/105_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013207">Technique</td>
+		<th><img src="https://static.wikia.nocookie.net/reverse1999/images/5/50/105_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013207">Technique</th>
 		<td>250</td>
 		<td>250</td>
 		<td>283</td>
@@ -58,13 +60,13 @@ cssclasses:
 		<th>Inisight II </th>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/9/90/201_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601021035">Crit. Rate</td>
+		<th><img src="https://static.wikia.nocookie.net/reverse1999/images/9/90/201_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601021035">Crit. Rate</th>
 		<td>8.3%</td>
 		<td>9.4%</td>
 		<td>10.5%</td>
 	</tr>
 	<tr>
-		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/8/80/203_Icon.png/revision/latest/scale-to-width-down/22?cb=20230718204647">Crit. DMG</td>
+		<th><img src="https://static.wikia.nocookie.net/reverse1999/images/8/80/203_Icon.png/revision/latest/scale-to-width-down/22?cb=20230718204647">Crit. DMG</th>
 		<td>142.5%</td>
 		<td>144.2%</td>
 		<td>145.8%</td>
