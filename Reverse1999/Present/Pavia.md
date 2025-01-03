@@ -6,31 +6,66 @@
 An independent mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
 <table style="width:50%; text-align: center;">
-<tr><th colspan="5">Basic Statistics</th></tr>
-<tr>
-<td>Attribute</td>
-<td>Default  <br>Base Lvl.</td>
-<td>Default  <br>Max Lvl.</td>
-<td>Inisight I  <br>Max Lvl.</td>
-<td>Inisight II  <br>Max Lvl.</td>
-</tr>
-<tr>
-<td><img alt="ATK Icon" src="https://static.wikia.nocookie.net/reverse1999/images/2/2c/102_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013102" referrerpolicy="no-referrer">Attack</td>
-</tr>
-
+	<tr><th colspan="5">Basic Statistics</th></tr>
+	<tr>
+		<th>Attribute</th>
+		<th>Default  <br>Base Lvl.</th>
+		<th>Default  <br>Max Lvl.</th>
+		<th>Inisight I  <br>Max Lvl.</th>
+		<th>Inisight II  <br>Max Lvl.</th>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/2/2c/102_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013102">Attack</td>
+		<td>264</td>
+		<td>401</td>
+		<td>672</td>
+		<td>1002</td>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/9/93/101_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013120">Health</td>
+		<td>1064</td>
+		<td>1615</td>
+		<td>2706</td>
+		<td>4035</td>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/b/b2/103_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013149">Real DEF</td>
+		<td>99</td>
+		<td>150</td>
+		<td>252</td>
+		<td>376</td>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/1/1c/104_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013159">Mental DEF</td>
+		<td>83</td>
+		<td>125</td>
+		<td>210</td>
+		<td>313</td>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/5/50/105_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013207">Technique</td>
+		<td>250</td>
+		<td>250</td>
+		<td>283</td>
+		<td>316</td>
+	</tr>
+	<tr><th colspan="5">Special Statistics</th></tr>
+	<tr>
+		<th>Attribute</th>
+		<th>Default  </th>
+		<th>Inisight I</th>
+		<th>Inisight II </th>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/9/90/201_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601021035">Crit. Rate</td>
+		<td>8.3%</td>
+		<td>9.4%</td>
+		<td>10.5%</td>
+	</tr>
+	<tr>
+		<td><img src="https://static.wikia.nocookie.net/reverse1999/images/8/80/203_Icon.png/revision/latest/scale-to-width-down/22?cb=20230718204647">Crit. DMG</td>
+		<td>142.5%</td>
+		<td>144.2%</td>
+		<td>145.8%</td>
+	</tr>
 </table>
-
-| Basic Statistics                                                                                                                                         |                        |                       |                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------- | ----------------------- |
-| Attribute                                                                                                                                                | Default  <br>Base Lvl. | Default  <br>Max Lvl. | Insight I  <br>Max Lvl. |
-| ![ATK Icon](https://static.wikia.nocookie.net/reverse1999/images/2/2c/102_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013102) Attack      | 264                    | 401                   | 672                     |
-| ![HP Icon](https://static.wikia.nocookie.net/reverse1999/images/9/93/101_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013120) Health       | 1064                   | 1615                  | 2706                    |
-| ![RDEF Icon](https://static.wikia.nocookie.net/reverse1999/images/b/b2/103_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013149) Real DEF   | 99                     | 150                   | 252                     |
-| ![MDEF Icon](https://static.wikia.nocookie.net/reverse1999/images/1/1c/104_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013159) Mental DEF | 83                     | 125                   | 210                     |
-| ![Tech Icon](https://static.wikia.nocookie.net/reverse1999/images/5/50/105_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601013207) Technique  | 250                    | 250                   | 283                     |
-
-| Special Statistics                                                                                                                                        |         |           |            |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---------- |
-| Attribute                                                                                                                                                 | Default | Insight I | Insight II |
-| ![CRate Icon](https://static.wikia.nocookie.net/reverse1999/images/9/90/201_Icon.png/revision/latest/scale-to-width-down/22?cb=20230601021035) Crit. Rate | 8.3%    | 9.4%      | 10.5%      |
-| ![CDMG Icon](https://static.wikia.nocookie.net/reverse1999/images/8/80/203_Icon.png/revision/latest/scale-to-width-down/22?cb=20230718204647) Crit. DMG   | 142.5%  | 144.2%    | 145.8%     |
