@@ -102,7 +102,7 @@ cssclasses:
 </table>
 <table style="margin-bottom: 15px;">
 	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_2-1.webp"></th>
-	<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
+	<th colspan="3">Poor Sod <br> <span>Arcane Skill</span> </th>
 	</tr>
 	<tr>
 		<th><b>★</b>☆☆</th>
@@ -124,25 +124,13 @@ cssclasses:
 	<tr><th>Attack</th></tr>
 </table>
 <table style="margin-bottom: 15px;">
-	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp"></th>
-	<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
+	<tr><th rowspan="4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp"></th>
+	<th colspan="3">Nosier Than Me <br> <span>Ultimate</span> </th>
 	</tr>
 	<tr>
 		<th><b>★</b>☆☆</th>
 		<td rowspan="2"> <span>"Ф A crude art."</span>
 		<br> Mass attack. Deals <b>135%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>40%</b> more Mental DMG.</td>
-	</tr>
-	<tr><th>Attack</th></tr>
-	<tr>
-		<th><b>★★</b>☆</th>
-		<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet."</span>
-		<br> Mass attack. Deals <b>200%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>60%</b> more Mental DMG.</td>
-	</tr>
-	<tr><th>Attack</th></tr>
-	<tr>
-		<th><b>★★★</b></th>
-		<td rowspan="2"> <span>"Ф A crude art that could be the handiwork of an inept vet. That's what we're guessing."</span>
-		<br> Mass attack. Deals <b>330%</b> Mental DMG to 2 enemies. If the caster's HP is <i>below</i> <b>50%</b>, this attack deals <b>100%</b> more Mental DMG.</td>
 	</tr>
 	<tr><th>Attack</th></tr>
 </table>
