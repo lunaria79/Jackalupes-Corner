@@ -84,11 +84,11 @@ Current Lvl. **30**
 	<table>
 	<tr><th colspan="2">A Great Thing <br><span>Inheritance Effects</span></th></tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight.webp"></td>
+		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight.webp"></th>
 		<td>Every time an ally dies, DMG Dealt, Critical Rate and Critical Resist Rate <b>+10%</b>, and DMG Taken <b>-10%</b>.</td>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></td>
+		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></th>
 		<td>DMG Taken <b>-8%</b> when the caster enters battle.</td>
 	</tr>
 	</table>

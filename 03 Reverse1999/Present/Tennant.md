@@ -14,81 +14,90 @@ Current Lvl. **15**
 <div class="stats">
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
-		<tr><th colspan="5">Basic Statistics</th></tr>
+		<tr><th colspan="6">Basic Statistics</th></tr>
 		<tr>
 			<th>Attribute</th>
 			<th>Default  <br><span>Base Lvl.</span></th>
 			<th>Default  <br><span>Max Lvl.</span></th>
 			<th>Insight I  <br><span>Max Lvl.</span></th>
 			<th>Insight II  <br><span>Max Lvl.</span></th>
+      <th>Insight III  <br><span>Max Lvl.</span></th>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Attack.svg">Attack</th>
-			<td>264</td>
-			<td>401</td>
-			<td>672</td>
-			<td>1002</td>
+			<td>244</td>
+			<td>370</td>
+			<td>620</td>
+			<td>924</td>
+      <td>1086</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Health.svg">Health</th>
-			<td>1064</td>
-			<td>1615</td>
-			<td>2706</td>
-			<td>4035</td>
+			<td>1257</td>
+			<td>1908</td>
+			<td>3199</td>
+			<td>4770</td>
+      <td>5611</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Real%20DEF.svg">Real DEF</th>
-			<td>99</td>
-			<td>150</td>
-			<td>252</td>
-			<td>376</td>
+			<td>135</td>
+			<td>204</td>
+			<td>342</td>
+			<td>510</td>
+      <td>601</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Mental%20DEF.svg">Mental DEF</th>
-			<td>83</td>
-			<td>125</td>
-			<td>210</td>
-			<td>313</td>
+			<td>92</td>
+			<td>140</td>
+			<td>234</td>
+			<td>348</td>
+      <td>410</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Technique.svg">Technique</th>
-			<td>250</td>
-			<td>250</td>
-			<td>283</td>
-			<td>316</td>
+			<td>242</td>
+			<td>242</td>
+			<td>274</td>
+			<td>306</td>
+      <td>338</td>
 		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
-		<tr><th colspan="4">Special Statistics</th></tr>
+		<tr><th colspan="5">Special Statistics</th></tr>
 		<tr>
 			<th>Attribute</th>
-			<th>Default  </th>
+      <th>Default</th>
 			<th>Insight I</th>
 			<th>Insight II </th>
+      <th>Insight III </th>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Crit%20Rate.svg">Crit. Rate</th>
-			<td>8.3%</td>
-			<td>9.4%</td>
-			<td>10.5%</td>
+			<td>8.1%</td>
+			<td>9.1%</td>
+			<td>10.2%</td>
+      <td>11.3%</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Crit%20DMG.svg">Crit. DMG</th>
-			<td>142.5%</td>
-			<td>144.2%</td>
-			<td>145.8%</td>
+			<td>142.1%</td>
+			<td>143.7%</td>
+			<td>145.3%</td>
+      <td>146.9%</td>
 		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
 	<tr><th colspan="2">A Great Thing <br><span>Inheritance Effects</span></th></tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight.webp"></td>
+		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight.webp"></th>
 		<td>Every time an ally dies, DMG Dealt, Critical Rate and Critical Resist Rate <b>+10%</b>, and DMG Taken <b>-10%</b>.</td>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></td>
+		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></th>
 		<td>DMG Taken <b>-8%</b> when the caster enters battle.</td>
 	</tr>
 	</table>
