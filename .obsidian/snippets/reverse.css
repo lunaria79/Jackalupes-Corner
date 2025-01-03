@@ -1,5 +1,12 @@
+.reverse div.stats {
+  float: left;
+}
+.reverse div.attacks {
+  float: right;
+}
+
 .reverse table {
-  width: 50%;
+  width: 60%;
   margin: auto;
   border: none;
   border-collapse: collapse;
@@ -14,7 +21,7 @@
   line-height: 0.75em;
   vertical-align: middle;
   color: rgb(205, 214, 244);
-  background: rgb(24, 24, 37);
+  background: rgb(24, 24, 37) !important;
   border: none;
   font-weight: 800;
   text-align: center;

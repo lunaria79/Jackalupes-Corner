@@ -1,5 +1,10 @@
+.reverse div {
+	&.stats { float: left; }
+	&.attacks { float: right; }
+}
+
 .reverse table {
-	width: 50%; margin: auto;
+	width: 60%; margin: auto;
 	border:none; border-collapse: collapse;
 
 	tr { 
@@ -11,7 +16,7 @@
 
 	th {
 		line-height: .75em; vertical-align: middle;
-		color: rgb(205, 214, 244); background: rgb(24, 24, 37); border: none;
+		color: rgb(205, 214, 244); background: rgb(24, 24, 37) !important; border: none;
 		font-weight: 800; text-align: center;
 		&[colspan] { color: rgb(166, 227, 161); }
 		b { color: rgb(148, 226, 213); }
@@ -31,6 +36,7 @@
 }
 
 .reverse {
+	
 	.divide {
 		text-align: center;
 		color: rgb(245, 194, 231);
