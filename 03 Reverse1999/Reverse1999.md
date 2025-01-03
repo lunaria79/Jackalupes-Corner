@@ -1,7 +1,7 @@
 # Wishlist
 ## BEAST (3/4 Collected)
 - [x] Medicine Pocket | Lvl. 5
-![300](Images/Characters/Medicine_Pocket.webp)
+![300](Images/Characters/Medicine%20Pocket/Medicine_Pocket.webp)
 - [ ] Shamane
 ![300](Images/Characters/Shamane.webp)
 ## Plant
