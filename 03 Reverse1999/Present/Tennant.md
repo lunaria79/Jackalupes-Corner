@@ -111,18 +111,21 @@ Current Lvl. **15**
 		<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
 	<tr><th colspan="2">Portrait</th></tr>
-	<tr> <th>Lvl. 1</th> <td><i>Nosier Than Me's</i> effect changes to: deals <b>475%</b> Mental DMG </td> </tr>
-	<tr> <th>Lvl. 2</th> <td><i>Dirty Thing's</i> effect changes to: at <b>1/2/3 stars</b>, additionally deals <b>65/95/155%</b> Mental DMG.</td> </tr>
-	<tr> <th>Lvl. 3</th> <td> <i>Poor Sod's</i> effect changes to: at <b>1/2/3 stars</b>, additionally deals <b>55/80/130%</b> Mental DMG. </td> </tr>
-	<tr> <th>Lvl. 4</th> <td><i>Nosier Than Me's</i> effect changes to: deals <b>550%</b> Mental DMG.  </td> </tr>
-	<tr> <th>Lvl. 5</th> <td><i>Nosier Than Me's</i> effect changes to: Deals <b>600%</b> Mental DMG. The <i>[Self-healing]</i> status now recovers (the user's Missing HP <b>x35%</b>) HP.  </td> </tr>
+	<tr> <th>Lvl. 1</th> <td><i>[A Sincere Heart]'s</i> effect changes to: deals <b>600%</b> Reality DMG. </td> </tr>
+	<tr> <th>Lvl. 2</th> <td><i>[A Shiny Diamond]'s</i> effect changes to: at <b>1/2/3</b> stars, deals <b>220/280/450%</b> Reality DMG. </td> </tr>
+	<tr> <th>Lvl. 3</th> <td> <i>[A Sincere Heart]'s</i> effect changes to: deals <b>650%</b> Reality DMG. </td> </tr>
+	<tr> <th>Lvl. 4</th> <td><i>[A Bouquet of Galaxy]'s</i> effect changes to: at <b>1/2/3</b> stars, grants a <b>[Shield]</b> with (the caster's ATK <b>x90/135/225%</b>) HP on all allies.</td> </tr>
+	<tr> <th>Lvl. 5</th> <td><i>[A Sincere Heart]'s</i> effect changes to: deals <b>700% Reality DMG.</b> </td> </tr>
+  <tr>
+		<td colspan="2"><i>Shield:</i> Blocks certain DMG for a certain duration. </td>
+	</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 </div>
 <div class="attacks">
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp"></th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_1-1.webp"></th>
 		<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
@@ -145,7 +148,7 @@ Current Lvl. **15**
 		<tr><th>Attack</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_2-1.webp"></th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_2-1.webp"></th>
 		<th colspan="3">Poor Sod <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
@@ -168,7 +171,7 @@ Current Lvl. **15**
 		<tr><th>Attack</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp"></th>
+		<tr><th rowspan="4"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card-1.webp"></th>
 		<th colspan="3">Nosier Than Me <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
