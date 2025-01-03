@@ -1,7 +1,7 @@
 # Wishlist
 ## BEAST (3/4 Collected)
 - [x] Tennant | Lvl. 5
-![300](Images/Characters/Tennant.webp)
+![300](Images/Characters/Tennant/Tennant.webp)
 - [x] Medicine Pocket | Lvl. 5
 ![300](Images/Characters/Medicine_Pocket.webp)
 - [ ] Shamane

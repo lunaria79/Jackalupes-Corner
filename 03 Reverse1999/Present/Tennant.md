@@ -2,13 +2,13 @@
 cssclasses:
   - reverse no-properties
 ---
-Current Lvl. **30**
+Current Lvl. **15**
 
-| Pavia | My Dear Good Friends | The Leap of a Wolf |
-| --- | --- | --- |
-| ![](../Images/Characters/Pavia/Pavia.png) | ![](../Images/Characters/Pavia/Pavia_Insight.png) | ![](../Images/Characters/Pavia/Pavia_Costume.png) |
-*A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
-**Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
+| Gent Cullian | Roaming in Delhi |
+| --- | --- |
+| ![](../Images/Characters/Tennant/Tennant.webp) | ![](../Images/Characters/Tennant/Tennant_Costume-1.png) | 
+*An arcanist's work exhibited in the 1940s for 25 years. Completed in autumn, on September 8. Completed in Birmingham, United Kingdom of Great Britain and Northern Ireland, the exhibit was transferred to New Delhi, British India 15 years later and went on an exhibition tour to Paris, French Republic.*
+**Tennant**  is an  *:ReBeast:Beast*  Arcanist. Be careful of this fraudster. Tennant wanders in Paris, offering diamonds to her targets and striking deals. When the fun time's over, those glittering gifts will be restored to their true forms as charcoal.
 
 <div class="charts">
 <div class="stats">
