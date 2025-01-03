@@ -31,6 +31,12 @@
         "icon": "FasImage",
         "for": "everything",
         "order": 2
+      },
+      {
+        "rule": ".webp",
+        "icon": "FasImage",
+        "for": "everything",
+        "order": 3
       }
     ],
     "extraMargin": {
@@ -147,5 +153,8 @@
   "05 Writing/tlwwt/images/seojun.jpg": "FasImage",
   "05 Writing/tlwwt/images/joonki.jpg": "FasImage",
   "05 Writing/tlwwt/images/cheolmin.png": "FasImage",
-  "05 Writing/tlwwt/images/kiha.jpg": "FasImage"
+  "05 Writing/tlwwt/images/kiha.jpg": "FasImage",
+  "Reverse1999": "FasFolderOpen",
+  "Reverse1999/Images": "FasFolderTree",
+  "Reverse1999/Reverse1999.md": "FasFileLines"
 }
