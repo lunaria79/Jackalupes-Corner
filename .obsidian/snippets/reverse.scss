@@ -28,6 +28,10 @@
 }
 
 .reverse {
+	div.inline-title {
+		display: none;
+	}
+	
 	.markdown-preview-sizer.markdown-preview-section {
 			background: rgb(17, 17, 27);
 	}

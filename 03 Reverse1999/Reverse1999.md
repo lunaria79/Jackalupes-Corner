@@ -1,7 +1,7 @@
 # Wishlist
 ## BEAST
-- [x] Pavia | Lvl. 30
-![300](Images/Characters/Pavia.webp)
+- [ ] Pavia | Lvl. 30
+![Pavia](Images/Characters/Pavia.webp)
 - [x] Tennant | Lvl. 5
 ![300](Images/Characters/Tennant.webp)
 - [x] Medicine Pocket | Lvl. 5

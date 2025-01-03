@@ -2,7 +2,7 @@
 cssclasses:
   - reverse no-properties
 ---
-![200](../Images/Headshots/Pavia.webp)
+![200](../Images/Characters/Pavia/Pavia.webp)
 *A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
  **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
@@ -76,3 +76,11 @@ cssclasses:
 	</tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
+
+<table>
+<tr><td rowspan="3"></td></tr>
+</table>
+
+![](../Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp)
+![](../Images/Characters/Pavia/Pavia_Skill_Card_2-1.webp)
+![](../Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp)

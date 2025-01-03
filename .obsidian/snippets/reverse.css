@@ -41,6 +41,9 @@
   margin-bottom: 5px;
 }
 
+.reverse div.inline-title {
+  display: none;
+}
 .reverse .markdown-preview-sizer.markdown-preview-section {
   background: rgb(17, 17, 27);
 }

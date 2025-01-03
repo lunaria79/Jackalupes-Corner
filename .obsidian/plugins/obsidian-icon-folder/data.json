@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasIdCard",
       "ReBeast",
       "FasMountainSun",
       "FasFileLines",
-      "FasImage",
-      "FasFolderTree"
+      "FasImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -168,5 +168,6 @@
   "03 Reverse1999/Images/Characters": "FasFolderTree",
   "03 Reverse1999/Images/Afflatus": "FasFolderTree",
   "03 Reverse1999/Images/Attributes": "FasFolderTree",
-  "03 Reverse1999/Images/Headshots": "FasFolderTree"
+  "03 Reverse1999/Images/Characters/Pavia": "FasIdCard",
+  "03 Reverse1999/Images/Characters/Pavia/Pavia.webp": "FasImage"
 }
