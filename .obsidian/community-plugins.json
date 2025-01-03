@@ -14,5 +14,6 @@
   "obsidian-discordrpc",
   "obsidian-git",
   "codeblock-customizer",
-  "image-converter"
+  "image-converter",
+  "obsidian-snippet-downloader"
 ]

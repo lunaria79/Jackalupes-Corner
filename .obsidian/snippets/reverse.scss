@@ -33,6 +33,7 @@
 
 	td {
 		border: none;
+		vertical-align: middle;
 		&:not(:nth-last-child(1)) {
 			border-right: 2px solid rgb(49, 50, 68);
 		}
@@ -52,9 +53,7 @@
 	p {
 		margin: 0; margin-bottom: 5px;
 	}
-}
 
-.reverse {
 	div.inline-title {
 		display: none;
 	}
