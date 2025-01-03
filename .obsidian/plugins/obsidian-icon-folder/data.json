@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "ReBeast",
       "FasMountainSun",
       "FasFileLines",
       "FasImage",
-      "FasFolderTree",
-      "FasFolderOpen"
+      "FasFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -164,7 +164,7 @@
   "03 Reverse1999/Images": "FasFolderTree",
   "03 Reverse1999/Present": "FasFolderTree",
   "03 Reverse1999/Reverse1999.md": "FasFileLines",
-  "03 Reverse1999/Present/Pavia.md": "FasMountainSun",
+  "03 Reverse1999/Present/Pavia.md": "ReBeast",
   "03 Reverse1999/Images/Characters": "FasFolderTree",
   "03 Reverse1999/Images/Afflatus": "FasFolderTree",
   "03 Reverse1999/Images/Attributes": "FasFolderTree",

@@ -53,7 +53,7 @@ cssclasses:
 		<td>316</td>
 	</tr>
 </table>
-..
+<p class="divide">•·······•·······•·······•·······•</p>
 <table>
 	<tr><th colspan="4">Special Statistics</th></tr>
 	<tr>
@@ -75,3 +75,4 @@ cssclasses:
 		<td>145.8%</td>
 	</tr>
 </table>
+<p class="divide">•·······•·······•·······•·······•</p>
