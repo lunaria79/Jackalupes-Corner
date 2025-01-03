@@ -40,11 +40,11 @@
 
 ## Spirit
 - [ ] Isolde
-![300](../00%20_resources/Isolde_Garment1.webp)
+![300](Images/Isolde.webp)
 - [ ] Click
-![300](../00%20_resources/Click_Garment1.webp)
+![300](Images/Click.webp)
 - [ ] Poltergeist
-![200](../00%20_resources/Poltergeist_Garment1%201.webp)
+![200](Images/Poltergeist.webp)
 - [ ] ...
 
 ## Intelligence
