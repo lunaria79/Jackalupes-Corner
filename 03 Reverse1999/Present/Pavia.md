@@ -2,9 +2,12 @@
 cssclasses:
   - reverse no-properties
 ---
->  ![300](../Images/Headshots/Pavia.webp)*A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
+ ![300](../Images/Headshots/Pavia.webp)
+ *A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
+ <p class="divide">•·······•·······•·······•·······•</p>
+ **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 ___
-**Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
+
 
 <table>
 	<tr><th colspan="5">Basic Statistics</th></tr>
