@@ -1,28 +1,31 @@
 # Wishlist
 ## BEAST (4/4)
 - [x] Pavia | Lvl. 30
-![Pavia|150](Images/Pavia.webp)
+
 - [x] Tennant | Lvl. 5
-![Tennant|200](Images/Tennant.webp)
+![](Images/Tennant.webp)
 - [x] Medicine Pocket | Lvl. 5
-![Medicine_Pocket|150](Images/Medicine_Pocket.png)
+![](Images/Medicine_Pocket.webp)
 - [ ] Shamane
-![Shamane|200](Images/Shamane.webp)
+
 ## Plant (3/4)
 - [ ] Argus
-![Argus|200](Images/Argus.webp)
+
 - [x] 3NMA | Lvl. 30
-![3NMA|200](Images/3NMA.webp)
+![](Images/ENMA.webp)
 - [ ] Kanjira
-![Kanjira_Live2D|150](Images/Kanjira_Live2D.webp)
+
 - [ ] ...
 
 ## Mineral (1/4)
 - [ ] Kaalaa Baunaa
-![Kaalaa_Baunaa|150](Images/Kaalaa_Baunaa.webp)
-- [ ] ...
-- [ ] ...
-- [ ] ...
+
+- [ ] Pickles
+
+- [ ] Ulu
+
+- [ ] Fatutu
+![Fatutu](Images/Fatutu.webp)
 
 ## Star (0/4)
 - [ ] ...
@@ -38,7 +41,7 @@
 
 ## Intelligence (0/4)
 - [ ] Lucy
-![Lucy|200](Images/Lucy.webp)
+
 - [ ] ...
 - [ ] ...
 - [ ] ...
