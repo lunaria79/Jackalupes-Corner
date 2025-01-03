@@ -1,8 +1,17 @@
-.reverse div.stats {
-  float: left;
+.charts {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas: "stats attacks";
 }
-.reverse div.attacks {
-  float: right;
+
+.attacks {
+  grid-area: attacks;
+}
+
+.stats {
+  grid-area: stats;
 }
 
 .reverse table {

@@ -1,7 +1,15 @@
-.reverse div {
-	&.stats { float: left; }
-	&.attacks { float: right; }
+
+.charts {
+  display: grid; 
+  grid-template-columns: repeat(2, 1fr); 
+  grid-template-rows: 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas: 
+    "stats attacks"; 
 }
+.attacks { grid-area: attacks; }
+.stats { grid-area: stats; }
+
 
 .reverse table {
 	width: 60%; margin: auto;
@@ -36,7 +44,6 @@
 }
 
 .reverse {
-	
 	.divide {
 		text-align: center;
 		color: rgb(245, 194, 231);

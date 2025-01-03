@@ -7,8 +7,8 @@ cssclasses:
 | ![](../Images/Characters/Pavia/Pavia.png) | ![](../Images/Characters/Pavia/Pavia_Insight.png) | ![](../Images/Characters/Pavia/Pavia_Costume.png) |
 *A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
  **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
-
 <p class="divide">•·······•·······•·······•·······•</p>
+<div class="charts">
 <div class="stats">
 <table>
 	<tr><th colspan="5">Basic Statistics</th></tr>
@@ -138,4 +138,5 @@ cssclasses:
 	<tr><th>Attack</th></tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
+</div>
 </div>
