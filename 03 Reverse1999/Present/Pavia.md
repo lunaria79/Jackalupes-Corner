@@ -8,9 +8,9 @@ cssclasses:
 *A mixed's work. Exhibited in the 1990s for 25 years. Completed in Summer, on July 24. Born in Rome, Italian Republic, and after three months, the exhibit was sent to Piedmont and stayed there for more than ten years before moving to Sicily.*
 **Pavia**  is an independent *:ReBeast:Beast*  mercenary lacking in collaborative skills. Employers are content with his excellent abilities, but can't stand his work ethic of ignoring his coworkers.
 
-<p class="divide">•·······•·······•·······•·······•</p>
 <div class="charts">
 <div class="stats">
+	<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
 		<tr><th colspan="5">Basic Statistics</th></tr>
 		<tr>
@@ -87,11 +87,22 @@ cssclasses:
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></td>
-		<td>Every time an ally dies, DMG Dealt, Critical Rate and Critical Resist Rate <b>+10%</b>, and DMG Taken <b>-10%</b>.</td>
+		<td>DMG Taken <b>-8%</b> when the caster enters battle.</td>
 	</tr>
 	</table>
+		<p class="divide">•·······•·······•·······•·······•</p>
+	<table>
+	<tr><th colspan="2">Portrait</th></tr>
+	<tr> <th>Lvl. 1</th> <td><i>Nosier Than Me's</i> effect changes to: deals <b>475%</b> Mental DMG </td> </tr>
+	<tr> <th>Lvl. 2</th> <td><i>Dirty Thing's</i> effect changes to: at <b>1/2/3 stars</b>, additionally deals <b>65/95/155%</b> Mental DMG.</td> </tr>
+	<tr> <th>Lvl. 3</th> <td> <i>Poor Sod's</i> effect changes to: at <b>1/2/3 stars</b>, additionally deals <b>55/80/130%</b> Mental DMG. </td> </tr>
+	<tr> <th>Lvl. 4</th> <td><i>Nosier Than Me's</i> effect changes to: deals <b>550%</b> Mental DMG.  </td> </tr>
+	<tr> <th>Lvl. 5</th> <td><i>Nosier Than Me's</i> effect changes to: Deals <b>600%</b> Mental DMG. The <i>[Self-healing]</i> status now recovers (the user's Missing HP <b>x35%</b>) HP.  </td> </tr>
+	</table>
+	<p class="divide">•·······•·······•·······•·······•</p>
 </div>
 <div class="attacks">
+	<p class="divide">•·······•·······•·······•·······•</p>
 	<table style="margin-bottom: 15px;">
 		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Skill_Card_1-1.webp"></th>
 		<th colspan="3">Dirty Thing <br> <span>Arcane Skill</span> </th>
