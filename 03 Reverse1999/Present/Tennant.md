@@ -172,10 +172,9 @@ Current Lvl. **15**
 	</table>
 	<table style="margin-bottom: 15px;">
 		<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
-		<th colspan="3"> A Sincere Heart <br> <span>Ultimate</span> </th>
+		<th colspan="2"> A Sincere Heart <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
-			<th rowspan="2">Attack</th>
 			<td> <span> "Ф Her heart is sincere. It's just split into many pieces. Don't blame her." </span>
 			<br> 1-target attack. Deals <b>550%</b> Reality DMG to the target and loads 2 rounds of <i>[Diamond Bullet]</i>. </td>
 		</tr>

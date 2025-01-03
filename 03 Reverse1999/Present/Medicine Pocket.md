@@ -112,7 +112,7 @@ Are the research projects good for the society? All they care about is having fu
 	<tr><th colspan="2">Portrait</th></tr>
 	<tr> <th>Lvl. 1</th> <td><i>Bell of the Forest:</i> HP +(Medicine Pocket's ATK x120%) for all allies. </td> </tr>
 	<tr> <th>Lvl. 2</th> <td><i>Alchemy Ware:</I> At Incantation rank <b>1/2/3</b>, HP +(the caster's ATK <b>x90/135/220%</b>) for all allies.  </td> </tr>
-	<tr> <th>Lvl. 3</th> <td> <i>Inherent Habit:</i> At Incantation rank <b>1/2/3</b>, Mental DMG increased to <i>170/280/500%</i>. </td> </tr>
+	<tr> <th>Lvl. 3</th> <td> <i>Inherent Habit:</i> At Incantation rank <b>1/2/3</b>, Mental DMG increased to <b>170/280/500%</b>. </td> </tr>
 	<tr> <th>Lvl. 4</th> <td><i>26 Secondary Reactions:</i> Mental DMG increased to <b>500%.</b> </td> </tr>
 	<tr> <th>Lvl. 5</th> <td><i>Inherent Habit:</i> DMG Taken increased to <b>+30%</b> for the target.  </td> </tr>
 </table>
@@ -122,61 +122,60 @@ Are the research projects good for the society? All they care about is having fu
 <p class="divide">•·······•·······•·······•·······•</p>
 <table style="margin-bottom: 15px;">
 	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Skill_Card_1.webp"></th>
-	<th colspan="3">A Shiny Diamond <br> <span>Arcane Skill</span> </th>
+	<th colspan="3">Inherent Habit <br> <span>Arcane Skill</span> </th>
 	</tr>
 	<tr>
 		<th><b>★</b>☆☆</th>
-		<td rowspan="2"> <span>"Ф It's glamorous."</span>
-		<br> 1-target attack. Deals <b>200%<</b> Reality DMG. </td>
+		<td rowspan="2"> <span> "Ф "Sometimes people call them "mad kid.""</span>
+		<br> 1-target attack. Deals <b>150%</b> Mental DMG. DMG Taken <b>+20%</b> for the target for 1 round. </td>
 	</tr>
-	<tr><th>Attack</th></tr>
+	<tr><th>Debuff</th></tr>
 	<tr>
 		<th><b>★★</b>☆</th>
-		<td rowspan="2"> <span>"Ф It used to be sand, or charcoal."</span>
-		<br> 1-target attack. Deals <b>300%<</b> Reality DMG. </td>
+		<td rowspan="2"> <span>"Ф Sometimes people call them "mad kid" or other similar nicknames."</span>
+		<br> 1-target attack. Deals <b>250%</b> Mental DMG. DMG Taken <b>+20%</b> for the target for 1 round. </td>
 	</tr>
-	<tr><th>Attack</th></tr>
+	<tr><th>Debuff</th></tr>
 	<tr>
 		<th><b>★★★</b></th>
-		<td rowspan="2"> <span>"Ф It's just a lie known to everyone."</span>
-		<br> 1-target attack. Deals <b>500%<</b> Reality DMG. </td>
+		<td rowspan="2"> <span>"Ф Sometimes people call them "mad kid" and, of course, it still doesn't sound as mad as they are."</span>
+		<br> 1-target attack. Deals <b>450%</b> Mental DMG. DMG Taken <b>+20%</b> for the target for 1 round. </td>
 	</tr>
-	<tr><th>Attack</th></tr>
+	<tr><th>Debuff</th></tr>
 </table>
 <table style="margin-bottom: 15px;">
 	<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Skill_Card_2.webp"></th>
-	<th colspan="3">A Bouquet of Galaxy <br> <span>Arcane Skill</span> </th>
+	<th colspan="3">Alchemy Ware <br> <span>Arcane Skill</span> </th>
 	</tr>
 	<tr>
 		<th><b>★</b>☆☆</th>
-		<td rowspan="2"> <span>"Ф People have always dreamed of such thing."</span>
-		<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x80%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
+		<td rowspan="2"> <span> "Ф This thing can only be stored in a special ware."</span>
+		<br> Mass healing. Grants HP +(the caster's ATK <b>x80%</b>) and 1 stack of <i>[Sturdiness]</i> to all allies. </td>
 	</tr>
-	<tr><th>Buff</th></tr>
+	<tr><th>Health</th></tr>
 	<tr>
 		<th><b>★★</b>☆</th>
-		<td rowspan="2"> <span>"Ф People have always dreamed of such thing, but they can only gaze at it from the ground."</span>
-		<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x120%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
+		<td rowspan="2"> <span>"Ф This thing can only be stored in a special ware, like a Mars ampoule."</span>
+		<br> Mass healing. Grants HP +(the caster's ATK <b>x120%</b>) and 1 stack of <i>[Sturdiness]</i> to all allies. </td>
 	</tr>
-	<tr><th>Buff</th></tr>
+	<tr><th>Health</th></tr>
 	<tr>
 		<th><b>★★★</b></th>
-		<td rowspan="2"> <span> "Ф People have always dreamed of such thing, no matter it's in the distant universe, or right in front of them."</span>
-		<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x200%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
+		<td rowspan="2"> <span> "Ф This thing can only be stored in a special ware, like a Mars ampoule, or a living body."</span>
+		<br> Mass healing. Grants HP +(the caster's ATK <b>x200%</b>) and 1 stack of <i>[Sturdiness]</i> to all allies. </td>
 	</tr>
-	<tr><th>Buff</th></tr>
+	<tr><th>Health</th></tr>
 </table>
 <table style="margin-bottom: 15px;">
 	<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Ultimate_Card.webp"></th>
-	<th colspan="3"> A Sincere Heart <br> <span>Ultimate</span> </th>
+	<th colspan="3"> 26 Secondary Reactions <br> <span>Ultimate</span> </th>
 	</tr>
 	<tr>
-		<th rowspan="2">Attack</th>
-		<td> <span> "Ф Her heart is sincere. It's just split into many pieces. Don't blame her." </span>
-		<br> 1-target attack. Deals <b>550%</b> Reality DMG to the target and loads 2 rounds of <i>[Diamond Bullet]</i>. </td>
+		<td> <span> "Ф A generic ceramide receptor antagonist of complicated composition. The effect is unclear so human experiment is strictly prohibited." </span>
+		<br> 1-target attack. Deals <b>450%</b> Mental DMG and inflicts <i>[Daze]</i> on the target for 1 round. Moxie +1 for the caster.  </td>
 	</tr>
 	<tr>
-		<td> <b>Diamond Bullet</b>: After the caster attacks, Reality DEF <i>-30%</i> to the target for 2 rounds (-1 stack after trigger). </td>
+		<td> <b>Daze</b>: Cannot act. </td>
 	</tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
