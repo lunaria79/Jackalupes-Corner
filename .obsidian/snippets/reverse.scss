@@ -1,5 +1,5 @@
 .reverse table {
-	width: 75%; margin: auto;
+	width: 50%; margin: auto;
 		border:none; border-collapse: collapse; border-radius: 5px;
 		tr { height: 35px; }
 	th {
@@ -20,6 +20,10 @@
 	.divide {
 		text-align: center;
 		color: rgb(245, 194, 231);
+		margin: 0; margin-top: -10px;
+	}
+	p {
+		margin: 0; margin-bottom: 5px;
 	}
 }
 
