@@ -18,7 +18,7 @@
 - [ ] An-An Lee
 ![300](Images/An-an_Lee.webp)
 
-## Mineral (1/4)
+## Mineral
 - [ ] Kaalaa Baunaa
 ![300](Images/Kaalaa_Baunaa.webp)
 - [ ] Pickles
@@ -28,7 +28,7 @@
 - [ ] Fatutu
 ![300](Images/Fatutu.webp)
 
-## Star (0/4)
+## Star
 - [ ] Windsong
 ![200](Images/Windsong.webp)
 - [ ] Blonney
@@ -38,7 +38,7 @@
 - [x] Erick
 ![200](Images/Erick.webp)
 
-## Spirit (0/4)
+## Spirit
 - [ ] Isolde
 ![300](../00%20_resources/Isolde_Garment1.webp)
 - [ ] Click
@@ -47,7 +47,7 @@
 ![200](../00%20_resources/Poltergeist_Garment1%201.webp)
 - [ ] ...
 
-## Intelligence (0/4)
+## Intelligence
 - [ ] Lucy
 ![300](Images/Lucy.webp)
 - [ ] ...
