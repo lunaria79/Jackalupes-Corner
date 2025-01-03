@@ -29,15 +29,22 @@
 ![300](Images/Fatutu.webp)
 
 ## Star (0/4)
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Windsong
+![200](Images/Windsong.webp)
+- [ ] Blonney
+![300](Images/Blonney.webp)
+- [ ] Yenisei
+![300](Images/Yenisei.webp)
+- [x] Erick
+![200](Images/Erick.webp)
 
 ## Spirit (0/4)
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Isolde
+![300](../00%20_resources/Isolde_Garment1.webp)
+- [ ] Click
+![300](../00%20_resources/Click_Garment1.webp)
+- [ ] Poltergeist
+![200](../00%20_resources/Poltergeist_Garment1%201.webp)
 - [ ] ...
 
 ## Intelligence (0/4)
