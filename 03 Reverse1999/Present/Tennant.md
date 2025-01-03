@@ -98,7 +98,7 @@ Current Lvl. **15**
 	</tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></th>
-		<td>DMG Dealth <b>+8%</b> when the caster enters battle.</td>
+		<td>DMG Dealt <b>+8%</b> when the caster enters battle.</td>
 	</tr>
   <tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%203.webp"></th>
