@@ -153,7 +153,7 @@ Current Lvl. **30**
 	</table>
 	<table style="margin-bottom: 15px;">
 		<tr><th rowspan="2"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Pavia/Pavia_Ultimate_Card-1.webp"></th>
-		<th colspan="3">Nosier Than Me <br> <span>Ultimate</span> </th>
+		<th colspan="2">Nosier Than Me <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
 			<td rowspan="2"> <span>"Ф A crude art."</span>

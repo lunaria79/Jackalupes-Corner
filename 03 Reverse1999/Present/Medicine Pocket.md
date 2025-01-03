@@ -168,7 +168,7 @@ Are the research projects good for the society? All they care about is having fu
 </table>
 <table style="margin-bottom: 15px;">
 	<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Ultimate_Card.webp"></th>
-	<th colspan="3"> 26 Secondary Reactions <br> <span>Ultimate</span> </th>
+	<th colspan="2"> 26 Secondary Reactions <br> <span>Ultimate</span> </th>
 	</tr>
 	<tr>
 		<td> <span> "Ф A generic ceramide receptor antagonist of complicated composition. The effect is unclear so human experiment is strictly prohibited." </span>
