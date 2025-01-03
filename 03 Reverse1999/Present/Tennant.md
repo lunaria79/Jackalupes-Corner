@@ -91,14 +91,21 @@ Current Lvl. **15**
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
-	<tr><th colspan="2">A Great Thing <br><span>Inheritance Effects</span></th></tr>
+	<tr><th colspan="2">Beautiful Life <br><span>Inheritance Effects</span></th></tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight.webp"></th>
-		<td>Every time an ally dies, DMG Dealt, Critical Rate and Critical Resist Rate <b>+10%</b>, and DMG Taken <b>-10%</b>.</td>
+		<td>After the caster enters battle, immediately casts 1-star <i>[A Bouquet of Galaxy]</i> and gains 1 stack of <i>[Diamond Bullet]</i> (only triggers 1 time). </td>
 	</tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></th>
-		<td>DMG Taken <b>-8%</b> when the caster enters battle.</td>
+		<td>DMG Dealth <b>+8%</b> when the caster enters battle.</td>
+	</tr>
+  <tr>
+		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%203.webp"></th>
+		<td>If the caster starts a round with HP below 50%, immediately casts 1-star <i>[A Bouquet of Galaxy]</i> (only triggers 1 time). </td>
+	</tr>
+  <tr>
+		<td colspan="2"><i>Diamond Bullet:</i> After the caster attacks, Reality DEF <b>-30%</b> to the target for 2 rounds (-1 stack after trigger).  </td>
 	</tr>
 	</table>
 		<p class="divide">•·······•·······•·······•·······•</p>
