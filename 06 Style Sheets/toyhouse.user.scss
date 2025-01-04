@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.0.2
+@version        1.0.25
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -22,6 +22,10 @@
 ==/UserStyle== */
 @-moz-document domain("toyhou.se") {
 /* Nav Bar */
+* {
+	transition: 350ms;
+}
+
 #header {
 	background: var(--cMantle);
 }
@@ -38,7 +42,7 @@
 			.nav-link {
 				/* Dropdown Title */
 				color: var(--cText);
-				&:hover { color: var(--cPink); }
+				&:hover { color: var(--cPink) !important; }
 			}
 		}
 	}
@@ -59,7 +63,7 @@
 			color: var(--cText) !important;
 			&:hover {
 				color: var(--cPink) !important;
-				background-color: var(--cGreen);
+				background-color: var(--cSurface);
 			}
 		}
 	
