@@ -1,13 +1,21 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        0.0.1
+@version        1.0.1
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
+
+@var	color	cOrange	"Orange Tint"	rgb(250, 179, 135)
+@var	color	cGreen	"Green Tint"	rgb( 166, 227, 161)
+@var	color	cBlue	"Blue Tint"	rgb(137, 180, 250)
+@var	color	cPurple	"Purple Tint"	rgb(203, 166, 247)
+@var	color	cPink	"Pink Tint"	rgb(245, 194, 231)
+
 ==/UserStyle== */
 
 @-moz-document domain("toyhou.se") {
+	/*Variables */
 	* {
 		transition: 350ms;
 	
@@ -35,14 +43,14 @@
 	.navbar-band {
 		/* Logo */
 		font-weight: 700;
-		color: rgb(var(--c-purple));
+		color: cPurple;
 	}
 
 	.navbar-nav {
 		.nav-link {
 			/* Dropdown Title */
 			color: rgb(var(--text));
-			&:hover { color: rgb(var(--c-pink)); }
+			&:hover { color: cPink; }
 		}
 	}
 
@@ -54,14 +62,14 @@
 	
 		.dropdown-header {
 			/* Dropdown Menu Subheading */
-			color: rgb(var(--c-blue));
+			color: cBlue;
 		}
 	
 		a {
 			/* Dropdown Menu Link */
 			color: rgb(var(--text)) !important;
 			&:hover {
-				color: rgb(var(--c-pink)) !important;
+				color: cPink !important;
 				background-color: rgb(var(--surface), 0.5);
 			}
 		}
