@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.0.4
+@version        1.0.5
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -32,11 +32,11 @@
 
 .navbar {
 	&-inverse {
-		.navbar-band {
+		.navbar-brand {
 			/* Logo */
 			font-weight: 700;
 			color: var(--cPurple) !important;
-			:hover { color: var(--cBlue) !important; }
+			&:hover { color: var(--cBlue) !important; }
 		}
 	
 		.navbar-nav {
