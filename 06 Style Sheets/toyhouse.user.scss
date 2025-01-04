@@ -8,5 +8,68 @@
 ==/UserStyle== */
 
 @-moz-document domain("toyhou.se") {
-    /* Insert code here... */
+/* Nav Bar */
+#header {
+	background: rgb(var(--mantle));
+}
+
+.navbar-inverse {
+	.navbar-band {
+		/* Logo */
+		font-weight: 700;
+		color: rgb(var(--c-purple));
+	}
+
+	.navbar-nav {
+		.nav-link {
+			/* Dropdown Title */
+			color: rgb(var(--text));
+			&:hover { color: rgb(var(--c-pink)); }
+		}
+	}
+}
+
+.navbar {
+	.navbar-band {
+		/* Logo */
+		font-weight: 700;
+		color: rgb(var(--c-purple));
+	}
+
+	.navbar-nav {
+		.nav-link {
+			/* Dropdown Title */
+			color: rgb(var(--text));
+			&:hover { color: rgb(var(--c-pink)); }
+		}
+	}
+
+	.dropdown-menu {
+		/* Dropdown Menu */
+		color: rgb(var(--text)) !important;
+		background: rgb(var(--mantle));
+		border: none;
+	
+		.dropdown-header {
+			/* Dropdown Menu Subheading */
+			color: rgb(var(--c-blue));
+		}
+	
+		a {
+			/* Dropdown Menu Link */
+			color: rgb(var(--text)) !important;
+			&:hover {
+				color: rgb(var(--c-pink)) !important;
+				background-color: rgb(var(--surface), 0.5);
+			}
+		}
+	
+		.dropdown-divider {
+			/* Dropdown Menu Divider */
+			border-width: 2px;
+			border-color: rgb(var(--crust));
+		}
+	}
+}
+
 }
