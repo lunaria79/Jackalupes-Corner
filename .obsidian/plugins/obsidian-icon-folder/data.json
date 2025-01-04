@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolder",
       "FasShieldCat",
       "FasIdCard",
       "ReBeast",
-      "FasMountainSun",
-      "FasFileLines"
+      "FasMountainSun"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -173,5 +173,6 @@
   "03 Reverse1999/Images/Characters/Tennant": "FasIdCard",
   "03 Reverse1999/Present/Tennant.md": "FasShieldCat",
   "03 Reverse1999/Images/Characters/Medicine Pocket": "FasIdCard",
-  "03 Reverse1999/Present/Medicine Pocket.md": "FasShieldCat"
+  "03 Reverse1999/Present/Medicine Pocket.md": "FasShieldCat",
+  "06 Style Sheets": "FasFolder"
 }

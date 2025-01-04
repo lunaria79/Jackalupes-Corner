@@ -1,0 +1,73 @@
+* {
+	transition: 350ms;
+
+	--c-orange: 250, 179, 135;
+	--c-green: 166, 227, 161;
+	--c-blue: 137, 180, 250;
+	--c-purple: 203, 166, 247;
+	--c-pink: 245, 194, 231;
+
+	--text: 205, 214, 244;
+	--surface: 49, 50, 68;
+	--base: 30, 30, 46;
+	--mantle: 24, 24, 37;
+	--crust: 17, 17, 27;
+}
+
+/* Footer */
+#footer {
+	background: rgb(var(--mantle));
+}
+
+/* Body */
+body {
+	color: rgb(var(--text));
+	background: rgb(var(--crust));
+}
+
+div.card,
+div.card-block {
+	border: none;
+	border-radius: 3px;
+	background: rgb(var(--base));
+}
+
+/* Character Select */
+.user-profile .thumb-image a {
+	border: none;
+	background: transparent;
+}
+.user-profile .thumb-image a:hover {
+	transform: scale(1.05);
+	transition: .5s;
+	box-shadow: unset;
+}
+
+.user-profile .thumb-image a img {
+	border-radius: 10px;
+}
+.user-profile .thumb-image a img:hover {
+	box-shadow: 0 0 0 2px rgb(var(--c-pink));
+}
+
+.thumb-character-stat[title="Edit"] {
+	color: rgb(var(--c-orange));
+}
+.thumb-character-stat[title="Images"] {
+	color: rgb(var(--c-blue));
+}
+
+/* Buttons */
+.btn {
+	border: none;
+	font-weight: 600;
+	color: rgb(var(--base));
+	background: rgb(var(--c-green));
+}
+.btn:hover {
+	color: rgb(var(--base));
+	background: rgb(var(--c-orange));
+}
+.btn-primary {
+	color: rgb(var(--base)) !important;
+}
