@@ -21,7 +21,7 @@
 
 ==/UserStyle== */
 @-moz-document domain("toyhou.se") {
-  /* Nav Bar */
+  /* Navigation Bar */
   * {
     transition: 350ms;
   }
@@ -31,11 +31,14 @@
   .navbar-inverse .navbar-band {
     /* Logo */
     font-weight: 700;
-    color: var(--cPurple);
+    color: var(--cPurple) !important;
+  }
+  .navbar-inverse .navbar-band :hover {
+    color: var(--cBlue) !important;
   }
   .navbar-inverse .navbar-nav .nav-link {
     /* Dropdown Title */
-    color: var(--cText);
+    color: var(--cText) !important;
   }
   .navbar-inverse .navbar-nav .nav-link:hover {
     color: var(--cPink) !important;
