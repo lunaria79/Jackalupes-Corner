@@ -1,72 +1,63 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.0.1
+@version        1.0.2
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
 
-@var	color	cOrange	"Orange Tint"	rgb(250, 179, 135)
-@var	color	cGreen	"Green Tint"	rgb( 166, 227, 161)
-@var	color	cBlue	"Blue Tint"	rgb(137, 180, 250)
-@var	color	cPurple	"Purple Tint"	rgb(203, 166, 247)
-@var	color	cPink	"Pink Tint"	rgb(245, 194, 231)
+@var	color	cOrange	"Orange Tint"	#fab387
+@var	color	cGreen	"Green Tint"	#a6e3a1
+@var	color	cBlue	"Blue Tint"	#89b4fa
+@var	color	cPurple	"Purple Tint"	#cba6f7
+@var	color	cPink	"Pink Tint"	#f5c2e7
+
+@var color cText "Text" #cdd6f4
+
+@var color cSurface "Surface" #313244
+@var color cBase "Base" #1e1e2e
+@var color cMantle "Mantle" #181825
+@var color cCrust "Crust" #11111b
 
 ==/UserStyle== */
 @-moz-document domain("toyhou.se") {
-  /*Variables */
-  * {
-    transition: 350ms;
-    --c-orange: 250, 179, 135;
-    --c-green: 166, 227, 161;
-    --c-blue: 137, 180, 250;
-    --c-purple: 203, 166, 247;
-    --c-pink: 245, 194, 231;
-    --text: 205, 214, 244;
-    --surface: 49, 50, 68;
-    --base: 30, 30, 46;
-    --mantle: 24, 24, 37;
-    --crust: 17, 17, 27;
-  }
-}
-@-moz-document domain("toyhou.se") {
   /* Nav Bar */
   #header {
-    background: rgb(var(--mantle));
+    background: var(--cMantle);
   }
-  .navbar .navbar-band {
+  .navbar-inverse .navbar-band {
     /* Logo */
     font-weight: 700;
-    color: cPurple;
+    color: var(--cPurple);
   }
-  .navbar .navbar-nav .nav-link {
+  .navbar-inverse .navbar-nav .nav-link {
     /* Dropdown Title */
-    color: rgb(var(--text));
+    color: var(--cText);
   }
-  .navbar .navbar-nav .nav-link:hover {
-    color: cPink;
+  .navbar-inverse .navbar-nav .nav-link:hover {
+    color: var(--cPink);
   }
   .navbar .dropdown-menu {
     /* Dropdown Menu */
-    color: rgb(var(--text)) !important;
-    background: rgb(var(--mantle));
+    color: var(--cText) !important;
+    background: var(--cMantle);
     border: none;
   }
   .navbar .dropdown-menu .dropdown-header {
     /* Dropdown Menu Subheading */
-    color: cBlue;
+    color: var(--cBlue);
   }
   .navbar .dropdown-menu a {
     /* Dropdown Menu Link */
-    color: rgb(var(--text)) !important;
+    color: var(--cText) !important;
   }
   .navbar .dropdown-menu a:hover {
-    color: cPink !important;
-    background-color: rgb(var(--surface), 0.5);
+    color: var(--cPink) !important;
+    background-color: var(--cGreen);
   }
   .navbar .dropdown-menu .dropdown-divider {
     /* Dropdown Menu Divider */
     border-width: 2px;
-    border-color: rgb(var(--crust));
+    border-color: var(--cCrust);
   }
 }/*# sourceMappingURL=toyhouse.user.css.map */
