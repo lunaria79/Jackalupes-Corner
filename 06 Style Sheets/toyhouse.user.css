@@ -55,6 +55,14 @@
   div#content hr {
     border: 1px ridge var(--cPink);
   }
+  h1[class*=title] {
+    /* Page Titles */
+    color: var(--cText);
+  }
+  h1[class*=title] a {
+    font-weight: 700;
+    color: var(--cPurple) !important;
+  }
   /* Footer */
   #footer {
     background: var(--cMantle);
@@ -214,13 +222,6 @@
 /* === User Pages === */
 @-moz-document domain("toyhou.se") {
   /* === User Pages === */
-  .members-title a,
-  .characters-title,
-  .display-user a,
-  .characters-gallery-folder-description-header a {
-    font-weight: 700;
-    color: var(--cPurple);
-  }
   .link-text {
     /* Link Message Boxes */
   }
