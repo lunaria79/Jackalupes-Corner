@@ -149,8 +149,9 @@
     font-weight: 700;
     color: var(--cPurple);
   }
-  .side-nav li.active a, .side-nav li.active a:header {
+  .side-nav li.active a {
     /*Active Sidebar Link */
+    font-weight: 800;
     color: var(--cPink) !important;
     background-color: var(--cSurface);
   }
@@ -163,6 +164,9 @@
   .side-nav li a[href*="literatures/sort"],
   .side-nav li a[href*="tickets/create"] {
     color: var(--cOrange) !important;
+  }
+  .side-nav li a[href*=favorites] {
+    color: var(--cYellow) !important;
   }
   .side-nav li a[href*="images/upload"],
   .side-nav li a[href*="literatures/create"] {
@@ -178,6 +182,7 @@
   }
 }
 @-moz-document domain("toyhou.se") {
+  /* Folders */
   .characters-title,
   .display-user a,
   .characters-gallery-folder-description-header a {
