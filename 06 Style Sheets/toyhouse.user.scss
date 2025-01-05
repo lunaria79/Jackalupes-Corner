@@ -165,7 +165,6 @@ body {
 				font-weight: 700;
 				color: var(--cPurple);
 			}
-			&:hover { color: var(--cPink) !important; }
 		}
 
 		&.active a, &.active a:header {
@@ -201,6 +200,13 @@ body {
 }
 
 @-moz-document domain("toyhou.se") {
+	.characters-title,
+	.display-user a,
+	.characters-gallery-folder-description-header a {
+		font-weight: 700;
+		color: var(--cPurple);
+	}
+
 	.gallery-thumb {
 		.thumb-image a {
 			border: none;

@@ -149,9 +149,6 @@
     font-weight: 700;
     color: var(--cPurple);
   }
-  .side-nav li a:hover {
-    color: var(--cPink) !important;
-  }
   .side-nav li.active a, .side-nav li.active a:header {
     /*Active Sidebar Link */
     color: var(--cPink) !important;
@@ -181,6 +178,12 @@
   }
 }
 @-moz-document domain("toyhou.se") {
+  .characters-title,
+  .display-user a,
+  .characters-gallery-folder-description-header a {
+    font-weight: 700;
+    color: var(--cPurple);
+  }
   .gallery-thumb .thumb-image a {
     border: none;
     background: transparent;
