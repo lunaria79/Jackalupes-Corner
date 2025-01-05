@@ -24,10 +24,16 @@
 
 ==/UserStyle== */
 @-moz-document domain("toyhou.se") {
-/* Basics */
-/* Footer */
-#footer {
-	background: var(--cMantle);
+/* All Pages */
+* {
+	&:focus { box-shadow: unset !important; }
+}
+
+.badge-default {
+	/* Group Membership */
+	padding: 5px;
+	color: var(--cText);
+	background: var(--cBase);
 }
 
 /* Body */
@@ -36,9 +42,14 @@ body {
 	background: var(--cCrust);
 }
 
-* {
-	&:focus { box-shadow: unset !important; }
+/* Footer */
+#footer {
+	background: var(--cMantle);
 }
+
+
+
+
 }
 
 @-moz-document domain("toyhou.se") {
@@ -334,14 +345,6 @@ body {
 	&:hover .group-name {
 		color: var(--cPink) !important; 
 		background: var(--cMantle); 
-	}
-	
-	.group-rank {
-		/* Group Membership */
-		padding: 5px;
-		margin-top: 5px;
-		color: var(--cText);
-		background: var(--cBase);
 	}
 }
 }
