@@ -203,42 +203,99 @@ body {
 }
 
 @-moz-document domain("toyhou.se") {
-	/* Folders */
-	.characters-title,
-	.display-user a,
-	.characters-gallery-folder-description-header a {
+	/* User Pages */
+.characters-title,
+.display-user a,
+.characters-gallery-folder-description-header a {
+	font-weight: 700;
+	color: var(--cPurple);
+}
+
+.user-characters .characters-folder {
+	/* Character Folders */
+	background-color: transparent;
+	&:hover { 
+		background-color: transparent; 
+		.characters-folder-name {
+			color: var(--cPink); 
+			background: var(--cMantle); 
+		}
+	}
+	
+	.characters-folder-name {
+		border-radius: 5px;
+		padding: 5px;
+		color: var(--cText);
+	}
+	
+	.img-thumbnail {
+		border: none;
+		border-radius: 10px;
+		
+	}
+}
+
+.character-thumb {
+	/* Character */
+	.thumb-image a {
+		/* Character Image */
+		border: none;
+		background: transparent;
+		&:hover { box-shadow: unset; }
+		img { border-radius: 10px; }
+	}
+	
+	/* Charater Name */
+	.character-name-badge {
+		/* Charater Name */
+		border-radius: 5px;
+		color: var(--cText) !important;
+		background: transparent;
+	}
+	&:hover .character-name-badge {
+		color: var(--cPink) !important; 
+		background: var(--cMantle); 
+	}
+	
+	
+	.thumb-character-stat {
+		/* Character Stats */
 		font-weight: 700;
-		color: var(--cPurple);
+		&[title="Favorites"] { color: var(--cYellow); }
+		&[title="Images"] { color: var(--cBlue); }
+		&[title="Comments"] { color: var(--cRed); }
+		&[title="Links"] { color: var(--cOrange); }
+		&[title="Tabs"] { color: var(--cPurple); }
+		&[title="Edit"] { color: var(--cOrange); }
 	}
+}
 
-
-
-	.gallery-thumb {
-		.thumb-image a {
-			border: none;
-			background: transparent;
-			
-			&:hover {
-				transform: scale(1.05);
-				transition: .5s;
-				box-shadow: unset;
-			}
-			
-			img {
-				border-radius: 10px;
-				&:hover { background: var(--cMantle); }
-			}
-		}
-		
-		.thumb-character-stat {
-			font-weight: 700;
-			&[title="Favorites"] { color: var(--cYellow); }
-			&[title="Images"] { color: var(--cBlue); }
-			&[title="Comments"] { color: var(--cRed); }
-			&[title="Links"] { color: var(--cOrange); }
-			&[title="Tabs"] { color: var(--cPurple); }
-			&[title="Edit"] { color: var(--cOrange); }
-		}
-		
+.gallery-item {
+	.img-thumbnail {
+		/* Gallery Image */
+		border: none;
+		background: transparent;
+		&:hover { box-shadow: unset !important; }
+		img { border-radius: 10px; }
 	}
+	
+	.group-name {
+		/* Gallery Name */
+		border-radius: 5px;
+		color: var(--cText) !important;
+		background: transparent;
+	}
+	&:hover .group-name {
+		color: var(--cPink) !important; 
+		background: var(--cMantle); 
+	}
+	
+	.group-rank {
+		/* Group Membership */
+		padding: 5px;
+		color: var(--cText);
+		background: var(--cBase);
+	}
+}
+
 }

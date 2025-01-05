@@ -182,47 +182,105 @@
   }
 }
 @-moz-document domain("toyhou.se") {
-  /* Folders */
+  /* User Pages */
   .characters-title,
   .display-user a,
   .characters-gallery-folder-description-header a {
     font-weight: 700;
     color: var(--cPurple);
   }
-  .gallery-thumb .thumb-image a {
+  .user-characters .characters-folder {
+    /* Character Folders */
+    background-color: transparent;
+  }
+  .user-characters .characters-folder:hover {
+    background-color: transparent;
+  }
+  .user-characters .characters-folder:hover .characters-folder-name {
+    color: var(--cPink);
+    background: var(--cMantle);
+  }
+  .user-characters .characters-folder .characters-folder-name {
+    border-radius: 5px;
+    padding: 5px;
+    color: var(--cText);
+  }
+  .user-characters .characters-folder .img-thumbnail {
+    border: none;
+    border-radius: 10px;
+  }
+  .character-thumb {
+    /* Character */
+    /* Charater Name */
+  }
+  .character-thumb .thumb-image a {
+    /* Character Image */
     border: none;
     background: transparent;
   }
-  .gallery-thumb .thumb-image a:hover {
-    transform: scale(1.05);
-    transition: 0.5s;
+  .character-thumb .thumb-image a:hover {
     box-shadow: unset;
   }
-  .gallery-thumb .thumb-image a img {
+  .character-thumb .thumb-image a img {
     border-radius: 10px;
   }
-  .gallery-thumb .thumb-image a img:hover {
+  .character-thumb .character-name-badge {
+    /* Charater Name */
+    border-radius: 5px;
+    color: var(--cText) !important;
+    background: transparent;
+  }
+  .character-thumb:hover .character-name-badge {
+    color: var(--cPink) !important;
     background: var(--cMantle);
   }
-  .gallery-thumb .thumb-character-stat {
+  .character-thumb .thumb-character-stat {
+    /* Character Stats */
     font-weight: 700;
   }
-  .gallery-thumb .thumb-character-stat[title=Favorites] {
+  .character-thumb .thumb-character-stat[title=Favorites] {
     color: var(--cYellow);
   }
-  .gallery-thumb .thumb-character-stat[title=Images] {
+  .character-thumb .thumb-character-stat[title=Images] {
     color: var(--cBlue);
   }
-  .gallery-thumb .thumb-character-stat[title=Comments] {
+  .character-thumb .thumb-character-stat[title=Comments] {
     color: var(--cRed);
   }
-  .gallery-thumb .thumb-character-stat[title=Links] {
+  .character-thumb .thumb-character-stat[title=Links] {
     color: var(--cOrange);
   }
-  .gallery-thumb .thumb-character-stat[title=Tabs] {
+  .character-thumb .thumb-character-stat[title=Tabs] {
     color: var(--cPurple);
   }
-  .gallery-thumb .thumb-character-stat[title=Edit] {
+  .character-thumb .thumb-character-stat[title=Edit] {
     color: var(--cOrange);
+  }
+  .gallery-item .img-thumbnail {
+    /* Gallery Image */
+    border: none;
+    background: transparent;
+  }
+  .gallery-item .img-thumbnail:hover {
+    box-shadow: unset !important;
+  }
+  .gallery-item .img-thumbnail img {
+    border-radius: 10px;
+  }
+  .gallery-item .group-name {
+    /* Gallery Name */
+    border-radius: 5px;
+    color: var(--cText) !important;
+    background: transparent;
+  }
+  .gallery-item:hover .group-name {
+    color: var(--cPink) !important;
+    background: var(--cMantle);
+  }
+  .gallery-item .group-rank {
+    /* Group Membership */
+    padding: 5px;
+    color: var(--cText);
+    background: var(--cBase);
   }
 }/*# sourceMappingURL=toyhouse.user.css.map */
