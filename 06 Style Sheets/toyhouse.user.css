@@ -182,105 +182,106 @@
   }
 }
 @-moz-document domain("toyhou.se") {
-  /* User Pages */
-  .characters-title,
-  .display-user a,
-  .characters-gallery-folder-description-header a {
-    font-weight: 700;
-    color: var(--cPurple);
+  /* Tags Menu */
+  .characters-filterby a[href*=tags] {
+    /* Show Tags */
+    color: var(--cBase) !important;
+    background: var(--cGreen) !important;
+    padding: 5px 10px;
   }
-  .user-characters .characters-folder {
-    /* Character Folders */
-    background-color: transparent;
+  .characters-filterby a[href*=tags]:hover {
+    background: var(--cOrange) !important;
   }
-  .user-characters .characters-folder:hover {
-    background-color: transparent;
+  .characters-filterby a:not([href*=tags]) {
+    /* Hide Tags */
+    color: var(--cBase) !important;
+    background: var(--cRed) !important;
+    padding: 5px 10px;
   }
-  .user-characters .characters-folder:hover .characters-folder-name {
-    color: var(--cPink);
-    background: var(--cMantle);
+  .characters-filterby a:not([href*=tags]):hover {
+    background: var(--cOrange) !important;
   }
-  .user-characters .characters-folder .characters-folder-name {
-    border-radius: 5px;
-    padding: 5px;
+  .characters-tags-clear {
+    /* Chear Tags */
+    background: var(--cRed) !important;
+  }
+  .characters-tags-clear:hover {
+    background: var(--cOrange) !important;
+  }
+  .characters-tags-header div.input-group-addon {
+    border: none;
     color: var(--cText);
-  }
-  .user-characters .characters-folder .img-thumbnail {
-    border: none;
-    border-radius: 10px;
-  }
-  .character-thumb {
-    /* Character */
-    /* Charater Name */
-  }
-  .character-thumb .thumb-image a {
-    /* Character Image */
-    border: none;
-    background: transparent;
-  }
-  .character-thumb .thumb-image a:hover {
-    box-shadow: unset;
-  }
-  .character-thumb .thumb-image a img {
-    border-radius: 10px;
-  }
-  .character-thumb .character-name-badge {
-    /* Charater Name */
-    border-radius: 5px;
-    color: var(--cText) !important;
-    background: transparent;
-  }
-  .character-thumb:hover .character-name-badge {
-    color: var(--cPink) !important;
     background: var(--cMantle);
   }
-  .character-thumb .thumb-character-stat {
-    /* Character Stats */
-    font-weight: 700;
-  }
-  .character-thumb .thumb-character-stat[title=Favorites] {
-    color: var(--cYellow);
-  }
-  .character-thumb .thumb-character-stat[title=Images] {
-    color: var(--cBlue);
-  }
-  .character-thumb .thumb-character-stat[title=Comments] {
-    color: var(--cRed);
-  }
-  .character-thumb .thumb-character-stat[title=Links] {
-    color: var(--cOrange);
-  }
-  .character-thumb .thumb-character-stat[title=Tabs] {
-    color: var(--cPurple);
-  }
-  .character-thumb .thumb-character-stat[title=Edit] {
-    color: var(--cOrange);
-  }
-  .gallery-item .img-thumbnail {
-    /* Gallery Image */
+  .characters-tags-header input.characters-tag-search {
     border: none;
-    background: transparent;
-  }
-  .gallery-item .img-thumbnail:hover {
-    box-shadow: unset !important;
-  }
-  .gallery-item .img-thumbnail img {
-    border-radius: 10px;
-  }
-  .gallery-item .group-name {
-    /* Gallery Name */
-    border-radius: 5px;
-    color: var(--cText) !important;
-    background: transparent;
-  }
-  .gallery-item:hover .group-name {
-    color: var(--cPink) !important;
-    background: var(--cMantle);
-  }
-  .gallery-item .group-rank {
-    /* Group Membership */
-    padding: 5px;
     color: var(--cText);
     background: var(--cBase);
+  }
+  .characters-tags-header ::-moz-placeholder {
+    color: var(--cText);
+  }
+  .characters-tags-header ::placeholder {
+    color: var(--cText);
+  }
+  a.characters-tags-all {
+    /* View All Tags */
+    color: var(--cBase) !important;
+    background: var(--cGreen) !important;
+    padding: 5px 10px;
+  }
+  a.characters-tags-all:hover {
+    background: var(--cOrange) !important;
+  }
+  .characters-tag {
+    /* Character Tag */
+    cursor: pointer;
+  }
+  .characters-tag span, .characters-tag a {
+    /* Blank Tag */
+    color: var(--cText) !important;
+    background-color: var(--cMantle) !important;
+  }
+  .characters-tag i {
+    /* Icon Colors */
+    opacity: 1 !important;
+  }
+  .characters-tag i.fa-plus {
+    color: var(--cGreen) !important;
+  }
+  .characters-tag i.fa-minus {
+    color: var(--cRed) !important;
+  }
+  .characters-tag .add:hover {
+    /* Add Tag */
+    background-color: var(--cGreen) !important;
+  }
+  .characters-tag .add:hover i {
+    color: var(--cBase) !important;
+  }
+  .characters-tag:has(a.add:hover) span {
+    color: var(--cMantle) !important;
+    background-color: var(--cGreen) !important;
+  }
+  .characters-tag .ex:hover {
+    /* Remove Tag */
+    background-color: var(--cRed) !important;
+  }
+  .characters-tag .ex:hover i {
+    color: var(--cMantle) !important;
+  }
+  .characters-tag:has(a.ex:hover) span {
+    color: var(--cMantle) !important;
+    background-color: var(--cRed) !important;
+  }
+  .characters-tag:has(.add.btn-primary) span.btn-primary {
+    /* Selected Tag */
+    color: var(--cBase) !important;
+    background-color: var(--cGreen) !important;
+  }
+  .characters-tag:has(.ex.btn-primary) span.btn-primary {
+    /* Hidden Tag */
+    color: var(--cBase) !important;
+    background-color: var(--cRed) !important;
   }
 }/*# sourceMappingURL=toyhouse.user.css.map */

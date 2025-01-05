@@ -203,99 +203,104 @@ body {
 }
 
 @-moz-document domain("toyhou.se") {
-	/* User Pages */
-.characters-title,
-.display-user a,
-.characters-gallery-folder-description-header a {
-	font-weight: 700;
-	color: var(--cPurple);
+/* Tags Menu */
+.characters-filterby a[href*="tags"] {
+	/* Show Tags */
+	color: var(--cBase) !important;
+	background: var(--cGreen) !important;
+	padding: 5px 10px;
+	&:hover { background: var(--cOrange) !important; }
 }
 
-.user-characters .characters-folder {
-	/* Character Folders */
-	background-color: transparent;
-	&:hover { 
-		background-color: transparent; 
-		.characters-folder-name {
-			color: var(--cPink); 
-			background: var(--cMantle); 
-		}
-	}
-	
-	.characters-folder-name {
-		border-radius: 5px;
-		padding: 5px;
+.characters-filterby a:not([href*="tags"]) {
+	/* Hide Tags */
+	color: var(--cBase) !important;
+	background: var(--cRed) !important;
+	padding: 5px 10px;
+	&:hover { background: var(--cOrange) !important; }
+}
+
+.characters-tags-clear {
+	/* Chear Tags */
+	background: var(--cRed) !important;
+	&:hover { background: var(--cOrange) !important; }
+}
+
+.characters-tags-header { 
+	div.input-group-addon {
+		border: none;
 		color: var(--cText);
+		background: var(--cMantle);
 	}
 	
-	.img-thumbnail {
+	input.characters-tag-search {
 		border: none;
-		border-radius: 10px;
-		
-	}
-}
-
-.character-thumb {
-	/* Character */
-	.thumb-image a {
-		/* Character Image */
-		border: none;
-		background: transparent;
-		&:hover { box-shadow: unset; }
-		img { border-radius: 10px; }
-	}
-	
-	/* Charater Name */
-	.character-name-badge {
-		/* Charater Name */
-		border-radius: 5px;
-		color: var(--cText) !important;
-		background: transparent;
-	}
-	&:hover .character-name-badge {
-		color: var(--cPink) !important; 
-		background: var(--cMantle); 
-	}
-	
-	
-	.thumb-character-stat {
-		/* Character Stats */
-		font-weight: 700;
-		&[title="Favorites"] { color: var(--cYellow); }
-		&[title="Images"] { color: var(--cBlue); }
-		&[title="Comments"] { color: var(--cRed); }
-		&[title="Links"] { color: var(--cOrange); }
-		&[title="Tabs"] { color: var(--cPurple); }
-		&[title="Edit"] { color: var(--cOrange); }
-	}
-}
-
-.gallery-item {
-	.img-thumbnail {
-		/* Gallery Image */
-		border: none;
-		background: transparent;
-		&:hover { box-shadow: unset !important; }
-		img { border-radius: 10px; }
-	}
-	
-	.group-name {
-		/* Gallery Name */
-		border-radius: 5px;
-		color: var(--cText) !important;
-		background: transparent;
-	}
-	&:hover .group-name {
-		color: var(--cPink) !important; 
-		background: var(--cMantle); 
-	}
-	
-	.group-rank {
-		/* Group Membership */
-		padding: 5px;
 		color: var(--cText);
 		background: var(--cBase);
 	}
+	
+	::placeholder { color: var(--cText); }	
 }
 
+a.characters-tags-all {
+	/* View All Tags */
+	color: var(--cBase) !important;
+	background: var(--cGreen) !important;
+	padding: 5px 10px;
+	&:hover { background: var(--cOrange) !important; }
+}
+
+.characters-tag {
+	/* Character Tag */
+	cursor: pointer;
+	
+	span, a {
+		/* Blank Tag */
+		color: var(--cText) !important; 
+		background-color: var(--cMantle) !important; 
+	}
+	
+	i {
+		/* Icon Colors */
+		opacity: 1 !important;
+		&.fa-plus { color: var(--cGreen) !important; }
+		&.fa-minus { color: var(--cRed) !important}
+	}
+	
+	.add:hover {
+		/* Add Tag */
+		i { color: var(--cBase) !important; }
+		background-color: var(--cGreen) !important;
+	}
+	&:has(a.add:hover) span {
+		color: var(--cMantle) !important;
+		background-color: var(--cGreen) !important;
+	}
+	
+	.ex:hover {
+		/* Remove Tag */
+		i { color: var(--cMantle) !important; }
+		background-color: var(--cRed) !important;
+	}
+	&:has(a.ex:hover) span {
+			color: var(--cMantle) !important;
+			background-color: var(--cRed) !important;
+	}
+	
+	&:has(.add.btn-primary) {
+		span.btn-primary {
+			/* Selected Tag */
+			color: var(--cBase) !important;
+			background-color: var(--cGreen) !important;
+		}	
+	}
+	
+	&:has(.ex.btn-primary) {
+		span.btn-primary {
+			/* Hidden Tag */
+			color: var(--cBase) !important;
+			background-color: var(--cRed) !important;
+		}
+	}	
+}
 }
