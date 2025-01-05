@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.0.8
+@version        1.0.9
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -367,6 +367,49 @@ body {
 		background: var(--cMantle); 
 	}
 }
+
+.link-text {
+	/* Link Message Boxes */
+	.link-panel { background: var(--cBase); }
+	.link-panel:before { border: 15px solid var(--cBase); }
+	
+	@media (min-width: 992px) {
+		&.link-right .link-panel::before {
+			border-right-color: transparent;
+			border-top-color: transparent;
+		}
+
+		&.link-left .link-panel::before {
+			border-left-color: transparent;
+			border-top-color: transparent;
+		}
+	}
+
+	@media (max-width: 991.98px) {
+		&.link-right .link-panel::before {
+			border-bottom-color: transparent;
+			border-left-color: transparent;
+		}
+
+		 &.link-left .link-panel::before {
+			border-right-color: transparent;
+			border-top-color: transparent;
+		}
+	}
+	
+	a.link-character-badge {
+		/* Link Button */
+		color: var(--cBase);
+		background: var(--cBlue);
+		&:hover { background: var(--cOrange); }
+	}
+	
+	.link-content hr {
+		/* Link Message Divider */
+		border: 1px ridge var(--cMantle);
+	}
+}
+
 }
 
 @-moz-document domain("toyhou.se") {
