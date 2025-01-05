@@ -26,6 +26,7 @@
 @-moz-document domain("toyhou.se") {
 /* All Pages */
 * {
+	transition: 350ms;
 	&:focus { box-shadow: unset !important; }
 }
 
@@ -41,7 +42,6 @@ img.display-user-avatar {
 	color: var(--cText);
 	background: var(--cBase);
 }
-
 
 body {
 	/* Background */
@@ -59,10 +59,6 @@ body {
 		&:hover { color: var(--cOrange); }
 	}
 }
-
-
-
-
 }
 
 @-moz-document domain("toyhou.se") {
@@ -88,13 +84,7 @@ body {
 
 @-moz-document domain("toyhou.se") {
 /* Navigation Bar */
-* {
-	transition: 350ms;
-}
-
-#header {
-	background: var(--cMantle);
-}
+#header { background: var(--cMantle); }
 
 .navbar {
 	&-inverse {
@@ -221,17 +211,12 @@ body {
 			border-color: var(--cCrust);
 		}
 	}
-
-	img {
-		margin-right: 1em;
-		border-radius: 3px;
-	}
-
 }
 }
 
 @-moz-document domain("toyhou.se") {
 /* User Pages */
+.members-title a,
 .characters-title,
 .display-user a,
 .characters-gallery-folder-description-header a {
@@ -276,8 +261,30 @@ body {
 	}
 }
 
+.links-pagination {
+	/* Pagination */
+	.page-item {
+		span { 
+			border: none; 
+			font-weight: 800;
+			color: var(--cText) !important;
+		}
+		&.disabled span { background: var(--cBase); }
+		&.active span { color: var(--cBase) !important; background: var(--cPurple); }
+		
+		a {
+			border: none;
+			font-weight: 800;
+			color: var(--cText); 
+			background: var(--cBase);
+			&:hover { color: var(--cBase) !important; background: var(--cPink); }
+		}
+	}
+}
+
 .characters-filterby:has(.characters-order-text) {
 	button#dropdownMenuButton {
+		/* Order By Dropdown */
 		cursor: pointer;
 		padding: 5px 10px;
 		color: var(--cMantle);
