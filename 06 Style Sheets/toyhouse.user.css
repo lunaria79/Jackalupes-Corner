@@ -6,9 +6,12 @@
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
 
+@var	color	cRed	"Red Tint"	#f38ba8
 @var	color	cOrange	"Orange Tint"	#fab387
+@var	color	cYellow	"Yellow Tint"	#f9e2af
 @var	color	cGreen	"Green Tint"	#a6e3a1
-@var	color	cBlue	"Blue Tint"	#89b4fa
+@var	color	cBlue	"Blue Tint"	#74c7ec
+@var	color	cIndigo	"Indigo Tint"	#89b4fa
 @var	color	cPurple	"Purple Tint"	#cba6f7
 @var	color	cPink	"Pink Tint"	#f5c2e7
 
@@ -65,5 +68,77 @@
     /* Dropdown Menu Divider */
     border-width: 2px;
     border-color: var(--cCrust);
+  }
+}
+@-moz-document domain("toyhou.se") {
+  /* Sidebar */
+  #sidebar {
+    background: var(--cMantle);
+  }
+  .nav-mobile-menu {
+    border: none;
+    background: var(--cBase);
+  }
+  .side-nav li {
+    /* Special Link Colors */
+  }
+  .side-nav li.header {
+    /* Sidebar Subheaders */
+    font-weight: 800;
+    color: var(--cMantle);
+    background: var(--cPurple);
+  }
+  .side-nav li.subheader {
+    /* Subheader Coloring */
+    background-color: var(--cPink) !important;
+  }
+  .side-nav li.subheader a {
+    font-weight: 700 !important;
+    color: var(--cMantle) !important;
+  }
+  .side-nav li.subnavigation-header a.subnavigation-header-link {
+    /* Dropdown Header */
+    font-weight: 700 !important;
+    color: var(--cMantle) !important;
+    background-color: var(--cBlue) !important;
+  }
+  .side-nav li.subnavigation-header span {
+    color: var(--cMantle) !important;
+  }
+  .side-nav li a {
+    /* Sidebar Links */
+    font-weight: 600;
+    color: var(--cText);
+  }
+  .side-nav li a:hover {
+    color: var(--cPink);
+    background-color: var(--cSurface);
+  }
+  .side-nav li a span {
+    vertical-align: middle;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: var(--cPurple);
+  }
+  .side-nav li a:hover {
+    color: var(--cPink) !important;
+  }
+  .side-nav li.divider {
+    border-width: 2px;
+    border-color: var(--cCrust);
+  }
+  .side-nav li a[href*=warning] {
+    color: var(--cOrange) !important;
+  }
+  .side-nav li a[href*=delete] {
+    color: var(--cRed) !important;
+  }
+  .side-nav li a[href*=create] {
+    color: var(--cGreen) !important;
+  }
+  .side-nav.active a, .side-nav.active a:header {
+    /*Active Sidebar Link */
+    color: var(--cPink) !important;
+    background-color: var(--cSurface);
   }
 }/*# sourceMappingURL=toyhouse.user.css.map */
