@@ -28,6 +28,11 @@
   *:focus {
     box-shadow: unset !important;
   }
+  img.display-user-avatar {
+    /* Avatars */
+    margin-right: 1em;
+    border-radius: 3px;
+  }
   .badge-default {
     /* Group Membership */
     padding: 5px;
