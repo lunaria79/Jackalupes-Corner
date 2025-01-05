@@ -35,6 +35,10 @@ body {
 	color: var(--cText);
 	background: var(--cCrust);
 }
+
+* {
+	&:focus { box-shadow: unset !important; }
+}
 }
 
 @-moz-document domain("toyhou.se") {
@@ -203,7 +207,7 @@ body {
 }
 
 @-moz-document domain("toyhou.se") {
-	/* User Pages */
+/* User Pages */
 .characters-title,
 .display-user a,
 .characters-gallery-folder-description-header a {
@@ -231,7 +235,49 @@ body {
 	.img-thumbnail {
 		border: none;
 		border-radius: 10px;
-		
+	}
+}
+
+.user-characters .characters-folders-top a {
+	/* Navigation */
+	color: var(--cMantle);
+	padding: 5px 10px;
+	
+	&:has(.fi-arrow-up), &:has(.fi-arrow-left) { background: var(--cPink) !important; }
+	&:has(.fi-folder) { background: var(--cIndigo) !important; }
+	
+	&:hover { 
+		color: var(--cMantle);
+		background-color: var(--cOrange) !important; 
+	}
+}
+
+.characters-filterby:has(.characters-order-text) {
+	button#dropdownMenuButton {
+		cursor: pointer;
+		padding: 5px 10px;
+		color: var(--cMantle);
+		background-color: var(--cIndigo) !important; 
+		&:hover {
+			color: var(--cMantle) !important;
+			background-color: var(--cOrange) !important; 
+		}
+	}
+	
+	.dropdown-menu {
+		border: none;
+		border-radius: 5px;
+		background: var(--cBase) !important;
+		a.dropdown-item {
+			color: var(--cText) !important;
+			background: transparent !important;
+			&:hover { background-color: var(--cSurface) !important; }
+		}
+		a.bg-faded {
+			font-weight: 700;
+			color: var(--cPink) !important;
+			background-color: var(--cSurface) !important;
+		}
 	}
 }
 
@@ -299,9 +345,9 @@ body {
 }
 }
 
-@-moz-document domain("toyhou-se") {
-	/* Tags Menu */
-.characters-filterby a[href*="tags"] {
+@-moz-document domain("toyhou.se") {
+/* Tags Menu */
+.characters-filterby a.characters-tags-view {
 	/* Show Tags */
 	color: var(--cBase) !important;
 	background: var(--cGreen) !important;
@@ -309,7 +355,7 @@ body {
 	&:hover { background: var(--cOrange) !important; }
 }
 
-.characters-filterby a:not([href*="tags"]) {
+.characters-filterby a.characters-tags-view.btn-primary {
 	/* Hide Tags */
 	color: var(--cBase) !important;
 	background: var(--cRed) !important;
@@ -338,8 +384,6 @@ body {
 	
 	::placeholder { color: var(--cText); }	
 }
-
-
 
 a.characters-tags-all {
 	/* View All Tags */

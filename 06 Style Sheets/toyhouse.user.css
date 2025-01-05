@@ -34,6 +34,9 @@
     color: var(--cText);
     background: var(--cCrust);
   }
+  *:focus {
+    box-shadow: unset !important;
+  }
 }
 @-moz-document domain("toyhou.se") {
   /* Inputs */
@@ -209,6 +212,48 @@
     border: none;
     border-radius: 10px;
   }
+  .user-characters .characters-folders-top a {
+    /* Navigation */
+    color: var(--cMantle);
+    padding: 5px 10px;
+  }
+  .user-characters .characters-folders-top a:has(.fi-arrow-up), .user-characters .characters-folders-top a:has(.fi-arrow-left) {
+    background: var(--cPink) !important;
+  }
+  .user-characters .characters-folders-top a:has(.fi-folder) {
+    background: var(--cIndigo) !important;
+  }
+  .user-characters .characters-folders-top a:hover {
+    color: var(--cMantle);
+    background-color: var(--cOrange) !important;
+  }
+  .characters-filterby:has(.characters-order-text) button#dropdownMenuButton {
+    cursor: pointer;
+    padding: 5px 10px;
+    color: var(--cMantle);
+    background-color: var(--cIndigo) !important;
+  }
+  .characters-filterby:has(.characters-order-text) button#dropdownMenuButton:hover {
+    color: var(--cMantle) !important;
+    background-color: var(--cOrange) !important;
+  }
+  .characters-filterby:has(.characters-order-text) .dropdown-menu {
+    border: none;
+    border-radius: 5px;
+    background: var(--cBase) !important;
+  }
+  .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item {
+    color: var(--cText) !important;
+    background: transparent !important;
+  }
+  .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item:hover {
+    background-color: var(--cSurface) !important;
+  }
+  .characters-filterby:has(.characters-order-text) .dropdown-menu a.bg-faded {
+    font-weight: 700;
+    color: var(--cPink) !important;
+    background-color: var(--cSurface) !important;
+  }
   .character-thumb {
     /* Character */
     /* Charater Name */
@@ -284,24 +329,24 @@
     background: var(--cBase);
   }
 }
-@-moz-document domain("toyhou-se") {
+@-moz-document domain("toyhou.se") {
   /* Tags Menu */
-  .characters-filterby a[href*=tags] {
+  .characters-filterby a.characters-tags-view {
     /* Show Tags */
     color: var(--cBase) !important;
     background: var(--cGreen) !important;
     padding: 5px 10px;
   }
-  .characters-filterby a[href*=tags]:hover {
+  .characters-filterby a.characters-tags-view:hover {
     background: var(--cOrange) !important;
   }
-  .characters-filterby a:not([href*=tags]) {
+  .characters-filterby a.characters-tags-view.btn-primary {
     /* Hide Tags */
     color: var(--cBase) !important;
     background: var(--cRed) !important;
     padding: 5px 10px;
   }
-  .characters-filterby a:not([href*=tags]):hover {
+  .characters-filterby a.characters-tags-view.btn-primary:hover {
     background: var(--cOrange) !important;
   }
   .characters-tags-clear {
