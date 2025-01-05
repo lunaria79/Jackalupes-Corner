@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.0.9
+@version        1.1.0
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -27,9 +27,11 @@
 /* All Pages */
 * {
 	transition: 350ms;
+	a { text-decoration: none; }
 	&:focus { box-shadow: unset !important; }
 }
 
+a[href*="world"] img,
 img.display-user-avatar {
 	/* Avatars */
 	margin-right: 1em;
@@ -39,6 +41,7 @@ img.display-user-avatar {
 .badge-default {
 	/* Group Membership */
 	padding: 5px;
+	margin-top: 5px;
 	color: var(--cText);
 	background: var(--cBase);
 }
@@ -47,6 +50,10 @@ body {
 	/* Background */
 	color: var(--cText);
 	background: var(--cCrust);
+}
+
+div#content hr {
+	border: 1px ridge var(--cPink);
 }
 
 /* Footer */
@@ -82,8 +89,9 @@ body {
 	}
 }
 
+/* === Navigation Bar === */
 @-moz-document domain("toyhou.se") {
-/* Navigation Bar */
+/* === Navigation Bar === */
 #header { background: var(--cMantle); }
 
 .navbar {
@@ -134,8 +142,9 @@ body {
 
 }
 
+/* === Sidebar === */
 @-moz-document domain("toyhou.se") {
-/* Sidebar */
+/* === Sidebar === */
 #sidebar {
 	background: var(--cMantle);
 }
@@ -214,8 +223,9 @@ body {
 }
 }
 
+/* === User Pages === */
 @-moz-document domain("toyhou.se") {
-/* User Pages */
+/* === User Pages === */
 .members-title a,
 .characters-title,
 .display-user a,
@@ -224,31 +234,63 @@ body {
 	color: var(--cPurple);
 }
 
-.user-characters .characters-folder {
-	/* Character Folders */
-	background-color: transparent;
-	&:hover { 
-		background-color: transparent; 
-		.characters-folder-name {
-			color: var(--cPink); 
-			background: var(--cMantle); 
+.link-text {
+	/* Link Message Boxes */
+	.link-panel { background: var(--cBase); }
+	.link-panel:before { border: 15px solid var(--cBase); }
+	
+	@media (min-width: 992px) {
+		&.link-right .link-panel::before {
+			border-right-color: transparent;
+			border-top-color: transparent;
+		}
+
+		&.link-left .link-panel::before {
+			border-left-color: transparent;
+			border-top-color: transparent;
+		}
+	}
+
+	@media (max-width: 991.98px) {
+		&.link-right .link-panel::before {
+			border-bottom-color: transparent;
+			border-left-color: transparent;
+		}
+
+		 &.link-left .link-panel::before {
+			border-right-color: transparent;
+			border-top-color: transparent;
 		}
 	}
 	
-	.characters-folder-name {
-		border-radius: 5px;
-		padding: 5px;
-		color: var(--cText);
+	a.link-character-badge {
+		/* Link Button */
+		color: var(--cBase);
+		background: var(--cBlue);
+		&:hover { background: var(--cOrange); }
 	}
 	
-	.img-thumbnail {
-		border: none;
-		border-radius: 10px;
+	.link-content hr {
+		/* Link Message Divider */
+		border: 1px ridge var(--cMantle);
 	}
 }
 
-.user-characters .characters-folders-top a {
-	/* Navigation */
+}
+
+/* === Core Page Features === */
+@-moz-document domain("toyhou.se") {
+/* === Core Page Features === */
+.characters-folder {
+	/* Characters Folder */
+	border: none;
+	color: var(--cText) !important;
+	background: transparent !important;
+	&:not(.characters-folder-with-avatar):hover { background: var(--cMantle) !important; }
+}
+
+.characters-folders-top a {
+	/* View Buttons */
 	color: var(--cMantle);
 	padding: 5px 10px;
 	
@@ -261,7 +303,7 @@ body {
 	}
 }
 
-.links-pagination {
+.pagination-wrapper {
 	/* Pagination */
 	.page-item {
 		span { 
@@ -326,17 +368,27 @@ body {
 	.character-name-badge {
 		/* Charater Name */
 		border-radius: 5px;
+		margin-bottom: 5px;
 		color: var(--cText) !important;
 		background: transparent;
 	}
-	&:hover .character-name-badge {
-		color: var(--cPink) !important; 
-		background: var(--cMantle); 
+	&:hover .character-name-badge { color: var(--cPink) !important; background: var(--cMantle); }
+	
+	/* Artist Name */
+	.user-name-badge {
+		border-radius: 5px;
+		margin-bottom: 5px;
+		color: var(--cText);
+		background: var(--cMantle);
+		&:hover { background: var(--cOrange); }
+		
+		&[href*="spUnstaeble"] { color: var(--cCrust); background: var(--cBlue); }
+		&[href*="pennumbra"] { color: var(--cCrust); background: var(--cYellow); }
+		&[href*="RiverNyx9"] { color: var(--cCrust); background: var(--cRed); }
 	}
 	
-	
+	/* Character Stats */
 	.thumb-character-stat {
-		/* Character Stats */
 		font-weight: 700;
 		&[title="Favorites"] { color: var(--cYellow); }
 		&[title="Images"] { color: var(--cBlue); }
@@ -351,69 +403,29 @@ body {
 	.img-thumbnail {
 		/* Gallery Image */
 		border: none;
+		border-radius: 10px;
 		background: transparent;
 		&:hover { box-shadow: unset !important; }
 		img { border-radius: 10px; }
 	}
 	
+	.characters-folder-name,
 	.group-name {
 		/* Gallery Name */
+		padding: 5px;
+		margin-bottom: 5px;
 		border-radius: 5px;
 		color: var(--cText) !important;
 		background: transparent;
 	}
-	&:hover .group-name {
-		color: var(--cPink) !important; 
-		background: var(--cMantle); 
-	}
+	&:hover .characters-folder-name,
+	&:hover .group-name { color: var(--cPink) !important; background: var(--cMantle); }
+}
 }
 
-.link-text {
-	/* Link Message Boxes */
-	.link-panel { background: var(--cBase); }
-	.link-panel:before { border: 15px solid var(--cBase); }
-	
-	@media (min-width: 992px) {
-		&.link-right .link-panel::before {
-			border-right-color: transparent;
-			border-top-color: transparent;
-		}
-
-		&.link-left .link-panel::before {
-			border-left-color: transparent;
-			border-top-color: transparent;
-		}
-	}
-
-	@media (max-width: 991.98px) {
-		&.link-right .link-panel::before {
-			border-bottom-color: transparent;
-			border-left-color: transparent;
-		}
-
-		 &.link-left .link-panel::before {
-			border-right-color: transparent;
-			border-top-color: transparent;
-		}
-	}
-	
-	a.link-character-badge {
-		/* Link Button */
-		color: var(--cBase);
-		background: var(--cBlue);
-		&:hover { background: var(--cOrange); }
-	}
-	
-	.link-content hr {
-		/* Link Message Divider */
-		border: 1px ridge var(--cMantle);
-	}
-}
-
-}
-
+/* === Tags Menu === */
 @-moz-document domain("toyhou.se") {
-/* Tags Menu */
+/* === Tags Menu === */
 .characters-filterby a.characters-tags-view {
 	/* Show Tags */
 	color: var(--cBase) !important;
