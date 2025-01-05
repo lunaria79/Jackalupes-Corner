@@ -182,6 +182,109 @@
   }
 }
 @-moz-document domain("toyhou.se") {
+  /* User Pages */
+  .characters-title,
+  .display-user a,
+  .characters-gallery-folder-description-header a {
+    font-weight: 700;
+    color: var(--cPurple);
+  }
+  .user-characters .characters-folder {
+    /* Character Folders */
+    background-color: transparent;
+  }
+  .user-characters .characters-folder:hover {
+    background-color: transparent;
+  }
+  .user-characters .characters-folder:hover .characters-folder-name {
+    color: var(--cPink);
+    background: var(--cMantle);
+  }
+  .user-characters .characters-folder .characters-folder-name {
+    border-radius: 5px;
+    padding: 5px;
+    color: var(--cText);
+  }
+  .user-characters .characters-folder .img-thumbnail {
+    border: none;
+    border-radius: 10px;
+  }
+  .character-thumb {
+    /* Character */
+    /* Charater Name */
+  }
+  .character-thumb .thumb-image a {
+    /* Character Image */
+    border: none;
+    background: transparent;
+  }
+  .character-thumb .thumb-image a:hover {
+    box-shadow: unset;
+  }
+  .character-thumb .thumb-image a img {
+    border-radius: 10px;
+  }
+  .character-thumb .character-name-badge {
+    /* Charater Name */
+    border-radius: 5px;
+    color: var(--cText) !important;
+    background: transparent;
+  }
+  .character-thumb:hover .character-name-badge {
+    color: var(--cPink) !important;
+    background: var(--cMantle);
+  }
+  .character-thumb .thumb-character-stat {
+    /* Character Stats */
+    font-weight: 700;
+  }
+  .character-thumb .thumb-character-stat[title=Favorites] {
+    color: var(--cYellow);
+  }
+  .character-thumb .thumb-character-stat[title=Images] {
+    color: var(--cBlue);
+  }
+  .character-thumb .thumb-character-stat[title=Comments] {
+    color: var(--cRed);
+  }
+  .character-thumb .thumb-character-stat[title=Links] {
+    color: var(--cOrange);
+  }
+  .character-thumb .thumb-character-stat[title=Tabs] {
+    color: var(--cPurple);
+  }
+  .character-thumb .thumb-character-stat[title=Edit] {
+    color: var(--cOrange);
+  }
+  .gallery-item .img-thumbnail {
+    /* Gallery Image */
+    border: none;
+    background: transparent;
+  }
+  .gallery-item .img-thumbnail:hover {
+    box-shadow: unset !important;
+  }
+  .gallery-item .img-thumbnail img {
+    border-radius: 10px;
+  }
+  .gallery-item .group-name {
+    /* Gallery Name */
+    border-radius: 5px;
+    color: var(--cText) !important;
+    background: transparent;
+  }
+  .gallery-item:hover .group-name {
+    color: var(--cPink) !important;
+    background: var(--cMantle);
+  }
+  .gallery-item .group-rank {
+    /* Group Membership */
+    padding: 5px;
+    color: var(--cText);
+    background: var(--cBase);
+  }
+}
+@-moz-document domain("toyhou-se") {
   /* Tags Menu */
   .characters-filterby a[href*=tags] {
     /* Show Tags */
