@@ -325,6 +325,7 @@
   .gallery-item .group-rank {
     /* Group Membership */
     padding: 5px;
+    margin-top: 5px;
     color: var(--cText);
     background: var(--cBase);
   }
