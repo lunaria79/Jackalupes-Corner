@@ -36,8 +36,9 @@
 	background: var(--cBase);
 }
 
-/* Body */
+
 body {
+	/* Background */
 	color: var(--cText);
 	background: var(--cCrust);
 }
@@ -45,6 +46,12 @@ body {
 /* Footer */
 #footer {
 	background: var(--cMantle);
+	span { color: var(--cText); }
+	a {
+		text-decoration: none;
+		color: var(--cPink);
+		&:hover { color: var(--cOrange); }
+	}
 }
 
 

@@ -34,14 +34,24 @@
     color: var(--cText);
     background: var(--cBase);
   }
-  /* Body */
   body {
+    /* Background */
     color: var(--cText);
     background: var(--cCrust);
   }
   /* Footer */
   #footer {
     background: var(--cMantle);
+  }
+  #footer span {
+    color: var(--cText);
+  }
+  #footer a {
+    text-decoration: none;
+    color: var(--cPink);
+  }
+  #footer a:hover {
+    color: var(--cOrange);
   }
 }
 @-moz-document domain("toyhou.se") {
