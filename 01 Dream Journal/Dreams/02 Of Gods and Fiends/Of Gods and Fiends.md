@@ -95,6 +95,8 @@ Home:
 							<div class="callout-title"> <div class="callout-title-inner"> Toshi's Murder Empire </div> </div>
 							<h3>Literally What is This Guy's Deal?</h3>
 							<p>To put it simply, <b>Toshi</b> is a selfish person. All of his actions are driven buy either <i>A.</i> Wanting to look good for <b>Anaia</b>, or <i>B.</i> Gaining worshipers. A god's power level is directly corralated to how many followers they have. And <b>Toshi's</b> previous gig as a reaper wasn't well liked. </p>
+							<h3> Anaia is His Moral Compass </h3>
+							<p><b>Toshi</b> met <b>Amaia</b> on a sabbatical from being a child murderer. Child murderer as in he murdered and was a child. </p>
 						</div>
 					</div>
 				</div>
