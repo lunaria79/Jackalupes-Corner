@@ -171,7 +171,7 @@ cssclasses:
 		<tr><th>Buff</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
+		<tr><th rowspan="2"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
 		<th colspan="2"> A Sincere Heart <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
@@ -179,7 +179,7 @@ cssclasses:
 			<br> 1-target attack. Deals <b>550%</b> Reality DMG to the target and loads 2 rounds of <i>[Diamond Bullet]</i>. </td>
 		</tr>
     <tr>
-			<td> <b>Diamond Bullet</b>: After the caster attacks, Reality DEF <i>-30%</i> to the target for 2 rounds (-1 stack after trigger). </td>
+			<td colspan="3"> <b>Diamond Bullet</b>: After the caster attacks, Reality DEF <i>-30%</i> to the target for 2 rounds (-1 stack after trigger). </td>
 		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>

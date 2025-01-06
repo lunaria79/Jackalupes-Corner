@@ -167,7 +167,7 @@ Are the research projects good for the society? All they care about is having fu
 	<tr><th>Health</th></tr>
 </table>
 <table style="margin-bottom: 15px;">
-	<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Ultimate_Card.webp"></th>
+	<tr><th rowspan="2"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Medicine%20Pocket/Medicine_Pocket_Ultimate_Card.webp"></th>
 	<th colspan="2"> 26 Secondary Reactions <br> <span>Ultimate</span> </th>
 	</tr>
 	<tr>
@@ -175,7 +175,7 @@ Are the research projects good for the society? All they care about is having fu
 		<br> 1-target attack. Deals <b>450%</b> Mental DMG and inflicts <i>[Daze]</i> on the target for 1 round. Moxie +1 for the caster.  </td>
 	</tr>
 	<tr>
-		<td> <b>Daze</b>: Cannot act. </td>
+		<td colspan="3"> <b>Daze</b>: Cannot act. </td>
 	</tr>
 </table>
 <p class="divide">•·······•·······•·······•·······•</p>
