@@ -126,61 +126,60 @@ cssclasses:
 <div class="attacks">
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Skill_Card_1.webp"></th>
-		<th colspan="3">A Shiny Diamond <br> <span>Arcane Skill</span> </th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Skill_Card_1-1.webp"></th>
+		<th colspan="3">Hey, Punji! <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
 			<th><b>★</b>☆☆</th>
-			<td rowspan="2"> <span>"Ф It's glamorous."</span>
-			<br> 1-target attack. Deals <b>200%<</b> Reality DMG. </td>
+			<td rowspan="2"> <span>"Ф Forgive her."</span>
+			<br> 1-target attack. Deals <b>150%</b> Mental DMG and inflicts <i>[Poison]</i> status on the target for 2 rounds: when a round ends, deals (the caster's ATK <b>×30%</b>) Genesis DMG. If the caster is in <i>[Emerald Fortune]</i> status, then inflicts 1 additional <i>[Poison]</i> status of the same type to the target.  </td>
 		</tr>
 		<tr><th>Attack</th></tr>
 		<tr>
 			<th><b>★★</b>☆</th>
-			<td rowspan="2"> <span>"Ф It used to be sand, or charcoal."</span>
-			<br> 1-target attack. Deals <b>300%<</b> Reality DMG. </td>
+			<td rowspan="2"> <span> "Ф Forgive her. She didn't mean to poison."</span>
+			<br> 1-target attack. Deals <b>250%</b> Mental DMG and inflicts <i>[Poison]</i> status on the target for 2 rounds: when a round ends, deals (the caster's ATK <b>×30%</b>) Genesis DMG. If the caster is in <i>[Emerald Fortune]</i> status, then inflicts 1 additional <i>[Poison]</i> status of the same type to the target.  </td>
 		</tr>
 		<tr><th>Attack</th></tr>
 		<tr>
 			<th><b>★★★</b></th>
-			<td rowspan="2"> <span>"Ф It's just a lie known to everyone."</span>
-			<br> 1-target attack. Deals <b>500%<</b> Reality DMG. </td>
+			<td rowspan="2"> <span>"Ф Forgive her. She didn't mean to poison... She just wanted to sell the cure."</span>
+			<br> 1-target attack. Deals <b>450%</b> Mental DMG and inflicts <i>[Poison]</i> status on the target for 2 rounds: when a round ends, deals (the caster's ATK <b>×30%</b>) Genesis DMG. If the caster is in <i>[Emerald Fortune]</i> status, then inflicts 1 additional <i>[Poison]</i> status of the same type to the target.  </td>
 		</tr>
 		<tr><th>Attack</th></tr>
+		<tr><td colspan="3"> <i>Poison</i>: At the end of a round, takes Genesis DMG based on the caster's ATK. Can stack. </td></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
 		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Skill_Card_2.webp"></th>
-		<th colspan="3">A Bouquet of Galaxy <br> <span>Arcane Skill</span> </th>
+		<th colspan="3"> Oh, Divination! <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
 			<th><b>★</b>☆☆</th>
-			<td rowspan="2"> <span>"Ф People have always dreamed of such thing."</span>
-			<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x80%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
+			<td rowspan="2"> <span> "Ф You understand." </span>
+			<br> 1-target attack. Deals <b>200%</b> Mental DMG. If the caster is in <i>[Pearl Fortune]</i> status, inflicts 1 additional stack of <i>[Confusion]</i> on the target. </td>
 		</tr>
 		<tr><th>Buff</th></tr>
 		<tr>
 			<th><b>★★</b>☆</th>
-			<td rowspan="2"> <span>"Ф People have always dreamed of such thing, but they can only gaze at it from the ground."</span>
-			<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x120%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
+			<td rowspan="2"> <span>"Ф You understand. Poor children are not interested in such things."</span>
+			<br> 1-target attack. Deals <b>300%</b> Mental DMG. If the caster is in <i>[Pearl Fortune]</i> status, inflicts 1 additional stack of <i>[Confusion]</i> on the target. </td>
 		</tr>
 		<tr><th>Buff</th></tr>
 		<tr>
 			<th><b>★★★</b></th>
-      <td rowspan="2"> <span> "Ф People have always dreamed of such thing, no matter it's in the distant universe, or right in front of them."</span>
-			<br> Mass buff. Gives all allies a <i>[Shield]</i> with (the caster's ATK <b>x200%</b>) HP for 1 round. DMG Taken <b>-20%</b> while the <i>[Shield]</i> is active. </td>
+      <td rowspan="2"> <span> "Ф You understand. Poor children are not interested in such things, but not if it helps them cheat and make money." </span>
+			<br> 1-target attack. Deals <b>500%</b> Mental DMG. If the caster is in <i>[Pearl Fortune]</i> status, inflicts 1 additional stack of <i>[Confusion]</i> on the target. </td>
 		</tr>
 		<tr><th>Buff</th></tr>
+		<tr><td colspan="3"> <i>Confusion</i>: Critical Resist <b>-25%</b> (can stack; each stack is timed independently) </td></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
 		<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Ultimate_Card.webp"></th>
-		<th colspan="2"> A Sincere Heart <br> <span>Ultimate</span> </th>
+		<th colspan="2"> Song of Wandering <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
-			<td> <span> "Ф Her heart is sincere. It's just split into many pieces. Don't blame her." </span>
-			<br> 1-target attack. Deals <b>550%</b> Reality DMG to the target and loads 2 rounds of <i>[Diamond Bullet]</i>. </td>
-		</tr>
-    <tr>
-			<td> <b>Diamond Bullet</b>: After the caster attacks, Reality DEF <i>-30%</i> to the target for 2 rounds (-1 stack after trigger). </td>
+			<td> <span> "Ф A spacious caravan and beautiful posters. Punji... Bring them along. The day will come when she sets off." </span>
+			<br> Mass attack. Deals <b>300%</b> Mental DMG to all enemies. This attack enjoys Ultimate Might <b>+10%</b>. If the caster is in <i>[Agate Fortune]</i> status, gains additional Ultimate Might <b>+15%</b>.  </td>
 		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
