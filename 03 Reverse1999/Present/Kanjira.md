@@ -7,7 +7,7 @@ cssclasses:
 | Kanjira | Tambourine |
 | --- | --- |
 | ![](../Images/Characters/Kanjira/Kanjira.webp) | ![](../Images/Characters/Kanjira/Kanjira_Garment1.png) | 
-*An arcanist's work exhibited in the 1940s for 25 years. Completed in autumn, on September 8. Completed in Birmingham, United Kingdom of Great Britain and Northern Ireland, the exhibit was transferred to New Delhi, British India 15 years later and went on an exhibition tour to Paris, French Republic.*
+*An arcanist's work exhibited in the 1960s for 16 years. Completed in spring, on April 8th. First exhibition location unknown. The exhibit was later displayed in Punjab, the Republic of India and is now kept in the St. Pavlov Foundation.*
 **Kanjira**  is a *Plant*  Arcanist. She is an ordinary, free-spirited wanderer, much like that ancient caravan left by her parents—just one of a million on the Southern lands. 
 
 <div class="charts">
