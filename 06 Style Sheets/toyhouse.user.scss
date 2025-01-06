@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.3
+@version        1.1.4
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -23,6 +23,7 @@
 @var color cCrust "Crust" #11111b
 
 ==/UserStyle== */
+/* === All Pages === */
 @-moz-document domain("toyhou.se") {
 /* All Pages */
 * {
@@ -67,7 +68,8 @@ h1 {
 			color: var(--cPurple) !important;
 		}
 	}
-	/* World Group Page Headers */
+	/* Uncovered Page Headers */
+	.creatures-title &,
 	.group-page-header &{ color: var(--cPurple); }
 }
 
@@ -83,24 +85,13 @@ h1 {
 }
 }
 
+/* === Inputs === */
 @-moz-document domain("toyhou.se") {
 	/* Inputs */
 	.btn {
 		/* Buttons */
 		border: none;
 		font-weight: 600;
-		color: var(--cBase);
-		background: var(--cGreen);
-
-		&-primary {
-			color: var(--cBase) !important;
-		}
-
-		&:active,
-		&:hover {
-			color: var(--cBase);
-			background: var(--cOrange);
-		}
 	}
 }
 
@@ -260,6 +251,7 @@ h1 {
 
 		a[href*="favorites"] { color: var(--cYellow) !important }
 
+		a[href*="request-membership"],
 		a[href*="images/upload"],
 		a[href*="literatures/create"] { color: var(--cGreen) !important }
 
@@ -271,73 +263,27 @@ h1 {
 }
 }
 
-/* === User Pages === */
-@-moz-document domain("toyhou.se") {
-/* === User Pages === */
-.link-text {
-	/* Link Message Boxes */
-	.link-panel { background: var(--cBase); }
-	.link-panel:before { border: 15px solid var(--cBase); }
-	
-	@media (min-width: 992px) {
-		&.link-right .link-panel::before {
-			border-right-color: transparent;
-			border-top-color: transparent;
-		}
-
-		&.link-left .link-panel::before {
-			border-left-color: transparent;
-			border-top-color: transparent;
-		}
-	}
-
-	@media (max-width: 991.98px) {
-		&.link-right .link-panel::before {
-			border-bottom-color: transparent;
-			border-left-color: transparent;
-		}
-
-		 &.link-left .link-panel::before {
-			border-right-color: transparent;
-			border-top-color: transparent;
-		}
-	}
-	
-	a.link-character-badge {
-		/* Link Button */
-		color: var(--cBase);
-		background: var(--cBlue);
-		&:hover { background: var(--cOrange); }
-	}
-	
-	.link-content hr {
-		/* Link Message Divider */
-		border: 1px ridge var(--cMantle);
-	}
-}
-}
-
 /* === Core Page Features === */
 @-moz-document domain("toyhou.se") {
 /* === Core Page Features === */
+/* Characters Folder */
 .characters-folder {
-	/* Characters Folder */
 	border: none;
 	color: var(--cText) !important;
 	background: transparent !important;
 	&:not(.characters-folder-with-avatar):hover { background: var(--cMantle) !important; }
 }
 
+/* Characters Folder - No Image */
 .characters-gallery-folder-description-header a {
-	/* Characters Folder - No Image */
 	padding: 5px 10px;
 	border-radius: 10px;
 	color: var(--cPink);
 	&:hover { background: var(--cMantle); }
 }
 
+/* Change View Buttons */
 .characters-folders-top a {
-	/* View Buttons */
 	color: var(--cMantle);
 	padding: 5px 10px;
 	
@@ -350,8 +296,8 @@ h1 {
 	}
 }
 
+/* Pagination */
 .pagination-wrapper {
-	/* Pagination */
 	.page-item {
 		span { 
 			border: none; 
@@ -371,9 +317,9 @@ h1 {
 	}
 }
 
+/* Order By Dropdown */
 .characters-filterby:has(.characters-order-text) {
 	button#dropdownMenuButton {
-		/* Order By Dropdown */
 		cursor: pointer;
 		padding: 5px 10px;
 		color: var(--cMantle);
@@ -401,8 +347,8 @@ h1 {
 	}
 }
 
+/* Character Information */
 .character-thumb {
-	/* Character */
 	.thumb-image a {
 		/* Character Image */
 		border: none;
@@ -446,9 +392,9 @@ h1 {
 	}
 }
 
+/* Gallery Image */
 .gallery-item {
 	.img-thumbnail {
-		/* Gallery Image */
 		border: none;
 		border-radius: 10px;
 		background: transparent;
@@ -571,5 +517,88 @@ a.characters-tags-all {
 			background-color: var(--cRed) !important;
 		}
 	}	
+}
+}
+
+/* === User Pages === */
+@-moz-document domain("toyhou.se") {
+	/* === User Pages === */
+	.link-text {
+		/* Link Message Boxes */
+		.link-panel { background: var(--cBase); }
+		.link-panel:before { border: 15px solid var(--cBase); }
+		
+		@media (min-width: 992px) {
+			&.link-right .link-panel::before {
+				border-right-color: transparent;
+				border-top-color: transparent;
+			}
+	
+			&.link-left .link-panel::before {
+				border-left-color: transparent;
+				border-top-color: transparent;
+			}
+		}
+	
+		@media (max-width: 991.98px) {
+			&.link-right .link-panel::before {
+				border-bottom-color: transparent;
+				border-left-color: transparent;
+			}
+	
+			 &.link-left .link-panel::before {
+				border-right-color: transparent;
+				border-top-color: transparent;
+			}
+		}
+		
+		a.link-character-badge {
+			/* Link Button */
+			color: var(--cBase);
+			background: var(--cBlue);
+			&:hover { background: var(--cOrange); }
+		}
+		
+		.link-content hr {
+			/* Link Message Divider */
+			border: 1px ridge var(--cMantle);
+		}
+	}
+}
+
+/* === World Pages === */
+@-moz-document url-prefix("https://toyhou.se/~world") {
+/* === World Pages === */
+/* Members */
+.members-table {
+	border: none;
+	&.table-striped tbody tr:nth-of-type(2n+1) {
+		background-color: transparent;
+	}
+
+	span.display-user-username {
+		border-radius: 5px;
+		padding: 5px 10px; margin-bottom: 5px;
+		color: var(--cText); background: var(--cMantle);
+		&:hover { background: var(--cOrange); }
+	}
+
+	a {
+		text-decoration: none;
+		font-weight: 800;
+		&[href*="spUnstaeble"] span {
+			color: var(--cCrust);
+			background: var(--cBlue);
+		}
+		&[href*="pennumbra"] span {
+			color: var(--cCrust);
+			background: var(--cYellow);
+		}
+		&[href*="RiverNyx9"] span {
+			color: var(--cCrust);
+			background: var(--cRed);
+		}
+		&:hover span { color: var(--cCrust); }
+	}
 }
 }
