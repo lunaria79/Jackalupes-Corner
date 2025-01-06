@@ -90,13 +90,16 @@ Home:
 					</div>
 					<div class="grid right">
 						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> Toshi and Anaia </div> </div>
-							<p> Both <b>Toshi</b> and <b>Anaia</b> are Aromantic and Asexual. And while they both present masculine and feminine respectively, <b>Toshi</b> is a physical representation of a concept and has no true gender, and <b>Anaia</b> rather die than truly think about their gender issues for longer than two seconds. Their relationship is closer to queerplatonic, although its straight passing. </p> 
+							<div class="callout-title"> <div class="callout-title-inner"> Relationships and Sexuality </div> </div>
+							<p> Their relationship is not romantic or sexual. They are very comfortable with platonic physical intamacy and being naked around one another. On a hot day, you could catch them both laying on the floor of their living room naked together. </p>
+							<p> <b>Toshi</b> has never had any interest in relationships or sex, and <b>Anaia</b> very rarely experiences attraction to others. <b>Toshi</b> is firmly AroAce, while <b>Anaia</b> is comfortable with the Demi lables. </p>
+							<p> Unless, they are a God of a specific gendered concept (i.e. mother/fatherhood), have no real gender, as they are born from concepts. <b>Toshi</b> likes jerking it and thinks boobs are too heavy, so he presents as a guy. </p>
+							<p> "I’m probably nonbinary but I have a job so idrc about that rn" - <b>Anaia</b>, probably </p> 
 						</div>
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Toshi's Murder Empire </div> </div>
 							<h3> Literally What is This Guy's Deal? </h3>
-							<p> To put it simply, <b>Toshi</b> is a selfish person. All of his actions are driven buy either <i>A.</i> Wanting to look good for <b>Anaia</b>, or <i>B.</i> Gaining worshipers. A god's power level is directly corralated to how many followers they have. And <b>Toshi's</b> previous gig as a reaper wasn't well liked. </p> 
+							<p> To put it simply, <b>Toshi</b> is a selfish person. All of his actions are driven by either <i>A.</i> Wanting to look good for <b>Anaia</b>, or <i>B.</i> Gaining worshipers. A god's power level is directly corralated to how many followers they have. And <b>Toshi's</b> previous gig as a reaper wasn't well liked. </p> 
 							<h3> he still kills people </h3>
 							<p> <b>Toshi</b> met <b>Amaia</b> on a sabbatical from being a child murderer. Child murderer as in he murdered and was a child. Since then, he's taken the more peacful route of gaining followers by publically donating to charities and running food banks. As well as being a celebrity chef. Old habits die hard, however, but killing mortals isn't as fun anymore when you stop seeing them as lower lifeforms. </p> 
 							<p> <b>Toshi</b> has recently started kidnapping and torturing rapists and abusers as a stress reliever. In this city, there's no shortage of those. </p> 
