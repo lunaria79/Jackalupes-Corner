@@ -75,9 +75,15 @@ Home:
 						<div class="box  def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Vampirism </div> </div>
 							<p> Vampirism is not a curse, but in fact a blood disease. Parasites within the blood kill the body, but keep the host's brain functions alive. Vampires have to drink blood, cause the parasites need fresh blood to maintain this system. The vampire's sanity is dependant on the host's original force of will. It is not guaranteed that the parasites will consume the host's sentience.</p>
+							<h3>Turning</h3>
 							<p>In order to be turned, a new host needs their blood to come in contact with a vampire's. Parasites work as a hive mind, so the new vampire would naturally be inclined to follow and protect whomstever turned them. Some vampire clans purposely turn young children, in order to groom them into doing their dirty work. If a child becomes completely feral, they will be killed and replaced. This is what happened to <b>Anaia.</b> </p>
-							<h2>Parasites & Golden Ichor</h2>
+							<h3>Parasites & Golden Ichor</h3>
 							<p> The reason <b>Anaia</b> eyes turned yellow, is because in drinking <i>golden ichor</i>, she slowly replaced all of the parasitic blood inside of her. The parasites could not fight back against <i>golden ichor</i>. She was a vampire, but is now simply an undead, cause she no longer is controlled by vampiric parasites.</p>
+						</div>
+						<div class="box def-note">
+							<div class="callout-title"> <div class="callout-title-inner"> Golden Ichor </div> </div>
+							<p>Instead of blood, god's bodies produce a substance called <i>Golden Ichor</i>. Due to its life extending abilities and healing properties, it is highly coveted by mortals.
+							Gods use <i>Golden Ichor</i> as a power play. It is common to display oneself drinking another gods <i>ichor</i> after besting them in battle. It is often drunk as a sign of mutual respect when crafting buisness deals. Gods rarely offer their own <i>ichor</i> to mortals.</p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -86,8 +92,9 @@ Home:
 							<p>Both <b>Toshi</b> and <b>Anaia</b> are Aromantic and Asexual. And while they both present masculine and feminine respectively, <b>Toshi</b> is a physical representation of a concept and has no true gender, and <b>Anaia</b> rather die than truly think about their gender issues for longer than two seconds. Their relationship is closer to queerplatonic, although its straight passing.</p>
 						</div>
 						<div class="box def-note">
-							<div class="callout-title"> <div class="callout-title-inner"> Golden Ichor </div> </div>
-							<p>Instead of blood, <i>Golden Ichor</i> is what flows through Gods' veins. It is highly coveted by mortals, because it can cure disease and extend your lifespan, as well as granting godlike powers to the consumer. Gods use <i>Golden Ichor</i> as a power play,  showing off how powerful they are by drinking other's blood. Gods rarely offer their own blood to mortals, and if they do its only to those they truly favor.</p>
+							<div class="callout-title"> <div class="callout-title-inner"> Toshi's Murder Empire </div> </div>
+							<h3>Literally What is This Guy's Deal?</h3>
+							<p>To put it simply,</p>
 						</div>
 					</div>
 				</div>
