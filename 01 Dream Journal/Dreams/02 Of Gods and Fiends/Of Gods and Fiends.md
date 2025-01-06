@@ -46,7 +46,7 @@ Home:
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Anaia </div> </div>
 							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/anaiaref.jpg">
-							<h3>Prologue</h3>
+							<h3> Prologue </h3>
 							<p> <b>Anaia</b> was the most successful of all of the parasite experiments. She struggles with PTSD, anxiety and selective mutism, choosing to speak directly to other's minds. She is significantly more powerful than the other members of her coven, but any disobedience has long since been beaten out of her. Due to how vampires age, she is mentally around 16, although her body is many centuries old. When she enters school, she's incredibly awkward and shy, and doesn't know how to interact with others well. Her classmates avoid her due to her coven, so she spends most of her days alone. After becoming friends with <b>Toshi</b>, she slowly grows out of her shell and gains confidence. The coven finds her much harder to control when they capture her again. </p> 
 							<h3> Main Story </h3>
 							<p> The coven has broken <b>Amaia's</b> spirit again, and had bits of her memory removed. She struggles to remember the faces of her original parents and <b>Toshi</b>. Deep down though, she still has a rebellious streak. And all the coven can do is give her orders when she's away in the big city. She is now mentally in her late twenties, and is about to start her path into politics. She is no longer burned by the sun, due to her bodies age. Real blood no longer sustains her, so she has been surviving off of substitutes and fruits. </p> 
@@ -58,11 +58,11 @@ Home:
 						<div class="box char-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Toshi </div> </div>
 							<img alt="Anaia.png" src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/main/01%20Dream%20Journal/Dreams/02%20Of%20Gods%20and%20Fiends/00%20Images/toshiref2.jpg">
-							<h3>Prologue</h3>
+							<h3> Prologue </h3>
 							<p> There is an air of mystery surrounding <b>Toshi's</b> birth. He was not born, but found. His purpose unknown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose. </p> 
 							<h3> Main Story </h3>
 							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby. His main purpose is a reaper. He's been working very hard to suppress the political groups that want another war. </p> 
-							<h3>Fun Facts</h3>
+							<h3> Fun Facts </h3>
 							<p> <b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection. </p> 
 							<p> He isn't a good person at all. He isn't even a good person. He's an amalgamation of concepts forced into an attempt at humanity. And I love him for it. Yeah, he helps the marginalized, but only because it increases his number of worshipers, ergo his power. Any kindness he shows to others is due to his desire to please <b>Anaia</b>. </p> 
 						</div>
@@ -75,10 +75,12 @@ Home:
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Vampirism </div> </div>
 							<p> Vampirism is not a curse, but in fact a blood disease. Parasites within the blood kill the body, but keep the host's brain functions alive. Vampires have to drink blood, cause the parasites need fresh blood to maintain this system. The vampire's sanity is dependant on the host's original force of will. It is not guaranteed that the parasites will consume the host's sentience. </p> 
-							<h3>Turning</h3>
-							<p> In order to be turned, a new host needs their blood to come in contact with a vampire's. Parasites work as a hive mind, so the new vampire would naturally be inclined to follow and protect whomstever turned them. Some vampire clans purposely turn young children, in order to groom them into doing their dirty work. If a child becomes completely feral, they will be killed and replaced. This is what happened to <b>Anaia.</b> </p> 
-							<h3>Parasites & Golden Ichor</h3>
-							<p> The reason <b>Anaia</b> eyes turned yellow, is because in drinking <i>golden ichor</i>, she slowly replaced all of the parasitic blood inside of her. The parasites could not fight back against <i>golden ichor</i>. She was a vampire, but is now simply an undead, cause she no longer is controlled by vampiric parasites. </p> 
+							<h3> Turning </h3>
+							<p> In order to be turned, a new host needs their blood to come in contact with a vampire's. Parasites work as a hive mind, so the new vampire would naturally be inclined to follow and protect whomstever turned them. Some vampire clans purposely turn young children, in order to groom them into doing their dirty work. If a child becomes completely feral, they will be killed and replaced. This is what happened to <b>Anaia.</b> </p>
+							<p> Vampiric bodies continue to age to around 23 for survival purposes. </p>
+							<h3> Parasites & Golden Ichor </h3>
+							<p>Vampires eyes change to the same color of the blood they most commonly drink. For example, vampires that human blood have red eyes, while vampires that like gargoyle blood have green eyes. <b>Anaia's</b> eyes have turned yellow, due to her primary food being <b>Toshi's</b> <i>ichor</i>. Due to it's healing properties, the <i>ichor</i> has destroyed her vampiric parasites, yet she remains alive. <b>Amaia</b> no longer needs to feed to live, but continues to do so from force of habit. </p>
+							<p> <b>Amaia</b> continuing to be "alive" after the destruction of her parasites is a medical anomoly. Any other attempts to heal a vampire has resulted in full death of the host. Then again, no other vampire had easy access to <i>golden ichor</i>... </p> 
 						</div>
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Golden Ichor </div> </div>
@@ -93,7 +95,7 @@ Home:
 						</div>
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Toshi's Murder Empire </div> </div>
-							<h3>Literally What is This Guy's Deal?</h3>
+							<h3> Literally What is This Guy's Deal? </h3>
 							<p> To put it simply, <b>Toshi</b> is a selfish person. All of his actions are driven buy either <i>A.</i> Wanting to look good for <b>Anaia</b>, or <i>B.</i> Gaining worshipers. A god's power level is directly corralated to how many followers they have. And <b>Toshi's</b> previous gig as a reaper wasn't well liked. </p> 
 							<h3> he still kills people </h3>
 							<p> <b>Toshi</b> met <b>Amaia</b> on a sabbatical from being a child murderer. Child murderer as in he murdered and was a child. Since then, he's taken the more peacful route of gaining followers by publically donating to charities and running food banks. As well as being a celebrity chef. Old habits die hard, however, but killing mortals isn't as fun anymore when you stop seeing them as lower lifeforms. </p> 
