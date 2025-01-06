@@ -98,34 +98,35 @@ cssclasses:
 	</tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></th>
-		<td>DMG Taken <b>+8%</b> when the caster enters battle.</td>
+		<td>DMG Taken <b>-8%</b> when the caster enters battle.</td>
 	</tr>
   <tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%203.webp"></th>
-		<td>If the caster starts a round with HP below 50%, immediately casts 1-star <i>[A Bouquet of Galaxy]</i> (only triggers 1 time). </td>
+		<td>When attacking a target in <b>[Neg Status]</b> Ultimate Might <i>+10%</i> for the caster.  </td>
 	</tr>
   <tr>
-		<td colspan="2"><i>Diamond Bullet:</i> After the caster attacks, Reality DEF <b>-30%</b> to the target for 2 rounds (-1 stack after trigger).  </td>
+		<td colspan="2">
+		<i>[Emerald Fortune]</i>: Enhances <i>[Hey, Punji!]</i> (cannot be dispelled).
+		<br><i>[Pearl Fortune]</i>: Enhances <i>[Oh, Divination!]</i> (cannot be dispelled).
+		<br><i>[Agate Fortune]</i>: Enhances <i>[Song of Wandering]</i> (cannot be dispelled).
+		</td>
 	</tr>
 	</table>
 		<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
 	<tr><th colspan="2">Portrait</th></tr>
-	<tr> <th>Lvl. 1</th> <td><i>[A Sincere Heart]'s</i> effect changes to: deals <b>600%</b> Reality DMG. </td> </tr>
-	<tr> <th>Lvl. 2</th> <td><i>[A Shiny Diamond]'s</i> effect changes to: at <b>1/2/3</b> stars, deals <b>220/280/450%</b> Reality DMG. </td> </tr>
-	<tr> <th>Lvl. 3</th> <td> <i>[A Sincere Heart]'s</i> effect changes to: deals <b>650%</b> Reality DMG. </td> </tr>
-	<tr> <th>Lvl. 4</th> <td><i>[A Bouquet of Galaxy]'s</i> effect changes to: at <b>1/2/3</b> stars, grants a <b>[Shield]</b> with (the caster's ATK <b>x90/135/225%</b>) HP on all allies.</td> </tr>
-	<tr> <th>Lvl. 5</th> <td><i>[A Sincere Heart]'s</i> effect changes to: deals <b>700% Reality DMG.</b> </td> </tr>
-  <tr>
-		<td colspan="2"><i>Shield:</i> Blocks certain DMG for a certain duration. </td>
-	</tr>
+	<tr> <th>Lvl. 1</th> <td><i>Seasoned Wanderer's</i> effect changes to: If the caster is in <i>[Emerald Fortune]</i>: status, when casting <i>[Hey, Punji!]</i>, inflicts <i>[Poison]</i> status with <b>+1</b> round of duration.  </td> </tr>
+	<tr> <th>Lvl. 2</th> <td><i>Oh, Divination!</i>'s effect changes to: at <b>1/2/3</b> stars, deals <b>220/330/550%</b> Mental DMG.  </td> </tr>
+	<tr> <th>Lvl. 3</th> <td> <i> Seasoned Wanderer</i>'s effect changes to: If the caster is in <i>[Agate Fortune]</i>: status, when casting <i>[Song of Wandering]</i>, Ultimate Might <b>+15%</b> </td> </tr>
+	<tr> <th>Lvl. 4</th> <td><i>Hey, Punji!</i>'s effect changes to: <b>1/2/3</b> stars, deals <b>170/280/500%</b> Mental DMG. </td> </tr>
+	<tr> <th>Lvl. 5</th> <td><i>Song of Wandering</i>'s effect changes to: deals <b>350%</b> Mental DMG. </td> </tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 </div>
 <div class="attacks">
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_1.webp"></th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Skill_Card_1.webp"></th>
 		<th colspan="3">A Shiny Diamond <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
@@ -148,7 +149,7 @@ cssclasses:
 		<tr><th>Attack</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Skill_Card_2.webp"></th>
+		<tr><th rowspan="7"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Skill_Card_2.webp"></th>
 		<th colspan="3">A Bouquet of Galaxy <br> <span>Arcane Skill</span> </th>
 		</tr>
 		<tr>
@@ -171,7 +172,7 @@ cssclasses:
 		<tr><th>Buff</th></tr>
 	</table>
 	<table style="margin-bottom: 15px;">
-		<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Tennant/Tennant_Ultimate_Card.webp"></th>
+		<tr><th rowspan="3"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Characters/Kanjira/Kanjira_Ultimate_Card.webp"></th>
 		<th colspan="2"> A Sincere Heart <br> <span>Ultimate</span> </th>
 		</tr>
 		<tr>
