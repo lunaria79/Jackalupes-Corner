@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.5
+@version        1.1.6
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -68,10 +68,9 @@ h1 {
 			color: var(--cPurple) !important;
 		}
 	}
-	/* Uncovered Page Headers */
-	.characters-header h1,
-  .creatures-header h1,
-	.group-page-header &{ color: var(--cPurple); }
+	/* Specific Page Headers */
+	.profile-name-info a,
+	[class*="header"]:not(:has(a)) & { color: var(--cPurple); }
 }
 
 /* Footer */
@@ -99,7 +98,7 @@ h1 {
 /* === Navigation Bar === */
 @-moz-document domain("toyhou.se") {
 /* === Navigation Bar === */
-#header { background: var(--cMantle); }
+#header { background: var(--cMantle) !important; }
 
 .navbar {
 	/* Logo */
@@ -122,12 +121,12 @@ h1 {
 	/* Links Dropdown Menu */
 	.dropdown-menu {
 		color: var(--cText) !important;
-		background: var(--cMantle);
+		background: var(--cMantle) !important;
 		border: none;
 	
 		.dropdown-header {
 			/* Dropdown Menu Subheading */
-			color: var(--cBlue);
+			color: var(--cBlue) !important;
 		}
 	
 		a {
@@ -135,7 +134,7 @@ h1 {
 			color: var(--cText) !important;
 			&:hover {
 				color: var(--cPink) !important;
-				background-color: var(--cSurface);
+				background-color: var(--cSurface) !important;
 			}
 		}
 	
@@ -149,7 +148,7 @@ h1 {
 	/* Notification Buttons */
 	&-notifications {
 		a.btn {
-			color: var(--cBase);
+			color: var(--cBase) !important;
 			&[data-original-title="Admin Notice"] { background: var(--cRed); }
 			&[title="World Inboxes"] { background: var(--cYellow); }
 			&[title="Notifications"] { background: var(--cGreen); }
@@ -164,8 +163,8 @@ h1 {
 		a.btn {
 			color: var(--cBase) !important;
 			cursor: pointer;
-			&[href*="inbox/news"] { background: var(--cRed); }
-			&.dropdown-toggle { background: var(--cIndigo); }
+			&[href*="inbox/news"] { background: var(--cRed) !important; }
+			&.dropdown-toggle { background: var(--cIndigo) !important; }
 			&:hover { background: var(--cOrange) !important; }
 		}
 		
@@ -175,7 +174,7 @@ h1 {
 				border-radius: 3px;
 				font-weight: 800;
 				color: var(--cBase) !important;
-				background: var(--cGreen);
+				background: var(--cGreen) !important;
 			}
 		}
 	}
@@ -285,9 +284,9 @@ h1 {
 
 /* Change View Buttons */
 .characters-folders-top a {
-	color: var(--cMantle);
+	color: var(--cMantle) !important;
 	padding: 5px 10px;
-	
+	border-radius: 3px;
 	&:has(.fi-arrow-up), &:has(.fi-arrow-left) { background: var(--cPink) !important; }
 	&:has(.fi-folder) { background: var(--cIndigo) !important; }
 	
@@ -320,9 +319,11 @@ h1 {
 
 /* Order By Dropdown */
 .characters-filterby:has(.characters-order-text) {
+	span { color: var(--cText);}
 	button#dropdownMenuButton {
 		cursor: pointer;
 		padding: 5px 10px;
+		border-radius: 3px;
 		color: var(--cMantle);
 		background-color: var(--cIndigo) !important; 
 		&:hover {
@@ -424,6 +425,15 @@ h1 {
 	a { color: var(--cPink); }
 	.breadcrumb-item::before { color: var(--cText); font-weight: 700; }
 }
+
+/* Badge Alerts */
+.user-content .alert {
+	font-weight: 700;
+	color: var(--cText);
+	background: var(--cMantle);
+	i, span { color: var(--cRed); }
+}
+
 }
 
 /* === Tags Menu === */
@@ -434,6 +444,7 @@ h1 {
 	color: var(--cBase) !important;
 	background: var(--cGreen) !important;
 	padding: 5px 10px;
+	border-radius: 3px;
 	&:hover { background: var(--cOrange) !important; }
 }
 
@@ -579,11 +590,52 @@ a.characters-tags-all {
 /* === World Pages === */
 @-moz-document url-prefix("https://toyhou.se/~world") {
 /* === World Pages === */
+/* Recent Characters */
+.profile-characters-wrapper {
+	border: none;
+	background: transparent;
+	.profile-characters-content {
+		border-radius: 10px;
+		background: var(--cMantle);
+	}
+}
+
+/* Bulletins */
+.bulletin-header {
+	color: var(--cText);
+	abbr { cursor: pointer; color: var(--cPink); text-decoration: none; }
+	.bulletin-user-badge a {
+		border-radius: 3px;
+		color: var(--cBase) !important;
+		background: var(--cGreen);
+		&:hover { background: var(--cOrange); }
+	}
+	
+}
+
+.bulletin-content.card {
+	border: none;
+	background: transparent;
+	.card-block {
+		border-radius: 10px;
+		background: var(--cMantle);
+	}
+	
+	.bulletin-comment-count {
+		margin-top: 5px;
+		border-radius: 3px;
+		color: var(--cBase);
+		background: var(--cGreen);
+		&:hover { background: var(--cOrange); }
+	}
+}
+
 /* Members */
 .members-table {
 	border: none;
+	&.table-striped tbody tr:nth-child(2n),
 	&.table-striped tbody tr:nth-of-type(2n+1) {
-		background-color: transparent;
+		background-color: transparent !important;
 	}
 
 	span.display-user-username {
