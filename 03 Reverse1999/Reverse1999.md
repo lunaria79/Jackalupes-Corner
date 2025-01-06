@@ -6,8 +6,8 @@
 - [ ] Argus
 ![300](Images/Characters/Argus.webp)
 - [x] 3NMA | Lvl. 30
-![300](Images/Characters/ENMA.webp)
-- [ ] Kanjira
+![300](Images/Characters/3NMA/ENMA.webp)
+- [x] Kanjira
 ![300](Images/Characters/Kanjira.webp)
 - [ ] An-An Lee
 ![300](Images/Characters/An-an_Lee.webp)
