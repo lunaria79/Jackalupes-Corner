@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.6
+@version        1.1.7
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -69,7 +69,7 @@
     font-weight: 700;
     color: var(--cPurple) !important;
   }
-  h1 .profile-name-info a, [class*=header]:not(:has(a)) h1 {
+  h1 .profile-name-info a, [class*=header]:not(:has(h1 a)) h1 {
     color: var(--cPurple);
   }
   /* Footer */
@@ -198,22 +198,29 @@
     border: none;
     background: var(--cBase);
   }
+  .side-nav {
+    border: none !important;
+  }
   .side-nav li {
     /* Special Link Colors */
   }
   .side-nav li.header {
     /* Sidebar Subheaders */
     font-weight: 800;
-    color: var(--cMantle);
-    background: var(--cPurple);
+    color: var(--cMantle) !important;
+    background: var(--cPurple) !important;
+  }
+  .side-nav li.header a {
+    font-weight: 800;
+    color: var(--cMantle) !important;
   }
   .side-nav li.subheader {
     /* Subheader Coloring */
+    color: var(--cMantle) !important;
     background-color: var(--cPink) !important;
   }
   .side-nav li.subheader a {
     font-weight: 700 !important;
-    color: var(--cMantle) !important;
   }
   .side-nav li.subnavigation-header a.subnavigation-header-link {
     /* Dropdown Header */
@@ -458,14 +465,15 @@
   /* Breadcrumbs */
   .breadcrumb {
     border: none;
-    color: var(--cText);
-    background: var(--cMantle);
+    border-radius: 3px !important;
+    color: var(--cText) !important;
+    background: var(--cMantle) !important;
   }
   .breadcrumb a {
-    color: var(--cPink);
+    color: var(--cPink) !important;
   }
   .breadcrumb .breadcrumb-item::before {
-    color: var(--cText);
+    color: var(--cText) !important;
     font-weight: 700;
   }
   /* Badge Alerts */
@@ -633,6 +641,9 @@
 @-moz-document url-prefix("https://toyhou.se/~world") {
   /* === World Pages === */
   /* Recent Characters */
+  .profile-name-section a {
+    color: var(--cPurple);
+  }
   .profile-characters-wrapper {
     border: none;
     background: transparent;

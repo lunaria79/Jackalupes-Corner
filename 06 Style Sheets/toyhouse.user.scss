@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.6
+@version        1.1.7
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -70,7 +70,7 @@ h1 {
 	}
 	/* Specific Page Headers */
 	.profile-name-info a,
-	[class*="header"]:not(:has(a)) & { color: var(--cPurple); }
+	[class*="header"]:not(:has(h1 a)) & { color: var(--cPurple); }
 }
 
 /* Footer */
@@ -193,20 +193,22 @@ h1 {
 }
 
 .side-nav {
+	border: none !important;
 	li {
 		&.header {
 			/* Sidebar Subheaders */
 			font-weight: 800;
-			color: var(--cMantle);
-			background: var(--cPurple);
+			color: var(--cMantle) !important;
+			background: var(--cPurple) !important;
+			a { font-weight: 800; color: var(--cMantle) !important; }
 		}
 
 		&.subheader {
 			/* Subheader Coloring */
+			color: var(--cMantle) !important; 
 			background-color: var(--cPink) !important;
 			a { 
 				font-weight: 700 !important;
-				color: var(--cMantle) !important; 
 			}
 		}
 
@@ -419,11 +421,11 @@ h1 {
 
 /* Breadcrumbs */
 .breadcrumb {
-	border: none;
-	color: var(--cText);
-	background: var(--cMantle);
-	a { color: var(--cPink); }
-	.breadcrumb-item::before { color: var(--cText); font-weight: 700; }
+	border: none; border-radius: 3px !important;
+	color: var(--cText) !important;
+	background: var(--cMantle) !important;
+	a { color: var(--cPink) !important; }
+	.breadcrumb-item::before { color: var(--cText) !important; font-weight: 700; }
 }
 
 /* Badge Alerts */
@@ -433,7 +435,6 @@ h1 {
 	background: var(--cMantle);
 	i, span { color: var(--cRed); }
 }
-
 }
 
 /* === Tags Menu === */
@@ -591,6 +592,10 @@ a.characters-tags-all {
 @-moz-document url-prefix("https://toyhou.se/~world") {
 /* === World Pages === */
 /* Recent Characters */
+.profile-name-section a {
+	color: var(--cPurple);
+}
+
 .profile-characters-wrapper {
 	border: none;
 	background: transparent;
