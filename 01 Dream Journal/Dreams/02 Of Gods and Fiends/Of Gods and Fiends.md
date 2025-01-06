@@ -11,9 +11,9 @@ Home:
 <div class="block-language-tabs">
 	<div data-x-data="{ tab: 0 }">
 		<div class="html-tabs">
-			<div class="html-tab html-tab-active" data-x-bind:class="{ 'html-tab-active': tab == 0 }" data-x-on:click="tab = 0"><p>Plots</p></div>
-			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1"><p>Characters</p></div>
-			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"><p>Notes</p></div>
+			<div class="html-tab html-tab-active" data-x-bind:class="{ 'html-tab-active': tab == 0 }" data-x-on:click="tab = 0"> <p>Plots</p> </div>
+			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 1 }" data-x-on:click="tab = 1"> <p>Characters</p> </div>
+			<div class="html-tab html-tab-not-first" data-x-bind:class="{ 'html-tab-active': tab == 2 }" data-x-on:click="tab = 2"> <p>Notes</p> </div>
 		</div>
 		<div class="html-tab-content">
 			<div data-x-show="tab == 0" style="">
@@ -51,7 +51,7 @@ Home:
 							<h3> Main Story </h3>
 							<p>The coven has broken <b>Amaia's</b> spirit again, and had bits of her memory removed. She struggles to remember the faces of her original parents and <b>Toshi</b>. Deep down though, she still has a rebellious streak. And all the coven can do is give her orders when she's away in the big city. She is now mentally in her late twenties, and is about to start her path into politics. She is no longer burned by the sun, due to her bodies age. Real blood no longer sustains her, so she has been surviving off of substitutes and fruits.</p>
 							<h3> Fun Facts </h3>
-							<p><b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with <i>ichor</i>, they've permanently turned golden.</p>
+							<p> <b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with <i>ichor</i>, they've permanently turned golden.</p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -63,7 +63,7 @@ Home:
 							<h3> Main Story </h3>
 							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby. His main purpose is a reaper. He's been working very hard to suppress the political groups that want another war. </p>
 							<h3>Fun Facts</h3>
-							<p><b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection.</p>
+							<p> <b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection.</p>
 							<p>He isn't a good person at all. He isn't even a good person. He's an amalgamation of concepts forced into an attempt at humanity. And I love him for it. Yeah, he helps the marginalized, but only because it increases his number of worshipers, ergo his power. Any kindness he shows to others is due to his desire to please <b>Anaia</b>.</p>
 						</div>
 					</div>
@@ -74,8 +74,9 @@ Home:
 					<div class="grid left">
 						<div class="box  def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Vampirism </div> </div>
-							<p> Vampirism is not a curse, but in fact a blood disease. Parasites within the blood kill the body, but keep the host and it's brain functions alive. Vampires have to drink blood, cause the parasites need fresh blood to maintain the system they created. How insane a vampire is, is due to its force of will, and ability to not let its brain fully be controlled by the parasites. A completely feral vampire would have had its mind consumed by the parasites. There is a fine balance between how much a parasite has taken over, and how much power a vampire has. </p>
-							<p> Some vampire clans use this to their advantage. They steal babies and toddlers, turn them, and see if at the young age, they are able to resist the parasites. If the child is feral, they kill them. They then spend the next few centuries "training" the child with a series of situations in which the parasite, in a lasp of control, could take over. They want the child to be as powerful as possible, but still with control. This is what happened to <b>Anaia.</b></p>
+							<p> Vampirism is not a curse, but in fact a blood disease. Parasites within the blood kill the body, but keep the host's brain functions alive. Vampires have to drink blood, cause the parasites need fresh blood to maintain this system. The vampire's sanity is dependant on the host's original force of will. It is not guaranteed that the parasites will consume the host's sentience.</p>
+							<p>In order to be turned, a new host needs their blood to come in contact with a vampire's. Parasites work as a hive mind, so the new vampire would naturally be inclined to follow and protect whomstever turned them. Some vampire clans purposely turn young children, in order to groom them into doing their dirty work. If a child becomes completely feral, they will be killed and replaced. This is what happened to <b>Anaia.</b> </p>
+							<h2>Parasites & Golden Ichor</h2>
 							<p> The reason <b>Anaia</b> eyes turned yellow, is because in drinking <i>golden ichor</i>, she slowly replaced all of the parasitic blood inside of her. The parasites could not fight back against <i>golden ichor</i>. She was a vampire, but is now simply an undead, cause she no longer is controlled by vampiric parasites.</p>
 						</div>
 					</div>
