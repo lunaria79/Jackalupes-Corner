@@ -235,7 +235,7 @@ div[data-callout=multi-column].callout:not(.is-collapsed) .callout {
 
 /* ----- Tile Design ----- */
 .dream-journal-base .box {
-  max-height: 750px;
+  max-height: 785px;
   overflow: scroll;
   scroll-behavior: smooth;
 }
