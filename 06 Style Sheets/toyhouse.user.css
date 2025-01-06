@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.1
+@version        1.1.2
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -56,31 +56,20 @@
     /* Content Divders */
     border: 1px ridge var(--cPink);
   }
+  /* Header Colors */
   h1 {
-    /* Header Colors */
-  }
-  h1[class*=title] {
     /* Page Titles */
-    color: var(--cText);
-  }
-  h1[class*=title] a {
-    font-weight: 700;
-    color: var(--cPurple) !important;
-  }
-  .group-page-header h1 {
-    color: red;
-  }
-  h1[class*=title] {
-    /* Page Titles */
-    color: var(--cText);
-  }
-  h1[class*=title] a {
-    font-weight: 700;
-    color: var(--cPurple) !important;
-  }
-  .group-page-header h1 {
     /* World Group Page Headers */
-    color: red;
+  }
+  h1[class*=title] {
+    color: var(--cText);
+  }
+  h1[class*=title] a {
+    font-weight: 700;
+    color: var(--cPurple) !important;
+  }
+  .group-page-header h1 {
+    color: var(--cPurple);
   }
   /* Footer */
   #footer {
@@ -120,8 +109,13 @@
   #header {
     background: var(--cMantle);
   }
-  .navbar-inverse .navbar-brand {
+  .navbar {
     /* Logo */
+    /* Links Dropdown Menu */
+    /* Notification Buttons */
+    /* Notification Buttons - Dropdown Version */
+  }
+  .navbar-inverse .navbar-brand {
     font-weight: 700;
     color: var(--cPurple) !important;
   }
@@ -136,7 +130,6 @@
     color: var(--cPink) !important;
   }
   .navbar .dropdown-menu {
-    /* Dropdown Menu */
     color: var(--cText) !important;
     background: var(--cMantle);
     border: none;
@@ -157,6 +150,49 @@
     /* Dropdown Menu Divider */
     border-width: 2px;
     border-color: var(--cCrust);
+  }
+  .navbar-notifications a.btn {
+    color: var(--cBase);
+  }
+  .navbar-notifications a.btn[data-original-title="Admin Notice"] {
+    background: var(--cRed);
+  }
+  .navbar-notifications a.btn[title="World Inboxes"] {
+    background: var(--cYellow);
+  }
+  .navbar-notifications a.btn[title=Notifications] {
+    background: var(--cGreen);
+  }
+  .navbar-notifications a.btn[title=Activity] {
+    background: var(--cBlue);
+  }
+  .navbar-notifications a.btn[title=Communications] {
+    background: var(--cPurple);
+  }
+  .navbar-notifications a.btn:hover {
+    background: var(--cOrange);
+  }
+  .navbar .nav-item.dropdown .btn {
+    color: var(--cBase) !important;
+    cursor: pointer;
+  }
+  a .navbar .nav-item.dropdown .btn[href*="inbox/news"] {
+    background: var(--cRed);
+  }
+  a .navbar .nav-item.dropdown .btn.dropdown-toggle {
+    background: var(--cIndigo);
+  }
+  .navbar .nav-item.dropdown .btn:hover {
+    background: var(--cOrange) !important;
+  }
+  .navbar .nav-item.dropdown #dropdownNotifications {
+    border-radius: 10px;
+  }
+  .navbar .nav-item.dropdown #dropdownNotifications span.dropdown-item-count {
+    border-radius: 3px;
+    font-weight: 800;
+    color: var(--cBase) !important;
+    background: var(--cGreen);
   }
 }
 /* === Sidebar === */

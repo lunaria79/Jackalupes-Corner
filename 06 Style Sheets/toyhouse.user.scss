@@ -172,8 +172,8 @@ h1 {
 		.btn {
 			color: var(--cBase) !important;
 			cursor: pointer;
-			a&[href*="inbox/news"] { background: var(--cRed); }
-			a&.dropdown-toggle { background: var(--cIndigo); }
+			a &[href*="inbox/news"] { background: var(--cRed); }
+			a &.dropdown-toggle { background: var(--cIndigo); }
 			&:hover { background: var(--cOrange) !important; }
 		}
 		
