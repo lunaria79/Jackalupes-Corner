@@ -8,7 +8,7 @@ cssclasses:
 | --- | --- |
 | ![](../Images/Characters/Kanjira/Kanjira.webp) | ![](../Images/Characters/Kanjira/Kanjira_Garment1.png) | 
 *An arcanist's work exhibited in the 1940s for 25 years. Completed in autumn, on September 8. Completed in Birmingham, United Kingdom of Great Britain and Northern Ireland, the exhibit was transferred to New Delhi, British India 15 years later and went on an exhibition tour to Paris, French Republic.*
-**Tennant**  is an  *Beast*  Arcanist. Be careful of this fraudster. Tennant wanders in Paris, offering diamonds to her targets and striking deals. When the fun time's over, those glittering gifts will be restored to their true forms as charcoal.
+**Kanjira**  is a *Plant*  Arcanist. She is an ordinary, free-spirited wanderer, much like that ancient caravan left by her parents—just one of a million on the Southern lands. 
 
 <div class="charts">
 <div class="stats">
@@ -21,47 +21,47 @@ cssclasses:
 			<th>Default  <br><span>Max Lvl.</span></th>
 			<th>Insight I  <br><span>Max Lvl.</span></th>
 			<th>Insight II  <br><span>Max Lvl.</span></th>
-      <th>Insight III  <br><span>Max Lvl.</span></th>
+			<th>Insight III  <br><span>Max Lvl.</span></th>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Attack.svg">Attack</th>
-			<td>244</td>
-			<td>370</td>
-			<td>620</td>
-			<td>924</td>
-      <td>1086</td>
+			<td>237</td>
+			<td>360</td>
+			<td>602</td>
+			<td>897</td>
+      <td>1055</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Health.svg">Health</th>
-			<td>1257</td>
-			<td>1908</td>
-			<td>3199</td>
-			<td>4770</td>
-      <td>5611</td>
+			<td>1312</td>
+			<td>1992</td>
+			<td>3339</td>
+			<td>4979</td>
+      <td>5857</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Real%20DEF.svg">Real DEF</th>
-			<td>135</td>
-			<td>204</td>
-			<td>342</td>
-			<td>510</td>
-      <td>601</td>
+			<td>112</td>
+			<td>169</td>
+			<td>284</td>
+			<td>423</td>
+      <td>498</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Mental%20DEF.svg">Mental DEF</th>
-			<td>92</td>
-			<td>140</td>
-			<td>234</td>
-			<td>348</td>
-      <td>410</td>
+			<td>120</td>
+			<td>182</td>
+			<td>304</td>
+			<td>454</td>
+      <td>534</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Technique.svg">Technique</th>
-			<td>242</td>
-			<td>242</td>
-			<td>274</td>
-			<td>306</td>
-      <td>338</td>
+			<td>196</td>
+			<td>196</td>
+			<td>222</td>
+			<td>248</td>
+      <td>274</td>
 		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
@@ -76,29 +76,29 @@ cssclasses:
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Crit%20Rate.svg">Crit. Rate</th>
-			<td>8.1%</td>
-			<td>9.1%</td>
-			<td>10.2%</td>
-      <td>11.3%</td>
+			<td>6.5%</td>
+			<td>7.4%</td>
+			<td>8.3%</td>
+      <td>9.1%</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Crit%20DMG.svg">Crit. DMG</th>
-			<td>142.1%</td>
-			<td>143.7%</td>
-			<td>145.3%</td>
-      <td>146.9%</td>
+			<td>139.8%</td>
+			<td>141.1%</td>
+			<td>142.4%</td>
+      <td>143.7%</td>
 		</tr>
 	</table>
 	<p class="divide">•·······•·······•·······•·······•</p>
 	<table>
-	<tr><th colspan="2">Beautiful Life <br><span>Inheritance Effects</span></th></tr>
+	<tr><th colspan="2">Seasoned Wanderer <br><span>Inheritance Effects</span></th></tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight.webp"></th>
-		<td>After the caster enters battle, immediately casts 1-star <i>[A Bouquet of Galaxy]</i> and gains 1 stack of <i>[Diamond Bullet]</i> (only triggers 1 time). </td>
+		<td>When a round starts, performs 1 Divination and acquires each of these every round in the sequence provided. <i>[Emerald Fortune]</i>, <i>[Pearl Fortune]</i>, and <i>[Agate Fortune]</i> </td>
 	</tr>
 	<tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%202.webp"></th>
-		<td>DMG Dealt <b>+8%</b> when the caster enters battle.</td>
+		<td>DMG Taken <b>+8%</b> when the caster enters battle.</td>
 	</tr>
   <tr>
 		<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Afflatus/Insight%203.webp"></th>

@@ -8,7 +8,7 @@ cssclasses:
 | --- | --- |
 | ![](../Images/Characters/Tennant/Tennant.webp) | ![](../Images/Characters/Tennant/Tennant_Costume-1.png) | 
 *An arcanist's work exhibited in the 1940s for 25 years. Completed in autumn, on September 8. Completed in Birmingham, United Kingdom of Great Britain and Northern Ireland, the exhibit was transferred to New Delhi, British India 15 years later and went on an exhibition tour to Paris, French Republic.*
-**Tennant**  is an  *Beast*  Arcanist. Be careful of this fraudster. Tennant wanders in Paris, offering diamonds to her targets and striking deals. When the fun time's over, those glittering gifts will be restored to their true forms as charcoal.
+**Tennant**  is a *Beast*  Arcanist. Be careful of this fraudster. Tennant wanders in Paris, offering diamonds to her targets and striking deals. When the fun time's over, those glittering gifts will be restored to their true forms as charcoal.
 
 <div class="charts">
 <div class="stats">
@@ -29,7 +29,7 @@ cssclasses:
 			<td>370</td>
 			<td>620</td>
 			<td>924</td>
-      <td>1086</td>
+			<td>1086</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Health.svg">Health</th>
@@ -37,7 +37,7 @@ cssclasses:
 			<td>1908</td>
 			<td>3199</td>
 			<td>4770</td>
-      <td>5611</td>
+			<td>5611</td>
 		</tr>
 		<tr>
 			<th><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/03%20Reverse1999/Images/Attributes/Real%20DEF.svg">Real DEF</th>
