@@ -2,7 +2,7 @@
 cssclasses:
   - reverse no-properties
 ---
-**Insight I Lvl. 1**
+**Insight I Lvl. 40**
 
 | Gent Cullian | Roaming in Delhi |
 | --- | --- |
