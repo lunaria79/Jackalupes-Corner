@@ -440,7 +440,7 @@ h1 {
 	}
 
 	&-success {
-		border-color var(--cGreen);
+		border-color: var(--cGreen);
 		i, span { color: var(--cGreen); }
 	}
 }
