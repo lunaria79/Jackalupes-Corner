@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.9
+@version        1.2.0
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -675,6 +675,175 @@ a.characters-tags-all {
 			background: var(--cRed);
 		}
 		&:hover span { color: var(--cCrust); }
+	}
+}
+}
+
+/* === Forums === */
+@-moz-document domain("toyhou.se") {
+	/* === Forums === */
+/* Forum Categories */
+.forum-main {
+	.forum-category-title { color: var(--cPurple) !important; }
+	
+	.forum-category-wrapper {
+		border: none; border-radius: 5px;
+		background: var(--cMantle) !important;
+	}
+	
+	.forum-category-forum {
+		border: none;
+		
+		&:hover {cursor: pointer; background: var(--cBase) !important}
+		
+		.forum-category-title a { 
+			text-decoration: none;
+			color: var(--cPink) !important;
+			&:hover { color: var(--cOrange) !important; }
+		}
+		
+		.forum-last-update-date abbr {
+			cursor: pointer;
+			color: var(--cGreen) !important; text-decoration: none;
+		}
+		
+		.tooltipster.datetime {
+			cursor: pointer;
+			color: var(--cGreen) !important; text-decoration: none;
+		}
+		
+		.forum-last-update-thread a { 
+			text-decoration: none;
+			color: var(--cPurple) !important;
+			&:hover { color: var(--cOrange) !important; }
+		}
+		
+		.forum-last-update-author a { 
+			text-decoration: none;
+			color: var(--cIndigo) !important;
+			&:hover { color: var(--cOrange) !important; }
+		}
+	}
+}
+
+/* Create Thread */
+a.forum-create-thread {
+	color: var(--cMantle) !important;
+	padding: 5px 10px;
+	border-radius: 3px;
+	background: var(--cGreen) !important;
+
+	&:hover { 
+		color: var(--cMantle);
+		background-color: var(--cOrange) !important; 
+	}
+}
+
+/* Forum Threads */
+.forum-view-table {
+	border: none;
+	background: transparent !important;
+	
+	thead th { 
+		border: none;
+		color: var(--cPink) !important;
+		background: var(--cMantle) !important;
+	}
+	
+	.forum-thread-row {
+		&:nth-of-type(2n+1) {
+			background: transparent !important;
+		}
+		
+		&.sticky {
+			background: var(--cMantle) !important;
+		}
+		
+		&:hover {
+			cursor: pointer;
+			border-radius: 5px;
+			background: var(--cBase) !important
+		}
+		
+		.forum-thread-title a { 
+			color: var(--cPink) !important;
+			text-decoration: none;
+			&:hover { color: var(--cOrange) !important; }
+		}
+		
+		.forum-thread-info {
+			color: var(--cText) !important;
+			span.display-user a { 
+				text-decoration: none;
+				color: var(--cIndigo) !important;
+				&:hover { color: var(--cOrange) !important; }
+			}
+		}
+		
+		.tooltipster.datetime {
+			cursor: pointer;
+			color: var(--cGreen) !important; text-decoration: none;
+		}
+		
+		.forum-last-update-author a { 
+			text-decoration: none;
+			color: var(--cIndigo) !important;
+			&:hover { color: var(--cOrange) !important; }
+		}
+	}
+}
+
+
+/* Posts */
+.thread-controls {
+	a.btn {
+		color: var(--cCrust) !important;
+		padding: 5px 10px;
+		border-radius: 3px;
+		&:hover { background-color: var(--cOrange) !important; }
+		
+		&[href*="bump"] { background: var(--cIndigo); }
+		&[href*="subscribe"] { background: var(--cGreen); }
+		&[href*="block"], &[href*="~tickets"] { background: var(--cRed); }
+	}
+}
+
+.thread-header {
+	h1.thread-title a {
+		text-decoration: none;
+		&:hover { color: var(--cOrange) !important; }
+	}
+
+	.thread-author {
+		color: var(-cText);
+		.user-name-badge {
+			color: var(--cCrust) !important;
+			background-color: var(--cGreen);
+			border-radius: 3px;
+			&:hover { background-color: var(--cOrange) !important; }
+		}
+	
+		.tooltipster.datetime {
+			cursor: pointer;
+			color: var(--cGreen) !important; text-decoration: none;
+		}
+	}	
+}
+
+.thread-post .card {
+	background: transparent;
+	border: none; 
+	
+	.card-block {
+		border-radius: 10px;
+		color: var(--cText);
+		background-color: var(--cMantle);
+		
+		a {
+			color: var(--cPink);
+			text-decoration: none;
+			&:hover { color: var(--cOrange) !important; }
+		}
 	}
 }
 }

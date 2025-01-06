@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.9
+@version        1.2.0
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -732,5 +732,173 @@
   }
   .members-table a:hover span {
     color: var(--cCrust);
+  }
+}
+/* === Forums === */
+@-moz-document domain("toyhou.se") {
+  /* === Forums === */
+  /* Forum Categories */
+  .forum-main .forum-category-title {
+    color: var(--cPurple) !important;
+  }
+  .forum-main .forum-category-wrapper {
+    border: none;
+    border-radius: 5px;
+    background: var(--cMantle) !important;
+  }
+  .forum-main .forum-category-forum {
+    border: none;
+  }
+  .forum-main .forum-category-forum:hover {
+    cursor: pointer;
+    background: var(--cBase) !important;
+  }
+  .forum-main .forum-category-forum .forum-category-title a {
+    text-decoration: none;
+    color: var(--cPink) !important;
+  }
+  .forum-main .forum-category-forum .forum-category-title a:hover {
+    color: var(--cOrange) !important;
+  }
+  .forum-main .forum-category-forum .forum-last-update-date abbr {
+    cursor: pointer;
+    color: var(--cGreen) !important;
+    text-decoration: none;
+  }
+  .forum-main .forum-category-forum .tooltipster.datetime {
+    cursor: pointer;
+    color: var(--cGreen) !important;
+    text-decoration: none;
+  }
+  .forum-main .forum-category-forum .forum-last-update-thread a {
+    text-decoration: none;
+    color: var(--cPurple) !important;
+  }
+  .forum-main .forum-category-forum .forum-last-update-thread a:hover {
+    color: var(--cOrange) !important;
+  }
+  .forum-main .forum-category-forum .forum-last-update-author a {
+    text-decoration: none;
+    color: var(--cIndigo) !important;
+  }
+  .forum-main .forum-category-forum .forum-last-update-author a:hover {
+    color: var(--cOrange) !important;
+  }
+  /* Create Thread */
+  a.forum-create-thread {
+    color: var(--cMantle) !important;
+    padding: 5px 10px;
+    border-radius: 3px;
+    background: var(--cGreen) !important;
+  }
+  a.forum-create-thread:hover {
+    color: var(--cMantle);
+    background-color: var(--cOrange) !important;
+  }
+  /* Forum Threads */
+  .forum-view-table {
+    border: none;
+    background: transparent !important;
+  }
+  .forum-view-table thead th {
+    border: none;
+    color: var(--cPink) !important;
+    background: var(--cMantle) !important;
+  }
+  .forum-view-table .forum-thread-row:nth-of-type(2n+1) {
+    background: transparent !important;
+  }
+  .forum-view-table .forum-thread-row.sticky {
+    background: var(--cMantle) !important;
+  }
+  .forum-view-table .forum-thread-row:hover {
+    cursor: pointer;
+    border-radius: 5px;
+    background: var(--cBase) !important;
+  }
+  .forum-view-table .forum-thread-row .forum-thread-title a {
+    color: var(--cPink) !important;
+    text-decoration: none;
+  }
+  .forum-view-table .forum-thread-row .forum-thread-title a:hover {
+    color: var(--cOrange) !important;
+  }
+  .forum-view-table .forum-thread-row .forum-thread-info {
+    color: var(--cText) !important;
+  }
+  .forum-view-table .forum-thread-row .forum-thread-info span.display-user a {
+    text-decoration: none;
+    color: var(--cIndigo) !important;
+  }
+  .forum-view-table .forum-thread-row .forum-thread-info span.display-user a:hover {
+    color: var(--cOrange) !important;
+  }
+  .forum-view-table .forum-thread-row .tooltipster.datetime {
+    cursor: pointer;
+    color: var(--cGreen) !important;
+    text-decoration: none;
+  }
+  .forum-view-table .forum-thread-row .forum-last-update-author a {
+    text-decoration: none;
+    color: var(--cIndigo) !important;
+  }
+  .forum-view-table .forum-thread-row .forum-last-update-author a:hover {
+    color: var(--cOrange) !important;
+  }
+  /* Posts */
+  .thread-controls a.btn {
+    color: var(--cCrust) !important;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+  .thread-controls a.btn:hover {
+    background-color: var(--cOrange) !important;
+  }
+  .thread-controls a.btn[href*=bump] {
+    background: var(--cIndigo);
+  }
+  .thread-controls a.btn[href*=subscribe] {
+    background: var(--cGreen);
+  }
+  .thread-controls a.btn[href*=block], .thread-controls a.btn[href*="~tickets"] {
+    background: var(--cRed);
+  }
+  .thread-header h1.thread-title a {
+    text-decoration: none;
+  }
+  .thread-header h1.thread-title a:hover {
+    color: var(--cOrange) !important;
+  }
+  .thread-header .thread-author {
+    color: var(-cText);
+  }
+  .thread-header .thread-author .user-name-badge {
+    color: var(--cCrust) !important;
+    background-color: var(--cGreen);
+    border-radius: 3px;
+  }
+  .thread-header .thread-author .user-name-badge:hover {
+    background-color: var(--cOrange) !important;
+  }
+  .thread-header .thread-author .tooltipster.datetime {
+    cursor: pointer;
+    color: var(--cGreen) !important;
+    text-decoration: none;
+  }
+  .thread-post .card {
+    background: transparent;
+    border: none;
+  }
+  .thread-post .card .card-block {
+    border-radius: 10px;
+    color: var(--cText);
+    background-color: var(--cMantle);
+  }
+  .thread-post .card .card-block a {
+    color: var(--cPink);
+    text-decoration: none;
+  }
+  .thread-post .card .card-block a:hover {
+    color: var(--cOrange) !important;
   }
 }/*# sourceMappingURL=toyhouse.user.css.map */
