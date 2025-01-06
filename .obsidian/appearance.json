@@ -23,5 +23,6 @@
     "jackalupes-theme",
     "reverse"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSize": 16
 }

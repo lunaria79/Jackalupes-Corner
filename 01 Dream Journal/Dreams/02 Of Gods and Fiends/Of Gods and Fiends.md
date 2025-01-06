@@ -50,8 +50,6 @@ Home:
 							<p> <b>Anaia</b> was the most successful of all of the parasite experiments. She struggles with PTSD, anxiety and selective mutism, choosing to speak directly to other's minds. She is significantly more powerful than the other members of her coven, but any disobedience has long since been beaten out of her. Due to how vampires age, she is mentally around 16, although her body is many centuries old. When she enters school, she's incredibly awkward and shy, and doesn't know how to interact with others well. Her classmates avoid her due to her coven, so she spends most of her days alone. After becoming friends with <b>Toshi</b>, she slowly grows out of her shell and gains confidence. The coven finds her much harder to control when they capture her again. </p> 
 							<h3> Main Story </h3>
 							<p> The coven has broken <b>Amaia's</b> spirit again, and had bits of her memory removed. She struggles to remember the faces of her original parents and <b>Toshi</b>. Deep down though, she still has a rebellious streak. And all the coven can do is give her orders when she's away in the big city. She is now mentally in her late twenties, and is about to start her path into politics. She is no longer burned by the sun, due to her bodies age. Real blood no longer sustains her, so she has been surviving off of substitutes and fruits. </p> 
-							<h3> Fun Facts </h3>
-							<p> <b>Anaia's</b> eyes were originally red, like all vampires. But after the parasites were replaced with <i>ichor</i>, they've permanently turned golden. </p> 
 						</div>
 					</div>
 					<div class="grid right">
@@ -62,9 +60,6 @@ Home:
 							<p> There is an air of mystery surrounding <b>Toshi's</b> birth. He was not born, but found. His purpose unknown. He was taken in by a few friendly gods, but they didn't really know what to do with. Eventually, <b>Toshi</b> choose to run away from the <i>Heavenly Realm</i> to grow and learn amongst mortals. He rapidly discovered his love of cigarettes and good food. He enrolled in some fancy rich person school so he could have easy access to both. He could've spent the rest of his days squandering money and feelings sorry for himself, but meeting <b>Anaia</b> opened his eyes to truly living with purpose. </p> 
 							<h3> Main Story </h3>
 							<p> In their time apart, <b>Toshi</b> has amassed a huge following amongst both the elite and the general populace. He's been living as an allusive chef in the city. Only making masked appearances for food drives and charity events. Most assume he's a simple food god, but this is really just a side hobby. His main purpose is a reaper. He's been working very hard to suppress the political groups that want another war. </p> 
-							<h3> Fun Facts </h3>
-							<p> <b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> is akin to him blessing her with a gods' favour. It show's the world that she is under his protection. </p> 
-							<p> He isn't a good person at all. He isn't even a good person. He's an amalgamation of concepts forced into an attempt at humanity. And I love him for it. Yeah, he helps the marginalized, but only because it increases his number of worshipers, ergo his power. Any kindness he shows to others is due to his desire to please <b>Anaia</b>. </p> 
 						</div>
 					</div>
 				</div>
@@ -84,8 +79,9 @@ Home:
 						</div>
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Golden Ichor </div> </div>
-							<p> Instead of blood, god's bodies produce a substance called <i>Golden Ichor</i>. Due to its life extending abilities and healing properties, it is highly coveted by mortals.
-							Gods use <i>Golden Ichor</i> as a power play. It is common to display oneself drinking another gods <i>ichor</i> after besting them in battle. It is often drunk as a sign of mutual respect when crafting buisness deals. Gods rarely offer their own <i>ichor</i> to mortals. </p> 
+							<p> Instead of blood, god's bodies produce a substance called <i>Golden Ichor</i>. Due to its life extending abilities and healing properties, it is highly coveted by mortals. </p>
+							<p> Gods use <i>Golden Ichor</i> as a power play. It is common to display oneself drinking another gods <i>ichor</i> after besting them in battle. It is often drunk as a sign of mutual respect when crafting buisness deals. Gods rarely offer their own <i>ichor</i> to mortals. </p> 
+							<p> <b>Toshi</b> publicly feeding <b>Anaia</b> his <i>Golden Ichor</i> show's the world that she is under his protection. </p>
 						</div>
 					</div>
 					<div class="grid right">
@@ -98,9 +94,9 @@ Home:
 						</div>
 						<div class="box def-note">
 							<div class="callout-title"> <div class="callout-title-inner"> Toshi's Murder Empire </div> </div>
-							<h3> Literally What is This Guy's Deal? </h3>
-							<p> To put it simply, <b>Toshi</b> is a selfish person. All of his actions are driven by either <i>A.</i> Wanting to look good for <b>Anaia</b>, or <i>B.</i> Gaining worshipers. A god's power level is directly corralated to how many followers they have. And <b>Toshi's</b> previous gig as a reaper wasn't well liked. </p> 
-							<h3> he still kills people </h3>
+							<h3> what is wrong with him </h3>
+							<p> <b>Toshi</b> likes to think he is selfish and power hungry. All of his actions are driven by either <i>A.</i> Wanting to look good for <b>Anaia</b>, or <i>B.</i> Gaining worshipers. Or at least he claims it be so. He currently helps the marginalized and abused because he gains worshippers. It certainly doesn't make him feel good.</p> 
+							<h3> he still kills people </h3> 
 							<p> <b>Toshi</b> met <b>Amaia</b> on a sabbatical from being a child murderer. Child murderer as in he murdered and was a child. Since then, he's taken the more peacful route of gaining followers by publically donating to charities and running food banks. As well as being a celebrity chef. Old habits die hard, however, but killing mortals isn't as fun anymore when you stop seeing them as lower lifeforms. </p> 
 							<p> <b>Toshi</b> has recently started kidnapping and torturing rapists and abusers as a stress reliever. In this city, there's no shortage of those. </p> 
 						</div>
