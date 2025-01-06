@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.1
+@version        1.1.2
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -53,16 +53,22 @@ body {
 }
 
 div#content hr {
+	/* Content Divders */
 	border: 1px ridge var(--cPink);
 }
 
-h1[class*="title"] {
+/* Header Colors */
+h1 {
 	/* Page Titles */
-	color: var(--cText) ;
-	a {
-		font-weight: 700;
-		color: var(--cPurple) !important;
+	&[class*="title"] {
+		color: var(--cText) ;
+		a {
+			font-weight: 700;
+			color: var(--cPurple) !important;
+		}
 	}
+	/* World Group Page Headers */
+	.group-page-header &{ color: var(--cPurple); }
 }
 
 /* Footer */
@@ -104,14 +110,14 @@ h1[class*="title"] {
 #header { background: var(--cMantle); }
 
 .navbar {
+	/* Logo */
 	&-inverse {
 		.navbar-brand {
-			/* Logo */
 			font-weight: 700;
 			color: var(--cPurple) !important;
 			&:hover { color: var(--cBlue) !important; }
 		}
-	
+
 		.navbar-nav {
 			.nav-link {
 				/* Dropdown Title */
@@ -121,8 +127,8 @@ h1[class*="title"] {
 		}
 	}
 
+	/* Links Dropdown Menu */
 	.dropdown-menu {
-		/* Dropdown Menu */
 		color: var(--cText) !important;
 		background: var(--cMantle);
 		border: none;
@@ -147,8 +153,41 @@ h1[class*="title"] {
 			border-color: var(--cCrust);
 		}
 	}
-}
 
+	/* Notification Buttons */
+	&-notifications {
+		a.btn {
+			color: var(--cBase);
+			&[data-original-title="Admin Notice"] { background: var(--cRed); }
+			&[title="World Inboxes"] { background: var(--cYellow); }
+			&[title="Notifications"] { background: var(--cGreen); }
+			&[title="Activity"] { background: var(--cBlue); }
+			&[title="Communications"] { background: var(--cPurple); }
+			&:hover { background: var(--cOrange); }
+		}
+	}
+
+	/* Notification Buttons - Dropdown Version */
+	.nav-item.dropdown {
+		.btn {
+			color: var(--cBase) !important;
+			cursor: pointer;
+			a&[href*="inbox/news"] { background: var(--cRed); }
+			a&.dropdown-toggle { background: var(--cIndigo); }
+			&:hover { background: var(--cOrange) !important; }
+		}
+		
+		#dropdownNotifications {
+			border-radius: 10px;
+			span.dropdown-item-count {
+				border-radius: 3px;
+				font-weight: 800;
+				color: var(--cBase) !important;
+				background: var(--cGreen);
+			}
+		}
+	}
+}
 }
 
 /* === Sidebar === */
@@ -203,7 +242,7 @@ h1[class*="title"] {
 			}
 		}
 
-		&.active a {
+		&.active:not(.subnavigation-header) a {
 			/*Active Sidebar Link */
 			font-weight: 800;
 			color: var(--cPink) !important;
@@ -276,7 +315,6 @@ h1[class*="title"] {
 		border: 1px ridge var(--cMantle);
 	}
 }
-
 }
 
 /* === Core Page Features === */
@@ -288,6 +326,14 @@ h1[class*="title"] {
 	color: var(--cText) !important;
 	background: transparent !important;
 	&:not(.characters-folder-with-avatar):hover { background: var(--cMantle) !important; }
+}
+
+.characters-gallery-folder-description-header a {
+	/* Characters Folder - No Image */
+	padding: 5px 10px;
+	border-radius: 10px;
+	color: var(--cPink);
+	&:hover { background: var(--cMantle); }
 }
 
 .characters-folders-top a {

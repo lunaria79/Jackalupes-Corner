@@ -53,7 +53,11 @@
     background: var(--cCrust);
   }
   div#content hr {
+    /* Content Divders */
     border: 1px ridge var(--cPink);
+  }
+  h1 {
+    /* Header Colors */
   }
   h1[class*=title] {
     /* Page Titles */
@@ -62,6 +66,21 @@
   h1[class*=title] a {
     font-weight: 700;
     color: var(--cPurple) !important;
+  }
+  .group-page-header h1 {
+    color: red;
+  }
+  h1[class*=title] {
+    /* Page Titles */
+    color: var(--cText);
+  }
+  h1[class*=title] a {
+    font-weight: 700;
+    color: var(--cPurple) !important;
+  }
+  .group-page-header h1 {
+    /* World Group Page Headers */
+    color: red;
   }
   /* Footer */
   #footer {
@@ -191,7 +210,7 @@
     font-weight: 700;
     color: var(--cPurple);
   }
-  .side-nav li.active a {
+  .side-nav li.active:not(.subnavigation-header) a {
     /*Active Sidebar Link */
     font-weight: 800;
     color: var(--cPink) !important;
@@ -275,6 +294,15 @@
   }
   .characters-folder:not(.characters-folder-with-avatar):hover {
     background: var(--cMantle) !important;
+  }
+  .characters-gallery-folder-description-header a {
+    /* Characters Folder - No Image */
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--cPink);
+  }
+  .characters-gallery-folder-description-header a:hover {
+    background: var(--cMantle);
   }
   .characters-folders-top a {
     /* View Buttons */
