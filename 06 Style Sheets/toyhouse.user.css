@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.4
+@version        1.1.5
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -17,7 +17,7 @@
 
 @var color cText "Text" #cdd6f4
 
-@var color cSurface "Surface" #313244
+@var color cSurface "Surface" #212131
 @var color cBase "Base" #1e1e2e
 @var color cMantle "Mantle" #181825
 @var color cCrust "Crust" #11111b
@@ -69,7 +69,8 @@
     font-weight: 700;
     color: var(--cPurple) !important;
   }
-  .creatures-title h1, .group-page-header h1 {
+  h1 .characters-header h1,
+  h1 .creatures-header h1, .group-page-header h1 {
     color: var(--cPurple);
   }
   /* Footer */
@@ -449,6 +450,19 @@
   .gallery-item:hover .characters-folder-name, .gallery-item:hover .group-name {
     color: var(--cPink) !important;
     background: var(--cMantle);
+  }
+  /* Breadcrumbs */
+  .breadcrumb {
+    border: none;
+    color: var(--cText);
+    background: var(--cMantle);
+  }
+  .breadcrumb a {
+    color: var(--cPink);
+  }
+  .breadcrumb .breadcrumb-item::before {
+    color: var(--cText);
+    font-weight: 700;
   }
 }
 /* === Tags Menu === */
