@@ -8,7 +8,7 @@ cssclasses:
 | --- | --- |
 | ![](../Images/Characters/Kanjira/Kanjira.webp) | ![](../Images/Characters/Kanjira/Kanjira_Garment1.png) | 
 *An arcanist's work exhibited in the 1940s for 25 years. Completed in autumn, on September 8. Completed in Birmingham, United Kingdom of Great Britain and Northern Ireland, the exhibit was transferred to New Delhi, British India 15 years later and went on an exhibition tour to Paris, French Republic.*
-**Tennant**  is an  *:ReBeast:Beast*  Arcanist. Be careful of this fraudster. Tennant wanders in Paris, offering diamonds to her targets and striking deals. When the fun time's over, those glittering gifts will be restored to their true forms as charcoal.
+**Tennant**  is an  *Beast*  Arcanist. Be careful of this fraudster. Tennant wanders in Paris, offering diamonds to her targets and striking deals. When the fun time's over, those glittering gifts will be restored to their true forms as charcoal.
 
 <div class="charts">
 <div class="stats">
