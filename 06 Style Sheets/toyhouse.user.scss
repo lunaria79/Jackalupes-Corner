@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.1.7
+@version        1.1.9
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -429,11 +429,20 @@ h1 {
 }
 
 /* Badge Alerts */
-.user-content .alert {
+.alert {
 	font-weight: 700;
 	color: var(--cText);
 	background: var(--cMantle);
-	i, span { color: var(--cRed); }
+	border-width: 1px !important; border-style: solid !important;
+	&-danger {
+		border-color: var(--cRed);
+		i, span { color: var(--cRed); }
+	}
+
+	&-success {
+		border-color var(--cGreen);
+		i, span { color: var(--cGreen); }
+	}
 }
 }
 
