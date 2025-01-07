@@ -2,8 +2,8 @@
 ## BEAST (3/4 Collected)
 - [ ] Shamane
 ![300](Images/Characters/Shamane.webp)
-## Plant (2/4 Collected)
-- [ ] Argus
+## Plant (3/4 Collected)
+- [x] Argus
 ![300](Images/Characters/Argus.webp)
 - [ ] An-An Lee
 ![300](Images/Characters/An-an_Lee.webp)
