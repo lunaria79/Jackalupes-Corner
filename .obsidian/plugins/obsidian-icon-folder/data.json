@@ -174,9 +174,15 @@
   "03 Reverse1999/Images/Characters/Kanjira": "FasIdCard",
   "03 Reverse1999/Images/Characters/Зима": "FasIdCard",
   "03 Reverse1999/Came Home": "FasFolderTree",
-  "03 Reverse1999/Came Home/Kanjira.md": "FasLeaf",
+  "03 Reverse1999/Came Home/Kanjira.md": {
+    "iconName": "FasLeaf",
+    "iconColor": "#6ddf30"
+  },
   "03 Reverse1999/Came Home/Medicine Pocket.md": "FasShieldCat",
   "03 Reverse1999/Came Home/Pavia.md": "FasShieldCat",
   "03 Reverse1999/Came Home/Tennant.md": "FasShieldCat",
-  "03 Reverse1999/Came Home/Зима.md": "FasLeaf"
+  "03 Reverse1999/Came Home/Зима.md": {
+    "iconName": "FasLeaf",
+    "iconColor": "#6ddf30"
+  }
 }
