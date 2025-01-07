@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.2.0
+@version        1.2.1
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -209,6 +209,7 @@ h1 {
 			background-color: var(--cPink) !important;
 			a { 
 				font-weight: 700 !important;
+				color: var(--cMantle) !important;
 			}
 		}
 
@@ -391,6 +392,7 @@ h1 {
 		&[title="Images"] { color: var(--cBlue); }
 		&[title="Comments"] { color: var(--cRed); }
 		&[title="Links"] { color: var(--cOrange); }
+		&[title="Literatures"] { color: var(--cGreen); }
 		&[title="Tabs"] { color: var(--cPurple); }
 		&[title="Edit"] { color: var(--cOrange); }
 	}
@@ -437,11 +439,100 @@ h1 {
 	&-danger {
 		border-color: var(--cRed);
 		i, span { color: var(--cRed); }
+		&.border-0 {
+			border: var(--cRed) !important;
+		}
 	}
 
 	&-success {
 		border-color: var(--cGreen);
 		i, span { color: var(--cGreen); }
+	}
+}
+
+/* Comments */
+.forum-post {
+	[class*="name-badge"] {
+			color: var(--cCrust) !important;
+			background-color: var(--cGreen);
+			border-radius: 3px;
+			&:hover { background-color: var(--cOrange) !important; }
+	}
+	
+	.forum-post-user-link {
+		text-decoration: none;
+		color: var(--cBlue) !important;
+		&:hover { color: var(--cOrange) !important; }
+	}
+	
+	.forum-post-body {		
+		.forum-post-content {
+			border: none;
+			background: transparent;
+		}
+		
+		.card-block {
+			background: var(--cMantle);
+			
+			a {
+				text-decoration: none;
+				color: var(--cPink) !important;
+				&:hover { color: var(--cOrange) !important; }
+			}
+			
+			.tooltipster.datetime {
+				cursor: pointer;
+				color: var(--cGreen) !important; text-decoration: none;
+			}
+			
+			&.forum-post-footer {
+				padding: 15px;
+				hr { border: 1px ridge var(--cCrust) !important; margin-bottom: 10px;}
+			}
+			
+			.forum-post-edited {
+				border-radius: 3px;
+				padding: 2px 10px;
+				color: var(--cCrust) !important;
+				background: var(--cOrange) !important;
+			}
+		}
+		
+		.forum-post-actions {
+			margin-top: 10px;
+			a.btn {
+				border-radius: 3px;
+				padding: 5px 10px; 
+				color: var(--cCrust) !important;
+				&:hover { background: var(--cOrange) !important; }
+
+				&.comment-reply-btn { font-weight: 300; background: var(--cBlue); }
+				&[href*="edit"] { background: var(--cOrange); }
+				&[href*="tickets/create"],
+				&[href*="delete"] { background: var(--cRed); }
+			}
+		}
+	}
+}
+
+/* Comment Replies */
+.comment-replies {
+	margin-top: 15px; 
+	border: none !important;
+	
+	.card-block { 
+		background: var(--cBase) !important; 
+	}
+	
+	.forum-post-content {
+		margin: 15px 0;
+	}
+	
+	.comment.forum-post {
+		border-radius: 5px;
+		padding: 25px;
+		background: var(--cMantle);
+		.forum-post-footer hr { border: 1px solid var(--cMantle) !important; }
 	}
 }
 }

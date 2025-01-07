@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.2.0
+@version        1.2.1
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -221,6 +221,7 @@
   }
   .side-nav li.subheader a {
     font-weight: 700 !important;
+    color: var(--cMantle) !important;
   }
   .side-nav li.subnavigation-header a.subnavigation-header-link {
     /* Dropdown Header */
@@ -431,6 +432,9 @@
   .character-thumb .thumb-character-stat[title=Links] {
     color: var(--cOrange);
   }
+  .character-thumb .thumb-character-stat[title=Literatures] {
+    color: var(--cGreen);
+  }
   .character-thumb .thumb-character-stat[title=Tabs] {
     color: var(--cPurple);
   }
@@ -490,11 +494,102 @@
   .alert-danger i, .alert-danger span {
     color: var(--cRed);
   }
+  .alert-danger.border-0 {
+    border: var(--cRed) !important;
+  }
   .alert-success {
     border-color: var(--cGreen);
   }
   .alert-success i, .alert-success span {
     color: var(--cGreen);
+  }
+  /* Comments */
+  .forum-post [class*=name-badge] {
+    color: var(--cCrust) !important;
+    background-color: var(--cGreen);
+    border-radius: 3px;
+  }
+  .forum-post [class*=name-badge]:hover {
+    background-color: var(--cOrange) !important;
+  }
+  .forum-post .forum-post-user-link {
+    text-decoration: none;
+    color: var(--cBlue) !important;
+  }
+  .forum-post .forum-post-user-link:hover {
+    color: var(--cOrange) !important;
+  }
+  .forum-post .forum-post-body .forum-post-content {
+    border: none;
+    background: transparent;
+  }
+  .forum-post .forum-post-body .card-block {
+    background: var(--cMantle);
+  }
+  .forum-post .forum-post-body .card-block a {
+    text-decoration: none;
+    color: var(--cPink) !important;
+  }
+  .forum-post .forum-post-body .card-block a:hover {
+    color: var(--cOrange) !important;
+  }
+  .forum-post .forum-post-body .card-block .tooltipster.datetime {
+    cursor: pointer;
+    color: var(--cGreen) !important;
+    text-decoration: none;
+  }
+  .forum-post .forum-post-body .card-block.forum-post-footer {
+    padding: 15px;
+  }
+  .forum-post .forum-post-body .card-block.forum-post-footer hr {
+    border: 1px ridge var(--cCrust) !important;
+    margin-bottom: 10px;
+  }
+  .forum-post .forum-post-body .card-block .forum-post-edited {
+    border-radius: 3px;
+    padding: 2px 10px;
+    color: var(--cCrust) !important;
+    background: var(--cOrange) !important;
+  }
+  .forum-post .forum-post-body .forum-post-actions {
+    margin-top: 10px;
+  }
+  .forum-post .forum-post-body .forum-post-actions a.btn {
+    border-radius: 3px;
+    padding: 5px 10px;
+    color: var(--cCrust) !important;
+  }
+  .forum-post .forum-post-body .forum-post-actions a.btn:hover {
+    background: var(--cOrange) !important;
+  }
+  .forum-post .forum-post-body .forum-post-actions a.btn.comment-reply-btn {
+    font-weight: 300;
+    background: var(--cBlue);
+  }
+  .forum-post .forum-post-body .forum-post-actions a.btn[href*=edit] {
+    background: var(--cOrange);
+  }
+  .forum-post .forum-post-body .forum-post-actions a.btn[href*="tickets/create"], .forum-post .forum-post-body .forum-post-actions a.btn[href*=delete] {
+    background: var(--cRed);
+  }
+  /* Comment Replies */
+  .comment-replies {
+    margin-top: 15px;
+    border: none !important;
+  }
+  .comment-replies .card-block {
+    background: var(--cBase) !important;
+  }
+  .comment-replies .forum-post-content {
+    margin: 15px 0;
+  }
+  .comment-replies .comment.forum-post {
+    border-radius: 5px;
+    padding: 25px;
+    background: var(--cMantle);
+  }
+  .comment-replies .comment.forum-post .forum-post-footer hr {
+    border: 1px solid var(--cMantle) !important;
   }
 }
 /* === Tags Menu === */
