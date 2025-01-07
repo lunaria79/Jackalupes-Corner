@@ -8,7 +8,7 @@
 - [ ] An-An Lee
 ![300](Images/Characters/An-an_Lee.webp)
 
-## Mineral
+## Mineral (1/4 Collected)
 - [ ] Kaalaa Baunaa
 ![300](Images/Characters/Kaalaa_Baunaa.webp)
 - [ ] Pickles
@@ -18,7 +18,7 @@
 - [ ] Fatutu
 ![300](Images/Characters/Fatutu.webp)
 
-## Star
+## Star (1/4 Collected)
 - [ ] Windsong
 ![200](Images/Characters/Windsong.webp)
 - [ ] Blonney
@@ -28,12 +28,12 @@
 - [x] Erick
 ![200](Images/Characters/Erick.webp)
 
-## Spirit
+## Spirit (2/4 Collected)
 - [x] Isolde
 ![300](Images/Characters/Isolde.webp)
 - [ ] Click
 ![300](Images/Characters/Click.webp)
-- [ ] Poltergeist
+- [x] Poltergeist
 ![200](Images/Characters/Poltergeist.webp)
 - [ ] ...
 
