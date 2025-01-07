@@ -2,7 +2,7 @@
 cssclasses:
   - reverse no-properties
 ---
-**Insight I Lvl. 40**
+**Insight II Lvl. 1**
 
 | Kanjira | Tambourine |
 | --- | --- |
