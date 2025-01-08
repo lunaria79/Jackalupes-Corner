@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasLeaf",
-      "FasFolder",
-      "FasShieldCat",
-      "FasIdCard",
-      "ReBeast"
+      "FasFolderOpen",
+      "FasFileLines",
+      "FasFilePen",
+      "FasFolderTree",
+      "FasImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -33,7 +33,7 @@
         "order": 2
       },
       {
-        "rule": ".webp",
+        "rule": "webp",
         "icon": "FasImage",
         "for": "everything",
         "order": 3
@@ -118,13 +118,6 @@
   "100 Others/Linux Commands.md": "FasFileCode",
   "100 Others/chrismas 2024.md": "FasListCheck",
   "100 Others/Oh the Biome's We've Gone Retextures.md": "FasListCheck",
-  "02 These Lyrics Will Write Themselves": "FasFolderOpen",
-  "02 These Lyrics Will Write Themselves/00 - Table of Contents.md": "FasFileLines",
-  "02 These Lyrics Will Write Themselves/01 - friends that annoy you usually care the most.md": "FasFileLines",
-  "02 These Lyrics Will Write Themselves/02 - what's the point if you aren't healthy.md": "FasFileLines",
-  "02 These Lyrics Will Write Themselves/03 - are you a girl or a boy.md": "FasFileLines",
-  "02 These Lyrics Will Write Themselves/04 - what is your wish for 2017.md": "FasFileLines",
-  "02 These Lyrics Will Write Themselves/text message staging.md": "FasCode",
   "03 Sims 4": "FasFolderOpen",
   "03 Sims 4/Child Birth Mod Instructions.md": "FasFileLines",
   "03 Sims 4/Images": "FasFolderTree",
@@ -137,65 +130,5 @@
   "04 Monster Hunter World/Images": "FasFolderTree",
   "04 Monster Hunter World/Bone Hatchet Tree.md": "FasListCheck",
   "04 Monster Hunter World/Matched Slicer Tree.md": "FasListCheck",
-  "02 These Lyrics Will Write Themselves/05 - a fandom is a reflection of the artist.md": "FasFileLines",
-  "01 Dream Journal/Notes.md": "FasNoteSticky",
-  "05 Writing": "FasFolderOpen",
-  "05 Writing/Maddness": "FasFolderTree",
-  "05 Writing/Maddness/dnd alignments.md": "FasFileLines",
-  "05 Writing/Maddness/characters & alligences.md": "FasFileLines",
-  "05 Writing/the one where randy is mad at gingi.md": "FasFileLines",
-  "05 Writing/benali legacy/benali legacy.md": "FasFileLines",
-  "05 Writing/benali legacy": "FasFolderTree",
-  "05 Writing/benali legacy/images": "FasFolderTree",
-  "05 Writing/benali legacy/images/maggie-young-adult.png": "FasImage",
-  "05 Writing/benali legacy/images/maggie-headshot.png": "FasImage",
-  "05 Writing/benali legacy/images/roxanne-yong-adult.png": "FasImage",
-  "05 Writing/zialona.md": "FasFileLines",
-  "05 Writing/tlwwt": "FasFolderTree",
-  "05 Writing/tlwwt/tlwwt.md": "FasFileLines",
-  "05 Writing/tlwwt/images": "FasFolderTree",
-  "05 Writing/tlwwt/images/dae-sung.png": "FasImage",
-  "05 Writing/tlwwt/images/daehyun.jpg": "FasImage",
-  "05 Writing/tlwwt/images/seojun.jpg": "FasImage",
-  "05 Writing/tlwwt/images/joonki.jpg": "FasImage",
-  "05 Writing/tlwwt/images/cheolmin.png": "FasImage",
-  "05 Writing/tlwwt/images/kiha.jpg": "FasImage",
-  "03 Reverse1999": "FasFolderOpen",
-  "03 Reverse1999/Images": "FasFolderTree",
-  "03 Reverse1999/Reverse1999.md": "FasFileLines",
-  "03 Reverse1999/Images/Characters": "FasFolderTree",
-  "03 Reverse1999/Images/Afflatus": "FasFolderTree",
-  "03 Reverse1999/Images/Attributes": "FasFolderTree",
-  "03 Reverse1999/Images/Characters/Pavia": "FasIdCard",
-  "03 Reverse1999/Images/Characters/Pavia/Pavia.png": "FasImage",
-  "03 Reverse1999/Images/Characters/Tennant": "FasIdCard",
-  "03 Reverse1999/Images/Characters/Medicine Pocket": "FasIdCard",
-  "06 Style Sheets": "FasFolder",
-  "03 Reverse1999/Images/Characters/Kanjira": "FasIdCard",
-  "03 Reverse1999/Images/Characters/Зима": "FasIdCard",
-  "03 Reverse1999/Came Home": "FasFolderTree",
-  "03 Reverse1999/Came Home/Kanjira.md": {
-    "iconName": "FasLeaf",
-    "iconColor": "#6ddf30"
-  },
-  "03 Reverse1999/Came Home/Medicine Pocket.md": {
-    "iconName": "FasShieldCat",
-    "iconColor": "#f03d3d"
-  },
-  "03 Reverse1999/Came Home/Pavia.md": {
-    "iconName": "FasShieldCat",
-    "iconColor": "#f03d3d"
-  },
-  "03 Reverse1999/Came Home/Tennant.md": {
-    "iconName": "FasShieldCat",
-    "iconColor": "#f03d3d"
-  },
-  "03 Reverse1999/Came Home/Зима.md": {
-    "iconName": "FasLeaf",
-    "iconColor": "#6ddf30"
-  },
-  "03 Reverse1999/Came Home/Argus.md": {
-    "iconName": "FasLeaf",
-    "iconColor": "#6ddf30"
-  }
+  "03 Reverse1999": "FasFolderOpen"
 }
