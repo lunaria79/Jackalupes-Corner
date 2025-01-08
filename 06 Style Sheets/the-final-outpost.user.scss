@@ -1,0 +1,70 @@
+/* ==UserStyle==
+@name           The Final Outpost Cattpuccin
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    catboy supremacy!
+@author         Jackalupe
+@updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
+
+@var	color	cRed	"Red Tint"	#f38ba8
+@var	color	cOrange	"Orange Tint"	#fab387
+@var	color	cYellow	"Yellow Tint"	#f9e2af
+@var	color	cGreen	"Green Tint"	#a6e3a1
+@var	color	cBlue	"Blue Tint"	#74c7ec
+@var	color	cIndigo	"Indigo Tint"	#89b4fa
+@var	color	cPurple	"Purple Tint"	#cba6f7
+@var	color	cPink	"Pink Tint"	#f5c2e7
+
+@var color cText "Text" #cdd6f4
+
+@var color cSurface "Surface" #212131
+@var color cBase "Base" #1e1e2e
+@var color cMantle "Mantle" #181825
+@var color cCrust "Crust" #11111b
+
+==/UserStyle== */
+
+/* === All Pages === */
+@-moz-document domain("finaloutpost.net") {
+  ::selection { color: rgb(var(--catboy-purple)); background-color: rgb(var(--catboy-surface), .75); }
+
+  :root { background: none; }
+  
+  a[href="/account/ads/"] { visibility: hidden; }
+
+  /* ======================================== JUMBOTRON ===== */
+#header-img {
+	background-image: url("https://raw.githubusercontent.com/orxngc/walls-catppuccin-mocha/master/black-hole.png");
+	background-size: auto 115%; background-position-y: -350px;
+	background-attachment: fixed;
+	height: 9.5em;
+}
+
+a.shadowE { text-shadow: 1px 1px 2px rgb(var(--catboy-purple)) !important; font-weight: 800; }
+
+.navbar-nav {
+	background: rgb(var(--catboy-mantle));
+	border-radius: 10px 10px 0 0;
+	margin-top: -6px;
+}
+.me-auto li.nav-item:nth-child(1) {border-radius: 10px 0 0 0;}
+.me-auto li.nav-item:nth-child(6) {border-radius: 0 10px 0 0;}
+li.nav-item:nth-child(1) {border-radius: 10px 10px 0 0;}
+li.nav-item:hover {background: rgb(var(--catboy-base),.25) !important;}
+
+#mainmenu .active {
+	color: rgb(var(--catboy-white)) !important; text-shadow: 1px 1px 2px rgb(var(--catboy-purple)) !important;
+	background: rgb(var(--catboy-base));
+}
+#mainmenu .active:hover { color: rgb(var(--catboy-white)) !important; }
+
+img.pixel[src="https://finaloutpost.net/img/ui/coins.png"],
+img.pixel[src="/img/ui/coins.png"] {
+	background: url("https://static-00.iconduck.com/assets.00/gold-coin-icon-2048x2048-loznlayl.png") no-repeat;
+	background-size: 75%; background-position: 1px;
+	filter: sepia(100%) saturate(230%) brightness(70%) hue-rotate(200deg);
+	width: 15px; height: 20px; padding-left: 23px; margin-top: -4px;
+}
+
+
+}
