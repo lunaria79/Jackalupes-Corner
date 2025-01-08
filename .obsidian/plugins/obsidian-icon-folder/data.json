@@ -43,6 +43,12 @@
         "icon": "FasImage",
         "for": "everything",
         "order": 4
+      },
+      {
+        "rule": "folder/*",
+        "icon": "FasFolderTree",
+        "for": "everything",
+        "order": 5
       }
     ],
     "extraMargin": {
