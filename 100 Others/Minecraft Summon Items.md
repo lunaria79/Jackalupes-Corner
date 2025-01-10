@@ -62,7 +62,7 @@ tags:
 ```
 
 ```java unfold file:Oreo
-/summon wolf ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],variant:"black",CollarColor:10b,CustomName:'{"bold":true,"color":"white","text":"Oreo"}'}
+/summon wolf ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,variant:"black",CollarColor:10b,CustomName:'{"bold":true,"text":"Oreo"}'}
 ```
 
 ```java fold file:Techno-Head
