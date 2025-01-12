@@ -6,7 +6,7 @@ tags:
 ---
 ## Weapons
 ```java unfold file:Sword
-/give @p netherite_sword{display:{Name:"\"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ\"",Lore:['{"text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ","color":"#D932FF"}','{"text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore.","color":"white"}']} ,Enchantments:[{id:sharpness,lvl:5},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+/give @p netherite_sword[custom_name='"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ"',lore=['{"bold":true,"color":"dark_purple","text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ"}','{"color":"white","text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore."}'],enchantments={levels:{"minecraft:fire_aspect":2,"minecraft:knockback":2,"minecraft:looting":3,"minecraft:sharpness":5,"minecraft:sweeping_edge":3,"minecraft:mending":1,"minecraft:unbreaking":3},show_in_tooltip:true}] 1
 ```
 ```md fold file:Translation
 **The Needle**
@@ -61,10 +61,13 @@ tags:
 /summon skeleton_horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Tame:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],CustomName:'{"text":"Aether","color":"black","bold":true}',Attributes:[{Name:generic.max_health,Base:30},{Name:generic.follow_range,Base:40},{Name:generic.movement_speed,Base:0.3375},{Name:generic.armor,Base:30},{Name:generic.armor_toughness,Base:30},{Name:horse.jump_strength,Base:1}],SaddleItem:{id:"minecraft:saddle",Count:1b}}
 ```
 
-```java unfold file:Techno Head
-/give @p minecraft:player_head{display:{Name:'{"text":"Technoblade","color":"gold","underlined":true,"bold":true,"italic":false}',Lore:['{"text":"Player Head ID: 31373","color":"gray","italic":false}','{"text":"www.minecraft-heads.com","color":"blue","italic":false}']},SkullOwner:"Technoblade"} 1
+```java unfold file:Oreo
+/summon wolf ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,variant:"black",CollarColor:10b,CustomName:'{"bold":true,"text":"Oreo"}'}
 ```
 
+```java fold file:Techno-Head
+/give @p minecraft:player_head{display:{Name:'{"text":"Technoblade","color":"gold","underlined":true,"bold":true,"italic":false}',Lore:['{"text":"Player Head ID: 31373","color":"gray","italic":false}','{"text":"www.minecraft-heads.com","color":"blue","italic":false}']},SkullOwner:"Technoblade"} 1
+```
 ## Armor
 ```java unfold file:Helm
 {Enchantments:[{id:protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1

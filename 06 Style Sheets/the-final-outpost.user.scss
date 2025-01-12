@@ -1,7 +1,11 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
+<<<<<<< HEAD
 @version        1.0.0
+=======
+@version        0.0.1
+>>>>>>> origin/main
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -15,7 +19,11 @@
 @var	color	cPurple	"Purple Tint"	#cba6f7
 @var	color	cPink	"Pink Tint"	#f5c2e7
 
+<<<<<<< HEAD
 @var color cText "Text" #cdd6f4
+=======
+@var color cText "Text" #eff1f5
+>>>>>>> origin/main
 
 @var color cSurface "Surface" #212131
 @var color cBase "Base" #1e1e2e
@@ -23,6 +31,7 @@
 @var color cCrust "Crust" #11111b
 
 ==/UserStyle== */
+<<<<<<< HEAD
 
 /* === All Pages === */
 @-moz-document domain("finaloutpost.net") {
@@ -68,3 +77,95 @@ img.pixel[src="/img/ui/coins.png"] {
 
 
 }
+=======
+@-moz-document domain("finaloutpost.net") {
+/* ======================================== All Pages =====*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+::selection { color: var(--cPurple); background-color: var(--cSurface); }
+
+:root { background: none; }
+
+a[href="/account/ads/"] { visibility: hidden; }
+
+}
+
+/* --Header Image -- */
+#header-img {
+  background-image: url("https://raw.githubusercontent.com/orxngc/walls-catppuccin-mocha/master/black-hole.png");
+  background-size: auto 115%; background-position-y: -350px;
+  background-attachment: fixed;
+  height: 9.5em;
+}
+
+/* -- Navbar Menu -- */
+#mainmenu .navbar-nav {
+  background: var(--cMantle);
+  border-radius: 10px 10px 0 0;
+  margin-top: -6px;
+  
+  /* -- Border Radius -- */
+  &.me-auto li.nav-item:nth-child(1) { border-radius: 10px 0 0 0; }
+  &.me-auto li.nav-item:nth-child(6) { border-radius: 0 10px 0 0; }
+  li.nav-item:nth-child(1) { border-radius: 10px 10px 0 0; }
+  
+  /* -- Tab Design -- */
+  .active {
+    /* -- Active Tab -- */
+    color: var(--cText) !important; 
+    text-shadow: 1px 1px 2px var(--cPurple) !important;
+    background: var(--cBase);
+    &:hover { color: var(--cPink) !important; }
+  }
+  
+  li.nav-item:hover { background: var(--cBase) !important; }
+  
+  a.shadowE {
+    /* -- Text Color -- */
+    color: var(--cText) !important; font-weight: 700;
+    text-shadow: 1px 1px 1px var(--cSurface) !important; 
+    &:hover { color: var(--cPink) !important; }
+  }
+}
+
+/* -- Replace Coin Image -- */
+img[src*="coins.png"] {
+  background: url("https://static-00.iconduck.com/assets.00/gold-coin-icon-2048x2048-loznlayl.png") no-repeat;
+  background-size: 75%; background-position: 1px;
+  filter: sepia(100%) saturate(230%) brightness(70%) hue-rotate(200deg);
+  width: 15px; height: 20px; padding-left: 23px; margin-top: -4px;
+}
+
+/* ======================================== Backgrounds ===== */
+body {
+  min-height: 875px;
+  background-image: linear-gradient( to bottom right, var(--cBase), var(--cMantle), var(--cCrust));
+}
+
+#main, #footer,
+.dropdown-menu,
+.content__card, .content__card__avatar {
+  border: none; border-radius: var(--small-radius);
+  color: var(--cText);
+  background-color: var(--cBase); background-image: none;
+  box-shadow: 5px 5px var(--cCrust);
+}
+
+#footer {
+  margin: 30px auto 40px auto; width: 30rem !important;
+  background-color: var(--cCrust);
+}
+
+.dropdown-menu a:hover { background-color: var(--cMantle); }
+.whitebg {color: var(--cPurple); background-color: var(--cCrust);}
+
+hr {
+  border: 1px ridge var(--cCrust);
+  opacity: 50%;
+}
+
+.unreadNotification,
+.content__card,
+.bg-dark-subtle { background-color: var(--cSurface) !important; }
+>>>>>>> origin/main

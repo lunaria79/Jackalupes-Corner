@@ -674,11 +674,11 @@ a.characters-tags-all {
 			}
 		}
 		
-		a.link-character-badge {
+		.link-character-badge a {
 			/* Link Button */
 			color: var(--cBase);
-			background: var(--cBlue);
-			&:hover { background: var(--cOrange); }
+			background: var(--cGreen);
+			&:hover { color: var(--cBase); background: var(--cOrange); }
 		}
 		
 		.link-content hr {
