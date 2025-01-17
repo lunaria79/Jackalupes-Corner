@@ -35,13 +35,13 @@ shadow: off
 ### Notes
 - very social awkward, and gets taken advantage of easily
 - absolutely a wreck around women she has crushes on
+- she trips on her ears all the timea
 
 --- end-column ---
 
 ![100](Images/Species/succubun.png)
 ![100](Images/Subtypes/envy.png)
 ![100](Images/Traits/angora-fur.png)
-![100](Images/Traits/stitched.png)
 ![100](Images/Traits/long-ears.png)
 ![100](Images/Traits/gilded.png)
 
