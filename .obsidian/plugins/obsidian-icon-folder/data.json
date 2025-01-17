@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderTree",
       "FasUser",
       "FasNoteSticky",
       "FasFolderOpen",
-      "FasFileLines",
-      "FasFilePen"
+      "FasFileLines"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -145,5 +145,6 @@
   "02 Games/Succubuns/Sephtis.md": "FasUser",
   "02 Games/Succubuns/Jengu.md": "FasUser",
   "02 Games/Succubuns/Bastet.md": "FasUser",
-  "02 Games/Succubuns/Achara.md": "FasUser"
+  "02 Games/Succubuns/Achara.md": "FasUser",
+  "02 Games/Succubuns/Icons": "FasFolderTree"
 }
