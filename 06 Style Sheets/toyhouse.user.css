@@ -730,12 +730,13 @@
       border-top-color: transparent;
     }
   }
-  .link-text a.link-character-badge {
+  .link-text .link-character-badge a {
     /* Link Button */
     color: var(--cBase);
-    background: var(--cBlue);
+    background: var(--cGreen);
   }
-  .link-text a.link-character-badge:hover {
+  .link-text .link-character-badge a:hover {
+    color: var(--cBase);
     background: var(--cOrange);
   }
   .link-text .link-content hr {

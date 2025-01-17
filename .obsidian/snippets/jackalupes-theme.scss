@@ -65,6 +65,10 @@ body {
 	--ctp-surface2: 88, 91, 112;
 }
 
+div:has(.mcm-column-div) {
+	background: rgba(17, 17, 27, 0.20);
+}
+
 
 /* ---------- Reading Mode ---------- */
 div.markdown-reading-view {
