@@ -1,19 +1,7 @@
 [
-  "obsidian-html-tags-autocomplete",
-  "obsidian-dynamic-background",
-  "color-palette",
-  "obsidian-image-gallery",
-  "custom-classes",
-  "table-editor-obsidian",
-  "html-tabs",
-  "statusbar-organizer",
-  "obsidian-hider",
-  "obsidian42-brat",
-  "enhanced-tables",
-  "obsidian-discordrpc",
   "obsidian-git",
-  "codeblock-customizer",
-  "image-converter",
-  "obsidian-snippet-downloader",
-  "obsidian-icon-folder"
+  "obsidian-dynamic-background",
+  "html-tabs",
+  "obsidian-icon-folder",
+  "image-converter"
 ]

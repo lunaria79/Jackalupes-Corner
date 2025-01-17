@@ -1,8 +1,8 @@
-![50](Icons/he-him.webp)  ![50](Icons/she-her.webp) **Name:** Sephtis
-![50](Icons/preist-of-sulfer.webp) ![50](Icons/faithful.webp) **Age:** ∞
-![50](Icons/sweets-lover.webp)![](Icons/coffee-.webp) **Gender:** ???? 
-**Sexuality:** Gay
-**Species**: Angel
+![50](Icons/Titles/he-him.webp)  ![50](Icons/Titles/she-her.webp) **Age:** ∞
+![50](Icons/Titles/preist-of-sulfer.webp) ![50](Icons/Titles/faithful.webp) **Gender:** ???? 
+![50](Icons/Titles/sweets-lover.webp) ![50](Icons/Titles/coffee-addict.webp) **Sexuality:** Gay
+![50](Icons/Titles/sinner.webp) ![50](Icons/Titles/bloodthirsty.webp)  **Species**: Angel
+
 
 ---
 ### Likes

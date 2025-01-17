@@ -146,5 +146,7 @@
   "02 Games/Succubuns/Jengu.md": "FasUser",
   "02 Games/Succubuns/Bastet.md": "FasUser",
   "02 Games/Succubuns/Achara.md": "FasUser",
-  "02 Games/Succubuns/Icons": "FasFolderTree"
+  "02 Games/Succubuns/Icons": "FasFolderTree",
+  "02 Games/Succubuns/Icons/Titles": "FasFolderTree",
+  "02 Games/Succubuns/Icons/Traits": "FasFolderTree"
 }
