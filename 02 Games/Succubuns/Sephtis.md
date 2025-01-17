@@ -1,8 +1,6 @@
-### Basics
-**Name:** Sephtis
-**Age:** ∞
-**Pronouns:** He/Him, She/Her ![[../../00%20_resources/1-image.webp]]
-**Gender:** ????
+![50](Icons/he-him.webp)  ![50](Icons/she-her.webp) **Name:** Sephtis
+![50](Icons/preist-of-sulfer.webp) ![50](Icons/faithful.webp) **Age:** ∞
+![50](Icons/sweets-lover.webp)![](Icons/coffee-.webp) **Gender:** ???? 
 **Sexuality:** Gay
 **Species**: Angel
 
