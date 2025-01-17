@@ -18,29 +18,69 @@
   },
   "02 Games/Succubuns/Sephtis.md": {
     "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Traits/spirit-motes.webp?1737089267174": {
-      "position": "right",
+      "position": "center",
       "width": "",
-      "wrap": true
+      "wrap": false
     },
     "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Traits/fangs.webp?1737089205995": {
-      "position": "right",
+      "position": "center",
       "width": "",
-      "wrap": true
+      "wrap": false
     },
     "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Traits/hellfire.webp?1737089230180": {
-      "position": "right",
+      "position": "center",
       "width": "",
-      "wrap": true
+      "wrap": false
     },
     "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Traits/grand-horn.webp?1737089225795": {
-      "position": "right",
+      "position": "center",
       "width": "",
-      "wrap": true
+      "wrap": false
     },
     "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Traits/bat-wings.webp?1737089190260": {
-      "position": "right",
+      "position": "center",
       "width": "",
-      "wrap": true
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/he-him.webp?1737087768006": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/she-her.webp?1737087694853": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/preist-of-sulfer.webp?1737087924322": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/faithful.webp?1737088078922": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/sweets-lover.webp?1737088178484": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/coffee-addict.webp?1737088304484": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/sinner.webp?1737088439380": {
+      "position": "center",
+      "width": "",
+      "wrap": false
+    },
+    "app://569e253d923f022da58265c837e969475b2e/C:/Users/regin/OneDrive/Jackalupes%20Corner/02%20Games/Succubuns/Icons/Titles/bloodthirsty.webp?1737088422987": {
+      "position": "center",
+      "width": "",
+      "wrap": false
     }
   }
 }
