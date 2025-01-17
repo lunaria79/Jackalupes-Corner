@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasUser",
       "FasNoteSticky",
       "FasFolderOpen",
       "FasFileLines",
-      "FasFilePen",
-      "FasFolderTree"
+      "FasFilePen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -141,5 +141,9 @@
   "02 Games/Monster Hunter World/Matched Slicer Tree.md": "FasListCheck",
   "05 Writing": "FasFolderOpen",
   "06 Style Sheets": "FasFolderOpen",
-  "02 Games/Succubuns": "FasFolderTree"
+  "02 Games/Succubuns": "FasFolderTree",
+  "02 Games/Succubuns/Sephtis.md": "FasUser",
+  "02 Games/Succubuns/Jengu.md": "FasUser",
+  "02 Games/Succubuns/Bastet.md": "FasUser",
+  "02 Games/Succubuns/Achara.md": "FasUser"
 }
