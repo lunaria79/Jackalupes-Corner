@@ -3,7 +3,6 @@
 number of columns:3  
 largest column: center 
 Alignment: [Center, Left, Center]
- column height: 550px
 border: off
 shadow: off
 ```
@@ -35,7 +34,8 @@ shadow: off
 - had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave
 
 --- end-column ---
-
+![[../../00%20_resources/2-image.webp]]
+![100](Icons/Species/succubun.png)
 ![100](Icons/Traits/spirit-motes.webp)
 ![100](Icons/Traits/fangs.webp)
 ![100](Icons/Traits/hellfire.webp)
