@@ -1,8 +1,22 @@
+--- start-multi-column: ExampleRegion1  
+```column-settings  
+number of columns:3  
+largest column: center 
+Alignment: [Center, Left, Center]
+ column height: 550px
+border: off
+shadow: off
+```
+
+![75](Icons/Titles/he-him.webp)  ![75](Icons/Titles/she-her.webp)  ![75](Icons/Titles/preist-of-sulfer.webp) ![75](Icons/Titles/faithful.webp)  ![75](Icons/Titles/sweets-lover.webp) ![75](Icons/Titles/coffee-addict.webp) ![75](Icons/Titles/sinner.webp) ![75](Icons/Titles/bloodthirsty.webp)  
+
+--- end-column ---
+
 ---
-Multi-Column Markdown:
-  - Number of columns: 3
-  - Alignment: [Center, Left, Center]
-  - Border: off
+### Relationships
+[Bastet](Bastet.md): My best friend that needs to stand up for herself better.
+[Jengu](Jengu.md):  "Are you saying your heart burns for me?"  "...In like a super negative way."
+[Achara](Achara.md): The very sweet woman **Bastet** is crushing on.
 ---
 ### Likes
 - Causing Problems
@@ -19,24 +33,6 @@ Multi-Column Markdown:
 ---
 ### Ideas
 - had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave
-
---- start-multi-column: ExampleRegion1  
-
-
-![75](Icons/Titles/he-him.webp)  ![75](Icons/Titles/she-her.webp) 
-![75](Icons/Titles/preist-of-sulfer.webp) ![75](Icons/Titles/faithful.webp) 
-![75](Icons/Titles/sweets-lover.webp) ![75](Icons/Titles/coffee-addict.webp) 
-![75](Icons/Titles/sinner.webp) ![75](Icons/Titles/bloodthirsty.webp)  
-
---- end-column ---
-
-**Age:** ∞
-**Gender:** ???? 
-**Sexuality:** Gay
-**Species**: Cherubun
-[Bastet](Bastet.md): My best friend that needs to stand up for herself better.
-[Jengu](Jengu.md):  "Are you saying your heart burns for me?"  "...In like a super negative way."
-[Achara](Achara.md): The very sweet woman **Bastet** is crushing on.
 
 --- end-column ---
 
