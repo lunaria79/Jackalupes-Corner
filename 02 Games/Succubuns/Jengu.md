@@ -7,15 +7,15 @@ border: off
 shadow: off
 ```
 
- ![75](Images/Titles/she-her.png) ![75](Images/Titles/cam-girl.png) ![75](Images/Titles/pet-lover.png) ![75](Images/Titles/dango-taster.png) ![75](Images/Titles/plush-lover.png) ![75](Images/Titles/supportive.png)
-![100](Images/food/hanami-dango.png) ![100](Images/food/smooch-hooch.png)
-![100](Images/pets/lovedrunk-furdin.png) ![100](Images/pets/fiendish-loafki.png)
+![75](Images/Titles/he-him.png) ![75](Images/Titles/preist-of-sulfer.png) ![75](Images/Titles/wonderland-bouncer.png) ![75](Images/Titles/gambler.png) ![75](Images/Titles/sinner.png) ![75](Images/Titles/bloodthirsty.png)
+![100](Images/food/demon-pepper.png) ![](Images/food/shardonnay.png)
+![100](Images/pets/festival-sceil.png) ![100](Images/pets/festival-tsuchi.png) ![100](Images/pets/festival-ryudra.png)
 
 --- end-column ---
 
 ### Relationships
-[Sephtis](Sephtis.md): supposed to be my best friend, but he's hiding stuff from me and i dont like it >:c
-[Jengu](Jengu.md):  my asshole brother /aff
+[Sephtis](Sephtis.md): my worst fucking nightmare
+[Bastet](Bastet.md): i should
 [Achara](Achara.md): *blush intensifies*
 
 ---
@@ -45,6 +45,6 @@ shadow: off
 ![100](Images/Traits/devils-tounge.png)
 ![100](Images/Traits/scales.png)
 ![100](Images/Traits/melty.png)
-![100](Images/Traits/evil-eyes.png)
+![](Images/Traits/evil-eyes.png)
 
 --- end-multi-column
