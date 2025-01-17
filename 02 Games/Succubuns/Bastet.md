@@ -13,7 +13,6 @@ shadow: off
 
 --- end-column ---
 
----
 ### Relationships
 [Sephtis](Sephtis.md): supposed to be my best friend, but he's hiding stuff from me and i dont like it >:c
 [Jengu](Jengu.md):  my asshole brother /aff
@@ -21,23 +20,21 @@ shadow: off
 
 ---
 ### Likes
-- causing problems
-- his cave
-- being dramatic
-- drinking coffee to forget
+- her kitties!
+- women!
+- picnics with sephtis
 ### Dislikes
-- not getting his way
-- hurting his loved ones
+- not being told the truth
+- the quiet
 ---
-### Notes:
-- One very demonic looking angel (he doesnt have a complex about it) *(not cannon on the site)*
-- One of the most dramatic people you will ever meet.
-- lives in a cave like a loser *(he's anti-social)*
+### Plot
+- in the beginning of her cam girl career, has had some unsavory interactions with company owners
+- met sephtis while working part time at a sweets shop!
+- her and her guard dogs (jengu & sephtis) lure in and kill abusers
 ---
-### plot
-- had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave near burrowgatory
-- meets bastet on a supply run into the city, tries to be evil and fails. acquired best friend
-- together they hunt dont and murder her past abuser, they now have a little under the table business for it
+### Notes
+- very social awkward, and gets taken advantage of easily
+- absolutely a wreck around women she has crushes on
 
 --- end-column ---
 
@@ -45,8 +42,7 @@ shadow: off
 ![100](Images/Subtypes/envy.png)
 ![100](Images/Traits/angora-fur.png)
 ![100](Images/Traits/stitched.png)
-![](Images/Traits/long-ears.png)
-![](Images/Traits/flutter-motes.png)
-
+![100](Images/Traits/long-ears.png)
+![100](Images/Traits/gilded.png)
 
 --- end-multi-column

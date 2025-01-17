@@ -29,15 +29,15 @@ shadow: off
 - not getting his way
 - hurting his loved ones
 ---
-### Notes:
-- One very demonic looking angel (he doesnt have a complex about it) *(not cannon on the site)*
-- One of the most dramatic people you will ever meet.
-- lives in a cave like a loser *(he's anti-social)*
----
 ### plot
 - had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave near burrowgatory
 - meets bastet on a supply run into the city, tries to be evil and fails. acquired best friend
 - together they hunt dont and murder her past abuser, they now have a little under the table business for it
+---
+### Notes:
+- One very demonic looking angel (he doesnt have a complex about it) *(not cannon on the site)*
+- One of the most dramatic people you will ever meet.
+- lives in a cave like a loser *(he's anti-social)*
 
 --- end-column ---
 
