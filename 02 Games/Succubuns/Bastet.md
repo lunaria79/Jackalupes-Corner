@@ -8,8 +8,8 @@ shadow: off
 ```
 
  ![75](Images/Titles/she-her.png) ![75](Images/Titles/cam-girl.png) ![75](Images/Titles/pet-lover.png) ![75](Images/Titles/dango-taster.png) ![75](Images/Titles/plush-lover.png) ![75](Images/Titles/supportive.png)
-![75](Images/food/iris-coffee.png) ![75](Images/food/demon-pepper.png)
-![75](Images/pets/lovedrunk-furdin.png) ![75](Images/pets/fiendish-loafki.png)
+![100](Images/food/hanami-dango.png) ![100](Images/food/smooch-hooch.png)
+![100](Images/pets/lovedrunk-furdin.png) ![100](Images/pets/fiendish-loafki.png)
 
 --- end-column ---
 
@@ -43,10 +43,10 @@ shadow: off
 
 ![100](Images/Species/succubun.png)
 ![100](Images/Subtypes/envy.png)
-![100](Images/Traits/spirit-motes.png)
-![100](Images/Traits/fangs.png)
-![100](Images/Traits/hellfire.png)
-![100](Images/Traits/grand-horn.png)
-![100](Images/Traits/bat-wings.png)
+![100](Images/Traits/angora-fur.png)
+![100](Images/Traits/stitched.png)
+![](Images/Traits/long-ears.png)
+![](Images/Traits/flutter-motes.png)
+
 
 --- end-multi-column

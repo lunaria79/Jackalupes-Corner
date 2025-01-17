@@ -8,8 +8,8 @@ shadow: off
 ```
 
 ![75](Images/Titles/he-him.png)  ![75](Images/Titles/she-her.png)  ![75](Images/Titles/preist-of-sulfer.png) ![75](Images/Titles/faithful.png)  ![75](Images/Titles/sweets-lover.png) ![75](Images/Titles/coffee-addict.png) ![75](Images/Titles/sinner.png) ![75](Images/Titles/bloodthirsty.png)  
-![75](Images/food/iris-coffee.png) ![75](Images/food/demon-pepper.png)
-![75](Images/pets/corvat.png) ![75](Images/pets/guyst.png) ![75](Images/pets/bonezo.png)
+![100](Images/food/iris-coffee.png) ![100](Images/food/demon-pepper.png)
+![100](Images/pets/gothic-corvat.png) ![100](Images/pets/fiendish-bonezo.png) ![100](Images/pets/gloomy-guyst.png)
 
 --- end-column ---
 
