@@ -7,7 +7,9 @@ border: off
 shadow: off
 ```
 
-![75](Icons/Titles/he-him.webp)  ![75](Icons/Titles/she-her.webp)  ![75](Icons/Titles/preist-of-sulfer.webp) ![75](Icons/Titles/faithful.webp)  ![75](Icons/Titles/sweets-lover.webp) ![75](Icons/Titles/coffee-addict.webp) ![75](Icons/Titles/sinner.webp) ![75](Icons/Titles/bloodthirsty.webp)  
+![75](Images/Titles/he-him.webp)  ![75](Images/Titles/she-her.webp)  ![75](Images/Titles/preist-of-sulfer.webp) ![75](Images/Titles/faithful.webp)  ![75](Images/Titles/sweets-lover.webp) ![75](Images/Titles/coffee-addict.webp) ![75](Images/Titles/sinner.webp) ![75](Images/Titles/bloodthirsty.webp)  
+![75](Images/food/iris-coffee.webp) ![75](Images/food/demon-pepper.webp)
+![75](Images/pets/corvat.webp) ![75](Images/pets/guyst.webp)
 
 --- end-column ---
 
@@ -34,12 +36,13 @@ shadow: off
 - had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave
 
 --- end-column ---
-![[../../00%20_resources/2-image.webp]]
-![100](Icons/Species/succubun.png)
-![100](Icons/Traits/spirit-motes.webp)
-![100](Icons/Traits/fangs.webp)
-![100](Icons/Traits/hellfire.webp)
-![100](Icons/Traits/grand-horn.webp)
-![100](Icons/Traits/bat-wings.webp)
+
+![100](Images/Species/succubun.png)
+![100](Images/Subtypes/pride.webp)
+![100](Images/Traits/spirit-motes.webp)
+![100](Images/Traits/fangs.webp)
+![100](Images/Traits/hellfire.webp)
+![100](Images/Traits/grand-horn.webp)
+![100](Images/Traits/bat-wings.webp)
 
 --- end-multi-column
