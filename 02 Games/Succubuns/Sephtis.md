@@ -7,9 +7,9 @@ border: off
 shadow: off
 ```
 
-![75](Images/Titles/he-him.webp)  ![75](Images/Titles/she-her.webp)  ![75](Images/Titles/preist-of-sulfer.webp) ![75](Images/Titles/faithful.webp)  ![75](Images/Titles/sweets-lover.webp) ![75](Images/Titles/coffee-addict.webp) ![75](Images/Titles/sinner.webp) ![75](Images/Titles/bloodthirsty.webp)  
-![75](Images/food/iris-coffee.webp) ![75](Images/food/demon-pepper.webp)
-![75](Images/pets/corvat.webp) ![75](Images/pets/guyst.webp) ![75](Images/pets/bonezo.webp)
+![75](Images/Titles/he-him.png)  ![75](Images/Titles/she-her.png)  ![75](Images/Titles/preist-of-sulfer.png) ![75](Images/Titles/faithful.png)  ![75](Images/Titles/sweets-lover.png) ![75](Images/Titles/coffee-addict.png) ![75](Images/Titles/sinner.png) ![75](Images/Titles/bloodthirsty.png)  
+![75](Images/food/iris-coffee.png) ![75](Images/food/demon-pepper.png)
+![75](Images/pets/corvat.png) ![75](Images/pets/guyst.png) ![75](Images/pets/bonezo.png)
 
 --- end-column ---
 
@@ -42,11 +42,11 @@ shadow: off
 --- end-column ---
 
 ![100](Images/Species/succubun.png)
-![100](Images/Subtypes/pride.webp)
-![100](Images/Traits/spirit-motes.webp)
-![100](Images/Traits/fangs.webp)
-![100](Images/Traits/hellfire.webp)
-![100](Images/Traits/grand-horn.webp)
-![100](Images/Traits/bat-wings.webp)
+![100](Images/Subtypes/pride.png)
+![100](Images/Traits/spirit-motes.png)
+![100](Images/Traits/fangs.png)
+![100](Images/Traits/hellfire.png)
+![100](Images/Traits/grand-horn.png)
+![100](Images/Traits/bat-wings.png)
 
 --- end-multi-column
