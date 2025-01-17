@@ -1,14 +1,3 @@
-![50](Icons/Titles/he-him.webp)  ![50](Icons/Titles/she-her.webp) **Age:** ∞
-![50](Icons/Titles/preist-of-sulfer.webp) ![50](Icons/Titles/faithful.webp) **Gender:** ???? 
-![50](Icons/Titles/sweets-lover.webp) ![50](Icons/Titles/coffee-addict.webp) **Sexuality:** Gay
-![50](Icons/Titles/sinner.webp) ![50](Icons/Titles/bloodthirsty.webp)  **Species**: Cherubun
-
-![100](Icons/Traits/spirit-motes.webp)
-![100](Icons/Traits/fangs.webp)
-![100](Icons/Traits/hellfire.webp)
-![100](Icons/Traits/grand-horn.webp)
-![100](Icons/Traits/bat-wings.webp)
-
 ---
 ### Likes
 - Causing Problems
@@ -32,3 +21,31 @@
 ---
 ### Ideas
 - had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave
+
+--- start-multi-column: ExampleRegion1  
+```column-settings  
+number of columns: 3
+largest column: middle  
+```
+
+![50](Icons/Titles/he-him.webp)  ![50](Icons/Titles/she-her.webp) 
+![50](Icons/Titles/preist-of-sulfer.webp) ![50](Icons/Titles/faithful.webp) 
+![50](Icons/Titles/sweets-lover.webp) ![50](Icons/Titles/coffee-addict.webp) 
+![50](Icons/Titles/sinner.webp) ![50](Icons/Titles/bloodthirsty.webp)  
+
+--- end-column ---
+
+**Age:** ∞
+**Gender:** ???? 
+**Sexuality:** Gay
+**Species**: Cherubun
+
+--- end-column ---
+
+![100](Icons/Traits/spirit-motes.webp)
+![100](Icons/Traits/fangs.webp)
+![100](Icons/Traits/hellfire.webp)
+![100](Icons/Traits/grand-horn.webp)
+![100](Icons/Traits/bat-wings.webp)
+
+--- end-multi-column
