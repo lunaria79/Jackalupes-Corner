@@ -36,7 +36,8 @@ shadow: off
 ---
 ### plot
 - had a mental breakdown and ran away from angelburg or whatever the fuck its called, ended up in a cave near burrowgatory
-- 
+- meets bastet on a supply run into the city, tries to be evil and fails. acquired best friend
+- together they hunt dont and murder her past abuser, they now have a little under the table business for it
 
 --- end-column ---
 
