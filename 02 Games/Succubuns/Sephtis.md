@@ -9,7 +9,7 @@ shadow: off
 
 ![75](Images/Titles/he-him.webp)  ![75](Images/Titles/she-her.webp)  ![75](Images/Titles/preist-of-sulfer.webp) ![75](Images/Titles/faithful.webp)  ![75](Images/Titles/sweets-lover.webp) ![75](Images/Titles/coffee-addict.webp) ![75](Images/Titles/sinner.webp) ![75](Images/Titles/bloodthirsty.webp)  
 ![75](Images/food/iris-coffee.webp) ![75](Images/food/demon-pepper.webp)
-![75](Images/pets/corvat.webp) ![75](Images/pets/guyst.webp)
+![75](Images/pets/corvat.webp) ![75](Images/pets/guyst.webp) ![75](Images/pets/bonezo.webp)
 
 --- end-column ---
 
