@@ -42,7 +42,7 @@ shadow: off
 --- end-column ---
 
 ![100](Images/Species/succubun.png)
-![100](Images/Subtypes/pride.png)
+![100](Images/Subtypes/sloth.png)
 ![100](Images/Traits/spirit-motes.png)
 ![100](Images/Traits/fangs.png)
 ![100](Images/Traits/hellfire.png)
