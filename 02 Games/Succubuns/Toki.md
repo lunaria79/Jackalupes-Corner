@@ -8,7 +8,7 @@ shadow: off
 ```
 
  ![75](Images/Titles/she-her.png) ![75](Images/Titles/plush-lover.png) ![75](Images/Titles/sleepyhead.webp) ![75](Images/Titles/pillow-princess.webp) ![75](Images/Titles/dreamer.webp)
-![100](Images/food/hanami-dango.png) ![100](Images/food/moonshine.webp)
+![100](Images/food/moonshine.webp)
 ![100](Images/pets/guyst.png) ![100](Images/pets/guyst.png) ![100](Images/pets/guyst.png)
 
 --- end-column ---
