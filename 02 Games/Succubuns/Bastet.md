@@ -35,7 +35,7 @@ shadow: off
 ### Notes
 - very social awkward, and gets taken advantage of easily
 - absolutely a wreck around women she has crushes on
-- she trips on her ears all the timea
+- she trips on her ears all the time
 
 --- end-column ---
 
