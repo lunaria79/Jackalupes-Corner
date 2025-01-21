@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.2.2
+@version        1.2.3
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -748,7 +748,7 @@
   }
 }
 /* === World Pages === */
-@-moz-document url-prefix("https://toyhou.se/~world") {
+@-moz-document domain("toyhou.se") {
   /* === World Pages === */
   /* Recent Characters */
   .profile-name-section a {

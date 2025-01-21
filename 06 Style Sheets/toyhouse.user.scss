@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.2.2
+@version        1.2.3
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -644,7 +644,7 @@ a.characters-tags-all {
 }
 
 /* === User Pages === */
-@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
+@-moz-document domain("toyhou.se") {
 	/* === User Pages === */
 	.link-text {
 		/* Link Message Boxes */
@@ -689,8 +689,166 @@ a.characters-tags-all {
 	}
 }
 
+/* === Unstaeble Pages === */
+@-moz-document domain("toyhou.se") {
+	/* === Unstaeble Pages === */
+	.character-profile:has(.profile-name-info a[href*="spUnstaeble"]) {
+		[class*="title"] h2 {
+				font-weight: 600;
+				color: var(--cPurple);
+		}
+		
+	/* Character Name */
+	.profile-name-section h1 {
+		margin-bottom: 15px;
+	}
+	
+	/* Creator Name */
+	.display-user {
+		border-radius: 5px;
+		margin: 5px 0; padding: 5px 10px;
+		&:hover { background: var(--cOrange) !important; }
+
+		a {
+			color: var(--cMantle);
+			text-decoration: none;
+			line-height: 5px;
+		}
+
+		&:has(a[href*="spUnstaeble"]) { background: var(--cBlue); }
+		&:has(a[href*="pennumbra"]) { background: var(--cYellow); }
+		&:has(a[href*="RiverNyx9"]) { background: var(--cRed); }
+	}
+	
+	/* Character Tags */
+	.profile-info-section  {
+		.card { border: none; }
+		
+		.profile-tags-content {
+			border: none;
+		}
+
+		div.card-block:not([style*="background"]) {
+			background: var(--cMantle) !important;
+
+			.tooltipster.datetime {
+				cursor: pointer;
+				color: var(--cGreen) !important; text-decoration: none;
+			}
+
+			a {
+				font-weight: 700;
+				border-radius: 2px;
+				text-decoration: none;
+				&[href*="favorites"] { 
+					color: var(--cPink); 
+					&:hover { color: var(--cOrange); }
+				}
+			}
+
+			&:has(a[href*="spUnstaeble"]) { background: var(--cBlue); }
+			&:has(a[href*="pennumbra"]) { background: var(--cYellow); }
+			&:has(a[href*="RiverNyx9"]) { background: var(--cRed); }
+			&[href*="favorites"] { color: red; }
+
+			.badge {
+				color: var(--cText);
+				background: var(--cBase);
+				&:hover { color: var(--cMantle); background: var(--cOrange); }
+			}
+
+			p, .text-muted { color: var(--cText) !important; }
+		}
+	}
+
+	/* Character Profiles */
+	.profile-content-section div.card:not([style*="background"]) {
+		/* Fairy Fangs */
+		background: var(--cMantle) !important;
+
+		a { 
+			color: var(--cPink); 
+			text-decoration: none;
+			&:hover { color: var(--cOrange); }
+			&.btn.active, &.btn:hover { background-color: var(--cBase); !important; }
+		}
+
+		p, .text-muted { color: var(--cText) !important; }
+	}
+	
+	div.container.px-0.pt-md-4 {
+		.p-2 {
+			/* Succubuns */
+			background: var(--cMantle);
+		
+			a.btn-secondary.nav-link {
+				/* Tabs */
+				color: var(--cText);
+				background: var(--cBase);
+				border-radius: 5px !important;
+				&.active, &:hover {
+					color: var(--cPink);
+					background: var(--cSurface);
+				}
+			}
+			
+			.bg-faded { 
+				/* Titles */
+				background: var(--cBase); 
+				border-radius: 5px !important;
+				margin-bottom: 10px;
+				.justify-content-between { padding: 0 15px; }
+			}
+			
+			.row.px-1 {
+				/* Stats */
+				color: var(--cBlue);
+				span.pull-right { color: var(--cGreen); }
+				hr.my-2 { border-color: transparent !important; }
+			}
+			
+			.row.no-gutters.mt-3 {
+				/* Subheadings */
+				div:has(.fa-martini-glass) { color: var(--cPink); }
+				div:has(.fa-plus-circle) { color: var(--cGreen); }
+				div:has(.fa-minus-circle) { color: var(--cRed); }
+			}
+				
+			.px-4.pt-2.pb-2 div { color: var(--cPink); }
+			
+			.col-12.mb-3 {
+				a {
+					font-weight: 800; 
+					color: var(--cPurple);
+					&:hover { color: var(--cOrange); }
+				}
+				
+				span.pull-right { color: var(--cGreen); }
+				
+			}
+		
+		}
+		
+		p.small.text-right a { color: var(--cPink); }
+		p.small.text-right span:hover a { color: var(--cMantle); }
+	} 
+	
+	/* Character Links */
+	.card-header-tabs a {
+		&.btn:hover { opacity: .95; }
+	}
+	
+	/* View More */
+	a[href*="gallery"] {
+		color: var(--cMantle);
+		background: var(--cGreen);
+		text-decoration: none; font-weight: 700;
+		&:hover { background: var(--cOrange) !important; }
+	}
+}
+
 /* === World Pages === */
-@-moz-document url-prefix("https://toyhou.se/~world") {
+@-moz-document domain("toyhou.se") {
 /* === World Pages === */
 /* Recent Characters */
 .profile-name-section a {
