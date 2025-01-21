@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           toyhou.se Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        1.2.1
+@version        1.2.2
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
@@ -152,6 +152,7 @@ h1 {
 			&[data-original-title="Admin Notice"] { background: var(--cRed); }
 			&[title="World Inboxes"] { background: var(--cYellow); }
 			&[title="Notifications"] { background: var(--cGreen); }
+			&[title="Character Transfers"] { background: var(--cRed); }
 			&[title="Activity"] { background: var(--cBlue); }
 			&[title="Communications"] { background: var(--cPurple); }
 			&:hover { background: var(--cOrange); }
