@@ -24,7 +24,7 @@
 
 ==/UserStyle== */
 /* === All Pages === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 /* All Pages */
 * {
 	transition: 350ms;
@@ -86,7 +86,7 @@ h1 {
 }
 
 /* === Inputs === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 	/* Inputs */
 	.btn {
 		/* Buttons */
@@ -96,7 +96,7 @@ h1 {
 }
 
 /* === Navigation Bar === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 /* === Navigation Bar === */
 #header { background: var(--cMantle) !important; }
 
@@ -183,7 +183,7 @@ h1 {
 }
 
 /* === Sidebar === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 /* === Sidebar === */
 #sidebar {
 	background: var(--cMantle);
@@ -268,7 +268,7 @@ h1 {
 }
 
 /* === Core Page Features === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 /* === Core Page Features === */
 /* Characters Folder */
 .characters-folder {
@@ -539,7 +539,7 @@ h1 {
 }
 
 /* === Tags Menu === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 /* === Tags Menu === */
 .characters-filterby a.characters-tags-view {
 	/* Show Tags */
@@ -644,7 +644,7 @@ a.characters-tags-all {
 }
 
 /* === User Pages === */
-@-moz-document domain("toyhou.se") {
+@-moz-document url-prefix("https://toyhou.se/Jackalupe"), url-prefix("https://toyhou.se/spUnstaeble"), url-prefix("https://toyhou.se/RiverNyx9"), url-prefix("https://toyhou.se/pennumbra") {
 	/* === User Pages === */
 	.link-text {
 		/* Link Message Boxes */
