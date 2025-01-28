@@ -1,0 +1,643 @@
+/* ==UserStyle==
+@name           toyhou.se Cattpuccin
+@namespace      github.com/openstyles/stylus
+@version        2.0.0
+@description    catboy supremacy!
+@author         Jackalupe
+@updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
+
+@var	color	cRed	"Red Tint"	#f38ba8
+@var	color	cOrange	"Orange Tint"	#fab387
+@var	color	cYellow	"Yellow Tint"	#f9e2af
+@var	color	cGreen	"Green Tint"	#a6e3a1
+@var	color	cBlue	"Blue Tint"	#74c7ec
+@var	color	cIndigo	"Indigo Tint"	#89b4fa
+@var	color	cPurple	"Purple Tint"	#cba6f7
+@var	color	cPink	"Pink Tint"	#f5c2e7
+
+@var color cText "Text" #cdd6f4
+
+@var color cSurface "Surface" #212131
+@var color cBase "Base" #1e1e2e
+@var color cMantle "Mantle" #181825
+@var color cCrust "Crust" #11111b
+
+==/UserStyle== */
+@-moz-document domain("toyhou.se") {
+	body:has(.side-nav .display-user a[href*="Jackalupe"]),
+  body:has(.side-nav .display-user a[href*="spUnstaeble"]),
+  body:has(.side-nav .display-user a[href*="RiverNyx9"]),
+  body:has(.side-nav .display-user a[href*="pennumbra"]) {
+    background: var(--cCrust);
+		
+		/* === Header === */
+    #header { 
+      background: var(--cMantle) !important; 
+      
+      &.navbar {
+        /* Logo */
+       &-inverse {
+          .navbar-brand {
+            font-weight: 700;
+            color: var(--cPurple) !important;
+            &:hover { color: var(--cBlue) !important; }
+          }
+  
+          .navbar-nav {
+            .nav-link {
+              /* Dropdown Title */
+              color: var(--cText) !important;
+              &:hover { color: var(--cPink) !important; }
+            }
+          }
+        }
+				
+				/* Links Dropdown Menu */
+        .dropdown-menu {
+          color: var(--cText) !important;
+          background: var(--cMantle) !important;
+          border: none;
+  
+          .dropdown-header {
+            /* Dropdown Menu Subheading */
+            color: var(--cBlue) !important;
+          }
+  
+          a {
+            /* Dropdown Menu Link */
+            color: var(--cText) !important;
+            &:hover {
+              color: var(--cPink) !important;
+              background-color: var(--cSurface) !important;
+            }
+          }
+  
+          .dropdown-divider {
+            /* Dropdown Menu Divider */
+            border-width: 2px;
+            border-color: var(--cCrust);
+          }
+        }
+			}
+			
+			.navbar {
+        /* Notification Buttons */
+        &-notifications {
+          a.btn {
+            color: var(--cBase) !important;
+            &[data-original-title="Admin Notice"] { background: var(--cRed); }
+            &[title="World Inboxes"] { background: var(--cYellow); }
+            &[title="Notifications"] { background: var(--cGreen); }
+            &[title="Character Transfers"] { background: var(--cRed); }
+            &[title="Activity"] { background: var(--cBlue); }
+            &[title="Communications"] { background: var(--cPurple); }
+            &:hover { background: var(--cOrange); }
+          }
+        }
+  
+        /* Notification Buttons - Dropdown Version */
+        .nav-item.dropdown {
+          a.btn {
+            color: var(--cBase) !important;
+            cursor: pointer;
+            &[href*="inbox/news"] { background: var(--cRed) !important; }
+            &.dropdown-toggle { background: var(--cIndigo) !important; }
+            &:hover { background: var(--cOrange) !important; }
+          }
+  
+          #dropdownNotifications {
+            border-radius: 10px;
+            span.dropdown-item-count {
+              border-radius: 3px;
+              font-weight: 800;
+              color: var(--cBase) !important;
+              background: var(--cGreen) !important;
+            }
+          }
+        }
+      }
+    }
+		
+    /* === Sidebar == */
+    #sidebar {
+      background: var(--cMantle);
+      
+      .nav-mobile-menu {
+        border: none;
+        background: var(--cBase);
+      }
+  
+      .side-nav {
+        border: none !important;
+        li {
+          &.header {
+            /* Sidebar Subheaders */
+            font-weight: 800;
+            color: var(--cMantle) !important;
+            background: var(--cPurple) !important;
+            a { font-weight: 800; color: var(--cMantle) !important; }
+          }
+  
+          &.subheader {
+            /* Subheader Coloring */
+            color: var(--cMantle) !important; 
+            background-color: var(--cPink) !important;
+            a { 
+              font-weight: 700 !important;
+              color: var(--cMantle) !important;
+            }
+          }
+  
+          &.subnavigation-header {
+            a.subnavigation-header-link {
+              /* Dropdown Header */
+              font-weight: 700 !important;
+              color: var(--cMantle) !important; 
+              background-color: var(--cBlue) !important;
+            }
+            span { color: var(--cMantle) !important; }
+          }
+  
+          a {
+            /* Sidebar Links */
+            font-weight: 600;
+            color: var(--cText);
+            &:hover { color: var(--cPink); background-color: var(--cSurface); }
+            span {
+              vertical-align: middle;
+              font-size: 1.4em;
+              font-weight: 700;
+              color: var(--cPurple);
+            }
+          }
+  
+          &.active:not(.subnavigation-header) a {
+            /*Active Sidebar Link */
+            font-weight: 800;
+            color: var(--cPink) !important;
+            background-color: var(--cSurface);
+          }
+  
+          /* Special Link Colors */
+          a[href*="block"],
+          a[href*="delete"] { color: var(--cRed) !important }
+  
+          a[href*="images/sort"],
+          a[href*="images/manage"],
+          a[href*="literatures/sort"],
+          a[href*="tickets/create"] { color: var(--cOrange) !important }
+  
+          a[href*="favorites"] { color: var(--cYellow) !important }
+  
+          a[href*="request-membership"],
+          a[href*="images/upload"],
+          a[href*="literatures/create"] { color: var(--cGreen) !important }
+  
+          &.divider {
+            border-width: 2px;
+            border-color: var(--cCrust);
+          }
+        }
+      }
+    }
+
+		/* === Footer === */
+		#footer {
+			background: var(--cMantle);
+			span { color: var(--cText); }
+			a {
+				text-decoration: none;
+				color: var(--cPink);
+				&:hover { color: var(--cOrange); }
+			}
+		}
+  }
+}
+@-moz-document domain("toyhou.se") {
+	body:has(.side-nav .display-user a[href*="Jackalupe"]),
+	body:has(.side-nav .display-user a[href*="spUnstaeble"]),
+	body:has(.side-nav .display-user a[href*="RiverNyx9"]),
+	body:has(.side-nav .display-user a[href*="pennumbra"]) {
+		/* === Key Ingredients === */
+		* {
+			/* Animation */
+			transition: 350ms;
+			a { text-decoration: none; }
+			&:focus { box-shadow: unset !important; }
+		}
+
+		div#content hr {
+			/* Content Divders */
+			border: 1px ridge var(--cPink);
+		}
+
+		.btn {
+			/* Buttons */
+			border: none;
+			font-weight: 600;
+		}
+
+		a[href*="world"] img,
+		img.display-user-avatar {
+			/* Avatars */
+			margin-right: 1em;
+			border-radius: 3px;
+		}
+	}
+}
+@-moz-document domain("toyhou.se") {
+	body:has(.side-nav .display-user a[href*="Jackalupe"]),
+	body:has(.side-nav .display-user a[href*="spUnstaeble"]),
+	body:has(.side-nav .display-user a[href*="RiverNyx9"]),
+	body:has(.side-nav .display-user a[href*="pennumbra"]) {
+		/* Characters Folder */
+		.characters-folder {
+			border: none;
+			color: var(--cText);
+			background: transparent !important;
+			.img-thumbnail {
+				border: none; border-radius: 10px;
+				background: transparent !important;
+			}
+			&:not(.characters-folder-with-avatar):hover { background: var(--cMantle) !important; }
+			&:hover { color: var(--cPink); }
+		}
+
+		/* Characters Folder - No Image */
+		.characters-gallery-folder-description-header a {
+			padding: 5px 10px;
+			border-radius: 10px;
+			color: var(--cPink);
+			&:hover { background: var(--cMantle); }
+		}
+		
+		/* Character Information */
+		.character-thumb {
+			.thumb-image a {
+				/* Character Image */
+				border: none;
+				background: transparent;
+				&:hover { box-shadow: unset; }
+				img { border-radius: 10px; }
+			}
+
+			/* Charater Name */
+			.character-name-badge {
+				/* Charater Name */
+				border-radius: 5px;
+				margin-bottom: 5px;
+				color: var(--cText) !important;
+				background: transparent;
+			}
+			&:hover .character-name-badge { color: var(--cPink) !important; background: var(--cMantle); }
+
+			/* Artist Name */
+			.user-name-badge {
+				border-radius: 5px;
+				margin-bottom: 5px;
+				color: var(--cText);
+				background: var(--cMantle);
+				&:hover { background: var(--cOrange); }
+
+				&[href*="spUnstaeble"] { color: var(--cCrust); background: var(--cBlue); }
+				&[href*="pennumbra"] { color: var(--cCrust); background: var(--cYellow); }
+				&[href*="RiverNyx9"] { color: var(--cCrust); background: var(--cRed); }
+			}
+
+			/* Character Stats */
+			.thumb-character-stat {
+				font-weight: 700;
+				&[title="Favorites"] { color: var(--cYellow); }
+				&[title="Images"] { color: var(--cBlue); }
+				&[title="Comments"] { color: var(--cRed); }
+				&[title="Links"] { color: var(--cOrange); }
+				&[title="Literatures"] { color: var(--cGreen); }
+				&[title="Tabs"] { color: var(--cPurple); }
+				&[title="Edit"] { color: var(--cOrange); }
+			}
+
+			/* Gallery Image */
+			.gallery-item {
+				.img-thumbnail {
+					border: none;
+					border-radius: 10px;
+					background: transparent;
+					&:hover { box-shadow: unset !important; }
+					img { border-radius: 10px; }
+				}
+
+				.characters-folder-name,
+				.group-name {
+					/* Gallery Name */
+					padding: 5px;
+					margin-bottom: 5px;
+					border-radius: 5px;
+					color: var(--cText) !important;
+					background: transparent;
+				}
+				&:hover .characters-folder-name,
+				&:hover .group-name { color: var(--cPink) !important; background: var(--cMantle); }
+			}			
+		}
+		
+		/* Change View Buttons */
+		.characters-folders-top a {
+			color: var(--cMantle) !important;
+			padding: 5px 10px;
+			border-radius: 3px;
+			&:has(.fi-arrow-up), &:has(.fi-arrow-left) { background: var(--cPink) !important; }
+			&:has(.fi-folder) { background: var(--cIndigo) !important; }
+
+			&:hover { 
+				color: var(--cMantle);
+				background-color: var(--cOrange) !important; 
+			}
+		}
+
+		/* Pagination */
+		.pagination-wrapper {
+			.page-item {
+				span { 
+					border: none; 
+					font-weight: 800;
+					color: var(--cText) !important;
+				}
+				&.disabled span { background: var(--cBase); }
+				&.active span { color: var(--cBase) !important; background: var(--cPurple); }
+
+				a {
+					border: none;
+					font-weight: 800;
+					color: var(--cText); 
+					background: var(--cBase);
+					&:hover { color: var(--cBase) !important; background: var(--cPink); }
+				}
+			}
+		}
+
+		/* Order By Dropdown */
+		.characters-filterby:has(.characters-order-text) {
+			span { color: var(--cText);}
+			button#dropdownMenuButton {
+				cursor: pointer;
+				padding: 5px 10px;
+				border-radius: 3px;
+				color: var(--cMantle);
+				background-color: var(--cIndigo) !important; 
+				&:hover {
+					color: var(--cMantle) !important;
+					background-color: var(--cOrange) !important; 
+				}
+			}
+
+			.dropdown-menu {
+				border: none;
+				border-radius: 5px;
+				background: var(--cBase) !important;
+				a.dropdown-item {
+					color: var(--cText) !important;
+					background: transparent !important;
+					&:hover { background-color: var(--cSurface) !important; }
+				}
+				a.bg-faded {
+					font-weight: 700;
+					color: var(--cPink) !important;
+					background-color: var(--cSurface) !important;
+				}
+			}
+		}
+		
+		/* Breadcrumbs */
+		.breadcrumb {
+			border: none; border-radius: 3px !important;
+			color: var(--cText) !important;
+			background: var(--cMantle) !important;
+			a { color: var(--cPink) !important; }
+			.breadcrumb-item::before { color: var(--cText) !important; font-weight: 700; }
+		}
+
+		/* Badge Alerts */
+		.alert {
+			font-weight: 700;
+			color: var(--cText);
+			background: var(--cMantle);
+			border-width: 1px !important; border-style: solid !important;
+			&-danger {
+				border-color: var(--cRed);
+				i, span { color: var(--cRed); }
+				&.border-0 {
+					border: var(--cRed) !important;
+				}
+			}
+
+			&-success {
+				border-color: var(--cGreen);
+				i, span { color: var(--cGreen); }
+			}
+		}
+				
+		/* === Tags Menu === */
+		.characters-filterby a.characters-tags-view {
+			/* Show Tags */
+			color: var(--cBase) !important;
+			background: var(--cGreen) !important;
+			padding: 5px 10px;
+			border-radius: 3px;
+			&:hover { background: var(--cOrange) !important; }
+		}
+
+		.characters-filterby a.characters-tags-view.btn-primary {
+			/* Hide Tags */
+			color: var(--cBase) !important;
+			background: var(--cRed) !important;
+			padding: 5px 10px;
+			&:hover { background: var(--cOrange) !important; }
+		}
+
+		.characters-tags-clear {
+			/* Chear Tags */
+			background: var(--cRed) !important;
+			&:hover { background: var(--cOrange) !important; }
+		}
+
+		.characters-tags-header { 
+			div.input-group-addon {
+				border: none;
+				color: var(--cText);
+				background: var(--cMantle);
+			}
+
+			input.characters-tag-search {
+				border: none;
+				color: var(--cText);
+				background: var(--cBase);
+			}
+
+			::placeholder { color: var(--cText); }	
+		}
+
+		a.characters-tags-all {
+			/* View All Tags */
+			color: var(--cBase) !important;
+			background: var(--cGreen) !important;
+			padding: 5px 10px;
+			&:hover { background: var(--cOrange) !important; }
+		}
+
+		.characters-tag {
+			/* Character Tag */
+			cursor: pointer;
+
+			span, a {
+				/* Blank Tag */
+				color: var(--cText) !important; 
+				background-color: var(--cMantle) !important; 
+			}
+
+			i {
+				/* Icon Colors */
+				opacity: 1 !important;
+				&.fa-plus { color: var(--cGreen) !important; }
+				&.fa-minus { color: var(--cRed) !important}
+			}
+
+			.add:hover {
+				/* Add Tag */
+				i { color: var(--cBase) !important; }
+				background-color: var(--cGreen) !important;
+			}
+			&:has(a.add:hover) span {
+				color: var(--cMantle) !important;
+				background-color: var(--cGreen) !important;
+			}
+
+			.ex:hover {
+				/* Remove Tag */
+				i { color: var(--cMantle) !important; }
+				background-color: var(--cRed) !important;
+			}
+			&:has(a.ex:hover) span {
+					color: var(--cMantle) !important;
+					background-color: var(--cRed) !important;
+			}
+
+			&:has(.add.btn-primary) {
+				span.btn-primary {
+					/* Selected Tag */
+					color: var(--cBase) !important;
+					background-color: var(--cGreen) !important;
+				}	
+			}
+
+			&:has(.ex.btn-primary) {
+				span.btn-primary {
+					/* Hidden Tag */
+					color: var(--cBase) !important;
+					background-color: var(--cRed) !important;
+				}
+			}	
+		}
+		
+		/* === Comments === */
+		.forum-post {
+			[class*="name-badge"] {
+					color: var(--cCrust) !important;
+					background-color: var(--cGreen);
+					border-radius: 3px;
+					&:hover { background-color: var(--cOrange) !important; }
+			}
+
+			.forum-post-user-link {
+				text-decoration: none;
+				color: var(--cBlue) !important;
+				&:hover { color: var(--cOrange) !important; }
+			}
+
+			.forum-post-body {		
+				.forum-post-content {
+					border: none;
+					background: transparent;
+				}
+
+				.card-block {
+					color: var(--cText);
+					background: var(--cMantle);
+
+					a {
+						text-decoration: none;
+						color: var(--cPink) !important;
+						&:hover { color: var(--cOrange) !important; }
+					}
+
+					.tooltipster.datetime {
+						cursor: pointer;
+						color: var(--cGreen) !important; text-decoration: none;
+					}
+
+					&.forum-post-footer {
+						padding: 15px;
+						hr { border: 1px ridge var(--cCrust) !important; margin-bottom: 10px;}
+					}
+
+					.forum-post-edited {
+						border-radius: 3px;
+						padding: 2px 10px;
+						color: var(--cCrust) !important;
+						background: var(--cOrange) !important;
+					}
+				}
+
+				.forum-post-actions {
+					margin-top: 10px;
+					a.btn {
+						border-radius: 3px;
+						padding: 5px 10px; 
+						color: var(--cCrust) !important;
+						&:hover { background: var(--cOrange) !important; }
+
+						&.comment-reply-btn { font-weight: 300; background: var(--cBlue); }
+						&[href*="edit"] { background: var(--cOrange); }
+						&[href*="tickets/create"],
+						&[href*="delete"] { background: var(--cRed); }
+					}
+				}
+			}
+		}
+
+		/* Comment Replies */
+		.comment-replies {
+			margin-top: 15px; 
+			border: none !important;
+
+			.card-block { 
+				background: var(--cBase) !important; 
+			}
+
+			.forum-post-content {
+				margin: 15px 0;
+			}
+
+			.comment.forum-post {
+				border-radius: 5px;
+				padding: 25px;
+				background: var(--cMantle);
+				.forum-post-footer hr { border: 1px solid var(--cMantle) !important; }
+			}
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
+	
+	
+	

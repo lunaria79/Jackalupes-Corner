@@ -1,0 +1,1203 @@
+/* ==UserStyle==
+@name           toyhou.se Cattpuccin
+@namespace      github.com/openstyles/stylus
+@version        2.0.0
+@description    catboy supremacy!
+@author         Jackalupe
+@updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/toyhouse.user.css
+
+@var	color	cRed	"Red Tint"	#f38ba8
+@var	color	cOrange	"Orange Tint"	#fab387
+@var	color	cYellow	"Yellow Tint"	#f9e2af
+@var	color	cGreen	"Green Tint"	#a6e3a1
+@var	color	cBlue	"Blue Tint"	#74c7ec
+@var	color	cIndigo	"Indigo Tint"	#89b4fa
+@var	color	cPurple	"Purple Tint"	#cba6f7
+@var	color	cPink	"Pink Tint"	#f5c2e7
+
+@var color cText "Text" #cdd6f4
+
+@var color cSurface "Surface" #212131
+@var color cBase "Base" #1e1e2e
+@var color cMantle "Mantle" #181825
+@var color cCrust "Crust" #11111b
+
+==/UserStyle== */
+@-moz-document domain("toyhou.se") {
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    background: var(--cCrust);
+    /* === Header === */
+    /* === Sidebar == */
+    /* === Footer === */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header {
+    background: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar {
+    /* Logo */
+    /* Links Dropdown Menu */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar-inverse .navbar-brand,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar-inverse .navbar-brand,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar-inverse .navbar-brand,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar-inverse .navbar-brand {
+    font-weight: 700;
+    color: var(--cPurple) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar-inverse .navbar-brand:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar-inverse .navbar-brand:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar-inverse .navbar-brand:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar-inverse .navbar-brand:hover {
+    color: var(--cBlue) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar-inverse .navbar-nav .nav-link,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar-inverse .navbar-nav .nav-link,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar-inverse .navbar-nav .nav-link,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar-inverse .navbar-nav .nav-link {
+    /* Dropdown Title */
+    color: var(--cText) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar-inverse .navbar-nav .nav-link:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar-inverse .navbar-nav .nav-link:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar-inverse .navbar-nav .nav-link:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar-inverse .navbar-nav .nav-link:hover {
+    color: var(--cPink) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar .dropdown-menu,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar .dropdown-menu,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar .dropdown-menu,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar .dropdown-menu {
+    color: var(--cText) !important;
+    background: var(--cMantle) !important;
+    border: none;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar .dropdown-menu .dropdown-header,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar .dropdown-menu .dropdown-header,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar .dropdown-menu .dropdown-header,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar .dropdown-menu .dropdown-header {
+    /* Dropdown Menu Subheading */
+    color: var(--cBlue) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar .dropdown-menu a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar .dropdown-menu a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar .dropdown-menu a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar .dropdown-menu a {
+    /* Dropdown Menu Link */
+    color: var(--cText) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar .dropdown-menu a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar .dropdown-menu a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar .dropdown-menu a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar .dropdown-menu a:hover {
+    color: var(--cPink) !important;
+    background-color: var(--cSurface) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar .dropdown-menu .dropdown-divider,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar .dropdown-menu .dropdown-divider,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar .dropdown-menu .dropdown-divider,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar .dropdown-menu .dropdown-divider {
+    /* Dropdown Menu Divider */
+    border-width: 2px;
+    border-color: var(--cCrust);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar {
+    /* Notification Buttons */
+    /* Notification Buttons - Dropdown Version */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn {
+    color: var(--cBase) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn[data-original-title="Admin Notice"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn[data-original-title="Admin Notice"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn[data-original-title="Admin Notice"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn[data-original-title="Admin Notice"] {
+    background: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn[title="World Inboxes"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn[title="World Inboxes"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn[title="World Inboxes"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn[title="World Inboxes"] {
+    background: var(--cYellow);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn[title=Notifications],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn[title=Notifications],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn[title=Notifications],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn[title=Notifications] {
+    background: var(--cGreen);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn[title="Character Transfers"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn[title="Character Transfers"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn[title="Character Transfers"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn[title="Character Transfers"] {
+    background: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn[title=Activity],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn[title=Activity],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn[title=Activity],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn[title=Activity] {
+    background: var(--cBlue);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn[title=Communications],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn[title=Communications],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn[title=Communications],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn[title=Communications] {
+    background: var(--cPurple);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar-notifications a.btn:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar-notifications a.btn:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn:hover {
+    background: var(--cOrange);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown a.btn,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown a.btn,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar .nav-item.dropdown a.btn,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar .nav-item.dropdown a.btn {
+    color: var(--cBase) !important;
+    cursor: pointer;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown a.btn[href*="inbox/news"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown a.btn[href*="inbox/news"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar .nav-item.dropdown a.btn[href*="inbox/news"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar .nav-item.dropdown a.btn[href*="inbox/news"] {
+    background: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown a.btn.dropdown-toggle,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown a.btn.dropdown-toggle,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar .nav-item.dropdown a.btn.dropdown-toggle,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar .nav-item.dropdown a.btn.dropdown-toggle {
+    background: var(--cIndigo) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown a.btn:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown a.btn:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar .nav-item.dropdown a.btn:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar .nav-item.dropdown a.btn:hover {
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown #dropdownNotifications,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown #dropdownNotifications,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar .nav-item.dropdown #dropdownNotifications,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar .nav-item.dropdown #dropdownNotifications {
+    border-radius: 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown #dropdownNotifications span.dropdown-item-count,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown #dropdownNotifications span.dropdown-item-count,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar .nav-item.dropdown #dropdownNotifications span.dropdown-item-count,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar .nav-item.dropdown #dropdownNotifications span.dropdown-item-count {
+    border-radius: 3px;
+    font-weight: 800;
+    color: var(--cBase) !important;
+    background: var(--cGreen) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar {
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .nav-mobile-menu,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .nav-mobile-menu,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .nav-mobile-menu,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .nav-mobile-menu {
+    border: none;
+    background: var(--cBase);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav {
+    border: none !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li {
+    /* Special Link Colors */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.header,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.header,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.header,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.header {
+    /* Sidebar Subheaders */
+    font-weight: 800;
+    color: var(--cMantle) !important;
+    background: var(--cPurple) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.header a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.header a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.header a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.header a {
+    font-weight: 800;
+    color: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.subheader,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.subheader,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.subheader,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.subheader {
+    /* Subheader Coloring */
+    color: var(--cMantle) !important;
+    background-color: var(--cPink) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.subheader a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.subheader a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.subheader a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.subheader a {
+    font-weight: 700 !important;
+    color: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.subnavigation-header a.subnavigation-header-link,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.subnavigation-header a.subnavigation-header-link,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.subnavigation-header a.subnavigation-header-link,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.subnavigation-header a.subnavigation-header-link {
+    /* Dropdown Header */
+    font-weight: 700 !important;
+    color: var(--cMantle) !important;
+    background-color: var(--cBlue) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.subnavigation-header span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.subnavigation-header span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.subnavigation-header span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.subnavigation-header span {
+    color: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a {
+    /* Sidebar Links */
+    font-weight: 600;
+    color: var(--cText);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a:hover {
+    color: var(--cPink);
+    background-color: var(--cSurface);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a span {
+    vertical-align: middle;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: var(--cPurple);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.active:not(.subnavigation-header) a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.active:not(.subnavigation-header) a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.active:not(.subnavigation-header) a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.active:not(.subnavigation-header) a {
+    /*Active Sidebar Link */
+    font-weight: 800;
+    color: var(--cPink) !important;
+    background-color: var(--cSurface);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*=block],
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*=delete],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*=block],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*=delete],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*=block],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*=delete],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*=block],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*=delete] {
+    color: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*="images/sort"],
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*="images/manage"],
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*="literatures/sort"],
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*="tickets/create"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*="images/sort"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*="images/manage"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*="literatures/sort"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*="tickets/create"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*="images/sort"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*="images/manage"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*="literatures/sort"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*="tickets/create"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*="images/sort"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*="images/manage"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*="literatures/sort"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*="tickets/create"] {
+    color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*=favorites],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*=favorites],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*=favorites],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*=favorites] {
+    color: var(--cYellow) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*=request-membership],
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*="images/upload"],
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*="literatures/create"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*=request-membership],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*="images/upload"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li a[href*="literatures/create"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*=request-membership],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*="images/upload"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li a[href*="literatures/create"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*=request-membership],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*="images/upload"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li a[href*="literatures/create"] {
+    color: var(--cGreen) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.divider,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li.divider,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li.divider,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.divider {
+    border-width: 2px;
+    border-color: var(--cCrust);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #footer,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #footer,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #footer,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #footer {
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #footer span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #footer span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #footer span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #footer span {
+    color: var(--cText);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #footer a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #footer a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #footer a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #footer a {
+    text-decoration: none;
+    color: var(--cPink);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #footer a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #footer a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #footer a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #footer a:hover {
+    color: var(--cOrange);
+  }
+}
+@-moz-document domain("toyhou.se") {
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* === Key Ingredients === */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) *,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) *,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) *,
+  body:has(.side-nav .display-user a[href*=pennumbra]) * {
+    /* Animation */
+    transition: 350ms;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) * a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) * a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) * a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) * a {
+    text-decoration: none;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) *:focus,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) *:focus,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) *:focus,
+  body:has(.side-nav .display-user a[href*=pennumbra]) *:focus {
+    box-shadow: unset !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) div#content hr,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) div#content hr,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) div#content hr,
+  body:has(.side-nav .display-user a[href*=pennumbra]) div#content hr {
+    /* Content Divders */
+    border: 1px ridge var(--cPink);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .btn,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .btn,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .btn,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .btn {
+    /* Buttons */
+    border: none;
+    font-weight: 600;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) a[href*=world] img,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) img.display-user-avatar,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) a[href*=world] img,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) img.display-user-avatar,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) a[href*=world] img,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) img.display-user-avatar,
+  body:has(.side-nav .display-user a[href*=pennumbra]) a[href*=world] img,
+  body:has(.side-nav .display-user a[href*=pennumbra]) img.display-user-avatar {
+    /* Avatars */
+    margin-right: 1em;
+    border-radius: 3px;
+  }
+}
+@-moz-document domain("toyhou.se") {
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Characters Folder */
+    /* Characters Folder - No Image */
+    /* Character Information */
+    /* Change View Buttons */
+    /* Pagination */
+    /* Order By Dropdown */
+    /* Breadcrumbs */
+    /* Badge Alerts */
+    /* === Tags Menu === */
+    /* === Comments === */
+    /* Comment Replies */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folder,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folder,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folder,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folder {
+    border: none;
+    color: var(--cText);
+    background: transparent !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folder .img-thumbnail,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folder .img-thumbnail,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folder .img-thumbnail,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folder .img-thumbnail {
+    border: none;
+    border-radius: 10px;
+    background: transparent !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folder:not(.characters-folder-with-avatar):hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folder:not(.characters-folder-with-avatar):hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folder:not(.characters-folder-with-avatar):hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folder:not(.characters-folder-with-avatar):hover {
+    background: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folder:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folder:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folder:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folder:hover {
+    color: var(--cPink);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-gallery-folder-description-header a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-gallery-folder-description-header a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-gallery-folder-description-header a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-gallery-folder-description-header a {
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--cPink);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-gallery-folder-description-header a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-gallery-folder-description-header a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-gallery-folder-description-header a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-gallery-folder-description-header a:hover {
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb {
+    /* Charater Name */
+    /* Artist Name */
+    /* Character Stats */
+    /* Gallery Image */
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-image a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-image a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-image a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-image a {
+    /* Character Image */
+    border: none;
+    background: transparent;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-image a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-image a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-image a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-image a:hover {
+    box-shadow: unset;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-image a img,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-image a img,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-image a img,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-image a img {
+    border-radius: 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .character-name-badge,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .character-name-badge,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .character-name-badge,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .character-name-badge {
+    /* Charater Name */
+    border-radius: 5px;
+    margin-bottom: 5px;
+    color: var(--cText) !important;
+    background: transparent;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb:hover .character-name-badge,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb:hover .character-name-badge,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb:hover .character-name-badge,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb:hover .character-name-badge {
+    color: var(--cPink) !important;
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .user-name-badge,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .user-name-badge,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .user-name-badge,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .user-name-badge {
+    border-radius: 5px;
+    margin-bottom: 5px;
+    color: var(--cText);
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .user-name-badge:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .user-name-badge:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .user-name-badge:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .user-name-badge:hover {
+    background: var(--cOrange);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .user-name-badge[href*=spUnstaeble],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .user-name-badge[href*=spUnstaeble],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .user-name-badge[href*=spUnstaeble],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .user-name-badge[href*=spUnstaeble] {
+    color: var(--cCrust);
+    background: var(--cBlue);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .user-name-badge[href*=pennumbra],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .user-name-badge[href*=pennumbra],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .user-name-badge[href*=pennumbra],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .user-name-badge[href*=pennumbra] {
+    color: var(--cCrust);
+    background: var(--cYellow);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .user-name-badge[href*=RiverNyx9],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .user-name-badge[href*=RiverNyx9],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .user-name-badge[href*=RiverNyx9],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .user-name-badge[href*=RiverNyx9] {
+    color: var(--cCrust);
+    background: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat {
+    font-weight: 700;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Favorites],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Favorites],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Favorites],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Favorites] {
+    color: var(--cYellow);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Images],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Images],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Images],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Images] {
+    color: var(--cBlue);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Comments],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Comments],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Comments],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Comments] {
+    color: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Links],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Links],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Links],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Links] {
+    color: var(--cOrange);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Literatures],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Literatures],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Literatures],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Literatures] {
+    color: var(--cGreen);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Tabs],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Tabs],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Tabs],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Tabs] {
+    color: var(--cPurple);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat[title=Edit],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .thumb-character-stat[title=Edit],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .thumb-character-stat[title=Edit],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Edit] {
+    color: var(--cOrange);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item .img-thumbnail,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item .img-thumbnail,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item .img-thumbnail,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item .img-thumbnail {
+    border: none;
+    border-radius: 10px;
+    background: transparent;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item .img-thumbnail:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item .img-thumbnail:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item .img-thumbnail:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item .img-thumbnail:hover {
+    box-shadow: unset !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item .img-thumbnail img,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item .img-thumbnail img,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item .img-thumbnail img,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item .img-thumbnail img {
+    border-radius: 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item .group-name,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item .group-name,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item .group-name,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item .group-name {
+    /* Gallery Name */
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    color: var(--cText) !important;
+    background: transparent;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item:hover .characters-folder-name, body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item:hover .group-name,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item:hover .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item:hover .group-name,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item:hover .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb .gallery-item:hover .group-name,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item:hover .characters-folder-name,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .gallery-item:hover .group-name {
+    color: var(--cPink) !important;
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folders-top a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folders-top a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folders-top a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folders-top a {
+    color: var(--cMantle) !important;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folders-top a:has(.fi-arrow-up), body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folders-top a:has(.fi-arrow-left),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folders-top a:has(.fi-arrow-up),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folders-top a:has(.fi-arrow-left),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folders-top a:has(.fi-arrow-up),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folders-top a:has(.fi-arrow-left),
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folders-top a:has(.fi-arrow-up),
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folders-top a:has(.fi-arrow-left) {
+    background: var(--cPink) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folders-top a:has(.fi-folder),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folders-top a:has(.fi-folder),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folders-top a:has(.fi-folder),
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folders-top a:has(.fi-folder) {
+    background: var(--cIndigo) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folders-top a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folders-top a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-folders-top a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folders-top a:hover {
+    color: var(--cMantle);
+    background-color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .pagination-wrapper .page-item span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .pagination-wrapper .page-item span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .pagination-wrapper .page-item span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .pagination-wrapper .page-item span {
+    border: none;
+    font-weight: 800;
+    color: var(--cText) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .pagination-wrapper .page-item.disabled span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .pagination-wrapper .page-item.disabled span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .pagination-wrapper .page-item.disabled span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .pagination-wrapper .page-item.disabled span {
+    background: var(--cBase);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .pagination-wrapper .page-item.active span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .pagination-wrapper .page-item.active span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .pagination-wrapper .page-item.active span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .pagination-wrapper .page-item.active span {
+    color: var(--cBase) !important;
+    background: var(--cPurple);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .pagination-wrapper .page-item a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .pagination-wrapper .page-item a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .pagination-wrapper .page-item a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .pagination-wrapper .page-item a {
+    border: none;
+    font-weight: 800;
+    color: var(--cText);
+    background: var(--cBase);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .pagination-wrapper .page-item a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .pagination-wrapper .page-item a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .pagination-wrapper .page-item a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .pagination-wrapper .page-item a:hover {
+    color: var(--cBase) !important;
+    background: var(--cPink);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) span {
+    color: var(--cText);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton {
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: var(--cMantle);
+    background-color: var(--cIndigo) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) button#dropdownMenuButton:hover {
+    color: var(--cMantle) !important;
+    background-color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) .dropdown-menu,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) .dropdown-menu,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) .dropdown-menu,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) .dropdown-menu {
+    border: none;
+    border-radius: 5px;
+    background: var(--cBase) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item {
+    color: var(--cText) !important;
+    background: transparent !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.dropdown-item:hover {
+    background-color: var(--cSurface) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.bg-faded,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.bg-faded,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.bg-faded,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby:has(.characters-order-text) .dropdown-menu a.bg-faded {
+    font-weight: 700;
+    color: var(--cPink) !important;
+    background-color: var(--cSurface) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .breadcrumb,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .breadcrumb,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .breadcrumb,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .breadcrumb {
+    border: none;
+    border-radius: 3px !important;
+    color: var(--cText) !important;
+    background: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .breadcrumb a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .breadcrumb a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .breadcrumb a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .breadcrumb a {
+    color: var(--cPink) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .breadcrumb .breadcrumb-item::before,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .breadcrumb .breadcrumb-item::before,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .breadcrumb .breadcrumb-item::before,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .breadcrumb .breadcrumb-item::before {
+    color: var(--cText) !important;
+    font-weight: 700;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .alert,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert {
+    font-weight: 700;
+    color: var(--cText);
+    background: var(--cMantle);
+    border-width: 1px !important;
+    border-style: solid !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-danger,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-danger,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-danger,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-danger {
+    border-color: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-danger i, body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-danger span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-danger i,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-danger span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-danger i,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-danger span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-danger i,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-danger span {
+    color: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-danger.border-0,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-danger.border-0,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-danger.border-0,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-danger.border-0 {
+    border: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-success,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-success,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-success,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-success {
+    border-color: var(--cGreen);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-success i, body:has(.side-nav .display-user a[href*=Jackalupe]) .alert-success span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-success i,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .alert-success span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-success i,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .alert-success span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-success i,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .alert-success span {
+    color: var(--cGreen);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby a.characters-tags-view,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby a.characters-tags-view,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby a.characters-tags-view,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby a.characters-tags-view {
+    /* Show Tags */
+    color: var(--cBase) !important;
+    background: var(--cGreen) !important;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby a.characters-tags-view:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby a.characters-tags-view:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby a.characters-tags-view:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby a.characters-tags-view:hover {
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby a.characters-tags-view.btn-primary,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby a.characters-tags-view.btn-primary,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby a.characters-tags-view.btn-primary,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby a.characters-tags-view.btn-primary {
+    /* Hide Tags */
+    color: var(--cBase) !important;
+    background: var(--cRed) !important;
+    padding: 5px 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby a.characters-tags-view.btn-primary:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-filterby a.characters-tags-view.btn-primary:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-filterby a.characters-tags-view.btn-primary:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-filterby a.characters-tags-view.btn-primary:hover {
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tags-clear,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tags-clear,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tags-clear,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tags-clear {
+    /* Chear Tags */
+    background: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tags-clear:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tags-clear:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tags-clear:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tags-clear:hover {
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tags-header div.input-group-addon,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tags-header div.input-group-addon,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tags-header div.input-group-addon,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tags-header div.input-group-addon {
+    border: none;
+    color: var(--cText);
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tags-header input.characters-tag-search,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tags-header input.characters-tag-search,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tags-header input.characters-tag-search,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tags-header input.characters-tag-search {
+    border: none;
+    color: var(--cText);
+    background: var(--cBase);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tags-header ::-moz-placeholder, body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tags-header ::-moz-placeholder, body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tags-header ::-moz-placeholder, body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tags-header ::-moz-placeholder {
+    color: var(--cText);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tags-header ::placeholder,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tags-header ::placeholder,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tags-header ::placeholder,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tags-header ::placeholder {
+    color: var(--cText);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) a.characters-tags-all,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) a.characters-tags-all,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) a.characters-tags-all,
+  body:has(.side-nav .display-user a[href*=pennumbra]) a.characters-tags-all {
+    /* View All Tags */
+    color: var(--cBase) !important;
+    background: var(--cGreen) !important;
+    padding: 5px 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) a.characters-tags-all:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) a.characters-tags-all:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) a.characters-tags-all:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) a.characters-tags-all:hover {
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag {
+    /* Character Tag */
+    cursor: pointer;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag span, body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag a {
+    /* Blank Tag */
+    color: var(--cText) !important;
+    background-color: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag i,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag i,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag i,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag i {
+    /* Icon Colors */
+    opacity: 1 !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag i.fa-plus,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag i.fa-plus,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag i.fa-plus,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag i.fa-plus {
+    color: var(--cGreen) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag i.fa-minus,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag i.fa-minus,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag i.fa-minus,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag i.fa-minus {
+    color: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .add:hover {
+    /* Add Tag */
+    background-color: var(--cGreen) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .add:hover i,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag .add:hover i,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .add:hover i,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .add:hover i {
+    color: var(--cBase) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag:has(a.add:hover) span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag:has(a.add:hover) span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag:has(a.add:hover) span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag:has(a.add:hover) span {
+    color: var(--cMantle) !important;
+    background-color: var(--cGreen) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .ex:hover {
+    /* Remove Tag */
+    background-color: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .ex:hover i,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag .ex:hover i,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .ex:hover i,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .ex:hover i {
+    color: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag:has(a.ex:hover) span,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag:has(a.ex:hover) span,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag:has(a.ex:hover) span,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag:has(a.ex:hover) span {
+    color: var(--cMantle) !important;
+    background-color: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag:has(.add.btn-primary) span.btn-primary,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag:has(.add.btn-primary) span.btn-primary,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag:has(.add.btn-primary) span.btn-primary,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag:has(.add.btn-primary) span.btn-primary {
+    /* Selected Tag */
+    color: var(--cBase) !important;
+    background-color: var(--cGreen) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag:has(.ex.btn-primary) span.btn-primary,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag:has(.ex.btn-primary) span.btn-primary,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag:has(.ex.btn-primary) span.btn-primary,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag:has(.ex.btn-primary) span.btn-primary {
+    /* Hidden Tag */
+    color: var(--cBase) !important;
+    background-color: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post [class*=name-badge],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post [class*=name-badge],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post [class*=name-badge],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post [class*=name-badge] {
+    color: var(--cCrust) !important;
+    background-color: var(--cGreen);
+    border-radius: 3px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post [class*=name-badge]:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post [class*=name-badge]:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post [class*=name-badge]:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post [class*=name-badge]:hover {
+    background-color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-user-link,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-user-link,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-user-link,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-user-link {
+    text-decoration: none;
+    color: var(--cBlue) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-user-link:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-user-link:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-user-link:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-user-link:hover {
+    color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-content,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-content,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-content,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-content {
+    border: none;
+    background: transparent;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block {
+    color: var(--cText);
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block a,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block a,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block a,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block a {
+    text-decoration: none;
+    color: var(--cPink) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block a:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block a:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block a:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block a:hover {
+    color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block .tooltipster.datetime,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block .tooltipster.datetime,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block .tooltipster.datetime,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block .tooltipster.datetime {
+    cursor: pointer;
+    color: var(--cGreen) !important;
+    text-decoration: none;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block.forum-post-footer,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block.forum-post-footer,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block.forum-post-footer,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block.forum-post-footer {
+    padding: 15px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block.forum-post-footer hr,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block.forum-post-footer hr,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block.forum-post-footer hr,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block.forum-post-footer hr {
+    border: 1px ridge var(--cCrust) !important;
+    margin-bottom: 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .card-block .forum-post-edited,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .card-block .forum-post-edited,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .card-block .forum-post-edited,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .card-block .forum-post-edited {
+    border-radius: 3px;
+    padding: 2px 10px;
+    color: var(--cCrust) !important;
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions {
+    margin-top: 10px;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions a.btn,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions a.btn,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions a.btn,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn {
+    border-radius: 3px;
+    padding: 5px 10px;
+    color: var(--cCrust) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions a.btn:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions a.btn:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions a.btn:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn:hover {
+    background: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions a.btn.comment-reply-btn,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions a.btn.comment-reply-btn,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions a.btn.comment-reply-btn,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn.comment-reply-btn {
+    font-weight: 300;
+    background: var(--cBlue);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=edit],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=edit],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=edit],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=edit] {
+    background: var(--cOrange);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions a.btn[href*="tickets/create"], body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=delete],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions a.btn[href*="tickets/create"],
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=delete],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions a.btn[href*="tickets/create"],
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=delete],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn[href*="tickets/create"],
+  body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=delete] {
+    background: var(--cRed);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .comment-replies,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .comment-replies,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .comment-replies,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .comment-replies {
+    margin-top: 15px;
+    border: none !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .comment-replies .card-block,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .comment-replies .card-block,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .comment-replies .card-block,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .comment-replies .card-block {
+    background: var(--cBase) !important;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .comment-replies .forum-post-content,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .comment-replies .forum-post-content,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .comment-replies .forum-post-content,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .comment-replies .forum-post-content {
+    margin: 15px 0;
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .comment-replies .comment.forum-post,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .comment-replies .comment.forum-post,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .comment-replies .comment.forum-post,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .comment-replies .comment.forum-post {
+    border-radius: 5px;
+    padding: 25px;
+    background: var(--cMantle);
+  }
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .comment-replies .comment.forum-post .forum-post-footer hr,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .comment-replies .comment.forum-post .forum-post-footer hr,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .comment-replies .comment.forum-post .forum-post-footer hr,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .comment-replies .comment.forum-post .forum-post-footer hr {
+    border: 1px solid var(--cMantle) !important;
+  }
+}/*# sourceMappingURL=toyhousev2.css.map */

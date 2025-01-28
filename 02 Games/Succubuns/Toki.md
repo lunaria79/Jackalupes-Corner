@@ -9,7 +9,7 @@ shadow: off
 
  ![75](Images/Titles/she-her.png) ![75](Images/Titles/plush-lover.png) ![75](Images/Titles/sleepyhead.png) ![75](Images/Titles/pillow-princess.png) ![75](Images/Titles/dreamer.png)
 ![100](Images/food/moonshine.png)
-![100](Images/pets/guyst.png) ![100](Images/pets/guyst.png) ![100](Images/pets/guyst.png)
+![100](Images/pets/guyst.png) ![100](Images/pets/guyst.png) ![100](Images/pets/fiendish-guyst.png)
 
 --- end-column ---
 
