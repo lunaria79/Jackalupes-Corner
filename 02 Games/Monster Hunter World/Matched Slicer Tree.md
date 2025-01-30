@@ -7,7 +7,7 @@ cssclasses:
 	<div class="column" >
 		<div class="card">
 			<h3>Holy Swords</h3>
-			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Holy%20Sabers.png"></p>
+			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/02%20Games/Monster%20Hunter%20World/Images/Holy%20Sabers.png"></p>
 			<p class="disc"> Ceremonial equipment of the city guardsmen, though their bite is anything but ornamental. </p>
 			<p class="stats">
 			<b>Attack:</b> 252 <b>Element:</b> 💦 120  
@@ -41,7 +41,7 @@ cssclasses:
 	<div class="column" >
 		<div class="card">
 			<h3>Bergel Vetra</h3>
-			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Bergel%20Vetra.png"></p>
+			<p class="img"><img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/02%20Games/Monster%20Hunter%20World/Images/Bergel%20Vetra.png"></p>
 			<p class="disc"> Proof of the hoarfrost's keeper. </p>
 			<p class="stats">
 			<b>Attack:</b> 378 <b>Element:</b> ❄️ 360  

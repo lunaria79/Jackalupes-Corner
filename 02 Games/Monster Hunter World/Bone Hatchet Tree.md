@@ -8,7 +8,7 @@ cssclasses:
 		<div class="card">
 			<h3>Wolf Tessen</h3>
 			<p class="img smaller">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wolf%20Tessen.png"/>
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/02%20Games/Monster%20Hunter%20World/Images/Wolf%20Tessen.png"/>
 			</p>
 			<p class="disc"> A single flutter shreds prey in the blink of an eye. </p>
 			<p class="stats">
@@ -51,7 +51,7 @@ cssclasses:
 		<div class="card" style="margin-top: 15px;">
 			<h3>Wunderkirins</h3>
 			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Wunderkirins.png">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/02%20Games/Monster%20Hunter%20World/Images/Wunderkirins.png">
 			</p>
 			<p class="disc"> Kirin dual blades worthy of the king of beasts, flashing like a bolt bridging land and sky. </p>
 			<p class="stats">
@@ -91,7 +91,7 @@ cssclasses:
 		<div class="card">
 			<h3>Smoldering Kingdoms</h3>
 			<p class="img">
-			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/04%20Monster%20Hunter%20World/Images/Smoldering%20Kingdoms.png">
+			<img src="https://raw.githubusercontent.com/lunaria79/Jackalupes-Corner/refs/heads/main/02%20Games/Monster%20Hunter%20World/Images/Smoldering%20Kingdoms.png">
 			</p>
 			<p class="disc"> Dance, engulfed in relentless red-hot flames. </p>
 			<p class="stats">
