@@ -3,9 +3,15 @@
 - Hated Dr. Steven Wilson for being a "quack". Steven is married to either **Gwyndoline** or **Bonnie**.
 - Has reached out to Carl Roottree (5th) for support of his daughters for Stephanie's campaign. He did not respond.
 
-**Stephanie Landon**
-- Stephanie Jones, born Stephanie Landon (until her marriage to local business owner Brian Jones) has lived in Butler County her whole life.
-- Stephanie grew up in a home without a father. "With my mother and her partner, I essentially had an entirely female influence."
+# Relationships
+- [Stephanie Landon](../4.%20Fourth%20Generation/Stephanie%20Landon.md) (Daughter)
+- [Brian Jones](../5.%20Spouses/Brian%20Jones.md) (Son in Law)
+- [Carl Roottree](Carl%20Roottree.md) (Cousin, Bad Blood)
+- Zacariah Morden (Father, Bad Blood)
+- Bonnie Hudson (Cousin)
+- Gwyndoline Morden (Sister)
+
+
 
 **Brian Jones**
 - Owns Jones Graphic and Print

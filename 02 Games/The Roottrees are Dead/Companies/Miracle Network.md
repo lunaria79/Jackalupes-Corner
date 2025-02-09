@@ -1,3 +1,4 @@
 - Run by a production company run by the Miracle Roottree Estate.
+- Miracle Senior
 - [Miracle Jr](../Individuals/3.%20The%20Free%20Spirits/Miracle%20Jr.md)
-- [[Miracle]]
+- [Miracle 3rd](../Individuals/3.%20The%20Free%20Spirits/Miracle%20Jr.md#Miracle%203rd)

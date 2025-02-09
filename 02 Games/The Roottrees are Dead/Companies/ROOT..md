@@ -1,0 +1,3 @@
+- Run by [Carl Roottree](../Individuals/3.%20The%20Free%20Spirits/Carl%20Roottree.md)
+- Designed by Carl Wife
+- Modeled by [The Roottree Sisters](../Individuals/4.%20Fourth%20Generation/The%20Roottree%20Sisters.md)

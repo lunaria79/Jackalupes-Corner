@@ -10,5 +10,3 @@
 - Both are Youth Pastors
 
 # Elias M Roottree
-- In charge of Roottree Motors used to be called Wilkins Motors.
-- Tessa Roottree is his daughter and works for him.
