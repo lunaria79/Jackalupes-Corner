@@ -1,6 +1,7 @@
 ### The Free Spirits
 - Photo taken of everyone in 1970s November
 - Contains Bonnie, Next President Guy Hudson, Ernie Jr., Caroline, Gwyneth M, Gwyndoline, Miracle Jr., Jim Roottree, Clark, Carl, and Eli M.
+- Gwynn Roottree's sons Ronald and Robert are not present.
 #### November Roottree
 - the young black child
 -  **Possibly the daughter of Edward?**
@@ -16,10 +17,12 @@
 #### Gwyndolyn ???
 - ???
 #### Miracle Jr.
-- Preacher. Tours with Father, Miracle. And son, Miracle 3rd.
-- Married Edith Jacobson after she was caught breaking into his father's church.
-- Miracle 3rd is Married to a Nicole.
+- See [Miracle Jr](Miracle%20Jr.md)
 #### Jim Rootree
-- See **Jim and Diamond**
+- See [Jim and Diamond](Jim%20and%20Diamond.md)
 #### Clark Rafferty
-- See **Jim and Diamond**
+- See [Jim and Diamond](Jim%20and%20Diamond.md)
+#### Carl Roottree
+- 5th president, one of the recently deceased.
+#### Elias M.
+- See [Elias M Roottree](Miracle%20Jr.md#Elias%20M%20Roottree)

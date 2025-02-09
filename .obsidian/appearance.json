@@ -1,6 +1,6 @@
 {
   "accentColor": "#b94ce1",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "columns",
     "dream-journal",
@@ -13,15 +13,7 @@
     "dream-journal-test",
     "new 1",
     "testing grounds",
-    "sims-4",
-    "jackalupes-theme",
-    "mhw",
-    "dream-journal-pages",
-    "code",
-    "dream-journal-base",
-    "MCL Multi Column",
-    "fanfiction",
-    "reverse"
+    "sims-4"
   ],
   "showViewHeader": true,
   "baseFontSize": 16
