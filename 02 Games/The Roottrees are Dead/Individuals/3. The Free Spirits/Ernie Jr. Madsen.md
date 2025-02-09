@@ -1,0 +1,1 @@
+- The article that also mentions Ernie is from 1996, when Carl took over as the 5th president of the Roottree Candy Company from "Ernie Jr." Ernie Jr. apparently liked to stay out of the spotlight, and never appeared in the Butler County Times other than a few mentions here and there. **The article does mention an illness as the reason Ernie Jr. was stepping down.**

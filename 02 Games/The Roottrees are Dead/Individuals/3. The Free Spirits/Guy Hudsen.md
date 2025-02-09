@@ -1,0 +1,2 @@
+- front page story in 1982 about Guy Hudson and his wife Patricia dying in a car accident. He and his wife, Patricia, had no children.
+- Although Guy was a somewhat controversial President, foul play is not suspected. Controversial for **Fancy Flavors**. was an addition to the 5Piece Product line for less than a year in 1979.
