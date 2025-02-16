@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        0.0.1
+@version        0.0.2
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -221,5 +221,181 @@
   tbody svg.svg-inline--fa.fa-mars,
   .content__card svg.svg-inline--fa.fa-mars {
     background: var(--cBlue);
+  }
+}
+@-moz-document domain("finaloutpost.net") {
+  /* ========== Buttons === */
+  .btn, input#submit {
+    transition: 300ms;
+    color: var(--cText);
+    font-weight: 600;
+    border: none;
+    background: var(--cMantle);
+  }
+  .btn-primary, .btn-outline-primary, input#submit-primary, input#submit-outline-primary {
+    background: var(--cMantle);
+  }
+  .btn-outline-success, input#submit-outline-success {
+    background: var(--cGreen) !important;
+  }
+  .btn#copyLabLink, input#submit#copyLabLink {
+    color: var(--cMantle);
+    background: var(--cGreen);
+  }
+  .btn:hover, input#submit:hover {
+    color: var(--cMantle);
+    background: var(--cOrange);
+  }
+  .btn:disabled:hover, input#submit:disabled:hover {
+    cursor: not-allowed !important;
+  }
+  .btn-primary, .btn-outline-primary {
+    background: var(--cMantle);
+  }
+  input#submit, input[value=Save], input[value=Purchase], input[value=Name], input[value=Move], input[value=Add], input[value="Use Item"] {
+    color: var(--cMantle);
+    background: var(--cGreen);
+  }
+  input[value=Gift], input[value=Notes] {
+    color: var(--cMantle);
+    background: var(--cBlue);
+  }
+  input[value=Abandon] {
+    color: var(--cMantle);
+    background: var(--cRed);
+  }
+  a[href*="/breed/select/"], a[href*="/pin/"], a[href*="/notes/"] {
+    color: var(--cMantle);
+    background: var(--cBlue);
+  }
+  a[href*="/delete/"] {
+    color: var(--cMantle);
+    background: var(--cRed);
+  }
+  /* ========== Forms === */
+  input.form-control,
+  textarea.form-control {
+    background: var(--cSurface);
+    border-color: transparent;
+  }
+  .form-control:focus {
+    background: var(--cSurface);
+    border-color: transparent;
+  }
+  ::-moz-placeholder {
+    color: var(--cText) !important;
+  }
+  ::placeholder {
+    color: var(--cText) !important;
+  }
+  button.accordion-button,
+  .dynamic-select .dynamic-select-header, .dynamic-select .dynamic-select-options,
+  .MuiInputBase-root, .MuiInputBase-root:hover,
+  select.form-control, select.form-cotrol:focus,
+  select.form-select, select.form-select:focus,
+  select.form-select-sm, select.form-select-sm:hover {
+    color: var(--cText) !important;
+    background: var(--cMantle) !important;
+    border-color: transparent !important;
+  }
+  .dynamic-select .dynamic-select-options {
+    max-height: 450px;
+  }
+  .dynamic-select-option:hover {
+    color: var(--cText) !important;
+    background: var(--cBase) !important;
+    border-color: transparent !important;
+  }
+  .css-p0rm37, .MuiAutocomplete-endAdornment button {
+    color: rgb(var(--catboy-white)) !important;
+  }
+  .css-2dvya8, .css-segi59, .css-igs3ac {
+    border-color: transparent;
+  }
+  ._tagFilter_1e0sq_15 {
+    background: none;
+    border: none;
+  }
+  /* === Tabs === */
+  .nav-link {
+    transition: 300ms;
+  }
+  .nav-tabs .nav-link, .row .nav-link, .nav-link .dropdown-item {
+    font-weight: 500;
+    border-color: transparent !important;
+    background-color: var(--cMantle) !important;
+  }
+  .nav-tabs .nav-link:hover a, .row .nav-link:hover a, .nav-link .dropdown-item:hover a {
+    color: var(--cPink) !important;
+  }
+  .nav-link:hover {
+    cursor: pointer;
+    color: var(--cPink) !important;
+    background-color: var(--cSurface) !important;
+  }
+  .nav-link.active {
+    color: var(--cPurple);
+    background: var(--cSurface) !important;
+  }
+  .nav-link.active a {
+    color: var(--cPurple) !important;
+  }
+  .nav-link.active:hover {
+    background: var(--cMantle) !important;
+  }
+  .nav-link a {
+    color: rgb(var(--catboy-white)) !important;
+  }
+  .nav-tabs {
+    border: none !important;
+  }
+  .nav-tabs a.nav-link {
+    color: var(--cText) !important;
+    font-weight: 600;
+    background: var(--cMantle) !important;
+    border-radius: 4px;
+    margin: 0 5px;
+    height: 45px;
+    cursor: pointer !important;
+  }
+  .nav-tabs a.nav-link.disabled {
+    color: var(--cPurple) !important;
+    background: transparent !important;
+  }
+  .nav-tabs a.nav-link:hover {
+    color: var(--cPink) !important;
+    background: var(--cSurface) !important;
+  }
+  /* === Tables --- */
+  .table-striped > tbody > tr:nth-of-type(2n+1) > * {
+    --bs-table-color-type: var(--cText);
+    --bs-table-bg-type: rgb(var(--catboy-mantle), .25);
+    --bs-table-bg: rgb(var(--catboy-mantle), .25);
+    --bs-table-border-color: rgb(var(--catboy-surface), .25);
+  }
+  #searchHelp .table > :not(caption) > * > * {
+    background: var(--cSurface);
+    border: none;
+  }
+  #tabs {
+    background: none;
+  }
+  .list-group-item {
+    transition: 600;
+    border-color: transparent;
+    background: var(--cSurface);
+  }
+  .list-group-item:hover {
+    background: var(--cBase);
+    cursor: pointer;
+  }
+}
+@-moz-document url-prefix("https://finaloutpost.net/world/species-notes") {
+  /* ========== Species Notes === */
+  h4 {
+    color: var(--cGreen) !important;
+  }
+  h5 {
+    color: var(--cBlue) !important;
   }
 }/*# sourceMappingURL=the-final-outpost.user.css.map */

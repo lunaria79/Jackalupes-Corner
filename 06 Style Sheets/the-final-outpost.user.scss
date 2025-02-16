@@ -133,7 +133,7 @@
     &-success { background-color: var(--cGreen); }
     &-warning { background-color: var(--cOrange); }
     &-danger { background-color: var(--cRed); }
-    &-info { background-color: var(--cBlue); !important}
+    &-info { background-color: var(--cBlue) !important}
     
     hr { visibility: hidden; }
   }
@@ -218,11 +218,15 @@
   }
 
   /* ========== Forms === */
-  .form-control {
-    input&, textarea&, &:focus {
-      background: var(--cSurface);
-      border-color: transparent;
-    }		
+  input.form-control,
+  textarea.form-control {
+    background: var(--cSurface);
+    border-color: transparent;
+  }
+
+  .form-control:focus {
+    background: var(--cSurface);
+    border-color: transparent;
   }
   
   ::placeholder { color: var(--cText) !important; }
