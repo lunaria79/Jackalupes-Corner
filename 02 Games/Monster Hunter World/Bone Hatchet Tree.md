@@ -46,6 +46,10 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
+			<br> Monster Hardbone x3
+			<b> <br> Jyuratodus Fin+ x6
+			<br> Wyvern Gem x1
+			<br> Jyuratodus Fang+ x5 </b>
 			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
@@ -129,6 +133,10 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
+			<br> Lavasioth Scale+ x4
+			<br> Lavasioth Fang x2
+			<br> Lavasioth Fin x2 
+			</p>
 		</div>
 		<div class="card" style="margin-top: 15px;">
 			<h3>Death Row</h3>

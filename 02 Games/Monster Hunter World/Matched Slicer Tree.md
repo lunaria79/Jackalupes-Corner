@@ -36,6 +36,14 @@ cssclasses:
 			<br> 💦 Sworn Rapiers + </b> 
 			<br>💦 Holy Sabers
 			</p>
+			<p class="divider">-- -- -- -- --</p>
+			<p class="disc"> Currently Needed </p>
+			<p class="prereqs">
+			<br> High Commendation x3
+			<b> <br> Dragonvein Crystal x6
+			<br> Wyvern Gem x2
+			<br> Novacrystal x2 </b>
+			</p>
 		</div>
 	</div>
 	<div class="column" >
@@ -77,7 +85,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			
+		
 			</p>
 		</div>
 	</div>
