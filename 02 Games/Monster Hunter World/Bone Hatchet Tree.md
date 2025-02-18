@@ -46,7 +46,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<br> Monster Hardbone x3
+			 Monster Hardbone x3
 			<b> <br> Jyuratodus Fin+ x6
 			<br> Wyvern Gem x1
 			<br> Jyuratodus Fang+ x5 </b>
@@ -133,7 +133,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
-			<br> Lavasioth Scale+ x4
+			 Lavasioth Scale+ x4
 			<br> Lavasioth Fang x2
 			<br> Lavasioth Fin x2 
 			</p>
@@ -180,6 +180,7 @@ cssclasses:
 			<p class="divider">-- -- -- -- --</p>
 			<p class="disc"> Currently Needed </p>
 			<p class="prereqs">
+			Hunt Odogaron HR
 			</p>
 		</div>
 	</div>
