@@ -84,3 +84,8 @@ Example
 ```
 rename -a diamond gold *.png
 ```
+### Travel
+Go to folder
+```
+cd <folder-name>
+```
