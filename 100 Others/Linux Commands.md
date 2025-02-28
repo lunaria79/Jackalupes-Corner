@@ -32,6 +32,10 @@ Update User Repositories
 ```
 yay -Syu
 ```
+Clear Cache
+```
+yay -Sc
+```
 - - -
 ### Errors
 Restart Bluetooth
