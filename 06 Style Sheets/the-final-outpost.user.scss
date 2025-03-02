@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        0.0.2
+@version        0.0.3
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -24,212 +24,222 @@
 
 ==/UserStyle== */
 @-moz-document domain("finaloutpost.net") {
-  /* ======================================== All Pages =====*/
-  @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
-  @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
-  
-  ::selection { color: var(--cPurple); background-color: var(--cSurface); }
-  
-  :root { background: none; }
-  
-  a[href="/account/ads/"] { visibility: hidden; }
-  
-  
-  /* --Header Image -- */
-  #header-img {
-    background-image: url("https://raw.githubusercontent.com/orxngc/walls-catppuccin-mocha/master/black-hole.png");
-    background-size: auto 115%; background-position-y: -350px;
-    background-attachment: fixed;
-    height: 9.5em;
-  }
-  
-  /* -- Navbar Menu -- */
-  #mainmenu .navbar-nav {
-    background: var(--cMantle);
-    border-radius: 10px 10px 0 0;
-    margin-top: -6px;
-    
-    /* -- Border Radius -- */
-    &.me-auto li.nav-item:nth-child(1) { border-radius: 10px 0 0 0; }
-    &.me-auto li.nav-item:nth-child(6) { border-radius: 0 10px 0 0; }
-    li.nav-item:nth-child(1) { border-radius: 10px 10px 0 0; }
-    
-    /* -- Tab Design -- */
-    .active {
-      /* -- Active Tab -- */
-      color: var(--cText) !important; 
-      text-shadow: 1px 1px 2px var(--cPurple) !important;
-      background: var(--cBase);
-      &:hover { color: var(--cPink) !important; }
-    }
-    
-    li.nav-item:hover { background: var(--cBase) !important; }
-    
-    a.shadowE {
-      /* -- Text Color -- */
-      color: var(--cText) !important; font-weight: 700;
-      text-shadow: 1px 1px 1px var(--cSurface) !important; 
-      &:hover { color: var(--cPink) !important; }
-    }
-  }
-  
-  /* ======================================== Backgrounds ===== */
-  body {
-    min-height: 875px;
-    background-image: linear-gradient( to bottom right, var(--cBase), var(--cMantle), var(--cCrust));
-  }
-  
-  #main, #footer,
-  .dropdown-menu,
-  .content__card, .content__card__avatar {
-    border: none; border-radius: var(--small-radius);
-    color: var(--cText);
-    background-color: var(--cBase); background-image: none;
-    box-shadow: 5px 5px var(--cCrust);
-  }
-  
-  #footer {
-    margin: 30px auto 40px auto; width: 30rem !important;
-    background-color: var(--cCrust);
-  }
-  
-  .dropdown-menu a:hover { background-color: var(--cMantle); }
-  .whitebg {color: var(--cPurple); background-color: var(--cCrust);}
-  
-  hr {
-    border: 1px ridge var(--cCrust);
-    opacity: 50%;
-  }
-  
-  .unreadNotification,
-  .content__card,
-  .bg-dark-subtle { background-color: var(--cSurface) !important; }
-  
-  /* ======================================== Text ===== */
-  a { color: var(--cPurple); }
-  a:hover { color: var(--cYellow); text-decoration: none; }
-  
-  h4 { font-size: 1.1rem; font-weight: bolder; }
-  
-  h5 { font-size: 1rem; }
-  
-  .text-muted { color: var(--cPink) !important; }
-  .text-success { color: var(--cGreen) !important; }
-  .text-danger { color: var(--cRed) !important; }
-  
-  /* ========================================== Other ===== */
-  *:focus:not(.focus-visible) { outline: 0; }
-  
-  .justify-content-between { 
-    justify-content: space-between !important; 
-    width: 90%; margin: auto; 
-  }
-  
-  /* -- Alerts -- */
-  .alert {
-    font-weight: 800;
-    color: var(--cBase);
-    
-    &-success { background-color: var(--cGreen); }
-    &-warning { background-color: var(--cOrange); }
-    &-danger { background-color: var(--cRed); }
-    &-info { background-color: var(--cBlue) !important}
-    
-    hr { visibility: hidden; }
-  }
-  .bg-success { background-color: var(--cGreen); }
-  .tooltip-content, .rounded-pill.bg-primary, .bg-info, .tooltip-arrow::before { background-color: var(--cBlue) !important; }
-  
-  
-  /* -- Image Scale Transformation -- */
-  img.pixel:hover,
-  img.pixel.labM:hover,
-  div.image-wrapper:hover,
-  div.col-3 img:hover {
-    cursor: pointer;
-    transform: scale(1.1);
-    transition: 200ms;
-  }
-  
-  /* -- Replace Coin Image -- */
-  img[src*="coins.png"] {
-    background: url("https://static-00.iconduck.com/assets.00/gold-coin-icon-2048x2048-loznlayl.png") no-repeat;
-    background-size: 75%; background-position: 1px;
-    filter: sepia(100%) saturate(230%) brightness(70%) hue-rotate(200deg);
-    width: 15px; height: 20px;
-    padding-left: 23px; margin-top: -4px;
-  }
-  
-  /* -- Creature Sex Indication -- */
-  tbody svg.svg-inline--fa,
-  .content__card svg.svg-inline--fa {
-    width: 16px; padding: 5px;
-    color: var(--cBase);
-    border-radius: 5px;
-    &.fa-genderless { background: var(--cPurple); }
-    &.fa-venus { background: var(--cPink); }
-    &.fa-mars { background: var(--cBlue); }
-  }
+	/* ======================================== All Pages =====*/
+	@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
+	@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+	
+	::selection { color: var(--cPurple); background-color: var(--cSurface); }
+	
+	:root { background: none; }
+	
+	a[href="/account/ads/"] { visibility: hidden; }
+	
+	
+	/* --Header Image -- */
+	#header-img {
+		background-image: url("https://raw.githubusercontent.com/orxngc/walls-catppuccin-mocha/master/black-hole.png");
+		background-size: auto 115%; background-position-y: -350px;
+		background-attachment: fixed;
+		height: 9.5em;
+	}
+	
+	/* -- Navbar Menu -- */
+	#mainmenu .navbar-nav {
+		background: var(--cMantle);
+		border-radius: 10px 10px 0 0;
+		margin-top: -6px;
+		
+		/* -- Border Radius -- */
+		&.me-auto li.nav-item:nth-child(1) { border-radius: 10px 0 0 0; }
+		&.me-auto li.nav-item:nth-child(6) { border-radius: 0 10px 0 0; }
+		li.nav-item:nth-child(1) { border-radius: 10px 10px 0 0; }
+		
+		/* -- Tab Design -- */
+		.active {
+			/* -- Active Tab -- */
+			color: var(--cText) !important; 
+			text-shadow: 1px 1px 2px var(--cPurple) !important;
+			background: var(--cBase);
+			&:hover { color: var(--cPink) !important; }
+		}
+		
+		li.nav-item:hover { background: var(--cBase) !important; }
+		
+		a.shadowE {
+			/* -- Text Color -- */
+			color: var(--cText) !important; font-weight: 700;
+			text-shadow: 1px 1px 1px var(--cSurface) !important; 
+			&:hover { color: var(--cPink) !important; }
+		}
+	}
+	
+	/* -- Server Time -- */
+	#header-img {
+
+	.time-menu {
+		background: rgb(var(--catboy-mantle));
+		border-radius: 0 0 var(--small-radius) var(--small-radius);
+		font-size: 16px; padding: 4px 8px;
+		.time-indicator { vertical-align: middle; }
+	}
+
+	/* ======================================== Backgrounds ===== */
+	body {
+		min-height: 875px;
+		background-image: linear-gradient( to bottom right, var(--cBase), var(--cMantle), var(--cCrust));
+	}
+	
+	#main, #footer,
+	.dropdown-menu,
+	.content__card, .content__card__avatar {
+		border: none; border-radius: var(--small-radius);
+		color: var(--cText);
+		background-color: var(--cBase); background-image: none;
+		box-shadow: 5px 5px var(--cCrust);
+	}
+	
+	#footer {
+		margin: 30px auto 40px auto; width: 30rem !important;
+		background-color: var(--cCrust);
+	}
+	
+	.dropdown-menu a:hover { background-color: var(--cMantle); }
+	.whitebg {color: var(--cPurple); background-color: var(--cCrust);}
+	
+	hr {
+		border: 1px ridge var(--cCrust);
+		opacity: 50%;
+	}
+	
+	.unreadNotification,
+	.content__card,
+	.bg-dark-subtle { background-color: var(--cSurface) !important; }
+	
+	/* ======================================== Text ===== */
+	a { color: var(--cPurple); }
+	a:hover { color: var(--cYellow); text-decoration: none; }
+	
+	h4 { font-size: 1.1rem; font-weight: bolder; }
+	
+	h5 { font-size: 1rem; }
+	
+	.text-muted { color: var(--cPink) !important; }
+	.text-success { color: var(--cGreen) !important; }
+	.text-danger { color: var(--cRed) !important; }
+	
+	/* ========================================== Other ===== */
+	*:focus:not(.focus-visible) { outline: 0; }
+	
+	.justify-content-between { 
+		justify-content: space-between !important; 
+		width: 90%; margin: auto; 
+	}
+	
+	/* -- Alerts -- */
+	.alert {
+		font-weight: 800;
+		color: var(--cBase);
+		
+		&-success { background-color: var(--cGreen); }
+		&-warning { background-color: var(--cOrange); }
+		&-danger { background-color: var(--cRed); }
+		&-info { background-color: var(--cBlue) !important}
+		
+		hr { visibility: hidden; }
+	}
+	.bg-success { background-color: var(--cGreen); }
+	.tooltip-content, .rounded-pill.bg-primary, .bg-info, .tooltip-arrow::before { background-color: var(--cBlue) !important; }
+	
+	
+	/* -- Image Scale Transformation -- */
+	img.pixel:hover,
+	img.pixel.labM:hover,
+	div.image-wrapper:hover,
+	div.col-3 img:hover {
+		cursor: pointer;
+		transform: scale(1.1);
+		transition: 200ms;
+	}
+	
+	/* -- Replace Coin Image -- */
+	img[src*="coins.png"] {
+		background: url("https://static-00.iconduck.com/assets.00/gold-coin-icon-2048x2048-loznlayl.png") no-repeat;
+		background-size: 75%; background-position: 1px;
+		filter: sepia(100%) saturate(230%) brightness(70%) hue-rotate(200deg);
+		width: 15px; height: 20px;
+		padding-left: 23px; margin-top: -4px;
+	}
+	
+	/* -- Creature Sex Indication -- */
+	tbody svg.svg-inline--fa,
+	.content__card svg.svg-inline--fa {
+		width: 16px; padding: 5px;
+		color: var(--cBase);
+		border-radius: 5px;
+		&.fa-genderless { background: var(--cPurple); }
+		&.fa-venus { background: var(--cPink); }
+		&.fa-mars { background: var(--cBlue); }
+	}
 }
-  
+	
 @-moz-document domain("finaloutpost.net") {
 /* ========== Buttons === */
-  .btn, input#submit {
-    transition: 300ms;
-    color: var(--cText); font-weight: 600;
-    border: none; background: var(--cMantle);
+	.btn, input#submit {
+		transition: 300ms;
+		color: var(--cText); font-weight: 600;
+		border: none; background: var(--cMantle);
 
-    &-primary, &-outline-primary { background: var(--cMantle); }
-    &-outline-success { background:var(--cGreen) !important; }
+		&-primary, &-outline-primary { background: var(--cMantle); }
+		&-outline-success { background:var(--cGreen) !important; }
 
-    &#copyLabLink { color: var(--cMantle); background: var(--cGreen); }
+		&#copyLabLink { color: var(--cMantle); background: var(--cGreen); }
 
-    &:hover { color: var(--cMantle); background: var(--cOrange); }
-    &:disabled:hover { cursor: not-allowed !important; }
+		&:hover { color: var(--cMantle); background: var(--cOrange); }
+		&:disabled:hover { cursor: not-allowed !important; }
 
-  }
+	}
 
-  .btn-primary, .btn-outline-primary {
-    background: var(--cMantle);
-  }
+	.btn-primary, .btn-outline-primary {
+		background: var(--cMantle);
+	}
 
 
-  input {
-    &#submit,
-    &[value="Save"],
-    &[value="Purchase"],
-    &[value="Name"],
-    &[value="Move"],
-    &[value="Add"],
-    &[value="Use Item"] { color: var(--cMantle); background: var(--cGreen); }
+	input {
+		&#submit,
+		&[value="Save"],
+		&[value="Purchase"],
+		&[value="Name"],
+		&[value="Move"],
+		&[value="Add"],
+		&[value="Use Item"] { color: var(--cMantle); background: var(--cGreen); }
 
-    &[value="Gift"],
-    &[value="Notes"] { color: var(--cMantle); background: var(--cBlue); }
+		&[value="Gift"],
+		&[value="Notes"] { color: var(--cMantle); background: var(--cBlue); }
 
-    &[value="Abandon"] { color: var(--cMantle); background: var(--cRed); }
-  }
+		&[value="Abandon"] { color: var(--cMantle); background: var(--cRed); }
+	}
 
-  a {
-    &[href*="/breed/select/"],
-    &[href*="/pin/"],
-    &[href*="/notes/"] { color: var(--cMantle); background: var(--cBlue); }
+	a {
+		&[href*="/breed/select/"],
+		&[href*="/pin/"],
+		&[href*="/notes/"] { color: var(--cMantle); background: var(--cBlue); }
 
-    &[href*="/delete/"] { color: var(--cMantle); background: var(--cRed); }
-  }
+		&[href*="/delete/"] { color: var(--cMantle); background: var(--cRed); }
+	}
 
-  /* ========== Forms === */
-  input.form-control,
-  textarea.form-control {
-    background: var(--cSurface);
-    border-color: transparent;
-  }
+	/* ========== Forms === */
+	input.form-control,
+	textarea.form-control {
+		background: var(--cSurface);
+		border-color: transparent;
+	}
 
-  .form-control:focus {
-    background: var(--cSurface);
-    border-color: transparent;
-  }
-  
-  ::placeholder { color: var(--cText) !important; }
+	.form-control:focus {
+		background: var(--cSurface);
+		border-color: transparent;
+	}
+	
+	::placeholder { color: var(--cText) !important; }
 
 button.accordion-button,
 .dynamic-select .dynamic-select-header, .dynamic-select .dynamic-select-options,
@@ -237,14 +247,14 @@ button.accordion-button,
 select.form-control, select.form-cotrol:focus,
 select.form-select, select.form-select:focus,
 select.form-select-sm, select.form-select-sm:hover {
-  color: var(--cText) !important; background: var(--cMantle) !important;
-  border-color: transparent !important;
+	color: var(--cText) !important; background: var(--cMantle) !important;
+	border-color: transparent !important;
 }
 
 .dynamic-select .dynamic-select-options {max-height: 450px;}
 .dynamic-select-option:hover {
-  color: var(--cText) !important; background: var(--cBase) !important;
-  border-color: transparent !important;
+	color: var(--cText) !important; background: var(--cBase) !important;
+	border-color: transparent !important;
 }
 
 .css-p0rm37, .MuiAutocomplete-endAdornment button { color: rgb(var(--catboy-white)) !important; }
@@ -252,127 +262,67 @@ select.form-select-sm, select.form-select-sm:hover {
 .css-2dvya8, .css-segi59, .css-igs3ac { border-color: transparent; }
 
 ._tagFilter_1e0sq_15 {
-  background: none; border: none;
+	background: none; border: none;
 }
 
 /* === Tabs === */
-  .nav-link {
-    transition: 300ms;
+	.nav-link {
+		transition: 300ms;
 
-    .nav-tabs &, .row &, .dropdown-item {
-      font-weight: 500;
-      border-color: transparent !important;
-      background-color: var(--cMantle) !important;
-      &:hover a { color: var(--cPink) !important }
-    }
+		.nav-tabs &, .row &, .dropdown-item {
+			font-weight: 500;
+			border-color: transparent !important;
+			background-color: var(--cMantle) !important;
+			&:hover a { color: var(--cPink) !important }
+		}
 
-    &:hover {
-      cursor: pointer;
-      color: var(--cPink) !important;
-      background-color: var(--cSurface) !important;
-    }
+		&:hover {
+			cursor: pointer;
+			color: var(--cPink) !important;
+			background-color: var(--cSurface) !important;
+		}
 
-    &.active {
-      color: var(--cPurple);
-      background: var(--cSurface) !important;
-      a { color: var(--cPurple) !important; }
-      &:hover { background: var(--cMantle) !important; }
-    }
+		&.active {
+			color: var(--cPurple);
+			background: var(--cSurface) !important;
+			a { color: var(--cPurple) !important; }
+			&:hover { background: var(--cMantle) !important; }
+		}
 
-    a {	color: rgb(var(--catboy-white)) !important; }
-  }
-  
-  .nav-tabs {
-    border: none !important;
-    
-    a.nav-link {
-      color: var(--cText) !important; font-weight: 600;
-      background: var(--cMantle) !important;
-      border-radius: 4px; margin: 0 5px; height: 45px;
-      cursor: pointer !important;
-      &.disabled { color: var(--cPurple) !important; background: transparent !important; }
-      &:hover { color: var(--cPink) !important; background: var(--cSurface) !important; }
-    }
-  } 
-  
+		a {	color: rgb(var(--catboy-white)) !important; }
+	}
+	
+	.nav-tabs {
+		border: none !important;
+		
+		a.nav-link {
+			color: var(--cText) !important; font-weight: 600;
+			background: var(--cMantle) !important;
+			border-radius: 4px; margin: 0 5px; height: 45px;
+			cursor: pointer !important;
+			&.disabled { color: var(--cPurple) !important; background: transparent !important; }
+			&:hover { color: var(--cPink) !important; background: var(--cSurface) !important; }
+		}
+	} 
+	
 
 /* === Tables --- */
 .table-striped > tbody > tr:nth-of-type(2n+1) > * {
-  --bs-table-color-type: var(--cText);
-  --bs-table-bg-type: rgb(var(--catboy-mantle), .25);
-  --bs-table-bg: rgb(var(--catboy-mantle), .25);
-  --bs-table-border-color: rgb(var(--catboy-surface), .25);
+	--bs-table-color-type: var(--cText);
+	--bs-table-bg-type: rgb(var(--catboy-mantle), .25);
+	--bs-table-bg: rgb(var(--catboy-mantle), .25);
+	--bs-table-border-color: rgb(var(--catboy-surface), .25);
 }
 
 #searchHelp .table > :not(caption) > * > * { background: var(--cSurface); border: none; }
 
 #tabs { background: none; }
-  
+	
 .list-group-item {
-  transition: 600;
-  border-color: transparent; 
-  background: var(--cSurface);
-  &:hover { background: var(--cBase); cursor: pointer; }
+	transition: 600;
+	border-color: transparent; 
+	background: var(--cSurface);
+	&:hover { background: var(--cBase); cursor: pointer; }
 }    
 }
-  
-@-moz-document url-prefix("https://finaloutpost.net/world/species-notes") {
-/* ========== Species Notes === */
-  h4 { color: var(--cGreen) !important; }
-  h5 { color: var(--cBlue) !important; }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
