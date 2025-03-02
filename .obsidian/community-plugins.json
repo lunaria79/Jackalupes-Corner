@@ -9,5 +9,7 @@
   "color-palette",
   "table-editor-obsidian",
   "obsidian-image-gallery",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-discordrpc",
+  "codeblock-customizer"
 ]

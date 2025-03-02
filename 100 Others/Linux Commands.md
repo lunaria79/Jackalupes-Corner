@@ -32,6 +32,10 @@ Update User Repositories
 ```
 yay -Syu
 ```
+Clear Cache
+```
+yay -Sc
+```
 - - -
 ### Errors
 Restart Bluetooth
@@ -79,4 +83,9 @@ rename -a <original> <new> *<filetyple.
 Example
 ```
 rename -a diamond gold *.png
+```
+### Travel
+Go to folder
+```
+cd <folder-name>
 ```
