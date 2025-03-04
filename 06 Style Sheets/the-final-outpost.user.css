@@ -1,7 +1,11 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
+<<<<<<< HEAD
 @version        0.0.4
+=======
+@version        0.0.3
+>>>>>>> 00cf51db57cddac62a0e6223d7e13e863ae637c5
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -87,14 +91,32 @@
   #mainmenu .navbar-nav a.shadowE:hover {
     color: var(--cPink) !important;
   }
-  /* ======================================== Backgrounds ===== */
-  body {
+  /* -- Server Time -- */
+  #header-img {
+    /* ======================================== Backgrounds ===== */
+    /* ======================================== Text ===== */
+    /* ========================================== Other ===== */
+    /* -- Alerts -- */
+    /* -- Image Scale Transformation -- */
+    /* -- Replace Coin Image -- */
+    /* -- Creature Sex Indication -- */
+  }
+  #header-img .time-menu {
+    background: rgb(var(--catboy-mantle));
+    border-radius: 0 0 var(--small-radius) var(--small-radius);
+    font-size: 16px;
+    padding: 4px 8px;
+  }
+  #header-img .time-menu .time-indicator {
+    vertical-align: middle;
+  }
+  #header-img body {
     min-height: 875px;
     background-image: linear-gradient(to bottom right, var(--cBase), var(--cMantle), var(--cCrust));
   }
-  #main, #footer,
-  .dropdown-menu,
-  .content__card, .content__card__avatar {
+  #header-img #main, #header-img #footer,
+  #header-img .dropdown-menu,
+  #header-img .content__card, #header-img .content__card__avatar {
     border: none;
     border-radius: var(--small-radius);
     color: var(--cText);
@@ -102,97 +124,92 @@
     background-image: none;
     box-shadow: 5px 5px var(--cCrust);
   }
-  #footer {
+  #header-img #footer {
     margin: 30px auto 40px auto;
     width: 30rem !important;
     background-color: var(--cCrust);
   }
-  .dropdown-menu a:hover {
+  #header-img .dropdown-menu a:hover {
     background-color: var(--cMantle);
   }
-  .whitebg {
+  #header-img .whitebg {
     color: var(--cPurple);
     background-color: var(--cCrust);
   }
-  hr {
+  #header-img hr {
     border: 1px ridge var(--cCrust);
     opacity: 50%;
   }
-  .unreadNotification,
-  .content__card,
-  .bg-dark-subtle {
+  #header-img .unreadNotification,
+  #header-img .content__card,
+  #header-img .bg-dark-subtle {
     background-color: var(--cSurface) !important;
   }
-  /* ======================================== Text ===== */
-  a {
+  #header-img a {
     color: var(--cPurple);
   }
-  a:hover {
+  #header-img a:hover {
     color: var(--cYellow);
     text-decoration: none;
   }
-  h4 {
+  #header-img h4 {
     font-size: 1.1rem;
     font-weight: bolder;
   }
-  h5 {
+  #header-img h5 {
     font-size: 1rem;
   }
-  .text-muted {
+  #header-img .text-muted {
     color: var(--cPink) !important;
   }
-  .text-success {
+  #header-img .text-success {
     color: var(--cGreen) !important;
   }
-  .text-danger {
+  #header-img .text-danger {
     color: var(--cRed) !important;
   }
-  /* ========================================== Other ===== */
-  *:focus:not(.focus-visible) {
+  #header-img *:focus:not(.focus-visible) {
     outline: 0;
   }
-  .justify-content-between {
+  #header-img .justify-content-between {
     justify-content: space-between !important;
     width: 90%;
     margin: auto;
   }
-  /* -- Alerts -- */
-  .alert {
+  #header-img .alert {
     font-weight: 800;
     color: var(--cBase);
   }
-  .alert-success {
+  #header-img .alert-success {
     background-color: var(--cGreen);
   }
-  .alert-warning {
+  #header-img .alert-warning {
     background-color: var(--cOrange);
   }
-  .alert-danger {
+  #header-img .alert-danger {
     background-color: var(--cRed);
   }
-  .alert-info {
+  #header-img .alert-info {
     background-color: var(--cBlue) !important;
   }
-  .alert hr {
+  #header-img .alert hr {
     visibility: hidden;
   }
-  .bg-success {
+  #header-img .bg-success {
     background-color: var(--cGreen);
   }
-  .tooltip-content, .rounded-pill.bg-primary, .bg-info, .tooltip-arrow::before {
+  #header-img .tooltip-content, #header-img .rounded-pill.bg-primary, #header-img .bg-info, #header-img .tooltip-arrow::before {
     background-color: var(--cBlue) !important;
   }
-  /* -- Image Scale Transformation -- */
-  img.pixel:hover,
-  img.pixel.labM:hover,
-  div.image-wrapper:hover,
-  div.col-3 img:hover {
+  #header-img img.pixel:hover,
+  #header-img img.pixel.labM:hover,
+  #header-img div.image-wrapper:hover,
+  #header-img div.col-3 img:hover {
     cursor: pointer;
     transform: scale(1.1);
     transition: 200ms;
   }
-  /* -- Replace Coin Image -- */
-  img[src*="coins.png"] {
+  #header-img img[src*="coins.png"] {
     background: url("https://static-00.iconduck.com/assets.00/gold-coin-icon-2048x2048-loznlayl.png") no-repeat;
     background-size: 75%;
     background-position: 1px;
@@ -202,200 +219,190 @@
     padding-left: 23px;
     margin-top: -4px;
   }
-  /* -- Creature Sex Indication -- */
-  tbody svg.svg-inline--fa,
-  .content__card svg.svg-inline--fa {
+  #header-img tbody svg.svg-inline--fa,
+  #header-img .content__card svg.svg-inline--fa {
     width: 16px;
     padding: 5px;
     color: var(--cBase);
     border-radius: 5px;
   }
-  tbody svg.svg-inline--fa.fa-genderless,
-  .content__card svg.svg-inline--fa.fa-genderless {
+  #header-img tbody svg.svg-inline--fa.fa-genderless,
+  #header-img .content__card svg.svg-inline--fa.fa-genderless {
     background: var(--cPurple);
   }
-  tbody svg.svg-inline--fa.fa-venus,
-  .content__card svg.svg-inline--fa.fa-venus {
+  #header-img tbody svg.svg-inline--fa.fa-venus,
+  #header-img .content__card svg.svg-inline--fa.fa-venus {
     background: var(--cPink);
   }
-  tbody svg.svg-inline--fa.fa-mars,
-  .content__card svg.svg-inline--fa.fa-mars {
+  #header-img tbody svg.svg-inline--fa.fa-mars,
+  #header-img .content__card svg.svg-inline--fa.fa-mars {
     background: var(--cBlue);
   }
-}
-@-moz-document domain("finaloutpost.net") {
-  /* ========== Buttons === */
-  .btn, input#submit {
-    transition: 300ms;
-    color: var(--cText);
-    font-weight: 600;
-    border: none;
-    background: var(--cMantle);
-  }
-  .btn-primary, .btn-outline-primary, input#submit-primary, input#submit-outline-primary {
-    background: var(--cMantle);
-  }
-  .btn-outline-success, input#submit-outline-success {
-    background: var(--cGreen) !important;
-  }
-  .btn#copyLabLink, input#submit#copyLabLink {
-    color: var(--cMantle);
-    background: var(--cGreen);
-  }
-  .btn:hover, input#submit:hover {
-    color: var(--cMantle);
-    background: var(--cOrange);
-  }
-  .btn:disabled:hover, input#submit:disabled:hover {
-    cursor: not-allowed !important;
-  }
-  .btn-primary, .btn-outline-primary {
-    background: var(--cMantle);
-  }
-  input#submit, input[value=Save], input[value=Purchase], input[value=Name], input[value=Move], input[value=Add], input[value="Use Item"] {
-    color: var(--cMantle);
-    background: var(--cGreen);
-  }
-  input[value=Gift], input[value=Notes] {
-    color: var(--cMantle);
-    background: var(--cBlue);
-  }
-  input[value=Abandon] {
-    color: var(--cMantle);
-    background: var(--cRed);
-  }
-  a[href*="/breed/select/"], a[href*="/pin/"], a[href*="/notes/"] {
-    color: var(--cMantle);
-    background: var(--cBlue);
-  }
-  a[href*="/delete/"] {
-    color: var(--cMantle);
-    background: var(--cRed);
-  }
-  /* ========== Forms === */
-  input.form-control,
-  textarea.form-control {
-    background: var(--cSurface);
-    border-color: transparent;
-  }
-  .form-control:focus {
-    background: var(--cSurface);
-    border-color: transparent;
-  }
-  ::-moz-placeholder {
-    color: var(--cText) !important;
-  }
-  ::placeholder {
-    color: var(--cText) !important;
-  }
-  button.accordion-button,
-  .dynamic-select .dynamic-select-header, .dynamic-select .dynamic-select-options,
-  .MuiInputBase-root, .MuiInputBase-root:hover,
-  select.form-control, select.form-cotrol:focus,
-  select.form-select, select.form-select:focus,
-  select.form-select-sm, select.form-select-sm:hover {
-    color: var(--cText) !important;
-    background: var(--cMantle) !important;
-    border-color: transparent !important;
-  }
-  .dynamic-select .dynamic-select-options {
-    max-height: 450px;
-  }
-  .dynamic-select-option:hover {
-    color: var(--cText) !important;
-    background: var(--cBase) !important;
-    border-color: transparent !important;
-  }
-  .css-p0rm37, .MuiAutocomplete-endAdornment button {
-    color: rgb(var(--catboy-white)) !important;
-  }
-  .css-2dvya8, .css-segi59, .css-igs3ac {
-    border-color: transparent;
-  }
-  ._tagFilter_1e0sq_15 {
-    background: none;
-    border: none;
-  }
-  /* === Tabs === */
-  .nav-link {
-    transition: 300ms;
-  }
-  .nav-tabs .nav-link, .row .nav-link, .nav-link .dropdown-item {
-    font-weight: 500;
-    border-color: transparent !important;
-    background-color: var(--cMantle) !important;
-  }
-  .nav-tabs .nav-link:hover a, .row .nav-link:hover a, .nav-link .dropdown-item:hover a {
-    color: var(--cPink) !important;
-  }
-  .nav-link:hover {
-    cursor: pointer;
-    color: var(--cPink) !important;
-    background-color: var(--cSurface) !important;
-  }
-  .nav-link.active {
-    color: var(--cPurple);
-    background: var(--cSurface) !important;
-  }
-  .nav-link.active a {
-    color: var(--cPurple) !important;
-  }
-  .nav-link.active:hover {
-    background: var(--cMantle) !important;
-  }
-  .nav-link a {
-    color: rgb(var(--catboy-white)) !important;
-  }
-  .nav-tabs {
-    border: none !important;
-  }
-  .nav-tabs a.nav-link {
-    color: var(--cText) !important;
-    font-weight: 600;
-    background: var(--cMantle) !important;
-    border-radius: 4px;
-    margin: 0 5px;
-    height: 45px;
-    cursor: pointer !important;
-  }
-  .nav-tabs a.nav-link.disabled {
-    color: var(--cPurple) !important;
-    background: transparent !important;
-  }
-  .nav-tabs a.nav-link:hover {
-    color: var(--cPink) !important;
-    background: var(--cSurface) !important;
-  }
-  /* === Tables --- */
-  .table-striped > tbody > tr:nth-of-type(2n+1) > * {
-    --bs-table-color-type: var(--cText);
-    --bs-table-bg-type: rgb(var(--catboy-mantle), .25);
-    --bs-table-bg: rgb(var(--catboy-mantle), .25);
-    --bs-table-border-color: rgb(var(--catboy-surface), .25);
-  }
-  #searchHelp .table > :not(caption) > * > * {
-    background: var(--cSurface);
-    border: none;
-  }
-  #tabs {
-    background: none;
-  }
-  .list-group-item {
-    transition: 600;
-    border-color: transparent;
-    background: var(--cSurface);
-  }
-  .list-group-item:hover {
-    background: var(--cBase);
-    cursor: pointer;
-  }
-}
-@-moz-document url-prefix("https://finaloutpost.net/world/species-notes") {
-  /* ========== Species Notes === */
-  h4 {
-    color: var(--cGreen) !important;
-  }
-  h5 {
-    color: var(--cBlue) !important;
+  @-moz-document domain("finaloutpost.net") {
+    /* ========== Buttons === */
+    .btn, input#submit {
+      transition: 300ms;
+      color: var(--cText);
+      font-weight: 600;
+      border: none;
+      background: var(--cMantle);
+    }
+    .btn-primary, .btn-outline-primary, input#submit-primary, input#submit-outline-primary {
+      background: var(--cMantle);
+    }
+    .btn-outline-success, input#submit-outline-success {
+      background: var(--cGreen) !important;
+    }
+    .btn#copyLabLink, input#submit#copyLabLink {
+      color: var(--cMantle);
+      background: var(--cGreen);
+    }
+    .btn:hover, input#submit:hover {
+      color: var(--cMantle);
+      background: var(--cOrange);
+    }
+    .btn:disabled:hover, input#submit:disabled:hover {
+      cursor: not-allowed !important;
+    }
+    .btn-primary, .btn-outline-primary {
+      background: var(--cMantle);
+    }
+    input#submit, input[value=Save], input[value=Purchase], input[value=Name], input[value=Move], input[value=Add], input[value="Use Item"] {
+      color: var(--cMantle);
+      background: var(--cGreen);
+    }
+    input[value=Gift], input[value=Notes] {
+      color: var(--cMantle);
+      background: var(--cBlue);
+    }
+    input[value=Abandon] {
+      color: var(--cMantle);
+      background: var(--cRed);
+    }
+    a[href*="/breed/select/"], a[href*="/pin/"], a[href*="/notes/"] {
+      color: var(--cMantle);
+      background: var(--cBlue);
+    }
+    a[href*="/delete/"] {
+      color: var(--cMantle);
+      background: var(--cRed);
+    }
+    /* ========== Forms === */
+    input.form-control,
+    textarea.form-control {
+      background: var(--cSurface);
+      border-color: transparent;
+    }
+    .form-control:focus {
+      background: var(--cSurface);
+      border-color: transparent;
+    }
+    ::-moz-placeholder {
+      color: var(--cText) !important;
+    }
+    ::placeholder {
+      color: var(--cText) !important;
+    }
+    button.accordion-button,
+    .dynamic-select .dynamic-select-header, .dynamic-select .dynamic-select-options,
+    .MuiInputBase-root, .MuiInputBase-root:hover,
+    select.form-control, select.form-cotrol:focus,
+    select.form-select, select.form-select:focus,
+    select.form-select-sm, select.form-select-sm:hover {
+      color: var(--cText) !important;
+      background: var(--cMantle) !important;
+      border-color: transparent !important;
+    }
+    .dynamic-select .dynamic-select-options {
+      max-height: 450px;
+    }
+    .dynamic-select-option:hover {
+      color: var(--cText) !important;
+      background: var(--cBase) !important;
+      border-color: transparent !important;
+    }
+    .css-p0rm37, .MuiAutocomplete-endAdornment button {
+      color: rgb(var(--catboy-white)) !important;
+    }
+    .css-2dvya8, .css-segi59, .css-igs3ac {
+      border-color: transparent;
+    }
+    ._tagFilter_1e0sq_15 {
+      background: none;
+      border: none;
+    }
+    /* === Tabs === */
+    .nav-link {
+      transition: 300ms;
+    }
+    .nav-tabs .nav-link, .row .nav-link, .nav-link .dropdown-item {
+      font-weight: 500;
+      border-color: transparent !important;
+      background-color: var(--cMantle) !important;
+    }
+    .nav-tabs .nav-link:hover a, .row .nav-link:hover a, .nav-link .dropdown-item:hover a {
+      color: var(--cPink) !important;
+    }
+    .nav-link:hover {
+      cursor: pointer;
+      color: var(--cPink) !important;
+      background-color: var(--cSurface) !important;
+    }
+    .nav-link.active {
+      color: var(--cPurple);
+      background: var(--cSurface) !important;
+    }
+    .nav-link.active a {
+      color: var(--cPurple) !important;
+    }
+    .nav-link.active:hover {
+      background: var(--cMantle) !important;
+    }
+    .nav-link a {
+      color: rgb(var(--catboy-white)) !important;
+    }
+    .nav-tabs {
+      border: none !important;
+    }
+    .nav-tabs a.nav-link {
+      color: var(--cText) !important;
+      font-weight: 600;
+      background: var(--cMantle) !important;
+      border-radius: 4px;
+      margin: 0 5px;
+      height: 45px;
+      cursor: pointer !important;
+    }
+    .nav-tabs a.nav-link.disabled {
+      color: var(--cPurple) !important;
+      background: transparent !important;
+    }
+    .nav-tabs a.nav-link:hover {
+      color: var(--cPink) !important;
+      background: var(--cSurface) !important;
+    }
+    /* === Tables --- */
+    .table-striped > tbody > tr:nth-of-type(2n+1) > * {
+      --bs-table-color-type: var(--cText);
+      --bs-table-bg-type: rgb(var(--catboy-mantle), .25);
+      --bs-table-bg: rgb(var(--catboy-mantle), .25);
+      --bs-table-border-color: rgb(var(--catboy-surface), .25);
+    }
+    #searchHelp .table > :not(caption) > * > * {
+      background: var(--cSurface);
+      border: none;
+    }
+    #tabs {
+      background: none;
+    }
+    .list-group-item {
+      transition: 600;
+      border-color: transparent;
+      background: var(--cSurface);
+    }
+    .list-group-item:hover {
+      background: var(--cBase);
+      cursor: pointer;
+    }
   }
 }/*# sourceMappingURL=the-final-outpost.user.css.map */
