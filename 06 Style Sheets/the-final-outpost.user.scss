@@ -83,6 +83,8 @@
 		.time-indicator { vertical-align: middle; }
 	}
 
+}
+
 	/* ======================================== Backgrounds ===== */
 	body {
 		min-height: 875px;
@@ -324,11 +326,4 @@ select.form-select-sm, select.form-select-sm:hover {
 	background: var(--cSurface);
 	&:hover { background: var(--cBase); cursor: pointer; }
 }    
-}
-  
-@-moz-document url-prefix("https://finaloutpost.net/world/species-notes") {
-/* ========== Species Notes === */
-  h4 { color: var(--cGreen) !important; }
-  h5 { color: var(--cBlue) !important; }
-  
 }
