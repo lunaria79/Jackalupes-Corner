@@ -120,10 +120,8 @@
   "01 Dream Journal/Dreams/03 Nothing Left to Say/nothing left to say notes.md": "FasNoteSticky",
   "100 Others": "FasFolderOpen",
   "100 Others/Markdown Cheat Sheet.md": "FasFileCode",
-  "100 Others/Minecraft Summon Items.md": "FasFileCode",
   "100 Others/Linux Commands.md": "FasFileCode",
   "100 Others/chrismas 2024.md": "FasListCheck",
-  "100 Others/Oh the Biome's We've Gone Retextures.md": "FasListCheck",
   "00 _resources/Images/midnight.png": "FasImage",
   "01 Dream Journal/Dreams/02 Of Gods and Fiends/00 Images": "FasFolderTree",
   "01 Dream Journal/Dreams/100 Others/Chrysanthemum.md": "FasFilePen",
@@ -171,5 +169,7 @@
   "02 Games/Reverse1999/Came Home/Pavia.md": "FasUser",
   "02 Games/Reverse1999/Came Home/Tennant.md": "FasUser",
   "02 Games/Reverse1999/Came Home/Зима.md": "FasUser",
-  "02 Games/links.md": "FasFileLines"
+  "02 Games/links.md": "FasFileLines",
+  "02 Games/Minecraft Summon Items.md": "FasFileCode",
+  "02 Games/Oh the Biome's We've Gone Retextures.md": "FasListCheck"
 }
