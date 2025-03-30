@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasListCheck",
+      "LiListTodo",
+      "FasLink",
       "LiList",
-      "FasBuilding",
-      "FasFolderTree",
-      "FasUser",
-      "FasNoteSticky"
+      "FasBuilding"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -169,5 +169,8 @@
   "02 Games/Reverse1999/Came Home/Pavia.md": "FasUser",
   "02 Games/Reverse1999/Came Home/Tennant.md": "FasUser",
   "02 Games/Reverse1999/Came Home/Зима.md": "FasUser",
-  "02 Games/links.md": "FasFileLines"
+  "02 Games/links.md": "FasFileLines",
+  "02 Games/Monster Hunter World/Wiki.md": "FasLink",
+  "02 Games/Monster Hunter World/Mods List.md": "FasLink",
+  "02 Games/Reverse1999/Reverse1999.md": "FasListCheck"
 }
