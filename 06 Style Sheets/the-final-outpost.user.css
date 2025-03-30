@@ -1,7 +1,11 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
+<<<<<<< HEAD
 @version        0.0.5
+=======
+@version        0.0.4
+>>>>>>> origin/main
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -87,7 +91,11 @@
     color: var(--cPink) !important;
   }
   /* -- Server Time -- */
+<<<<<<< HEAD
   .time-menu {
+=======
+  #header-img .time-menu {
+>>>>>>> origin/main
     background: rgb(var(--catboy-mantle));
     border-radius: 0 0 var(--small-radius) var(--small-radius);
     font-size: 16px;
@@ -96,6 +104,7 @@
   .time-menu .time-indicator {
     vertical-align: middle;
   }
+<<<<<<< HEAD
   /* -- Capsule Images -- */
   button.cupboardcapsule {
     margin-bottom: 5px;
@@ -105,6 +114,8 @@
     border-radius: 5px;
     background-color: rgb(var(--catboy-mantle));
   }
+=======
+>>>>>>> origin/main
   /* ======================================== Backgrounds ===== */
   body {
     min-height: 875px;

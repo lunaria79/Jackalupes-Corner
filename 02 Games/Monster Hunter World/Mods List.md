@@ -1,0 +1,9 @@
+Core
+https://www.nexusmods.com/monsterhunterworld/mods/1982
+Information
+https://www.nexusmods.com/monsterhunterworld/mods/6749
+https://www.nexusmods.com/monsterhunterworld/mods/745
+https://www.nexusmods.com/monsterhunterworld/mods/3004
+https://www.nexusmods.com/monsterhunterworld/mods/1938
+Cosmetic
+https://www.nexusmods.com/monsterhunterworld/mods/549?tab=description

@@ -1,0 +1,1 @@
+https://mhworld.kiranico.com/en/weapons
