@@ -152,7 +152,7 @@ div.markdown-reading-view > div.markdown-preview-view.arcane-school > div {
   -webkit-backdrop-filter: blur(0px);
           backdrop-filter: blur(0px);
   padding: 20px;
-  max-width: 65% !important;
+  max-width: 80% !important;
 }
 
 /* ----- Box Shadow ----- */

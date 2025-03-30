@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolderTree",
       "FasListCheck",
       "LiListTodo",
       "FasLink",
-      "LiList",
-      "FasBuilding"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -172,5 +172,6 @@
   "02 Games/links.md": "FasFileLines",
   "02 Games/Monster Hunter World/Wiki.md": "FasLink",
   "02 Games/Monster Hunter World/Mods List.md": "FasLink",
-  "02 Games/Reverse1999/Reverse1999.md": "FasListCheck"
+  "02 Games/Reverse1999/Reverse1999.md": "FasListCheck",
+  "01 Dream Journal/Dreams/01 The School of the Arcane/01 Characters/00 Images": "FasFolderTree"
 }

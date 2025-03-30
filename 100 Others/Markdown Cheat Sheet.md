@@ -49,7 +49,7 @@ ___
 ## Images
 <!--Images-->
 
-![mary-jane-1](../Dreams/06%20Mary%20Jane/Images/mary-jane-1.jpg)
+![spirit-motes](../02%20Games/Succubuns/Images/Traits/spirit-motes.png)
 
 
 <!-- github md -->
