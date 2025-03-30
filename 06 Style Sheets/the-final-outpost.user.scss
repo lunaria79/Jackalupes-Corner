@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        0.0.3
+@version        0.0.5
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -40,7 +40,6 @@
 		background-image: url("https://raw.githubusercontent.com/orxngc/walls-catppuccin-mocha/master/black-hole.png");
 		background-size: auto 115%; background-position-y: -350px;
 		background-attachment: fixed;
-		height: 9.5em;
 	}
 	
 	/* -- Navbar Menu -- */
@@ -74,14 +73,23 @@
 	}
 	
 	/* -- Server Time -- */
-	#header-img {
-
 	.time-menu {
 		background: rgb(var(--catboy-mantle));
 		border-radius: 0 0 var(--small-radius) var(--small-radius);
-		font-size: 16px; padding: 4px 8px;
+		font-size: 16px; padding: 4px 16px;
 		.time-indicator { vertical-align: middle; }
 	}
+
+	/* -- Capsule Images -- */
+	button.cupboardcapsule { 
+		margin-bottom: 5px;
+		img {
+			padding: 10px;
+			border-radius: 5px;
+			background-color: rgb(var(--catboy-mantle));
+		}
+	}
+
 
 	/* ======================================== Backgrounds ===== */
 	body {
@@ -324,5 +332,4 @@ select.form-select-sm, select.form-select-sm:hover {
 	background: var(--cSurface);
 	&:hover { background: var(--cBase); cursor: pointer; }
 }    
-}
 }
