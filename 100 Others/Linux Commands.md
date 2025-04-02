@@ -69,7 +69,26 @@ Unmount Drive
 sudo umount <mount_location/device name>
 ```
 ---
-# Minecraft Project
+# Fun Stuff
+## Daktilo (Typewritter Sounds)
+List Presets
+```java unfold file:List-Presets
+daktilo --list-presets
+```
+
+```java unfold file:List-Presets
+daktilo --list-presets
+```
+
+```java unfold file:List-Presets
+daktilo --list-presets
+```
+
+```java unfold file:List-Presets
+daktilo --list-presets
+```
+
+## Minecraft Project
 ### ZIP
 Catboy Override
 ```

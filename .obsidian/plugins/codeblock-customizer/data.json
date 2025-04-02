@@ -306,7 +306,7 @@
         "alwaysDisplayCodeblockLang": false,
         "alwaysDisplayCodeblockIcon": false,
         "displayCodeBlockLanguage": true,
-        "displayCodeBlockIcon": false,
+        "displayCodeBlockIcon": true,
         "disableFoldUnlessSpecified": false
       },
       "gutter": {
