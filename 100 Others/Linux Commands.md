@@ -38,16 +38,15 @@ yay -Sc
 ```
 - - -
 ### Errors
-Restart Bluetooth
-```
+```rust unfold file:Restart-Bluetooth
 sudo systemctl restart bluetooth 
 ```
-Restart Wifi Manager
-```
+
+```rust unfold file:Restart-WiFi-Manager
 sudo systemctl restart NetworkManager
 ```
-Fix Audio
-```
+
+```rust unfold file:Audio-Fix
 sudo pacman -S pipewire-pulse
 ```
 - - -
