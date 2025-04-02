@@ -69,42 +69,34 @@ Unmount Drive
 sudo umount <mount_location/device name>
 ```
 ---
+# File Management
+```rust unfold file:Go-to-Folder
+cd <folder-name>
+```
+
+```rust unfold file:Rename-String
+rename -a <original> <new> *<.filetype>
+```
+```rust fold file:Rename-String-Example
+rename -a diamond gold *.png
+```
+---
 # Fun Stuff
-## Daktilo (Typewritter Sounds)
+## Daktilo (Typewriter Sounds)
 List Presets
-```java unfold file:List-Presets
+```rust unfold file:List-Presets
 daktilo --list-presets
 ```
 
-```java unfold file:List-Presets
-daktilo --list-presets
+```rust unfold file:Use-Preset
+daktilo --preset default
 ```
 
-```java unfold file:List-Presets
-daktilo --list-presets
-```
-
-```java unfold file:List-Presets
-daktilo --list-presets
+```rust unfold file:Variate-Sounds
+daktilo --variate-tempo 0.9,0.4 --variate-volume 0.1,0.5
 ```
 
 ## Minecraft Project
-### ZIP
-Catboy Override
-```
+```rust unfold file:Zip-Catboy-Override
 zip Catboy\ Override.zip pack.mcmeta pack.png -r assets
-```
-### Replace String in File Name
-String
-```
-rename -a <original> <new> *<filetyple.
-```
-Example
-```
-rename -a diamond gold *.png
-```
-### Travel
-Go to folder
-```
-cd <folder-name>
 ```
