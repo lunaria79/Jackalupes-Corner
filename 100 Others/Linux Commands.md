@@ -52,20 +52,18 @@ sudo pacman -S pipewire-pulse
 ```
 - - -
 ### Manual Mount (deeznuts)
-List Drives
-```
+```rust unfold file:List-Drives
 sudo fdisk -l
 ```
-Mount Drive
-```
+
+```rust unfold file:Mount-Drives
 sudo mount /dev/<drive_name> /<mount_location>
 ```
-Mount **Catboy** to **Windows**
-```
+```rust fold file:Catboy-to-Windows
 sudo mount /dev/nvme0n1p4 /mnt
 ```
-Unmount Drive
-```
+
+```rust unfold file:Unmount-Drive
 sudo umount <mount_location/device name>
 ```
 ---
