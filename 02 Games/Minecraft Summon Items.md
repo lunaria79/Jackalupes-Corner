@@ -57,8 +57,8 @@ tags:
 
 
 ## Mobs
-```java unfold file:Aether
-/summon horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],Variant:4,CustomName:'{"bold":true,"text":"Aether"}',attributes:[{id:"minecraft:armor",base:30},{id:"minecraft:armor_toughness",base:30},{id:"minecraft:follow_range",base:40},{id:"minecraft:jump_strength",base:1},{id:"minecraft:max_health",base:30},{id:"minecraft:movement_speed",base:0.3375}],SaddleItem:{id:"minecraft:saddle",count:1b}}
+```java unfold file:Aether-1.21.1
+/summon horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Tame:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],Variant:4,CustomName:'{"bold":true,"color":"white","text":"Aether"}',attributes:[{id:"minecraft:generic.armor",base:30},{id:"minecraft:generic.armor_toughness",base:30},{id:"minecraft:generic.follow_range",base:40},{id:"minecraft:generic.jump_strength",base:1},{id:"minecraft:generic.max_health",base:30},{id:"minecraft:generic.movement_speed",base:.3375}],SaddleItem:{id:"minecraft:saddle",Count:1b}}
 ```
 
 ```java unfold file:Oreo
