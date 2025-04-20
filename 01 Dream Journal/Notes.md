@@ -116,3 +116,9 @@ Basic Story: The demon is now the head of the Holy Army, and not many people are
 ```md unfold file:capptailism
 the one that was supposed to be a critque on classism and the cycle of poverty, but this guy watched his only friend get executed and now is obsessed with taking care of her zombie
 ```
+
+```md unfold file:murder-mystery-highschool
+: Main character, wheelchair bound, friend group anchor, has supernatural powers like telekinis and summoning objects
+**Taelili**: brown, long black hair, shy, dissasociates a lot, really into the occult, sees ghosts (doubles as my self-insert)
+**Oscar**: taller vampiric guy who can shift into a ghost form thats invisible to all except taelili. taelili's love interest
+**Brayden**: literally marsh from fear& but way more genderfluid. he's
