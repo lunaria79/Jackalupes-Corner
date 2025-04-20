@@ -118,8 +118,8 @@ the one that was supposed to be a critque on classism and the cycle of poverty, 
 ```
 
 ```md unfold file:murder-mystery-college
-: Main character, wheelchair bound, friend group anchor, has supernatural powers like telekinis and summoning objects
-**Spiderlilly**: a fun loving spunky girl, whose fallen into a really weird crowd.  's girlfriend and **taelili's** best friend
+**Malachi**: Main character, wheelchair bound, friend group anchor, has supernatural powers like telekinis and summoning objects
+**Spiderlilly**: a fun loving spunky girl, whose fallen into a really weird crowd.  's girlfriend and **taelili's** best friend, goes by **Spider**
 **Taelili**: brown, long black hair, shy, dissasociates a lot, really into the occult, sees ghosts (doubles as my self-insert)
-**Oscar**: taller vampiric guy who can shift into a ghost form thats invisible to all except taelili. taelili's love interest
+**Grunge**: taller vampiric guy who can shift into a ghost form thats invisible to all except taelili. taelili's love interest (not actually a vampire)
 **Brayden**: literally marsh from fear& but somehow more genderfluid. he's the "i know a guy", wheres a dumb black and white stripped shirt everywhere
