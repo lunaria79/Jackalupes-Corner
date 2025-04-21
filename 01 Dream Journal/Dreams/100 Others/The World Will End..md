@@ -14,6 +14,7 @@ A goth who fucked around a found out. Shifts in and out of a ghost form at will.
 ```md fold file:Playlist
 Welcome to the Black Parade - My Chemical Romance
 Bloody Mary - Lady Gaga
+Moonlight - XXXTENTACION
 ```
 ## Brayden
 The "i know a guy". Genderfluid, but he doesn't know that yet.
