@@ -16,5 +16,5 @@ Welcome to the Black Parade - My Chemical Romance
 ## Brayden
 The "i know a guy". Genderfluid, but he doesn't know that yet.
 ```md fold file:Playlist
-Big Poppa 
+Big Poppa - The Notorious B.I.G.
 ```
