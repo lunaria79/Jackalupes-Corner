@@ -7,7 +7,7 @@ A fun-loving spunky empath, that's fallen into a really weird crowd. Malachi's g
 An occultist with the tendency to disassociate. Her soul tends to get lost on the astral plane, and her friends keep an eye on her body.
 ```md fold file:Playlist
 Constellations - The Oh Hellos
-
+From Persephone  - Kiki Rockwell
 ```
 ## Grunge
 A goth who fucked around a found out. Shifts in and out of a ghost form at will. Incredibly attracted to Taelili.
