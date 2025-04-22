@@ -8,6 +8,7 @@ Stargirl Interlude - The Weekend, Lana Del Ray
 A fun-loving spunky empath, that's fallen into a really weird crowd. Malachi's girlfriend and Lili's best friend.
 ```md unfold file:Playlist
 Stargirl Interlude - The Weekend, Lana Del Ray
+Burn Your Village - Kiki Rockwell
 ```
 ## Taelili
 An occultist with the tendency to disassociate. Her soul tends to get lost on the astral plane, and her friends keep an eye on her body.
@@ -22,6 +23,7 @@ A goth who fucked around a found out. Shifts in and out of a ghost form at will.
 Welcome to the Black Parade - My Chemical Romance
 Bloody Mary - Lady Gaga
 Moonlight - XXXTENTACION
+Victorious - Panic! At The Disco
 ```
 ## Brayden
 The "i know a guy". Genderfluid, but he doesn't know that yet.
