@@ -45,17 +45,14 @@ tags:
 "my heart and soul are going home"
 ```
 
-
 ## Tools
 ```java unfold file:Silk-Touch-Pickaxe
-/give @p netherite_pickaxe{display:{Name:"\"Silky\""},Enchantments:[{id:efficiency,lvl:5},{id:silk_touch,lvl:1},{id:unbreaking,lvl:3},{id:mending,lvl:1}]} 1
+/give @p netherite_pickaxe[custom_name='"Silky"',unbreakable={},fire_resistant={},rarity="epic",enchantments={levels:{"minecraft:efficiency":5,"minecraft:silk_touch":1,"minecraft:mending":1}}] 1
 ```
 
 ```java unfold file:Fortune-Pickaxe
-/give @p netherite_pickaxe{display:{Name:"\"Fortuna\""},Enchantments:[{id:efficiency,lvl:5},{id:unbreaking,lvl:3},{id:fortune,lvl:3},{id:mending,lvl:1}]} 1
+/give @p netherite_pickaxe[custom_name='"Fortuna"',unbreakable={},fire_resistant={},rarity="epic",enchantments={levels:{"minecraft:efficiency":5,"minecraft:fortune":3,"minecraft:mending":1}}] 1
 ```
-
-
 ## Mobs
 ```java unfold file:Aether-1.21.1
 /summon horse ~ ~ ~ {Invulnerable:1b,CustomNameVisible:1b,Tame:1b,Owner:[I;-25097269,388318029,-1906618731,1524043176],Variant:4,CustomName:'{"bold":true,"color":"white","text":"Aether"}',attributes:[{id:"minecraft:generic.armor",base:30},{id:"minecraft:generic.armor_toughness",base:30},{id:"minecraft:generic.follow_range",base:40},{id:"minecraft:generic.jump_strength",base:1},{id:"minecraft:generic.max_health",base:30},{id:"minecraft:generic.movement_speed",base:.3375}],SaddleItem:{id:"minecraft:saddle",Count:1b}}
