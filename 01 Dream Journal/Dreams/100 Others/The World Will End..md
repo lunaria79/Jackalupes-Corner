@@ -47,7 +47,7 @@ A goth who fucked around a found out. Shifts in and out of a ghost form at will.
 Welcome to the Black Parade - My Chemical Romance
 Bloody Mary - Lady Gaga
 Moonlight - XXXTENTACION
-Victorious - Panic! At The Disco
+Death of a Bachelor - Panic! At The Disco
 American Beauty/American Psycho - Fall Out Boy
 ```
 ---
