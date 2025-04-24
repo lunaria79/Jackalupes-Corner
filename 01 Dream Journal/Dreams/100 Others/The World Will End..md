@@ -20,6 +20,7 @@ Spider is her primary caretaker and roommate. And although they have drastically
 Constellations - The Oh Hellos
 From Persephone  - Kiki Rockwell
 Ocean Eyes - Bille Eilish , Astronomyy
+4:00 AM - Taeko Onuki
 ```
 ## Grunge
 A goth who fucked around a found out. Shifts in and out of a ghost form at will. Incredibly attracted to Taelili.
