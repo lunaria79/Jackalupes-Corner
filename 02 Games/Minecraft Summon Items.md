@@ -6,7 +6,7 @@ tags:
 ---
 ## Weapons
 ```java unfold file:Sword
-/give @p netherite_sword[custom_name='"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ"',lore=['{"bold":true,"color":"dark_purple","text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ"}','{"color":"white","text":"A small cat gave me this sword once. I dont know why it had it, but it didnt seem to need it anymore."}'],enchantments={levels:{"minecraft:fire_aspect":2,"minecraft:knockback":2,"minecraft:looting":3,"minecraft:sharpness":5,"minecraft:sweeping_edge":3,"minecraft:mending":1,"minecraft:unbreaking":3},show_in_tooltip:true}] 1
+/give @p netherite_sword[custom_name='{"bold":true,"text":"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ"}',lore=['{"bold":true,"color":"light_purple","text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ"}','{"bold":false,"color":"white","text":"A small cat gave me this sword once. I don\'t know why it had it, but it didn\'t seem to need it anymore."}'],unbreakable={},fire_resistant={},rarity="epic",enchantments={levels:{"minecraft:fire_aspect":2,"minecraft:knockback":3,"minecraft:looting":3,"minecraft:sharpness":5,"minecraft:sweeping_edge":3,"minecraft:unbreaking":3},show_in_tooltip:true}] 1
 ```
 ```md fold file:Translation
 **The Needle**
