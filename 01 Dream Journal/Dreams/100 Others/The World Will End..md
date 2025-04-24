@@ -6,7 +6,7 @@ Stargirl Interlude - The Weekend, Lana Del Ray
 Amnesia Was Her Name - Lemon Demon
 ```
 ## Spider(lily)
-
+![[Alek - S.png|200]]
 A fun-loving spunky empath, that's fallen into a really weird crowd. Malachi's girlfriend and Lili's best friend.
 ```md unfold file:Playlist
 Stargirl Interlude - The Weekend, Lana Del Ray
