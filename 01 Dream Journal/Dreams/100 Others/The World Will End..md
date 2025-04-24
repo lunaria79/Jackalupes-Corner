@@ -4,6 +4,7 @@ Wheelchair-bound main protagonist. Is able to move objects telekinetically, and 
 ```md unfold file:Playlist
 Stargirl Interlude - The Weekend, Lana Del Ray
 Amnesia Was Her Name - Lemon Demon
+Little Talks - Of Mice and Men
 ```
 ---
 ## Spider(lily)
@@ -47,6 +48,7 @@ Welcome to the Black Parade - My Chemical Romance
 Bloody Mary - Lady Gaga
 Moonlight - XXXTENTACION
 Victorious - Panic! At The Disco
+American Beauty/American Psycho - Fall Out Boy
 ```
 ---
 ## Brayden
