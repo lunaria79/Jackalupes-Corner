@@ -6,14 +6,16 @@ Stargirl Interlude - The Weekend, Lana Del Ray
 Amnesia Was Her Name - Lemon Demon
 ```
 ## Spider(lily)
-![[Alek - S.png|200]]
+![200](Alek%20-%20S.png)
 A fun-loving spunky empath, that's fallen into a really weird crowd. Malachi's girlfriend and Lili's best friend.
 ```md unfold file:Playlist
 Stargirl Interlude - The Weekend, Lana Del Ray
 Burn Your Village - Kiki Rockwell
 ```
 ## Taelili
-An occultist with the tendency to disassociate. Her soul tends to get lost on the astral plane, and her friends keep an eye on her body.
+![200](Brandy%20-%20T.png)
+ An occultist, that fucked around and found out, and now her soul  wanders through the different planes. Her friends take turns watching her body and making sure she's safe in the real world. If the desperately need her attention? Summoning ritual!
+Spider is her primary caretaker and roommate. And although they have drastically different styles, Spider makes an effort to dress up her body in clothing she would adore.
 ```md unfold file:Playlist
 Constellations - The Oh Hellos
 From Persephone  - Kiki Rockwell
