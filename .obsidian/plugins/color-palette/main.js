@@ -557,6 +557,7 @@ function pluginToPaletteSettings(pluginSettings) {
     direction: pluginSettings.direction,
     gradient: pluginSettings.gradient,
     hover: pluginSettings.hover,
+    hideText: pluginSettings.hideText,
     override: pluginSettings.override,
     aliases: []
   };
@@ -605,7 +606,7 @@ var defaultSettings = {
   errorPulse: true,
   aliasMode: "Both" /* Both */,
   corners: true,
-  hoverWhileEditing: false,
+  stabilityWhileEditing: true,
   reloadDelay: 5,
   copyFormat: "Raw" /* Raw */,
   height: 150,
@@ -613,6 +614,7 @@ var defaultSettings = {
   direction: "column" /* Column */,
   gradient: false,
   hover: true,
+  hideText: false,
   override: false
 };
 var SettingsTab = class extends import_obsidian2.PluginSettingTab {
@@ -628,7 +630,7 @@ var SettingsTab = class extends import_obsidian2.PluginSettingTab {
     containerEl.empty();
     containerEl.createEl("h2").setText("General");
     containerEl.addClass("color-palette-settings");
-    new import_obsidian2.Setting(containerEl).setName("Alias Mode").setDesc("What will be shown when aliases option is set in local palette options. Defaults to showing both hex and alias.").addDropdown((dropdown) => {
+    new import_obsidian2.Setting(containerEl).setName("Alias Mode").setDesc("What will be shown when aliases option is set in local palette options. Defaults to showing both color and alias.").addDropdown((dropdown) => {
       dropdown.addOption("Both" /* Both */, "Both" /* Both */).addOption("Prefer Alias" /* Alias */, "Prefer Alias" /* Alias */).setValue(this.plugin.settings.aliasMode).onChange(async (value) => {
         settings.aliasMode = value;
         await this.plugin.saveSettings();
@@ -640,9 +642,9 @@ var SettingsTab = class extends import_obsidian2.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
-    new import_obsidian2.Setting(containerEl).setName("Hover while editing").setDesc("Whether hover mode is active while editing.").addToggle((toggle) => {
-      toggle.setValue(settings.hoverWhileEditing).onChange(async (value) => {
-        settings.hoverWhileEditing = value;
+    new import_obsidian2.Setting(containerEl).setName("Stability While Editing").setDesc("Keeps the palette from moving while in edit mode.").addToggle((toggle) => {
+      toggle.setValue(settings.stabilityWhileEditing).onChange(async (value) => {
+        settings.stabilityWhileEditing = value;
         await this.plugin.saveSettings();
       });
     });
@@ -707,6 +709,12 @@ var SettingsTab = class extends import_obsidian2.PluginSettingTab {
     new import_obsidian2.Setting(containerEl).setName("Hover").setDesc("Toggles whether palettes can be hovered").addToggle((toggle) => {
       toggle.setValue(settings.hover).onChange(async (value) => {
         settings.hover = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian2.Setting(containerEl).setName("Hide Text").setDesc("Disables color and alias visibility").addToggle((toggle) => {
+      toggle.setValue(settings.hideText).onChange(async (value) => {
+        settings.hideText = value;
         await this.plugin.saveSettings();
       });
     });
@@ -1695,7 +1703,8 @@ var Palette = class {
   load() {
     this.createPalette(this.colors, this.settings);
     if (this.editMode && !this.settings.gradient) {
-      this.dropzone.toggleClass("palette-hover", this.pluginSettings.hoverWhileEditing ? this.settings.hover : false);
+      this.dropzone.toggleClass("palette-hover", !this.pluginSettings.stabilityWhileEditing);
+      this.dropzone.toggleClass("palette-hide-text", !this.pluginSettings.stabilityWhileEditing);
       this.dragDrop = new DragDrop([this.dropzone], Array.from(this.dropzone.children), (e2, res) => {
         this.paletteItems.sort((a2, b2) => {
           return res.order.indexOf(a2.container) - res.order.indexOf(b2.container);
@@ -1788,6 +1797,7 @@ var Palette = class {
     this.dropzone.style.setProperty("--not-palette-direction", settings.direction);
     this.dropzone.style.setProperty("--palette-height", `${settings.height}px`);
     this.dropzone.toggleClass("palette-hover", settings.hover);
+    this.dropzone.toggleClass("palette-hide-text", settings.hideText);
     try {
       if (this.status !== "Valid" /* VALID */)
         throw new PaletteError(this.status);
@@ -1815,10 +1825,11 @@ var Palette = class {
         {
           aliasMode: this.pluginSettings.aliasMode,
           editMode: this.editMode,
-          hoverWhileEditing: this.pluginSettings.hoverWhileEditing,
+          stabilityWhileEditing: this.pluginSettings.stabilityWhileEditing,
           height: settings.height,
           direction: settings.direction,
           hover: settings.hover,
+          hideText: settings.hideText,
           alias: ((_a = settings.aliases) == null ? void 0 : _a[i2]) || "",
           colorCount: colors.length
         }
@@ -2347,6 +2358,12 @@ var EditorModal = class extends import_obsidian5.Modal {
     new import_obsidian5.Setting(settingsContainer).setName("Hover").setDesc("Toggles whether palettes can be hovered").addToggle((toggle) => {
       toggle.setValue(this.settings.hover).onChange(async (value) => {
         this.settings.hover = value;
+        updatePalettePreview();
+      });
+    });
+    new import_obsidian5.Setting(settingsContainer).setName("Hide Text").setDesc("Disables color and alias visibility").addToggle((toggle) => {
+      toggle.setValue(this.settings.hideText).onChange(async (value) => {
+        this.settings.hideText = value;
         updatePalettePreview();
       });
     });

@@ -22,6 +22,13 @@ From Persephone  - Kiki Rockwell
 Ocean Eyes - Bille Eilish , Astronomyy
 4:00 AM - Taeko Onuki
 ```
+```palette
+#1a0e1e
+#793893
+#b45b7c
+#d0b7d4
+```
+
 ## Grunge
 A goth who fucked around a found out. Shifts in and out of a ghost form at will. Incredibly attracted to Taelili.
 ```md unfold file:Playlist
