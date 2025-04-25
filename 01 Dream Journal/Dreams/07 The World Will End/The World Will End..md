@@ -1,5 +1,6 @@
 # Characters
 ## Malachi
+![200](Images/Malachi.png)
 Wheelchair-bound main protagonist. Is able to move objects telekinetically, and summon them from his own liminal space.
 ```md unfold file:Playlist
 Stargirl Interlude - The Weekend, Lana Del Ray
@@ -8,7 +9,7 @@ Little Talks - Of Mice and Men
 ```
 ---
 ## Spider(lily)
-![200](Alek%20-%20S.png)
+![200](Images/Spiderlilly.png)
 A fun-loving spunky empath, that's fallen into a really weird crowd. Malachi's girlfriend and Lili's best friend.
 ```md unfold file:Playlist
 Stargirl Interlude - The Weekend, Lana Del Ray
@@ -24,7 +25,7 @@ The Woman I Am - AURORA
 ```
 ---
 ## Taelili
-![200](Brandy%20-%20T.png)
+![200](Images/Toki.png)
  An occultist, that fucked around and found out, and now her soul  wanders through the different planes. Her friends take turns watching her body and making sure she's safe in the real world. If the desperately need her attention? Summoning ritual!
 Spider is her primary caretaker and roommate. And although they have drastically different styles, Spider makes an effort to dress up her body in clothing she would adore.
 ```md unfold file:Playlist
