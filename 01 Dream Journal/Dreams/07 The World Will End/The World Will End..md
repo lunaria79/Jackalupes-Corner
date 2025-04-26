@@ -52,7 +52,7 @@ Death of a Bachelor - Panic! At The Disco
 American Beauty/American Psycho - Fall Out Boy
 ```
 ---
-## Brayden
+## Oliver
 The "i know a guy". Genderfluid, but he doesn't know that yet.
 ```md unfold file:Playlist
 Big Poppa - The Notorious B.I.G.
