@@ -43,6 +43,7 @@ Ocean Eyes - Bille Eilish , Astronomyy
 ```
 ---
 ## Grunge
+![200](image.png)
 A goth who fucked around a found out. Shifts in and out of a ghost form at will. Incredibly attracted to Taelili.
 ```md unfold file:Playlist
 Welcome to the Black Parade - My Chemical Romance
