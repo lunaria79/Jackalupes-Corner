@@ -7,6 +7,13 @@ Stargirl Interlude - The Weekend, Lana Del Ray
 Amnesia Was Her Name - Lemon Demon
 Little Talks - Of Mice and Men
 ```
+
+```palette
+#303a31
+#50332b
+#994d41
+#b69280
+```
 ---
 ## Spider(lily)
 ![200](Images/Spiderlilly.png)
@@ -15,6 +22,7 @@ A fun-loving spunky empath, that's fallen into a really weird crowd. Malachi's g
 Stargirl Interlude - The Weekend, Lana Del Ray
 Burn Your Village - Kiki Rockwell
 The Woman I Am - AURORA
+The Blade - AURORA
 ```
 
 ```palette
@@ -46,11 +54,16 @@ Ocean Eyes - Bille Eilish , Astronomyy
 ![200](image.png)
 A goth who fucked around a found out. Shifts in and out of a ghost form at will. Incredibly attracted to Taelili.
 ```md unfold file:Playlist
-Welcome to the Black Parade - My Chemical Romance
-Bloody Mary - Lady Gaga
-Moonlight - XXXTENTACION
-Death of a Bachelor - Panic! At The Disco
 American Beauty/American Psycho - Fall Out Boy
+Chicken Huntin' - Insane Clown Posse
+Friends In Low Places - Worthikids
+```
+
+```palette
+#0b0404
+#581b12
+#a23025
+#cda0a6
 ```
 ---
 ## Oliver
