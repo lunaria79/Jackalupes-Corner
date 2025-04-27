@@ -72,5 +72,6 @@ The "i know a guy". Genderfluid, but he doesn't know that yet.
 Big Poppa - The Notorious B.I.G.
 CBAT - Hudson Mohawke
 WHAT DO U LIKE - Tommy Richman
+Wire - WorthiKids
 ```
 ---
