@@ -56,7 +56,8 @@ A goth who fucked around a found out. Shifts in and out of a ghost form at will.
 ```md unfold file:Playlist
 American Beauty/American Psycho - Fall Out Boy
 Chicken Huntin' - Insane Clown Posse
-Friends In Low Places - Worthikids
+EXORCIST - KXLLSWXTCH
+Wire - WorthiKids
 ```
 
 ```palette
@@ -72,6 +73,6 @@ The "i know a guy". Genderfluid, but he doesn't know that yet.
 Big Poppa - The Notorious B.I.G.
 CBAT - Hudson Mohawke
 WHAT DO U LIKE - Tommy Richman
-Wire - WorthiKids
+MILLION DOLLAR BABY - Tommy Richman
 ```
 ---
