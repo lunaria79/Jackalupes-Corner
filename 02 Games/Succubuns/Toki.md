@@ -27,6 +27,12 @@ shadow: off
 - sleepy
 - agoraphobia 
 
+### Playlist
+```md unfold file:Playlist
+Matte Black UFO - Marigold
+Dreamer - AURORA
+```
+
 --- end-column ---
 
 ![100](Images/Species/succubun.png)
