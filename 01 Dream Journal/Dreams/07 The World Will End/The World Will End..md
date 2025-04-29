@@ -41,6 +41,7 @@ Constellations - The Oh Hellos
 From Persephone  - Kiki Rockwell
 Ocean Eyes - Bille Eilish , Astronomyy
 4:00 AM - Taeko Onuki
+This Will End - The Oh Hellos
 ```
 
 ```palette
@@ -74,5 +75,6 @@ Big Poppa - The Notorious B.I.G.
 CBAT - Hudson Mohawke
 WHAT DO U LIKE - Tommy Richman
 MILLION DOLLAR BABY - Tommy Richman
+King K Rool - Belak
 ```
 ---
