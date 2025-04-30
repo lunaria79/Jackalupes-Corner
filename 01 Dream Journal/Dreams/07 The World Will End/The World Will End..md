@@ -3,7 +3,7 @@
 ![200](Images/Malachi.png)
 Wheelchair-bound main protagonist. Is able to move objects telekinetically, and summon them from his own liminal space.
 ```md unfold file:Playlist
-Stargirl Interlude - The Weekend, Lana Del Ray
+Peer Gynt, Op. 23: IV. In the Hall of the Mountain King - Philharmonia Orchestra
 Amnesia Was Her Name - Lemon Demon
 Little Talks - Of Mice and Men
 ```
