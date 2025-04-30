@@ -1,7 +1,9 @@
 # Characters
 ## Malachi
 ![200](Images/Malachi.png)
-Wheelchair-bound main protagonist. Is able to move objects telekinetically, and summon them from his own liminal space.
+A highschool anthropology teacher who has gotten sucked in to the world of conspiracy after he was in a near deadly motorcycle accident. He keeps his crack pot ideas outta the lesson plan, so he doesn't get fired, so he subjects his quite literal insanity on his friends. He and Taelili don't see eye to eye on the occult, but they put their differences aside for Spider, Malachi's girlfriend and Taelili's best friend. 
+He doesn't believe that the aliens built the pyramids, but he *does* believe that the citizens of Atlantis achieved enlightenment, and rose into space as gods, and are now traveling the stars. His ass is not taking his happy pills.
+Is able to move objects telekinetically, and summon them from his own liminal space.
 ```md unfold file:Playlist
 Peer Gynt, Op. 23: IV. In the Hall of the Mountain King - Philharmonia Orchestra
 Amnesia Was Her Name - Lemon Demon
