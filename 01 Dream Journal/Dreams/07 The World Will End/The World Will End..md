@@ -25,6 +25,7 @@ Stargirl Interlude - The Weekend, Lana Del Ray
 Burn Your Village - Kiki Rockwell
 The Woman I Am - AURORA
 The Blade - AURORA
+Oscillating in Imaginary Butterflies - Matahara
 ```
 
 ```palette
@@ -78,5 +79,6 @@ CBAT - Hudson Mohawke
 WHAT DO U LIKE - Tommy Richman
 MILLION DOLLAR BABY - Tommy Richman
 King K Rool - Belak
+Sparkle - Kid Bloom
 ```
 ---
