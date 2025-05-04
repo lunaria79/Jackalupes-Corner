@@ -1,4 +1,8 @@
 # Spider
-![[image-1.png]]
+![[Images/Website Ideas/image-1.png]]
 # Taelili
-![[image-2.png]]
+![[Images/Website Ideas/image-2.png]]
+# Malachi
+![[Images/Website Ideas/image-3.png]]
+# Oliver
+![[Images/Website Ideas/image-4.png]]

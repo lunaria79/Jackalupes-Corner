@@ -56,7 +56,7 @@ This Will End - The Oh Hellos
 ```
 ---
 ## Grunge
-![200](image.png)
+![200](Images/Grunge.png)
 A goth who fucked around a found out. Shifts in and out of a ghost form at will. Incredibly attracted to Taelili.
 ```md unfold file:Playlist
 American Beauty/American Psycho - Fall Out Boy
