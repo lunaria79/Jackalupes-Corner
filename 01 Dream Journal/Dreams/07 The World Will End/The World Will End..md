@@ -63,6 +63,7 @@ American Beauty/American Psycho - Fall Out Boy
 Chicken Huntin' - Insane Clown Posse
 EXORCIST - KXLLSWXTCH
 Wire - WorthiKids
+Shaush - Biskwiq
 ```
 
 ```palette
