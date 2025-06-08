@@ -24,6 +24,7 @@
 
 ==/UserStyle== */
 @-moz-document domain("toyhou.se") {
+	body:has(.side-nav .display-group a[href*="our-burrowgatory"]),
 	body:has(.side-nav .display-user a[href*="Jackalupe"]),
   body:has(.side-nav .display-user a[href*="spUnstaeble"]),
   body:has(.side-nav .display-user a[href*="RiverNyx9"]),
@@ -213,7 +214,9 @@
 		}
   }
 }
+
 @-moz-document domain("toyhou.se") {
+	body:has(.side-nav .display-group a[href*="our-burrowgatory"]),
 	body:has(.side-nav .display-user a[href*="Jackalupe"]),
 	body:has(.side-nav .display-user a[href*="spUnstaeble"]),
 	body:has(.side-nav .display-user a[href*="RiverNyx9"]),
@@ -245,7 +248,9 @@
 		}
 	}
 }
+
 @-moz-document domain("toyhou.se") {
+	body:has(.side-nav .display-group a[href*="our-burrowgatory"]),
 	body:has(.side-nav .display-user a[href*="Jackalupe"]),
 	body:has(.side-nav .display-user a[href*="spUnstaeble"]),
 	body:has(.side-nav .display-user a[href*="RiverNyx9"]),
