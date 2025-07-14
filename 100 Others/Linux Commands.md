@@ -77,6 +77,10 @@ rename -a <original> <new> *<.filetype>
 ```rust fold file:Rename-String-Example
 rename -a diamond gold *.png
 ```
+
+```rust unfold file:Clear-Pacman-Cache
+paccache -rk 0
+```
 ---
 # Fun Stuff
 ## Daktilo (Typewriter Sounds)
