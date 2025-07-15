@@ -97,6 +97,24 @@ daktilo --preset default
 daktilo --variate-tempo 0.9,0.4 --variate-volume 0.1,0.5
 ```
 
+## Music Player
+```rust unfold file:Music-Player
+cmus
+```
+
+## Coding
+```rust unfold file:Open-Tmux
+tmux
+```
+
+```rust unfold file:START-EVERYTHING-WITH-THIS
+ctl b
+```
+
+```rust unfold file:Open-Manual
+man tmux
+```
+
 ## Minecraft Project
 ```rust unfold file:Zip-Catboy-Override
 zip Catboy\ Override.zip pack.mcmeta pack.png -r assets
