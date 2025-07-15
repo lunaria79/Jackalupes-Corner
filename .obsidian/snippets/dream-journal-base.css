@@ -38,7 +38,7 @@ div.markdown-reading-view > div.markdown-preview-view.dream-journal-base > div {
   -webkit-backdrop-filter: blur(0px);
           backdrop-filter: blur(0px);
   padding: 10px;
-  max-width: 75%;
+  max-width: 95%;
 }
 
 .dream-journal-base .mod-header {
