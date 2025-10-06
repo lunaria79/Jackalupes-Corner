@@ -8,6 +8,9 @@ tags:
 ```java unfold file:Custom-Superflat
 minecraft:bedrock,25*minecraft:black_terracotta,25*minecraft:gray_terracotta,25*light_gray_terracotta,5*minecraft:white_terracotta;minecraft:plains
 ```
+```java unfold
+/brush biome sphere 6 biomesoplenty:jacaranda_glade
+```
 ## Weapons
 ```java unfold file:Sword
 /give @p netherite_sword[custom_name='{"bold":true,"text":"ℸ ̣ ⍑ᒷ リᒷᒷ↸ꖎᒷ"}',lore=['{"bold":true,"color":"light_purple","text":"ᓭᒷ∴リ⎓∷𝙹ᒲ ↸ᒷᔑℸ ̣ ⍑, ℸ ̣ 𝙹 ↸╎ᒷ ⚍リᓭᒷ∴リ"}','{"bold":false,"color":"white","text":"A small cat gave me this sword once. I don\'t know why it had it, but it didn\'t seem to need it anymore."}'],unbreakable={},fire_resistant={},rarity="epic",enchantments={levels:{"minecraft:fire_aspect":2,"minecraft:knockback":3,"minecraft:looting":3,"minecraft:sharpness":5,"minecraft:sweeping_edge":3,"minecraft:unbreaking":3},show_in_tooltip:true}] 1
