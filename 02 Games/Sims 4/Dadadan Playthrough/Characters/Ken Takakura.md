@@ -2,7 +2,7 @@
 ```column-settings
 Number of Columns: 5
 Text Align: Center
-Col Width: 160px
+Col Width: 20%
 Border: disabled
 Shadow: disabled
 ```
@@ -30,6 +30,7 @@ Shadow: disabled
 --- start-multi-column: ID_n9io
 ```column-settings
 Border: disabled
+Shadow: disabled
 Number of Columns: 2
 Largest Column: standard
 ```
