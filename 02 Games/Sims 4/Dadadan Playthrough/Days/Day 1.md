@@ -17,7 +17,7 @@ shadow: disabled
 
 - Momo's friend [Jenna Akiyama](../Characters/Jenna%20Akiyama.md) came by and dropped of a painting called "literally us" as house warming gift. While she had to go pretty soon after, they later chat on the phone to catch up!
 
---- start-multi-column: ID_ej8g3
+--- start-multi-column: ID_ej8g2
 ```column-settings
 Number of Columns: 2
 border: disabled
@@ -32,11 +32,20 @@ shadow: disabled
 
 --- end-multi-column
 
-
-
-![[../Images/literally-us.png|250]] ![[../Images/momo-phone.png|250]]
-- Since no one is home to stop her, Momo starts to move her office belongings upstairs.
-![[Dadadan Playthrough/Images/2025-10-10_13-53-01-838_[jackalupe] summer sunsets.png|500]]
 - Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom until he reads the note Momo left him. She asks for him to move her part of the office upstairs, due to the increased sightings of her stalker.
 - After re-arranging and cleaning the whole house, Okarun starts to make a little chatter bot he can talk to Momo through. Somehow, he manages to hit himself in the head.
-![[../Images/ken-hurt.png|250]] ![[Dadadan Playthrough/Images/2025-10-10_14-40-44-714_[jackalupe] summer sunsets.png|250]]
+
+--- start-multi-column: ID_ej8g3
+```column-settings
+Number of Columns: 2
+border: disabled
+shadow: disabled
+```
+
+![Damage|250](../Images/ken-hurt.png)
+
+--- column-break ---
+
+![It works!|250](../Images/2025-10-10_14-40-44-714_[jackalupe]%20summer%20sunsets.png)
+
+--- end-multi-column
