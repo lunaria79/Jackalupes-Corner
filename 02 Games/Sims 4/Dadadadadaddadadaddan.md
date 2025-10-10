@@ -26,3 +26,5 @@
 ![[Screenshot 2025-10-10 134146.png|250]] ![[2025-10-10_13-48-14-721_[jackalupe] summer sunsets.png|250]]
 - Since no one is home to stop her, Momo completely rearranges the office section of the bedroom.
 ![[2025-10-10_13-53-01-838_[jackalupe] summer sunsets.png|500]]
+**Authors note: why are there so many random man stalking momo wtf. Trashly, "Tom Peeping", a random vampire...**
+- Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom.
