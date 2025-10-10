@@ -3,7 +3,7 @@
 -  Whenever Okarun isn't home, a [strange man](../Characters/Tom%20Peeping.md) comes up and peeks through the windows. While she and Okarun have reported this to the police, they refuse do to anything. Momo is downplaying the man's behavior, as to not freak Okarun out more than he already is. She starts receiving texts from an unknown number.
 ![[Dadadan Playthrough/Images/image.png|500]]
 - Momo's friend [Jenna Akiyama](../Characters/Jenna%20Akiyama.md) came by and dropped of a painting called "literally us" as house warming gift. While she had to go pretty soon after, they later chat on the phone to catch up!
-![[Dadadan Playthrough/Images/Screenshot 2025-10-10 134146.png|250]] ![[Dadadan Playthrough/Images/2025-10-10_13-48-14-721_[jackalupe] summer sunsets.png|250]]
+![[../Images/literally-us.png|250]] ![[../Images/momo-phone.png|250]]
 - Since no one is home to stop her, Momo starts to move her office belongings upstairs.
 ![[Dadadan Playthrough/Images/2025-10-10_13-53-01-838_[jackalupe] summer sunsets.png|500]]
 - Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom until he reads the note Momo left him. She asks for him to move her part of the office upstairs, due to the increased sightings of her stalker.
