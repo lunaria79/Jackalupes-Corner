@@ -1,15 +1,28 @@
 
---- start-multi-column: ID_mffc
+--- start-multi-column: ID_frik
 ```column-settings
-Number of Columns: 6
+Number of Columns: 5
+Text Align: Center
 Largest Column: standard
 ```
 
-
+![Introvert|50](../Images/Trait%20Photos/Introvert.png)
 
 --- column-break ---
 
+![Nerdy](../Images/Trait%20Photos/Nerdy.png)
 
+--- column-break ---
+
+![Analytical](../Images/Trait%20Photos/Analytical.png)
+
+--- column-break ---
+
+![Self-Concious](../Images/Trait%20Photos/Self-Concious.png)
+
+--- column-break ---
+
+![Sporty](../Images/Trait%20Photos/Sporty.png)
 
 --- end-multi-column
 
