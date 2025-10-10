@@ -40,6 +40,8 @@ Momo Ayase developed telekinetic powers on accident during a dare between her an
 
 Ever since she was raised child she's been fascinated by death. And now after unlocking her supernatural abilities, she wants to become a Medium that her grandmother would be proud of. Her best and only friend [Jenna Akiyama](Jenna%20Akiyama.md), while skeptical of tarot, is her willing Guinea pig.
 
+Besides working as a Medium, Momo can be often found at the library, researching death records. She also enjoys knitting and crocheting for friends.
+
 --- column-break ---
 
 ![Momo on the phone with bestfriend Jenna|250](../Images/momo-phone.png)
