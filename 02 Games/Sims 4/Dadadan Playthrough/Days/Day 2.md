@@ -7,3 +7,5 @@
 ![[2025-10-10_16-14-03-299_[jackalupe] summer sunsets.png|400]] ![[image-1.png]]
 - Watching the sky.
 - ![[2025-10-10_16-21-25-606_[jackalupe] summer sunsets.png|400]] ![[image-2.png]]
+- Pottery
+![[2025-10-10_16-33-11-758_[jackalupe] summer sunsets.png|400]] ![[image-3.png]]
