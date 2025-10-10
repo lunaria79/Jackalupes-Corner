@@ -27,4 +27,4 @@
 - Since no one is home to stop her, Momo completely rearranges the office section of the bedroom.
 ![[2025-10-10_13-53-01-838_[jackalupe] summer sunsets.png|500]]
 **Authors note: why are there so many random man stalking momo wtf. Trashly, "Tom Peeping", a random vampire...**
-- Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom.
+- Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom until he reads the note momo left him. She asks for him to move her part of the office upstairs, due to the increased sightings of her stalker.
