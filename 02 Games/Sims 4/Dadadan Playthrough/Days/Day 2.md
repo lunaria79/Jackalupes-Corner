@@ -1,0 +1,1 @@
+- Momo arrives home early enough to see [Ken Takakura](../Characters/Ken%20Takakura.md) doing his morning aerobics workout.

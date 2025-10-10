@@ -1,0 +1,3 @@
+- Spell Caster: Focus on psychokenisis
+- Works as a Medium
+- Explore Dreamweaver career?
