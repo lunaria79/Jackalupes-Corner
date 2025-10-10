@@ -2,8 +2,9 @@
 ```column-settings
 Number of Columns: 5
 Text Align: Center
-Largest Column: standard
+Col Width: 160px
 Border: disabled
+Shadow: disabled
 ```
 
 ![Introvert|75](../Images/Trait%20Photos/Introvert.png)

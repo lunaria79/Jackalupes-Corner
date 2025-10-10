@@ -2,8 +2,9 @@
 ```column-settings
 Number of Columns: 5
 Text Align: Center
-Col Width: 150px
+Col Width: 20%
 Border: disabled
+Shadow: disabled
 ```
 
 ![Extrovert|75](../Images/Trait%20Photos/Extrovert.png)
@@ -22,7 +23,7 @@ Border: disabled
 
 --- column-break ---
 
-shy
+![Shy](../Images/Trait%20Photos/Shy.png)
 
 --- end-multi-column
 
