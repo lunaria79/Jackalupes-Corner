@@ -8,4 +8,4 @@
 ![[Dadadan Playthrough/Images/2025-10-10_13-53-01-838_[jackalupe] summer sunsets.png|500]]
 - Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom until he reads the note Momo left him. She asks for him to move her part of the office upstairs, due to the increased sightings of her stalker.
 - After re-arranging and cleaning the whole house, Okarun starts to make a little chatter bot he can talk to Momo through. Somehow, he manages to hit himself in the head.
-![[Dadadan Playthrough/Images/2025-10-10_14-35-41-841_[jackalupe] summer sunsets.png|250]] ![[Dadadan Playthrough/Images/2025-10-10_14-40-44-714_[jackalupe] summer sunsets.png|250]]
+![[../Images/ken-hurt.png|250]] ![[Dadadan Playthrough/Images/2025-10-10_14-40-44-714_[jackalupe] summer sunsets.png|250]]

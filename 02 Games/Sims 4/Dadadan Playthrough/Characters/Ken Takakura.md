@@ -1,6 +1,23 @@
+
+--- start-multi-column: ID_mffc
+```column-settings
+Number of Columns: 6
+Largest Column: standard
+```
+
+
+
+--- column-break ---
+
+
+
+--- end-multi-column
+
+
+
 --- start-multi-column: ID_n9io
 ```column-settings
-Border: disabled
+Border: yes
 Number of Columns: 2
 Largest Column: standard
 ```
@@ -14,5 +31,7 @@ At home, he does most of the cooking and the cleaning as a stress reliever. He s
 --- column-break ---
 
 ![Okarun doing aerobics after work.|250](../Images/ken-dance.png)
+
+![Ken after hitting himself in the face with a hammer.|250](../Images/ken-hurt.png)
 
 --- end-multi-column
