@@ -3,11 +3,11 @@
   --sims-green: #2CDDA7;
   --sims-aqua: #2CDDDD;
   --sims-blue: red;
-  --sims-red: red;
+  --sims-red: #e72222;
   --sims-purple: #BF7BEF;
   --sims-black: #151414;
   --sims-white: #F0F3F1;
-  --sim-radius: 5px;
+  --sim-radius: 2px;
   font-family: "Arvo", sans-serif;
 }
 
@@ -23,11 +23,22 @@
   color: var(--sims-white);
   content: "Chapter Select";
 }
+.sims-4 .metadata-property {
+  background: rgba(219, 209, 209, 0.36);
+  border-radius: var(--sim-radius);
+  font-weight: 700;
+}
+.sims-4 .metadata-property[data-property-key="Previous Chapter"] .multi-select-pill {
+  color: var(--sims-red);
+}
+.sims-4 .metadata-property[data-property-key="Next Chapter"] .multi-select-pill {
+  color: var(--sims-green);
+}
 .sims-4 .metadata-property-key-input {
   color: var(--sims-white);
 }
-.sims-4 .metadata-property-value {
-  color: red;
+.sims-4 .metadata-property-value .multi-select-container {
+  padding: 1px 0 0 0;
 }
 .sims-4 .collapse-indicator.collapse-icon,
 .sims-4 .metadata-property[data-property-key=cssclasses],
