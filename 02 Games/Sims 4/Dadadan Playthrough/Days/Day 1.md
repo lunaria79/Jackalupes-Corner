@@ -6,23 +6,9 @@ Next Chapter:
 ---
 
 Due to their alternative life schedules, [Momo Ayase](../Characters/Momo%20Ayase.md) spends most of her days alone. She gets lonely, and it's putting a strain on her and [Ken Takakura](../Characters/Ken%20Takakura.md)'s relationship. Unfortunately, the two aren't making enough money for this to change. [Momo Ayase](../Characters/Momo%20Ayase.md) sits eating leftover hotpot in silence. Not even the action movie she put on can help her.
-
---- start-multi-column: ID_ej8g
-```column-settings
-Number of Columns: 2
-border: disabled
-shadow: disabled
-```
-
-Whenever [Ken Takakura](../Characters/Ken%20Takakura.md) isn't home, a [strange man](../Characters/Tom%20Peeping.md) comes up and peeks through the windows. While she and [Ken Takakura](../Characters/Ken%20Takakura.md) have reported this to the police, they refuse do to anything. Momo is downplaying the man's behavior, as to not freak [Ken Takakura](../Characters/Ken%20Takakura.md) out more than he already is. She starts receiving texts from an unknown number.
-
---- column-break ---
-
-![](../Images/stalker-message-1.png)
-
---- end-multi-column
-
-Momo's friend [Jenna Akiyama](../Characters/Jenna%20Akiyama.md) came by and dropped of a painting called "literally us" as house warming gift. While she had to go pretty soon after, they later chat on the phone to catch up!
+Whenever [Okarun](../Characters/Ken%20Takakura.md) isn't home, a [strange man](../Characters/Tom%20Peeping.md) comes up and peeks through the windows. While she and [Okarun](../Characters/Ken%20Takakura.md) have reported this to the police, they refuse do to anything. Momo is downplaying the man's behavior, as to not freak [Ken Takakura](../Characters/Ken%20Takakura.md) out more than he already is. She starts receiving texts from an unknown number.
+![The first stalker text|500](../Images/stalker-message-1.png)
+[Momo](../Characters/Momo%20Ayase.md)'s friend [Jenna Akiyama](../Characters/Jenna%20Akiyama.md) came by and dropped of a painting called "literally us" as house warming gift. While she had to go pretty soon after, they later chat on the phone to catch up!
 
 --- start-multi-column: ID_ej8g2
 ```column-settings
@@ -31,11 +17,11 @@ border: disabled
 shadow: disabled
 ```
 
-![literally-us|250](../Images/JA%20Paintings/literally-us.png)
+!["literally us" by JA|250](../Images/JA%20Paintings/literally-us.png)
 
 --- column-break ---
 
-![momo-phone|250](../Images/Headshots/momo-phone.png)
+![Momo on the phone with Jenna|250](../Images/Headshots/momo-phone.png)
 
 --- end-multi-column
 

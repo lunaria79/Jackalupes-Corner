@@ -28,9 +28,9 @@
 		}
 	}
 	.metadata-property {
-		background: rgba(219, 209, 209, 0.36);
+		background: #f0f3f11a;
 		border-radius: var(--sim-radius);
-		font-weight: 700;
+		.multi-select-pill { font-weight: 700; }
 		&[data-property-key="Previous Chapter"] .multi-select-pill { color: var(--sims-red);}
 		&[data-property-key="Next Chapter"] .multi-select-pill { color: var(--sims-green);}
 	}
@@ -64,11 +64,16 @@
 	.inline-title { color: var(--sims-green) !important; font-weight: 700; }
 	p, li { color: var(--sims-black) !important; font-weight: 400; }
 	p em { color: var(--sims-purple) !important; font-weight: 400; }
-	img { padding: 20px 0; border-radius: var(--sim-radius); }
+	img { padding: 10px 0; }
 }
 
 //Backgrounds
 .sims-4 {
-	background: #F0F3F1;
-	.markdown-preview-sizer.markdown-preview-section { background: transparent; }
+	background: #F0F3F1 !important;
+	.mcm-column-region-wrapper,
+	.markdown-preview-sizer.markdown-preview-section { background: transparent !important; }
+}
+
+div:has(.mcm-column-div) {
+	background: unset;
 }

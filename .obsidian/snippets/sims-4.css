@@ -24,8 +24,10 @@
   content: "Chapter Select";
 }
 .sims-4 .metadata-property {
-  background: rgba(219, 209, 209, 0.36);
+  background: rgba(240, 243, 241, 0.1019607843);
   border-radius: var(--sim-radius);
+}
+.sims-4 .metadata-property .multi-select-pill {
   font-weight: 700;
 }
 .sims-4 .metadata-property[data-property-key="Previous Chapter"] .multi-select-pill {
@@ -72,13 +74,17 @@
   font-weight: 400;
 }
 .sims-4 img {
-  padding: 20px 0;
-  border-radius: var(--sim-radius);
+  padding: 10px 0;
 }
 
 .sims-4 {
-  background: #F0F3F1;
+  background: #F0F3F1 !important;
 }
+.sims-4 .mcm-column-region-wrapper,
 .sims-4 .markdown-preview-sizer.markdown-preview-section {
-  background: transparent;
+  background: transparent !important;
+}
+
+div:has(.mcm-column-div) {
+  background: unset;
 }/*# sourceMappingURL=sims-4.css.map */
