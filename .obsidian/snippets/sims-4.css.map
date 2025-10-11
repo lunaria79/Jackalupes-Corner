@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"sims-4.css"}
+{"version":3,"sources":["sims-4.scss","sims-4.css"],"names":[],"mappings":"AAAQ,2GAAA;AAER;EACC,iBAAA;EACA,gBAAA;EACA,eAAA;EACA,kBAAA;EACA,kBAAA;ACAD;;ADIA;EACC,+BAAA;EACA,cAAA;ACDD;ADEC;EAAI,mCAAA;ACCL;ADAC;EAAM,eAAA;ACGP;;ADCA;EACC,iBAAA;ACED;ADDC;EAAmD,uBAAA;ACIpD","file":"sims-4.css"}

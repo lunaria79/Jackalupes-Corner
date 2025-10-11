@@ -1,1 +1,26 @@
-/*# sourceMappingURL=sims-4.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+.sims-4 * {
+  --sims-green: red;
+  --sims-blue: red;
+  --sims-red: red;
+  --sims-purple: red;
+  --sims-black: #000;
+}
+
+.sims-4 {
+  font-family: "Arvo", sans-serif;
+  line-height: 2;
+}
+.sims-4 p {
+  color: var(--sims-black) !important;
+}
+.sims-4 img {
+  padding: 20px 0;
+}
+
+.sims-4 {
+  background: white;
+}
+.sims-4 .markdown-preview-sizer.markdown-preview-section {
+  background: transparent;
+}/*# sourceMappingURL=sims-4.css.map */
