@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - sims-4
+---
+
 Due to their alternative life schedules, [Momo Ayase](../Characters/Momo%20Ayase.md) spends most of her days alone. She gets lonely, and it's putting a strain on her and [Ken Takakura](../Characters/Ken%20Takakura.md)'s relationship. Unfortunately, the two aren't making enough money for this to change. [Momo Ayase](../Characters/Momo%20Ayase.md) sits eating leftover hotpot in silence. Not even the action movie she put on can help her.
 
 --- start-multi-column: ID_ej8g

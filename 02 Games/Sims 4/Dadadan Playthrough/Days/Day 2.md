@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - sims-4
+---
 Due to their alternate work schedules [Okarun](../Characters/Ken%20Takakura.md) and [Momo Ayase](../Characters/Momo%20Ayase.md) have not been able to spend time as a couple recently. As an apology  [Ken Takakura](../Characters/Ken%20Takakura.md) offered to take [Momo](../Characters/Momo%20Ayase.md) on a date to Nordhaven, as they both have the day off. The choose to go to the Konst Modern Museum.
 ![[../Images/2025-10-10_16-09-43-180_[jackalupe] summer sunsets.png]]
 Since this is the first time they've managed to have a sit down chat in awhile, they catch up over a game of *Hey Llama Llama*. Well, they catch up until [Momo](../Characters/Momo%20Ayase.md) made the "mistake" of bringing up a local alien sighting. [Okarun](../Characters/Ken%20Takakura.md)'s bosses don't care, so now [Momo](../Characters/Momo%20Ayase.md) get's to hear about the UAE he's seen at work.
