@@ -2,7 +2,7 @@
 cssclasses:
   - sims-4
 Previous Chapter:
-  - "[[Day 2]]"
+  - "[[Day 1]]"
 Next Chapter:
   - "[[Day 3]]"
 ---

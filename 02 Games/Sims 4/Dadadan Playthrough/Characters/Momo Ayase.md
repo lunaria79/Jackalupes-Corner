@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - sims-4
+---
 --- start-multi-column: ID_frik
 ```column-settings
 Number of Columns: 5
