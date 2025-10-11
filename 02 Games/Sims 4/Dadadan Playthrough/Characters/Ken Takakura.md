@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - sims-4
+  - no-properties
 ---
 --- start-multi-column: ID_frik
 ```column-settings
@@ -11,23 +12,23 @@ Border: disabled
 Shadow: disabled
 ```
 
-![Introvert|75](../Images/Trait%20Photos/Introvert.png)
+![Introvert|50](../Images/Trait%20Photos/Introvert.png)
 
 --- column-break ---
 
-![Nerdy|75](../Images/Trait%20Photos/Nerdy.png)
+![Nerdy|50](../Images/Trait%20Photos/Nerdy.png)
 
 --- column-break ---
 
-![Analytical|75](../Images/Trait%20Photos/Analytical.png)
+![Analytical|50](../Images/Trait%20Photos/Analytical.png)
 
 --- column-break ---
 
-![Self-Concious|75](../Images/Trait%20Photos/Self-Concious.png)
+![Self-Concious|50](../Images/Trait%20Photos/Self-Concious.png)
 
 --- column-break ---
 
-![Sporty|75](../Images/Trait%20Photos/Sporty.png)
+![Sporty|50](../Images/Trait%20Photos/Sporty.png)
 
 --- end-multi-column
 

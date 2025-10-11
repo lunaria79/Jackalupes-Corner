@@ -17,32 +17,25 @@
 .sims-4 {
 	.metadata-container {
 		background: var(--sims-black);
-		padding: 15px;
+		padding: 15px; margin-bottom: 5px;
 		border-radius: var(--sim-radius);
 	}
+
 	.metadata-properties-title {
 		color: var(--sims-black);
-		&::before { 
-			color: var(--sims-white); 
-			content: "Chapter Select";
-		}
+		&::before { color: var(--sims-purple); content: "Chapter Select";	}
 	}
+
 	.metadata-property {
 		background: #f0f3f11a;
 		border-radius: var(--sim-radius);
 		.multi-select-pill { font-weight: 700; }
 		&[data-property-key="Previous Chapter"] .multi-select-pill { color: var(--sims-red);}
 		&[data-property-key="Next Chapter"] .multi-select-pill { color: var(--sims-green);}
+		&-key-input { color: var(--sims-white);	}
+		.multi-select-container { padding: 1px 0 0 20px;	}
 	}
 
-	.metadata-property-key-input {
-		color: var(--sims-white);
-	}
-	.metadata-property-value {
-		.multi-select-container {
-			padding: 1px 0 0 0;
-		}
-	}
 	.collapse-indicator.collapse-icon,
 	.metadata-property[data-property-key="cssclasses"],
 	.metadata-property-icon,

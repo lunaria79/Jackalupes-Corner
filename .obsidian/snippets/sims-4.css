@@ -14,13 +14,14 @@
 .sims-4 .metadata-container {
   background: var(--sims-black);
   padding: 15px;
+  margin-bottom: 5px;
   border-radius: var(--sim-radius);
 }
 .sims-4 .metadata-properties-title {
   color: var(--sims-black);
 }
 .sims-4 .metadata-properties-title::before {
-  color: var(--sims-white);
+  color: var(--sims-purple);
   content: "Chapter Select";
 }
 .sims-4 .metadata-property {
@@ -39,8 +40,8 @@
 .sims-4 .metadata-property-key-input {
   color: var(--sims-white);
 }
-.sims-4 .metadata-property-value .multi-select-container {
-  padding: 1px 0 0 0;
+.sims-4 .metadata-property .multi-select-container {
+  padding: 1px 0 0 20px;
 }
 .sims-4 .collapse-indicator.collapse-icon,
 .sims-4 .metadata-property[data-property-key=cssclasses],
