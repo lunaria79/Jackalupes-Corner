@@ -11,7 +11,7 @@ shadow: disabled
 
 --- column-break ---
 
-![](../Images/image.png)
+![](../Images/stalker-message-1.png)
 
 --- end-multi-column
 
@@ -49,3 +49,6 @@ shadow: disabled
 ![It works!|250](../Images/2025-10-10_14-40-44-714_[jackalupe]%20summer%20sunsets.png)
 
 --- end-multi-column
+
+- [Momo Ayase](../Characters/Momo%20Ayase.md) arrives home early enough to see [Ken Takakura](../Characters/Ken%20Takakura.md) doing his morning aerobics workout. She loves her dweeb.
+![[../Images/2025-10-10_14-57-42-207_[jackalupe] summer sunsets.png|400]] ![[../Images/image 1.png]]
