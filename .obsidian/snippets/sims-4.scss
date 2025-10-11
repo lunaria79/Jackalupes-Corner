@@ -3,7 +3,7 @@
 .sims-4 * {
 	--sims-green: #2CDDA7;
 	--sims-aqua: #2CDDDD;
-	--sims-blue: red;
+	--sims-pink: #f76b95;
 	--sims-red: #e72222;
 	--sims-purple: #BF7BEF;
 	--sims-black: #151414;
@@ -66,6 +66,7 @@ div.markdown-reading-view > div.markdown-preview-view.sims-4 > div {
 	}
 	.inline-title { color: var(--sims-green) !important; font-weight: 700; }
 	p, li { color: var(--sims-black) !important; font-weight: 400; }
+	.image-captions-enabled .internal-embed.image-embed[alt] { background: red; }
 	p em { color: var(--sims-purple) !important; font-weight: 400; }
 	img { padding: 10px 0; }
 }
