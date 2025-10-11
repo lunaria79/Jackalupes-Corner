@@ -1,23 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .sims-4 * {
-	--sims-green: red;
+	--sims-green: #2CDDA7;
+	--sims-aqua: #2CDDDD;
 	--sims-blue: red;
 	--sims-red: red;
-	--sims-purple: red;
-	--sims-black: #000;
+	--sims-purple: #BF7BEF;
+	--sims-black: #151414;
+	--sims-white: #F0F3F1;
+
+	--sim-radius: 5px;
+}
+
+//Properities
+.sims-4 {
+	.metadata-container {
+		background: var(--sims-black);
+		padding: 15px;
+		border-radius: var(--sim-radius);
+	}
+
+	.metadata-properties-title {
+		color: var(--sims-white);
+	}
 }
 
 // Fonts
 .sims-4 {
 	font-family: "Arvo", sans-serif;
 	line-height: 2;
-	p { color: var(--sims-black) !important; }
-	img { padding: 20px 0; }
+	.inline-title { color: var(--sims-green) !important; font-weight: 700; }
+	p, li { color: var(--sims-black) !important; font-weight: 500; }
+	p a { color: var(--sims-green) !important; font-weight: 700; }
+	p em { color: var(--sims-purple) !important; font-weight: 600; }
+	img { padding: 20px 0; border-radius: var(--sim-radius); }
 }
 
 //Backgrounds
 .sims-4 {
-	background: white;
+	background: #F0F3F1;
 	.markdown-preview-sizer.markdown-preview-section { background: transparent; }
 }

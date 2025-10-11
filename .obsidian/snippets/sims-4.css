@@ -1,25 +1,51 @@
 @import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 .sims-4 * {
-  --sims-green: red;
+  --sims-green: #2CDDA7;
+  --sims-aqua: #2CDDDD;
   --sims-blue: red;
   --sims-red: red;
-  --sims-purple: red;
-  --sims-black: #000;
+  --sims-purple: #BF7BEF;
+  --sims-black: #151414;
+  --sims-white: #F0F3F1;
+  --sim-radius: 5px;
+}
+
+.sims-4 .metadata-container {
+  background: var(--sims-black);
+  padding: 15px;
+  border-radius: var(--sim-radius);
+}
+.sims-4 .metadata-properties-title {
+  color: var(--sims-white);
 }
 
 .sims-4 {
   font-family: "Arvo", sans-serif;
   line-height: 2;
 }
-.sims-4 p {
+.sims-4 .inline-title {
+  color: var(--sims-green) !important;
+  font-weight: 700;
+}
+.sims-4 p, .sims-4 li {
   color: var(--sims-black) !important;
+  font-weight: 500;
+}
+.sims-4 p a {
+  color: var(--sims-green) !important;
+  font-weight: 700;
+}
+.sims-4 p em {
+  color: var(--sims-purple) !important;
+  font-weight: 600;
 }
 .sims-4 img {
   padding: 20px 0;
+  border-radius: var(--sim-radius);
 }
 
 .sims-4 {
-  background: white;
+  background: #F0F3F1;
 }
 .sims-4 .markdown-preview-sizer.markdown-preview-section {
   background: transparent;
