@@ -43,8 +43,8 @@ At home, he does most of the cooking and the cleaning as a stress reliever. He s
 
 --- column-break ---
 
-![Okarun doing aerobics after work.|250](../Images/ken-dance.png)
+![Okarun doing aerobics after work.|250](../Images/Headshots/ken-dance.png)
 
-![Ken after hitting himself in the face with a hammer.|250](../Images/ken-hurt.png)
+![Ken after hitting himself in the face with a hammer.|250](../Images/Headshots/ken-hurt.png)
 
 --- end-multi-column

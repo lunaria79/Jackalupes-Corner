@@ -44,8 +44,8 @@ Besides working as a Medium, Momo can be often found at the library, researching
 
 --- column-break ---
 
-![Momo on the phone with bestfriend Jenna|250](../Images/momo-phone.png)
+![Momo on the phone with bestfriend Jenna|250](../Images/Headshots/momo-phone.png)
 
-![Momo checking herself out in the mirror before a date.|250](../Images/momo-checkout.png)
+![Momo checking herself out in the mirror before a date.|250](../Images/Headshots/momo-checkout.png)
 
 --- end-multi-column

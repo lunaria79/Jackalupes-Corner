@@ -24,11 +24,11 @@ border: disabled
 shadow: disabled
 ```
 
-![literally-us|250](../Images/literally-us.png)
+![literally-us|250](../Images/JA%20Paintings/literally-us.png)
 
 --- column-break ---
 
-![momo-phone|250](../Images/momo-phone.png)
+![momo-phone|250](../Images/Headshots/momo-phone.png)
 
 --- end-multi-column
 
@@ -42,7 +42,7 @@ border: disabled
 shadow: disabled
 ```
 
-![Damage|250](../Images/ken-hurt.png)
+![Damage|250](../Images/Headshots/ken-hurt.png)
 
 --- column-break ---
 
@@ -51,4 +51,4 @@ shadow: disabled
 --- end-multi-column
 
 [Momo Ayase](../Characters/Momo%20Ayase.md) arrives home early enough to see [Ken Takakura](../Characters/Ken%20Takakura.md) doing his morning aerobics workout. She loves her dweeb.
-![Felt the Spark](../Images/Day%201/Felt%20the%20Spark.png)
+![Felt the Spark](../Images/Event%20Days/Day%201/Felt%20the%20Spark.png)
