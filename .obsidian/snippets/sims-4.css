@@ -17,7 +17,23 @@
   border-radius: var(--sim-radius);
 }
 .sims-4 .metadata-properties-title {
+  color: var(--sims-black);
+}
+.sims-4 .metadata-properties-title::before {
   color: var(--sims-white);
+  content: "Chapter Select";
+}
+.sims-4 .metadata-property-key-input {
+  color: var(--sims-white);
+}
+.sims-4 .metadata-property-value {
+  color: red;
+}
+.sims-4 .collapse-indicator.collapse-icon,
+.sims-4 .metadata-property[data-property-key=cssclasses],
+.sims-4 .metadata-property-icon,
+.sims-4 .metadata-add-button {
+  display: none;
 }
 
 .sims-4 {
@@ -38,11 +54,11 @@
 }
 .sims-4 p, .sims-4 li {
   color: var(--sims-black) !important;
-  font-weight: 500;
+  font-weight: 400;
 }
 .sims-4 p em {
   color: var(--sims-purple) !important;
-  font-weight: 600;
+  font-weight: 400;
 }
 .sims-4 img {
   padding: 20px 0;

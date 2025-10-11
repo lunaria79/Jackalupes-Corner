@@ -20,9 +20,24 @@
 		padding: 15px;
 		border-radius: var(--sim-radius);
 	}
-
 	.metadata-properties-title {
+		color: var(--sims-black);
+		&::before { 
+			color: var(--sims-white); 
+			content: "Chapter Select";
+		}
+	}
+	.metadata-property-key-input {
 		color: var(--sims-white);
+	}
+	.metadata-property-value {
+		color: red;
+	}
+	.collapse-indicator.collapse-icon,
+	.metadata-property[data-property-key="cssclasses"],
+	.metadata-property-icon,
+	.metadata-add-button {
+		display: none;
 	}
 }
 
@@ -37,8 +52,8 @@
 		span.iconize-icon-in-link { display: none; }
 	}
 	.inline-title { color: var(--sims-green) !important; font-weight: 700; }
-	p, li { color: var(--sims-black) !important; font-weight: 500; }
-	p em { color: var(--sims-purple) !important; font-weight: 600; }
+	p, li { color: var(--sims-black) !important; font-weight: 400; }
+	p em { color: var(--sims-purple) !important; font-weight: 400; }
 	img { padding: 20px 0; border-radius: var(--sim-radius); }
 }
 
