@@ -25,8 +25,8 @@ shadow: disabled
 
 --- end-multi-column
 
-Momo leaves for work, and Okarun comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares Momo's food for when she gets home. He does not notice the redecorated bedroom until he reads the note Momo left him. She asks for him to move her part of the office upstairs, due to the increased sightings of her stalker.
-After re-arranging and cleaning the whole house, Okarun starts to make a little chatter bot he can talk to Momo through. Somehow, he manages to hit himself in the head.
+[Momo](../Characters/Momo%20Ayase.md) leaves for work, and [Okarun](../Characters/Ken%20Takakura.md) comes home shortly after, feeling a bit sick. He takes a quick nap, has a quick snack, and prepares [Momo](../Characters/Momo%20Ayase.md)'s food for when she gets home. He does not notice the redecorated bedroom until he reads the note [Momo](../Characters/Momo%20Ayase.md) left him. She asks for him to move her part of the office upstairs, due to the increased sightings of her stalker.
+After re-arranging and cleaning the whole house, [Okarun](../Characters/Ken%20Takakura.md) starts to make a little chatter bot he can talk to Momo through. Somehow, he manages to hit himself in the head.
 
 --- start-multi-column: ID_ej8g3
 ```column-settings
@@ -43,5 +43,5 @@ shadow: disabled
 
 --- end-multi-column
 
-[Momo Ayase](../Characters/Momo%20Ayase.md) arrives home early enough to see [Ken Takakura](../Characters/Ken%20Takakura.md) doing his morning aerobics workout. She loves her dweeb.
-![Felt the Spark](../Images/Event%20Days/Day%201/Felt%20the%20Spark.png)
+[Momo](../Characters/Momo%20Ayase.md) arrives home early enough to see [Okarun](../Characters/Ken%20Takakura.md) doing his morning aerobics workout. She loves her dweeb.
+![](../Images/Event%20Days/Day%201/Felt%20the%20Spark.png)
