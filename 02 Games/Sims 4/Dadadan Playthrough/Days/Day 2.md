@@ -13,4 +13,4 @@ Since this is the first time they've managed to have a sit down chat in awhile, 
  After a quick lunch at the Museum's picnic tables, [Momo](../Characters/Momo%20Ayase.md) and [Okarun](../Characters/Ken%20Takakura.md) try out the interactive pottery exhibit. They'll need to come back for the results in a few days.
 ![](../Images/Event%20Days/Day%202/Pottery%20Date.png)
 They come home, and after a quick shower, they fall asleep together for the first time in a long while. [Momo](../Characters/Momo%20Ayase.md) sleeps with her eyes open...
-![momo-creep](../Images/momo-creep.png)
+![](../Images/momo-creep.png)

@@ -15,7 +15,7 @@ div.markdown-reading-view > div.markdown-preview-view.sims-4 > div {
   -webkit-backdrop-filter: blur(0px);
           backdrop-filter: blur(0px);
   padding: 10px;
-  max-width: 75%;
+  max-width: 60%;
 }
 
 .sims-4 .metadata-container {

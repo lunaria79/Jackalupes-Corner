@@ -17,11 +17,11 @@ border: disabled
 shadow: disabled
 ```
 
-!["literally us" by JA|250](../Images/JA%20Paintings/literally-us.png)
+!["literally us" by JA|350](../Images/JA%20Paintings/literally-us.png)
 
 --- column-break ---
 
-![Momo on the phone with Jenna|250](../Images/Headshots/momo-phone.png)
+![Momo on the phone with Jenna|350](../Images/Headshots/momo-phone.png)
 
 --- end-multi-column
 
@@ -35,11 +35,11 @@ border: disabled
 shadow: disabled
 ```
 
-![Damage|250](../Images/Headshots/ken-hurt.png)
+![Damage|350](../Images/Headshots/ken-hurt.png)
 
 --- column-break ---
 
-![It works!|250](../Images/2025-10-10_14-40-44-714_[jackalupe]%20summer%20sunsets.png)
+![It works!|350](../Images/2025-10-10_14-40-44-714_[jackalupe]%20summer%20sunsets.png)
 
 --- end-multi-column
 
