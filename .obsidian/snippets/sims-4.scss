@@ -13,12 +13,22 @@
 	font-family: "Arvo", sans-serif;
 }
 
+div.markdown-reading-view > div.markdown-preview-view.sims-4 > div {
+	backdrop-filter: blur(0px);
+	padding: 10px;
+	max-width: 75%;
+}
+
 //Properities
 .sims-4 {
 	.metadata-container {
 		background: var(--sims-black);
 		padding: 15px; margin-bottom: 5px;
 		border-radius: var(--sim-radius);
+	}
+
+	.metadata-properties-heading {
+		padding: 0; margin-bottom: 0;
 	}
 
 	.metadata-properties-title {
