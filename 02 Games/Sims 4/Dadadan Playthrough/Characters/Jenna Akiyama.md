@@ -1,2 +1,2 @@
 - Momo's friend from her brief stint at university.
-- Stay at home 
+- Stay at home mother and aspiring painter.
