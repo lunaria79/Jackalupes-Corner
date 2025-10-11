@@ -29,9 +29,17 @@
 .sims-4 {
 	font-family: "Arvo", sans-serif;
 	line-height: 2;
+	p a { 
+		font-weight: 700;
+		color: var(--sims-green) !important; 
+		text-shadow:
+			1px 1px 0 var(--sims-black),
+			-1px 1px 0 var(--sims-black),
+			-1px -1px 0 var(--sims-black),
+			1px -1px 0 var(--sims-black);
+	}
 	.inline-title { color: var(--sims-green) !important; font-weight: 700; }
 	p, li { color: var(--sims-black) !important; font-weight: 500; }
-	p a { color: var(--sims-green) !important; font-weight: 700; }
 	p em { color: var(--sims-purple) !important; font-weight: 600; }
 	img { padding: 20px 0; border-radius: var(--sim-radius); }
 }

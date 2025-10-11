@@ -23,6 +23,11 @@
   font-family: "Arvo", sans-serif;
   line-height: 2;
 }
+.sims-4 p a {
+  font-weight: 700;
+  color: var(--sims-green) !important;
+  text-shadow: 1px 1px 0 var(--sims-black), -1px 1px 0 var(--sims-black), -1px -1px 0 var(--sims-black), 1px -1px 0 var(--sims-black);
+}
 .sims-4 .inline-title {
   color: var(--sims-green) !important;
   font-weight: 700;
@@ -30,10 +35,6 @@
 .sims-4 p, .sims-4 li {
   color: var(--sims-black) !important;
   font-weight: 500;
-}
-.sims-4 p a {
-  color: var(--sims-green) !important;
-  font-weight: 700;
 }
 .sims-4 p em {
   color: var(--sims-purple) !important;
