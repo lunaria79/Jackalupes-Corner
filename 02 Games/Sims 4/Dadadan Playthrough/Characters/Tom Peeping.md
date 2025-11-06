@@ -1,0 +1,6 @@
+---
+cssclasses:
+  - sims-4
+---
+- Apparently is a famous music executive. His behavior is an open secret in the industry, but he has connections people desperately want.
+- Has been stalking Momo since he saw her at a rock show in middle school. Is just now making himself known.

@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.sims-4 * {
+	--sims-green: #2CDDA7;
+	--sims-aqua: #2CDDDD;
+	--sims-pink: #f76b95;
+	--sims-red: #e72222;
+	--sims-purple: #BF7BEF;
+	--sims-black: #151414;
+	--sims-white: #F0F3F1;
+
+	--sim-radius: 2px;
+	font-family: "Arvo", sans-serif;
+}
+
+div.markdown-reading-view > div.markdown-preview-view.sims-4 > div {
+	backdrop-filter: blur(0px);
+	padding: 10px;
+	max-width: 60%;
+}
+
+//Properities
+.sims-4 {
+	.metadata-container {
+		background: var(--sims-black);
+		padding: 15px; margin-bottom: 5px;
+		border-radius: var(--sim-radius);
+	}
+
+	.metadata-properties-heading {
+		padding: 0; margin-bottom: 0;
+	}
+
+	.metadata-properties-title {
+		color: var(--sims-black);
+		&::before { color: var(--sims-purple); content: "Chapter Select";	}
+	}
+
+	.metadata-property {
+		background: #f0f3f11a;
+		border-radius: var(--sim-radius);
+		.multi-select-pill { font-weight: 700; }
+		&[data-property-key="Previous Chapter"] .multi-select-pill { color: var(--sims-red);}
+		&[data-property-key="Next Chapter"] .multi-select-pill { color: var(--sims-green);}
+		&-key-input { color: var(--sims-white);	}
+		.multi-select-container { padding: 1px 0 0 20px;	}
+	}
+
+	.collapse-indicator.collapse-icon,
+	.metadata-property[data-property-key="cssclasses"],
+	.metadata-property-icon,
+	.metadata-add-button {
+		display: none;
+	}
+}
+
+// Fonts
+.sims-4 {
+	line-height: 2;
+	p a { 
+		font-weight: 700;
+		letter-spacing: 1px;
+		color: var(--sims-green) !important;
+		text-shadow: var(--sims-black) 2px 0px 0px, var(--sims-black) 1.75517px 0.958851px 0px, var(--sims-black) 1.0806px 1.68294px 0px, var(--sims-black) 0.141474px 1.99499px 0px, var(--sims-black) -0.832294px 1.81859px 0px, var(--sims-black) -1.60229px 1.19694px 0px, var(--sims-black) -1.97999px 0.28224px 0px, var(--sims-black) -1.87291px -0.701566px 0px, var(--sims-black) -1.30729px -1.51361px 0px, var(--sims-black) -0.421592px -1.95506px 0px, var(--sims-black) 0.567324px -1.91785px 0px, var(--sims-black) 1.41734px -1.41108px 0px, var(--sims-black) 1.92034px -0.558831px 0px;
+		span.iconize-icon-in-link { display: none; }
+	}
+	.inline-title { color: var(--sims-green) !important; font-weight: 700; }
+	p, li { color: var(--sims-black) !important; font-weight: 400; }
+	.image-captions-enabled .internal-embed.image-embed[alt] { background: red; }
+	p em { color: var(--sims-purple) !important; font-weight: 400; }
+	img { padding: 10px 0; }
+}
+
+//Backgrounds
+.sims-4 {
+	background: #F0F3F1 !important;
+	.mcm-column-region-wrapper,
+	.markdown-preview-sizer.markdown-preview-section { background: transparent !important; }
+}
+
+div:has(.mcm-column-div) {
+	background: unset;
+}

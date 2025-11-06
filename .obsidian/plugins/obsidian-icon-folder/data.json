@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFileLines",
+      "FasPhotoFilm",
+      "FasUser",
       "FasFilePen",
-      "FasFolderTree",
-      "FasListCheck",
-      "LiListTodo",
-      "FasLink"
+      "FasFolderTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -176,5 +176,20 @@
   "01 Dream Journal/Dreams/07 The World Will End/Images/Website Ideas": "FasFolderTree",
   "02 Games/Cupid Cats": "FasFolderTree",
   "02 Games/Cupid Cats/Pictures": "FasFolderTree",
-  "02 Games/Cupid Cats/Emo Cats.md": "LiListTodo"
+  "02 Games/Cupid Cats/Emo Cats.md": "LiListTodo",
+  "02 Games/Sims 4/Dadadan Playthrough": "FasFolderTree",
+  "02 Games/Sims 4/Dadadan Playthrough/Images": "FasPhotoFilm",
+  "02 Games/Sims 4/Dadadan Playthrough/Characters": "FasFolderTree",
+  "02 Games/Sims 4/Dadadan Playthrough/Days": "FasFolderTree",
+  "02 Games/Sims 4/Dadadan Playthrough/Days/Day 1.md": "FasFilePen",
+  "02 Games/Sims 4/Dadadan Playthrough/Days/Day 2.md": "FasFileLines",
+  "02 Games/Sims 4/Dadadan Playthrough/Characters/Momo Ayase.md": "FasUser",
+  "02 Games/Sims 4/Dadadan Playthrough/Characters/Ken Takakura.md": "FasUser",
+  "02 Games/Sims 4/Dadadan Playthrough/Images/Trait Photos": "FasPhotoFilm",
+  "02 Games/Sims 4/Dadadan Playthrough/Days/Day 3.md": "FasFilePen",
+  "02 Games/Sims 4/Dadadan Playthrough/Characters/Jenna Akiyama.md": "FasUser",
+  "02 Games/Sims 4/Dadadan Playthrough/Images/Headshots": "FasPhotoFilm",
+  "02 Games/Sims 4/Dadadan Playthrough/Images/Event Days": "FasPhotoFilm",
+  "02 Games/Sims 4/Dadadan Playthrough/Images/JA Paintings": "FasPhotoFilm",
+  "02 Games/Sims 4/Dadadan Playthrough/Images/Event Days/Day 2": "FasPhotoFilm"
 }

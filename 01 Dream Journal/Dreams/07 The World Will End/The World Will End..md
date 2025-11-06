@@ -27,6 +27,8 @@ Burn Your Village - Kiki Rockwell
 The Woman I Am - AURORA
 The Blade - AURORA
 Oscillating in Imaginary Butterflies - Matahara
+Artemis - AURORA
+Breaking Dishes - Rihanna
 ```
 
 ```palette

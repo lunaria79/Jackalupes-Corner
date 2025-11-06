@@ -2,14 +2,14 @@
   "obsidian-git",
   "obsidian-dynamic-background",
   "html-tabs",
-  "obsidian-icon-folder",
   "image-converter",
   "obsidian-hider",
   "custom-classes",
   "color-palette",
   "table-editor-obsidian",
-  "obsidian-image-gallery",
   "multi-column-markdown",
   "obsidian-discordrpc",
-  "codeblock-customizer"
+  "obsidian-icon-folder",
+  "obsidian-smart-typography",
+  "extended-graph"
 ]
