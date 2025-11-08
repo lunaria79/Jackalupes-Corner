@@ -2,17 +2,24 @@
 cssclasses:
   - code no-properties
 ---
-Opens Better Terminal
-```
+```rust unfold file:Better-Terminal
 xfce4-terminal
 ```
-Check Memory
+
+```rust unfold file:Check-Memory
+htop
 ```
-free -m
-```
-Check Storage
-```
+
+```rust unfold file:Check-Storage
 ncdu
+```
+
+```rust unfold file:Music-Player
+cmus
+```
+
+```rust unfold file:neofetch
+neofetch
 ```
 - - -
 ### Installations
@@ -100,6 +107,10 @@ daktilo --variate-tempo 0.9,0.4 --variate-volume 0.1,0.5
 ## Music Player
 ```rust unfold file:Music-Player
 cmus
+```
+
+```rust unfold file:neofetch
+neofetch
 ```
 
 ## Coding
