@@ -17,6 +17,9 @@ ncdu
 ```rust unfold file:Music-Player
 cmus
 ```
+```rust fold file:Pause-Music-Player
+c
+```
 
 ```rust unfold file:neofetch
 neofetch
