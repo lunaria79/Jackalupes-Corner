@@ -59,6 +59,10 @@ sudo systemctl restart NetworkManager
 ```rust unfold file:Audio-Fix
 sudo pacman -S pipewire-pulse
 ```
+
+```rust unfold file:Enter-Root
+su root
+```
 - - -
 ### Manual Mount (deeznuts)
 ```rust unfold file:List-Drives
