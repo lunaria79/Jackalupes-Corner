@@ -34,6 +34,11 @@ Install from arch-linux user repository
 ```
 yay -S
 ```
+
+### RUN BEFORE UPDATING SYSTEM
+```
+sudo pacman -S archlinux-keyring
+```
 Update System
 ```
 sudo pacman -Syu
