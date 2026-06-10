@@ -60,7 +60,6 @@
   /* Header Colors */
   h1 {
     /* Page Titles */
-    /* Specific Page Headers */
   }
   h1[class*=title] {
     color: var(--cText);
@@ -68,6 +67,9 @@
   h1[class*=title] a {
     font-weight: 700;
     color: var(--cPurple) !important;
+  }
+  h1 {
+    /* Specific Page Headers */
   }
   h1 .profile-name-info a, [class*=header]:not(:has(h1 a)) h1 {
     color: var(--cPurple);
@@ -104,9 +106,6 @@
   }
   .navbar {
     /* Logo */
-    /* Links Dropdown Menu */
-    /* Notification Buttons */
-    /* Notification Buttons - Dropdown Version */
   }
   .navbar-inverse .navbar-brand {
     font-weight: 700;
@@ -121,6 +120,9 @@
   }
   .navbar-inverse .navbar-nav .nav-link:hover {
     color: var(--cPink) !important;
+  }
+  .navbar {
+    /* Links Dropdown Menu */
   }
   .navbar .dropdown-menu {
     color: var(--cText) !important;
@@ -143,6 +145,9 @@
     /* Dropdown Menu Divider */
     border-width: 2px;
     border-color: var(--cCrust);
+  }
+  .navbar {
+    /* Notification Buttons */
   }
   .navbar-notifications a.btn {
     color: var(--cBase) !important;
@@ -167,6 +172,9 @@
   }
   .navbar-notifications a.btn:hover {
     background: var(--cOrange);
+  }
+  .navbar {
+    /* Notification Buttons - Dropdown Version */
   }
   .navbar .nav-item.dropdown a.btn {
     color: var(--cBase) !important;
@@ -203,9 +211,6 @@
   }
   .side-nav {
     border: none !important;
-  }
-  .side-nav li {
-    /* Special Link Colors */
   }
   .side-nav li.header {
     /* Sidebar Subheaders */
@@ -255,6 +260,9 @@
     font-weight: 800;
     color: var(--cPink) !important;
     background-color: var(--cSurface);
+  }
+  .side-nav li {
+    /* Special Link Colors */
   }
   .side-nav li a[href*=block],
   .side-nav li a[href*=delete] {
@@ -372,11 +380,6 @@
     background-color: var(--cSurface) !important;
   }
   /* Character Information */
-  .character-thumb {
-    /* Charater Name */
-    /* Artist Name */
-    /* Character Stats */
-  }
   .character-thumb .thumb-image a {
     /* Character Image */
     border: none;
@@ -388,6 +391,9 @@
   .character-thumb .thumb-image a img {
     border-radius: 10px;
   }
+  .character-thumb {
+    /* Charater Name */
+  }
   .character-thumb .character-name-badge {
     /* Charater Name */
     border-radius: 5px;
@@ -398,6 +404,9 @@
   .character-thumb:hover .character-name-badge {
     color: var(--cPink) !important;
     background: var(--cMantle);
+  }
+  .character-thumb {
+    /* Artist Name */
   }
   .character-thumb .user-name-badge {
     border-radius: 5px;
@@ -419,6 +428,9 @@
   .character-thumb .user-name-badge[href*=RiverNyx9] {
     color: var(--cCrust);
     background: var(--cRed);
+  }
+  .character-thumb {
+    /* Character Stats */
   }
   .character-thumb .thumb-character-stat {
     font-weight: 700;
@@ -670,10 +682,12 @@
   }
   .characters-tag .add:hover {
     /* Add Tag */
-    background-color: var(--cGreen) !important;
   }
   .characters-tag .add:hover i {
     color: var(--cBase) !important;
+  }
+  .characters-tag .add:hover {
+    background-color: var(--cGreen) !important;
   }
   .characters-tag:has(a.add:hover) span {
     color: var(--cMantle) !important;
@@ -681,10 +695,12 @@
   }
   .characters-tag .ex:hover {
     /* Remove Tag */
-    background-color: var(--cRed) !important;
   }
   .characters-tag .ex:hover i {
     color: var(--cMantle) !important;
+  }
+  .characters-tag .ex:hover {
+    background-color: var(--cRed) !important;
   }
   .characters-tag:has(a.ex:hover) span {
     color: var(--cMantle) !important;

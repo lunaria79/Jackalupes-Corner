@@ -31,8 +31,6 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) {
     background: var(--cCrust);
     /* === Header === */
-    /* === Sidebar == */
-    /* === Footer === */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #header,
@@ -47,7 +45,6 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar,
   body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar {
     /* Logo */
-    /* Links Dropdown Menu */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header.navbar-inverse .navbar-brand,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar-inverse .navbar-brand,
@@ -78,6 +75,13 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar-inverse .navbar-nav .nav-link:hover,
   body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar-inverse .navbar-nav .nav-link:hover {
     color: var(--cPink) !important;
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header.navbar,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header.navbar {
+    /* Links Dropdown Menu */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header.navbar .dropdown-menu,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #header.navbar .dropdown-menu,
@@ -127,7 +131,6 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar,
   body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar {
     /* Notification Buttons */
-    /* Notification Buttons - Dropdown Version */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header .navbar-notifications a.btn,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar-notifications a.btn,
@@ -185,6 +188,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar-notifications a.btn:hover {
     background: var(--cOrange);
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #header .navbar,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #header .navbar {
+    /* Notification Buttons - Dropdown Version */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #header .navbar .nav-item.dropdown a.btn,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #header .navbar .nav-item.dropdown a.btn,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) #header .navbar .nav-item.dropdown a.btn,
@@ -231,6 +241,13 @@
     color: var(--cBase) !important;
     background: var(--cGreen) !important;
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* === Sidebar == */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #sidebar,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar,
@@ -252,13 +269,6 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav,
   body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav {
     border: none !important;
-  }
-  body:has(.side-nav .display-group a[href*=our-burrowgatory]) #sidebar .side-nav li,
-  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li,
-  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li,
-  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li,
-  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li {
-    /* Special Link Colors */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #sidebar .side-nav li.header,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li.header,
@@ -349,6 +359,13 @@
     color: var(--cPink) !important;
     background-color: var(--cSurface);
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) #sidebar .side-nav li,
+  body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li {
+    /* Special Link Colors */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #sidebar .side-nav li a[href*=block],
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #sidebar .side-nav li a[href*=delete],
   body:has(.side-nav .display-user a[href*=Jackalupe]) #sidebar .side-nav li a[href*=block],
@@ -414,6 +431,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) #sidebar .side-nav li.divider {
     border-width: 2px;
     border-color: var(--cCrust);
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* === Footer === */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) #footer,
   body:has(.side-nav .display-user a[href*=Jackalupe]) #footer,
@@ -514,16 +538,6 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]),
   body:has(.side-nav .display-user a[href*=pennumbra]) {
     /* Characters Folder */
-    /* Characters Folder - No Image */
-    /* Character Information */
-    /* Change View Buttons */
-    /* Pagination */
-    /* Order By Dropdown */
-    /* Breadcrumbs */
-    /* Badge Alerts */
-    /* === Tags Menu === */
-    /* === Comments === */
-    /* Comment Replies */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-folder,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folder,
@@ -557,6 +571,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folder:hover {
     color: var(--cPink);
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Characters Folder - No Image */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-gallery-folder-description-header a,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-gallery-folder-description-header a,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-gallery-folder-description-header a,
@@ -573,15 +594,12 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-gallery-folder-description-header a:hover {
     background: var(--cMantle);
   }
-  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb,
-  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb,
-  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb,
-  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb,
-  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb {
-    /* Charater Name */
-    /* Artist Name */
-    /* Character Stats */
-    /* Gallery Image */
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Character Information */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb .thumb-image a,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-image a,
@@ -606,6 +624,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-image a img {
     border-radius: 10px;
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb {
+    /* Charater Name */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb .character-name-badge,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .character-name-badge,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .character-name-badge,
@@ -624,6 +649,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb:hover .character-name-badge {
     color: var(--cPink) !important;
     background: var(--cMantle);
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb {
+    /* Artist Name */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb .user-name-badge,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .user-name-badge,
@@ -665,6 +697,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .user-name-badge[href*=RiverNyx9] {
     color: var(--cCrust);
     background: var(--cRed);
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb {
+    /* Character Stats */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb .thumb-character-stat,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .thumb-character-stat,
@@ -722,6 +761,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb .thumb-character-stat[title=Edit] {
     color: var(--cOrange);
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .character-thumb,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .character-thumb {
+    /* Gallery Image */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .character-thumb .gallery-item .img-thumbnail,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .character-thumb .gallery-item .img-thumbnail,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) .character-thumb .gallery-item .img-thumbnail,
@@ -774,6 +820,13 @@
     color: var(--cPink) !important;
     background: var(--cMantle);
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Change View Buttons */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-folders-top a,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-folders-top a,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-folders-top a,
@@ -808,6 +861,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-folders-top a:hover {
     color: var(--cMantle);
     background-color: var(--cOrange) !important;
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Pagination */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .pagination-wrapper .page-item span,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .pagination-wrapper .page-item span,
@@ -850,6 +910,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .pagination-wrapper .page-item a:hover {
     color: var(--cBase) !important;
     background: var(--cPink);
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Order By Dropdown */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-filterby:has(.characters-order-text) span,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby:has(.characters-order-text) span,
@@ -910,6 +977,13 @@
     color: var(--cPink) !important;
     background-color: var(--cSurface) !important;
   }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Breadcrumbs */
+  }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .breadcrumb,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .breadcrumb,
   body:has(.side-nav .display-user a[href*=spUnstaeble]) .breadcrumb,
@@ -934,6 +1008,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .breadcrumb .breadcrumb-item::before {
     color: var(--cText) !important;
     font-weight: 700;
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Badge Alerts */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .alert,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .alert,
@@ -988,6 +1069,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .alert-success i,
   body:has(.side-nav .display-user a[href*=pennumbra]) .alert-success span {
     color: var(--cGreen);
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* === Tags Menu === */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-filterby a.characters-tags-view,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-filterby a.characters-tags-view,
@@ -1133,7 +1221,6 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .add:hover,
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .add:hover {
     /* Add Tag */
-    background-color: var(--cGreen) !important;
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-tag .add:hover i,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .add:hover i,
@@ -1141,6 +1228,13 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .add:hover i,
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .add:hover i {
     color: var(--cBase) !important;
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .add:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .add:hover {
+    background-color: var(--cGreen) !important;
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-tag:has(a.add:hover) span,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag:has(a.add:hover) span,
@@ -1156,7 +1250,6 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .ex:hover,
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .ex:hover {
     /* Remove Tag */
-    background-color: var(--cRed) !important;
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-tag .ex:hover i,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .ex:hover i,
@@ -1164,6 +1257,13 @@
   body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .ex:hover i,
   body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .ex:hover i {
     color: var(--cMantle) !important;
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=spUnstaeble]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=RiverNyx9]) .characters-tag .ex:hover,
+  body:has(.side-nav .display-user a[href*=pennumbra]) .characters-tag .ex:hover {
+    background-color: var(--cRed) !important;
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .characters-tag:has(a.ex:hover) span,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .characters-tag:has(a.ex:hover) span,
@@ -1190,6 +1290,13 @@
     /* Hidden Tag */
     color: var(--cBase) !important;
     background-color: var(--cRed) !important;
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* === Comments === */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .forum-post [class*=name-badge],
   body:has(.side-nav .display-user a[href*=Jackalupe]) .forum-post [class*=name-badge],
@@ -1335,6 +1442,13 @@
   body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn[href*="tickets/create"],
   body:has(.side-nav .display-user a[href*=pennumbra]) .forum-post .forum-post-body .forum-post-actions a.btn[href*=delete] {
     background: var(--cRed);
+  }
+  body:has(.side-nav .display-group a[href*=our-burrowgatory]),
+  body:has(.side-nav .display-user a[href*=Jackalupe]),
+  body:has(.side-nav .display-user a[href*=spUnstaeble]),
+  body:has(.side-nav .display-user a[href*=RiverNyx9]),
+  body:has(.side-nav .display-user a[href*=pennumbra]) {
+    /* Comment Replies */
   }
   body:has(.side-nav .display-group a[href*=our-burrowgatory]) .comment-replies,
   body:has(.side-nav .display-user a[href*=Jackalupe]) .comment-replies,

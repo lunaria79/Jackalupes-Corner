@@ -46,7 +46,6 @@
   /* Header Colors */
   h1 {
     /* Page Titles */
-    /* Specific Page Headers */
   }
   h1[class*=title] {
     color: var(--cText);
@@ -54,6 +53,9 @@
   h1[class*=title] a {
     font-weight: 700;
     color: var(--cPurple) !important;
+  }
+  h1 {
+    /* Specific Page Headers */
   }
   h1 .profile-name-info a, [class*=header]:not(:has(h1 a)) h1 {
     color: var(--cPurple);
