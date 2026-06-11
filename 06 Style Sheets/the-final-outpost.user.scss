@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           The Final Outpost Cattpuccin
 @namespace      github.com/openstyles/stylus
-@version        0.0.6
+@version        0.0.7
 @description    catboy supremacy!
 @author         Jackalupe
 @updateURL      https://github.com/lunaria79/Jackalupes-Corner/raw/main/06 Style Sheets/the-final-outpost.user.css
@@ -204,6 +204,7 @@
 		&#copyLabLink { color: var(--cMantle); background: var(--cGreen); }
 
 		&:hover { color: var(--cMantle); background: var(--cOrange); }
+		&:disabled { background: var(--cMantle);}
 		&:disabled:hover { cursor: not-allowed !important; }
 
 	}
