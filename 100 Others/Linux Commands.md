@@ -21,8 +21,8 @@ cmus
 c
 ```
 
-```rust unfold file:neofetch
-neofetch
+```rust unfold file:fastfetch
+fastfetch
 ```
 - - -
 ### Installations
@@ -119,10 +119,6 @@ daktilo --variate-tempo 0.9,0.4 --variate-volume 0.1,0.5
 ## Music Player
 ```rust unfold file:Music-Player
 cmus
-```
-
-```rust unfold file:neofetch
-neofetch
 ```
 
 ## Coding
